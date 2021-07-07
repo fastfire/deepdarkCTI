@@ -13,7 +13,9 @@ In Cyber Threat Intelligence, analysis if performed based on the intent, capabil
 **There are three types of Threat Intelligence:**
 
 _Strategic_ - provides high-level information regarding cyber security posture, threats and its impact on business.
+
 _Tactical_ - provides information related to threat actor's Tactics, Techniques and Procedures (TTPs) used to perform attacks.
+
 _Operational_ - provides information about specific threats against the organization.
 
 **Typical sources of intelligence are:**

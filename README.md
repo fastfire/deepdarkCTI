@@ -11,17 +11,20 @@ CTI involves collecting, researching and analyzing trends and technical developm
 In Cyber Threat Intelligence, analysis if performed based on the intent, capability and opportunity triad. With the study of this triad, experts can evaluate and make infomred, forward-learning strategic, operational and tactical decisions on existing or emerging threats to the organization.
 
 **There are three types of Threat Intelligence:**
+
 _Strategic_ - provides high-level information regarding cyber security posture, threats and its impact on business.
 _Tactical_ - provides information related to threat actor's Tactics, Techniques and Procedures (TTPs) used to perform attacks.
 _Operational_ - provides information about specific threats against the organization.
 
 **Typical sources of intelligence are:**
+
 - Open Source Intelligence (OSINT)
 - Human Intelligence
 - Counter Intelligence
 - Internal Intelligence
 
 Through this project, which takes into consideration the OSINT sources related to the Deep and Dark Web domain, we aim to monitor the intelligence information present in the following sources:
+
 - Telegram channels, groups and chats
 - Discord channels
 - ransomware gangs sites

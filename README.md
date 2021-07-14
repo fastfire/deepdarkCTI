@@ -32,3 +32,4 @@ Through this project, which takes into consideration the OSINT sources related t
 - Discord channels
 - ransomware gangs sites
 - forums related to cyber criminal activities and data leaks
+- markets

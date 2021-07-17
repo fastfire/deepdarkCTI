@@ -3,6 +3,8 @@ Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
 
 The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
 
+The contributors of the project have a Telegram channel available to propose new sources to be integrated within the project and to have a place to discuss the tactics and techniques of research and analysis that are used daily.
+
 **What is Cyber Threat Intelligence?**
 
 Cyber Threat Intelligence (CTI) is defined as the collection and analysis of information about threats and adversaries and drawing patterns that provide an ability to make knowledgeable decisions for the preparedness, prevention and response actions against various cyber attacks.

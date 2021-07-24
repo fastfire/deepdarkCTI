@@ -31,3 +31,11 @@ Search for onion links in Telegram groups and channels
 DISCORD
 
 Search for onion links in Discord channels
+
+
+SHODAN
+
+Use these filters:
+ssl:".onion"
+".onion"
+"linkxyz.onion"

@@ -5,11 +5,17 @@ Look for ransomware related resources on the dark web
 ransomware AND (url:onion -filter:retweets)
 (hxxp:// OR http://) [.] AND url:onion
 
+Look for vulnerability PoC
+PoC and CVE-20xx-xxxxx
+
 
 GOOGLE
 
 Look for onion sites on AnonFiles shared
 intext:.onion site:anonfiles.com
+
+Look for vulnerability PoC in GiHub
+CVE-20xx-xxxxx site:GitHub.com
 
 
 DARK WEB SITE ANALYSIS

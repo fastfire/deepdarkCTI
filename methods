@@ -1,4 +1,12 @@
-TWITTER - Look for ransomware related resources on the dark web
+TWITTER
+
+Look for ransomware related resources on the dark web
 (url:onion) "ransomware"
 ransomware AND (url:onion -filter:retweets)
 (hxxp:// OR http://) [.] AND url:onion
+
+
+GOOGLE
+
+Look for onion sites on AnonFiles shared
+intext:.onion site:anonfiles.com

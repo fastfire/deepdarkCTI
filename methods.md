@@ -47,7 +47,7 @@ ssl:".onion"
 join to r/onions
 
 
-**VARIOUS
+**VARIOUS**
 
 **How to download large files from Tor or anonymize yourself while downloading files **
 - Install torsocks `sudo apt install torsocks`

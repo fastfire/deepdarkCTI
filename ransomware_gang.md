@@ -15,7 +15,7 @@
 |PAYLOD.BIN (EX BABUK LOCKER) |http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/ |(CURRENTLY DOWN)|
 |CLOP |http://ekbgzchl6x2ias37.onion/||
-|MOUNT LOCKER |http://mountnewsokhwilx.onion/ (CURRENTLY DOWN)||
+|MOUNT LOCKER |http://mountnewsokhwilx.onion/ |(CURRENTLY DOWN)|
 |PYSA |http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html||
 |ASTROTEAM |http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/||
 |SUNCRYPT |http://nbzzb6sa6xuura2z.onion/||
@@ -34,7 +34,7 @@
 |LOCKBIT |http://lockbitkodidilol.onion/ |(CURRENTLY DOWN)|
 |BLACK SHADOW |http://544corkfh5hwhtn4.onion/ |(CURRENTLY DOWN)|
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/ |(CURRENTLY DOWN)|
-|HADES |http://ixltdyumdlthrtgx.onion/ (CURRENTLY DOWN)||
+|HADES |http://ixltdyumdlthrtgx.onion/ |(CURRENTLY DOWN)|
 |DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/||
 |RANSOMWARE GROUP SITES (list) |http://thexfvx7hqcrpgtm.onion/||
 |PROMETHEUS |http://promethw27cbrcot.onion/blog/||

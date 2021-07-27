@@ -1,4 +1,4 @@
-TWITTER
+**TWITTER**
 
 Look for ransomware related resources on the dark web
 (url:onion) "ransomware"
@@ -11,47 +11,49 @@ PoC and CVE-20xx-xxxxx
 Look for leaks on pastebin or ghostbin
 target OR dump OR combo OR password OR leak OR breach OR databreach OR credential OR steal AND (url:pastebin.com OR url:ghostbin.co)
 
-GOOGLE
+**GOOGLE**
 
 Look for onion sites on AnonFiles shared
 intext:.onion site:anonfiles.com
 
-Look for vulnerability PoC in GiHub
+Look for vulnerability PoC in GitHub
 CVE-20xx-xxxxx site:GitHub.com
 
 
-DARK WEB SITE ANALYSIS
+**DARK WEB SITE ANALYSIS**
 
 https://www.neteye-blog.com/2021/07/analysis-of-a-dark-web-site/
 
 
-TELEGRAM
+**TELEGRAM**
 
 Search for onion links in Telegram groups and channels
 
 
-DISCORD
+**DISCORD**
 
 Search for onion links in Discord channels
 
 
-SHODAN
+**SHODAN**
 
 Use these filters:
 ssl:".onion"
 ".onion"
 "linkxyz.onion"
 
-REDDIT
+**REDDIT**
 
 join to r/onions
 
-How to download large files from Tor or anonymize yourself while downloading files 
+
+**VARIOUS
+
+**How to download large files from Tor or anonymize yourself while downloading files **
 - Install torsocks `sudo apt install torsocks`
 - Use torsocks chained with wget `torsocks wget --tries=0 --retry-connrefused --continue --timeout=90 --progress=bar --show-progress --random-wait --append-output=/tmp/wget_background <YOUR DOWNLOAD LINK>`
 
-
-How to download files via cmdline from Raidforums
+**How to download files via cmdline from Raidforums**
 - On your favorite browser go to raidforums website
 - Open developer tools (for firefox CTRL+SHIFT+i)
 - Go to network (if no data do CTRL+r to reload)

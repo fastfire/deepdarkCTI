@@ -45,3 +45,18 @@ ssl:".onion"
 REDDIT
 
 join to r/onions
+
+How to download large files from Tor or anonymize yourself while downloading files 
+- Install torsocks `sudo apt install torsocks`
+- Use torsocks chained with wget `torsocks wget --tries=0 --retry-connrefused --continue --timeout=90 --progress=bar --show-progress --random-wait --append-output=/tmp/wget_background <YOUR DOWNLOAD LINK>`
+
+
+How to download files via cmdline from Raidforums
+- On your favorite browser go to raidforums website
+- Open developer tools (for firefox CTRL+SHIFT+i)
+- Go to network (if no data do CTRL+r to reload)
+- Right click on a request and copy cURL (this cURL should contain your session cookies)
+- Paste copied on your favorite text editor
+- Replace url with download link (usually it's something like https://db.raidforums.com/z/down.php?id=259554)
+- Append --output to your cURL cmd with a filename like (curl ... --output thisisatest.7z)
+- Enjoy

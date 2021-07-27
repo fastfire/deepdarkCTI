@@ -3,7 +3,8 @@ Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
 
 The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
 
-The contributors of the project have a Telegram groups available to propose new sources to be integrated within the project and to have a place to discuss the tactics and techniques of research and analysis that are used daily.
+The contributors of the project (or people active in the field of Cyber Threat Intelligence) have a **Telegram groups** available to propose new sources to be integrated within the project and to have a place to discuss the tactics and techniques of research and analysis that are used daily.
+It is possible to request access to the Telegram group by sending a request to https://t.me/fastfire83
 
 **What is Cyber Threat Intelligence?**
 
@@ -35,3 +36,5 @@ Through this project, which takes into consideration the OSINT sources related t
 - ransomware gangs sites
 - forums related to cyber criminal activities and data leaks
 - markets
+
+In addition, within the **methods** file, various techniques for searching and analyzing sources are described.

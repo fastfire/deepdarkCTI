@@ -31,3 +31,7 @@
 |ALTENEN (deep)| https://altenens.is/|
 |CARDING FORUM (deep)| https://cybercarders.su/|
 |FSSQUAD| https://fssquad.com/|
+|MAILPASS| https://mailpass.club/|
+|BHF| https://bhf.io/|
+|LOLZGURU| https://lolz.guru/|
+|NOHIDESPACE| https://nohide.space/|

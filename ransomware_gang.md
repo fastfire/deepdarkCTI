@@ -1,5 +1,6 @@
 |Name|Link|Status|User:Password|
 | ------ | ------ | ------ | ------ |
+|RANSOMWARE PAYMENTS TRACKER| https://ransomwhe.re/|||
 |AVADDON| http://avaddongun7rngel.onion/|||
 |SODINOKIBI (REVIL)| http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/|||
 |NEFILIM| http://hxt254aygrsziejn.onion/|||

@@ -11,7 +11,7 @@
 |CONTI/RYUK| http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/|||
 |CONTI (SURFACE WEB)| https://continews.click/|||
 |RANSOMEXX| http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/|||
-|SynACK| http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/|||
+|SynACK (El_Cometa)| http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/|||
 |PAYLOD.BIN (EX BABUK LOCKER) |http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/|||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/ |(CURRENTLY DOWN)||
 |CLOP |http://ekbgzchl6x2ias37.onion/|||

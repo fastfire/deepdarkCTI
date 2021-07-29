@@ -48,5 +48,3 @@
 |https://t.me/cyber_cracking_mv|
 |https://t.me/altenens||
 |https://t.me/mailpassclub||
-|https://t.me/emailMarketingDliaPraktikov||
-

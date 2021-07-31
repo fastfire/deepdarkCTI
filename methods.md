@@ -49,7 +49,7 @@ join to r/onions
 
 **VARIOUS**
 
-**How to download large files from Tor or anonymize yourself while downloading files **
+**How to download large files from Tor or anonymize yourself while downloading files**
 - Install torsocks `sudo apt install torsocks`
 - Use torsocks chained with wget `torsocks wget --tries=0 --retry-connrefused --continue --timeout=90 --progress=bar --show-progress --random-wait --append-output=/tmp/wget_background <YOUR DOWNLOAD LINK>`
 
@@ -63,9 +63,9 @@ join to r/onions
 - Append --output to your cURL cmd with a filename like (curl ... --output thisisatest.7z)
 - Enjoy
 
-**SEARCH INVITATION LINKS (thanks to IntelligenceX https://intelx.io/dorks)
-Skype: https://www.google.com/search?q=%22join.skype.com%22%20-site:google.com%20-site:microsoft.com
-Zoom: https://www.google.com/search?q=%22zoom.us%2Fj%2F%22
-Google Hangouts: https://www.google.com/search?q=%22hangouts.google.com%2Fgroup%2F%22%20-site:google.com
-Telegram: https://www.google.com/search?q=%22t.me%2Fjoinchat%22
-Whatsapp: https://www.bing.com/search?q=site%3Achat.whatsapp.com
+**SEARCH INVITATION LINKS (thanks to IntelligenceX https://intelx.io/dorks)**
+- Skype: https://www.google.com/search?q=%22join.skype.com%22%20-site:google.com%20-site:microsoft.com
+- Zoom: https://www.google.com/search?q=%22zoom.us%2Fj%2F%22
+- Google Hangouts: https://www.google.com/search?q=%22hangouts.google.com%2Fgroup%2F%22%20-site:google.com
+- Telegram: https://www.google.com/search?q=%22t.me%2Fjoinchat%22
+- Whatsapp: https://www.bing.com/search?q=site%3Achat.whatsapp.com

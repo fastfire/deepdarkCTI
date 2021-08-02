@@ -53,3 +53,5 @@
 |https://t.me/hadesh0p|
 |https://t.me/breachdetector|
 |https://t.me/pwnwiki_zhchannel|
+|https://t.me/blueteamzone|
+|https://t.me/s/DarkfeedNews|

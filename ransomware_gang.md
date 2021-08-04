@@ -12,9 +12,10 @@
 |CONTI (SURFACE WEB)| https://continews.click/|||
 |RANSOMEXX| http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/|||
 |SynACK (El_Cometa)| http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/|||
-|PAYLOD.BIN (EX BABUK LOCKER) |http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/|||
+|PAYLOAD.BIN (EX BABUK LOCKER) |http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion|||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/ |(CURRENTLY DOWN)||
-|CLOP |http://ekbgzchl6x2ias37.onion/|||
+|CLOP (old) |http://ekbgzchl6x2ias37.onion/|||
+|CLOP |http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/
 |MOUNT LOCKER |http://mountnewsokhwilx.onion/ |(CURRENTLY DOWN)||
 |PYSA |http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html|||
 |ASTROTEAM |http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/|||

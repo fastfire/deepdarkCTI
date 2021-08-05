@@ -15,3 +15,4 @@
 |DARKFOX MARKET| http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion/|
 |DAKC0DE| http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion/|
 |WHM market (2)| http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion/|
+|DEDICATET| https://dedicatet.com/|

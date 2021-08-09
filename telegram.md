@@ -1,5 +1,5 @@
-|Link|
-| ------ |
+|Link| Category|
+| ------ | ------ |
 |https://t.me/arvin_club|
 |https://t.me/shieldteam1|
 |https://t.me/databreach|
@@ -54,8 +54,10 @@
 |https://t.me/breachdetector|
 |https://t.me/pwnwiki_zhchannel|
 |https://t.me/blueteamzone|
-|https://t.me/s/DarkfeedNews|
+|https://t.me/s/DarkfeedNews| News
 |https://t.me/club1337|
-|https://t.me/itsecalert|
-|https://t.me/cveNotify|
-|https://t.me/techpwnews|
+|https://t.me/itsecalert| News
+|https://t.me/cveNotify| CVE feed
+|https://t.me/techpwnews| News
+|https://t.me/base_brutesu| Combo List
+|https://t.me/nohidespace| Combo List

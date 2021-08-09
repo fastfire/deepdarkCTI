@@ -55,3 +55,7 @@
 |https://t.me/pwnwiki_zhchannel|
 |https://t.me/blueteamzone|
 |https://t.me/s/DarkfeedNews|
+|https://t.me/club1337|
+|https://t.me/itsecalert|
+|https://t.me/cveNotify|
+|https://t.me/techpwnews|

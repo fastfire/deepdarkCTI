@@ -43,7 +43,7 @@
 |NEMTY |http://nemty.top |(CURRENTLY DOWN)||
 |SEKHMET |http://sekhmet.top |(CURRENTLY DOWN)||
 |NETWALKER |http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |(CURRENTLY DOWN)||
-|LOCKBIT 2.0 |http://Lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion|||
+|LOCKBIT 2.0 |http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion|||
 |HIVE |http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion|||
 |AVOS |http://avos2fuj6olp6x36.onion/|||

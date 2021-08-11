@@ -1,5 +1,7 @@
 |Name|Link|Status|User:Password|Tox ID|
 | ------ | ------ | ------ | ------ | ------ |
+|RANSOMWARE GROUP SITES (list)| http://thexfvx7hqcrpgtm.onion/|||
+|RANSOMWARE GROUP SITES (list)| http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/
 |AVADDON| http://avaddongun7rngel.onion/|(CURRENTLY DOWN)||
 |SODINOKIBI (REVIL)| http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/|||
 |NEFILIM| http://hxt254aygrsziejn.onion/|||
@@ -37,7 +39,6 @@
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/ |(CURRENTLY DOWN)||
 |HADES |http://ixltdyumdlthrtgx.onion/ |(CURRENTLY DOWN)||
 |DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/|||
-|RANSOMWARE GROUP SITES (list) |http://thexfvx7hqcrpgtm.onion/|||
 |PROMETHEUS |http://promethw27cbrcot.onion/blog/|||
 |GRIEF |http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion|||
 |NEMTY |http://nemty.top |(CURRENTLY DOWN)||

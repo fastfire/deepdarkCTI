@@ -1,6 +1,6 @@
 |Name|Link|Status|User:Password|Tox ID|
 | ------ | ------ | ------ | ------ | ------ |
-|AVADDON| http://avaddongun7rngel.onion/|||
+|AVADDON| http://avaddongun7rngel.onion/|(CURRENTLY DOWN)||
 |SODINOKIBI (REVIL)| http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/|||
 |NEFILIM| http://hxt254aygrsziejn.onion/|||
 |VFOKX (1)| http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/|||

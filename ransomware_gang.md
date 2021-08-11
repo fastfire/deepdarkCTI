@@ -1,5 +1,5 @@
-|Name|Link|Status|User:Password|
-| ------ | ------ | ------ | ------ |
+|Name|Link|Status|User:Password|Tox ID|
+| ------ | ------ | ------ | ------ | ------ |
 |AVADDON| http://avaddongun7rngel.onion/|||
 |SODINOKIBI (REVIL)| http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/|||
 |NEFILIM| http://hxt254aygrsziejn.onion/|||
@@ -43,7 +43,7 @@
 |NEMTY |http://nemty.top |(CURRENTLY DOWN)||
 |SEKHMET |http://sekhmet.top |(CURRENTLY DOWN)||
 |NETWALKER |http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |(CURRENTLY DOWN)||
-|LOCKBIT 2.0 |http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion|||
+|LOCKBIT 2.0 |http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion|||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7
 |HIVE |http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion|||
 |AVOS |http://avos2fuj6olp6x36.onion/|||

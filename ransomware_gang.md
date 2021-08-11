@@ -47,6 +47,7 @@
 |HIVE |http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion|||
 |AVOS |http://avos2fuj6olp6x36.onion/|||
+|AVOS Locker Press release |http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/|||
 |ECH0RAIX |http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion|||
 |QLOCKER |http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion|||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion|||

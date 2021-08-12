@@ -62,3 +62,4 @@
 |BABUK |http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/|||
 |HOTARUS |http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion/|||
 |CRYLOCK (victims request id page)| http://d57uremugxjrafyg.onion/
+|BLACKBYTE| http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion|||

@@ -63,3 +63,4 @@
 |https://t.me/nohidespace| Combo List
 |https://t.me/spamsmtpcombo| Combo List
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig| Forum
+|https://t.me/venomous_support| Ransomware gang

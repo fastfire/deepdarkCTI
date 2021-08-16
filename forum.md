@@ -36,4 +36,6 @@
 |LOLZGURU| https://lolz.guru/|
 |NOHIDESPACE| https://nohide.space/|
 |LEAKS.SX| https://leak.sx/|
-|RAMP| http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion/login/
+|RAMP| http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion/login/|
+|FORUMTEAM| https://forumteam.top/|
+|NIFLHEIM.TOP| https://niflheim.top/|

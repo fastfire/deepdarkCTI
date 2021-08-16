@@ -21,7 +21,7 @@
 |https://t.me/BruteForce|
 |https://t.me/icrewhackers|
 |https://t.me/leaklicks/|
-|https://t.me/baseleak|
+|https://t.me/openleak|
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|
 |https://t.me/DataleakBin|
 |https://t.me/combolist_top|

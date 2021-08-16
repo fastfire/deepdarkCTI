@@ -4,39 +4,39 @@
 |https://t.me/shieldteam1|
 |https://t.me/databreach|
 |https://t.me/Combulist|
-|https://t.me/leaked_databases|
-|https://t.me/opendataleaks|
+|https://t.me/leaked_databases| Data Leaks
+|https://t.me/opendataleaks| Data Leaks
 |https://t.me/dbforall|
 |https://t.me/data1eaks|
 |https://t.me/HK4GANG|
 |https://t.me/freedomf0x|
-|https://t.me/baseleak|
-|https://t.me/freedataleak|
+|https://t.me/baseleak| Data Leaks
+|https://t.me/freedataleak| Data Leaks
 |https://t.me/AntiPlumbers|
-|https://t.me/NullLeak|
-|https://t.me/marketo_leaks|
+|https://t.me/NullLeak| Data Leaks
+|https://t.me/marketo_leaks| Data Leaks
 |https://t.me/outlew (DELETED)|
 |https://t.me/We_are_not_eternal|
 |https://t.me/joinchat/UhP5kie2OiRetosa|
 |https://t.me/BruteForce|
 |https://t.me/icrewhackers|
-|https://t.me/leaklicks/|
-|https://t.me/openleak|
+|https://t.me/leaklicks/| Data Leaks
+|https://t.me/openleak| Data Leaks
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|
-|https://t.me/DataleakBin|
+|https://t.me/DataleakBin| Data Leaks
 |https://t.me/combolist_top|
 |https://t.me/meganzshare|
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|
-|https://t.me/dataleakbreach|
+|https://t.me/dataleakbreach| Data Leaks
 |https://t.me/combo_lists|
-|https://t.me/LeakData|
-|https://t.me/LeaksData|
+|https://t.me/LeakData| Data Leaks
+|https://t.me/LeaksData| Data Leaks
 |https://t.me/fuckeddb|
 |https://t.me/Blank_Link|
 |https://t.me/DWI_OFFICIAL|
 |https://t.me/joinchat/5wChO8HFwJ43YTVk|
 |https://t.me/mailpasword|
-|https://t.me/Yad2Leaks|
+|https://t.me/Yad2Leaks| Data Leaks
 |https://t.me/theofficial0day|
 |https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|
 |https://t.me/LeaRNEXploIT|

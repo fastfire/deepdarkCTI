@@ -65,3 +65,4 @@
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig| Forum
 |https://t.me/venomous_support| Ransomware gang
 |https://t.me/DBleak| Data Leaks
+|https://t.me/Log_Market_Place| Data Leaks

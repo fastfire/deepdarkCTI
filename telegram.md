@@ -54,7 +54,7 @@
 |https://t.me/breachdetector|
 |https://t.me/pwnwiki_zhchannel|
 |https://t.me/blueteamzone|
-|https://t.me/s/DarkfeedNews| News
+|https://t.me/DarkfeedNews| News
 |https://t.me/club1337|
 |https://t.me/itsecalert| News
 |https://t.me/cveNotify| CVE feed

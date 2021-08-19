@@ -5,7 +5,7 @@
 |Russian Market (clear)| https://russianmarket.gs/|
 |Russian Market (clear)| https://russianmarket.gs/|
 |Genesis Market (clear)| https://genesis.market/|
-|HYDRA|http://hydra3rudf3j4hww.onion/|
+|HYDRA (tor)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/|
 |MAGBO (tor)| http://magbocc3tco4vmxx.onion/|
 |MAGBO (clear)| https://magbo.shop|
 |LOCKDATA AUCTION (probably scam site)| http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/|

@@ -64,3 +64,4 @@
 |VFOKX (2)| http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion|||
 |XING LOCKER| http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/|||
+|LOCKFILE (victim request id page)| http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion/|||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB 

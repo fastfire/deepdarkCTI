@@ -17,5 +17,5 @@
 |DAKC0DE| http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion/|
 |WHM market (2)| http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion/|
 |AlphaBay (tor)| http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion|
-|AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p
-
+|AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|
+|2EASY| https://2easy.shop/|

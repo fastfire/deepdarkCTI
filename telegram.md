@@ -70,3 +70,4 @@
 |https://t.me/cbanke| Data Leaks
 |https://t.me/cbanke_logs| Log Leaks
 |https://t.me/cbanke_market| Market
+|https://t.me/MBCRANSOMWARE| Ransomware gang

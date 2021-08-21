@@ -32,12 +32,14 @@
 |KARMA| http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/|||
 |LOCKBIT |http://lockbitkodidilol.onion/ |(CURRENTLY DOWN)||
 |LOCKBIT 2.0 |http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion|||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7
+|LOCKFILE (victim request id page)| http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion/|||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB 
 |LORENZ |http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/|||
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion|||
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion/|||
 |MARKETO (deep)| https://marketo.cloud/|||
 |MARKETO (dark)| http://g5sbltooh2okkcb2.onion/|||
-|MAZE |https://newsmaze.net/ |(CURRENTLY DOWN)||
+|MAZE | https://newsmaze.net/ |(CURRENTLY DOWN)||
+|MBC | http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion/ |(CURRENTLY DOWN)||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion|||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/ |(CURRENTLY DOWN)||
@@ -64,4 +66,3 @@
 |VFOKX (2)| http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion|||
 |XING LOCKER| http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/|||
-|LOCKFILE (victim request id page)| http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion/|||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB 

@@ -15,5 +15,6 @@
 |SAUDI ARAMCO LEAK|http://662m7dfcpfsmeetqucdekz3rn4a6dxsxbdjwd6iz3rwnogjsj7i3hxad.onion/|
 |BL4CKT0R|http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion/|
 |PWNDB|http://pwndb2am4tzkvold.onion/|
-|RANSOMWARE PAYMENTS TRACKER| https://ransomwhe.re/|||
-|ALL WORLD CARDS| http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion/|||
+|RANSOMWARE PAYMENTS TRACKER| https://ransomwhe.re/|
+|ALL WORLD CARDS| http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion/|
+|LEAK DATA| http://a7fgazjfsn5kwk2psase4oepogihgvb3bm4enomnyfg52dwghdymeyqd.onion/|

@@ -37,5 +37,7 @@ Through this project, which takes into consideration the OSINT sources related t
 - forums related to cyber criminal activities and data leaks
 - markets
 - exploits databases
+- Twitter accounts
+- RaaS (Ransomware As A Service) sites
 
 In addition, within the **methods** file, various techniques for searching and analyzing sources are described.

@@ -37,7 +37,8 @@
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion|||
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion/|||
 |MARKETO (deep)| https://marketo.cloud/|||
-|MARKETO (dark)| http://g5sbltooh2okkcb2.onion/|||
+|MARKETO (tor v2)| http://g5sbltooh2okkcb2.onion/|||
+|MARKETO (tor v3| http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion|||
 |MAZE | https://newsmaze.net/ |(CURRENTLY DOWN)||
 |MBC | http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion/ |(CURRENTLY DOWN)||

@@ -29,7 +29,7 @@
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|
 |https://t.me/dataleakbreach| Data Leaks
 |https://t.me/combo_lists|
-|https://t.me/LeakData| Data Leaks
+|https://t.me/LeakData (DELETED)| Data Leaks
 |https://t.me/LeaksData| Data Leaks
 |https://t.me/fuckeddb|
 |https://t.me/Blank_Link|

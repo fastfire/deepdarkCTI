@@ -29,7 +29,7 @@
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|
 |https://t.me/dataleakbreach| Data Leaks
 |https://t.me/combo_lists|
-|https://t.me/LeakData| Data Leaks
+|https://t.me/LeakData (DELETED)| Data Leaks
 |https://t.me/LeaksData| Data Leaks
 |https://t.me/fuckeddb|
 |https://t.me/Blank_Link|
@@ -71,10 +71,13 @@
 |https://t.me/cbanke_logs| Log Leaks
 |https://t.me/cbanke_market| Market
 |https://t.me/MBCRANSOMWARE| Ransomware gang
-|https://t.me/deepdatamarket| Data Leaks
-https://t.me/leaks_db| Data Leaks
-https://t.me/latest_leaks| Data Leaks
-https://t.me/datamuseum| Data Leaks
-https://t.me/Kristina_Pass_RF| Data Leaks
-https://t.me/LeakedSource| Data Leaks
-https://t.me/exploit_db_com| Exploits
+|https://t.me/deepdatamarket (DELETED)| Data Leaks
+|https://t.me/leaks_db| Data Leaks
+|https://t.me/latest_leaks| Data Leaks
+|https://t.me/datamuseum| Data Leaks
+|https://t.me/Kristina_Pass_RF| Data Leaks
+|https://t.me/LeakedSource| Data Leaks
+|https://t.me/exploit_db_com| Exploits
+|https://t.me/D3atr0y3d| Data Leaks
+|https://t.me/leakdatabase| Data Leaks
+|https://t.me/milkdude| Data Leaks

@@ -37,7 +37,8 @@
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion|||
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion/|||
 |MARKETO (deep)| https://marketo.cloud/|||
-|MARKETO (dark)| http://g5sbltooh2okkcb2.onion/|||
+|MARKETO (tor v2)| http://g5sbltooh2okkcb2.onion/|||
+|MARKETO (tor v3| http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion|||
 |MAZE | https://newsmaze.net/ |(CURRENTLY DOWN)||
 |MBC | http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion/ |(CURRENTLY DOWN)||
@@ -46,6 +47,7 @@
 |NEFILIM| http://hxt254aygrsziejn.onion/|||
 |NEMTY |http://nemty.top |(CURRENTLY DOWN)||
 |NETWALKER |http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |(CURRENTLY DOWN)||
+|ONEPERCENT |http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion/|(CURRENTLY DOWN)||
 |PAY2KEY |http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/|||
 |PAYLOAD.BIN (EX BABUK LOCKER) |http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion|||
 |PROMETHEUS |http://promethw27cbrcot.onion/blog/|||

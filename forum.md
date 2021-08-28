@@ -15,6 +15,7 @@
 |DUBLIKAT| https://my.dublikat.pro/|
 |DWF (dark)| http://dwforumsmrcqdnt3.onion/|
 |ELEAKS| https://eleaks.to/|
+|ETERNIA| https://eternia.to/|
 |EXPLOIT.IN (dark)| https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/|
 |EXPLOIT.IN (deep)| https://exploit.in/|
 |EXPLOITS.WS| https://exploits.ws/|

@@ -47,6 +47,7 @@
 |NEFILIM| http://hxt254aygrsziejn.onion/|||
 |NEMTY |http://nemty.top |(CURRENTLY DOWN)||
 |NETWALKER |http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |(CURRENTLY DOWN)||
+|ONEPERCENT |http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion/|(CURRENTLY DOWN)||
 |PAY2KEY |http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/|||
 |PAYLOAD.BIN (EX BABUK LOCKER) |http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion|||
 |PROMETHEUS |http://promethw27cbrcot.onion/blog/|||

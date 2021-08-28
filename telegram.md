@@ -71,7 +71,7 @@
 |https://t.me/cbanke_logs| Log Leaks
 |https://t.me/cbanke_market| Market
 |https://t.me/MBCRANSOMWARE| Ransomware gang
-|https://t.me/deepdatamarket| Data Leaks
+|https://t.me/deepdatamarket (DELETED)| Data Leaks
 |https://t.me/leaks_db| Data Leaks
 |https://t.me/latest_leaks| Data Leaks
 |https://t.me/datamuseum| Data Leaks

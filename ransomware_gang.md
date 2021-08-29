@@ -5,7 +5,6 @@
 |ASTROTEAM|http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/|||
 |AVADDON|http://avaddongun7rngel.onion/|(CURRENTLY DOWN)||
 |AVOS (victims request id page)|http://avos2fuj6olp6x36.onion/|||
-|AVOS|http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/|||
 |AVOS|http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion|||
 |BABUK|http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/|||
 |BLACKBYTE|http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion|||

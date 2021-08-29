@@ -2,7 +2,9 @@
 
 Look for ransomware related resources on the dark web
 (url:onion) "ransomware"
+
 ransomware AND (url:onion -filter:retweets)
+
 (hxxp:// OR http://) [.] AND url:onion
 
 Look for vulnerability PoC

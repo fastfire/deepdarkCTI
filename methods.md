@@ -1,17 +1,23 @@
 **TWITTER**
 
 Look for ransomware related resources on the dark web
+
 (url:onion) "ransomware"
 
 ransomware AND (url:onion -filter:retweets)
 
 (hxxp:// OR http://) [.] AND url:onion
 
+
 Look for vulnerability PoC
+
 PoC and CVE-20xx-xxxxx
 
+
 Look for leaks on pastebin or ghostbin
+
 target OR dump OR combo OR password OR leak OR breach OR databreach OR credential OR steal AND (url:pastebin.com OR url:ghostbin.co)
+
 
 **GOOGLE**
 

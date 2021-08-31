@@ -67,3 +67,4 @@
 |VFOKX (2)| http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion|||
 |XING LOCKER| http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/|||
+|DARKRYPT| https://darkrypt.io/|||

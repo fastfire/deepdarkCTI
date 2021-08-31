@@ -84,3 +84,4 @@
 |https://t.me/Allhak_mv| Data Leaks
 |https://t.me/silentplug666| Market
 |https://t.me/cybdetective| News & Info Sharing
+|https://t.me/darkrypt| Ransomware gang

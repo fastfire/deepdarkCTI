@@ -68,3 +68,5 @@
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion|||
 |XING LOCKER| http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/|||
 |DARKRYPT| https://darkrypt.io/|||
+|COOMINGPROJECT| http://teo7aj5mfgzxyeme.onion|||
+|COOMINGPROJECT (SURFACE WEB)| http://coomingproject.com|||

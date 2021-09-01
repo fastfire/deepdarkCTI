@@ -12,7 +12,7 @@ Cyber Threat Intelligence (CTI) is defined as the collection and analysis of inf
 
 CTI involves collecting, researching and analyzing trends and technical developments in the area of cyber threats and if often presented in the form of Indicators of Compromise (IoCs) or threat feeds, provides evidence-base knowledge regarding an organization's unique threat landscape.
 
-In Cyber Threat Intelligence, analysis if performed based on the intent, capability and opportunity triad. With the study of this triad, experts can evaluate and make infomred, forward-learning strategic, operational and tactical decisions on existing or emerging threats to the organization.
+In Cyber Threat Intelligence, analysis if performed based on the intent, capability and opportunity triad. With the study of this triad, experts can evaluate and make informed, forward-learning strategic, operational and tactical decisions on existing or emerging threats to the organization.
 
 **There are three types of Threat Intelligence:**
 

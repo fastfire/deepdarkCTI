@@ -88,3 +88,4 @@
 |https://t.me/GhostSecc| Data Leaks & Hacktivism group
 |https://t.me/moment9007| Hacking and News
 |https://t.me/zer0daylab/| Hacking, Leaks and News
+|https://t.me/leakdatamarket/| Data Leaks

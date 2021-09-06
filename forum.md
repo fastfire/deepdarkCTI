@@ -34,7 +34,7 @@
 |NOHIDESPACE| https://nohide.space/|
 |NULLED| https://www.nulled.to/|
 |OGUSERS| https://www.ogusers.com/|
-|PAYLOAD.SG| https://payload.sh/|
+|PAYLOAD.SH| https://payload.sh/|
 |PROLOGIC| https://prologic.su/|
 |RAID FORUM| https://raidforums.com/|
 |RAID FORUM (mirror 1)| https://rf.ws|

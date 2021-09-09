@@ -1,7 +1,7 @@
 |Name|Link|
 | ------ | ------ |
 |WHM market (1)| http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion|
-|Russian Market (tor)| http://rusmarkethgwhfbn.onion/|
+|Russian Market (tor)| http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion|
 |Russian Market (clear)| https://russianmarket.gs/|
 |Russian Market (clear)| https://russianmarket.gs/|
 |Genesis Market (clear)| https://genesis.market/|

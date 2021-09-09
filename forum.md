@@ -3,6 +3,7 @@
 |ALTENEN (deep)| https://altenens.is/|
 |BHF| https://bhf.io/|
 |BTTFORUM| https://btt-club.top/|
+|BLACKHATWORLD| https://blackhatworld.com/|
 |CARDING FORUM (deep)| https://cybercarders.su/|
 |CRACKED| https://cracked.to/|
 |CRACKING KING| https://crackingking.com/|
@@ -33,6 +34,7 @@
 |NIFLHEIM.TOP| https://niflheim.top/|
 |NOHIDESPACE| https://nohide.space/|
 |NULLED| https://www.nulled.to/|
+|NULLEDBB| https://nulledbb.com/|
 |OGUSERS| https://www.ogusers.com/|
 |PAYLOAD.SH| https://payload.sh/|
 |PROLOGIC| https://prologic.su/|

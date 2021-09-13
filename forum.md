@@ -14,7 +14,8 @@
 |DEDICATET| https://dedicatet.com/|
 |DEMONFORUMS| https://demonforums.net/|
 |DUBLIKAT| https://my.dublikat.pro/|
-|DWF (dark)| http://dwforumsmrcqdnt3.onion/|
+|DWF (tor v2)| http://dwforumsmrcqdnt3.onion/|
+|DWF (tor v3)| http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion|
 |ELEAKS| https://eleaks.to/|
 |ETERNIA| https://eternia.to/|
 |EXPLOIT.IN (dark)| https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/|

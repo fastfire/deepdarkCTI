@@ -23,3 +23,5 @@
 |WHM market (1)| http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion|
 |WHM market (2)| http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion/|
 |VICE CITY| http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion/|
+|XLEET| https://xleet.is/|
+|XLEET (tor)| http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion

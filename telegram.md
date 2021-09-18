@@ -3,7 +3,7 @@
 |https://t.me/arvin_club|
 |https://t.me/shieldteam1|
 |https://t.me/databreach|
-|https://t.me/Combulist|
+|https://t.me/Combulist (DELETED)|
 |https://t.me/leaked_databases| Data Leaks
 |https://t.me/opendataleaks| Data Leaks
 |https://t.me/dbforall|
@@ -23,12 +23,12 @@
 |https://t.me/leaklicks/| Data Leaks
 |https://t.me/openleak| Data Leaks
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|
-|https://t.me/DataleakBin| Data Leaks
-|https://t.me/combolist_top|
+|https://t.me/DataleakBin (DELETED)| Data Leaks
+|https://t.me/combolist_top (DELETED)|
 |https://t.me/meganzshare|
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|
 |https://t.me/dataleakbreach| Data Leaks
-|https://t.me/combo_lists|
+|https://t.me/combo_lists (DELETED)|
 |https://t.me/LeakData (DELETED)| Data Leaks
 |https://t.me/LeaksData| Data Leaks
 |https://t.me/fuckeddb|
@@ -88,7 +88,7 @@
 |https://t.me/GhostSecc| Data Leaks & Hacktivism group
 |https://t.me/moment9007| Hacking and News
 |https://t.me/zer0daylab/| Hacking, Leaks and News
-|https://t.me/leakdatamarket/| Data Leaks
+|https://t.me/leakdatamarket/ (DELETED)| Data Leaks
 |https://t.me/reveng3rs| Data Leaks
 |https://t.me/DarkWebForums| Forum
 |https://t.me/privatecombos| Data Leaks

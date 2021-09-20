@@ -11,7 +11,7 @@
 |https://t.me/HK4GANG|
 |https://t.me/freedomf0x|
 |https://t.me/baseleak| Data Leaks
-|https://t.me/freedataleak| Data Leaks
+|https://t.me/freedataleak (DELETED)| Data Leaks
 |https://t.me/AntiPlumbers|
 |https://t.me/NullLeak| Data Leaks
 |https://t.me/marketo_leaks| Data Leaks
@@ -24,7 +24,7 @@
 |https://t.me/openleak| Data Leaks
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|
 |https://t.me/DataleakBin| Data Leaks
-|https://t.me/combolist_top|
+|https://t.me/combolist_top (DELETED)|
 |https://t.me/meganzshare|
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|
 |https://t.me/dataleakbreach| Data Leaks

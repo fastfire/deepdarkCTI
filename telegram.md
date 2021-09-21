@@ -31,7 +31,7 @@
 |https://t.me/combo_lists (DELETED)|
 |https://t.me/LeakData (DELETED)| Data Leaks
 |https://t.me/LeaksData| Data Leaks
-|https://t.me/fuckeddb|
+|https://t.me/fuckeddb| Data Leaks |
 |https://t.me/Blank_Link|
 |https://t.me/DWI_OFFICIAL|
 |https://t.me/joinchat/5wChO8HFwJ43YTVk (EXPIRED)|

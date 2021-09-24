@@ -2,19 +2,22 @@
 | ------ | ------ | ------ | ------ | ------ |
 |RANSOMWARE GROUP SITES (list)| http://thexfvx7hqcrpgtm.onion/|||
 |RANSOMWARE GROUP SITES (list)| http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/
+|RANSOMWARE GROUP SITES (list)| http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion/
 |ASTROTEAM|http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/|||
 |AVADDON|http://avaddongun7rngel.onion/|(CURRENTLY DOWN)||
 |AVOS (victims request id page)|http://avos2fuj6olp6x36.onion/|||
 |AVOS|http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion|||
 |BABUK|http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/|||
-|BLACKBYTE|http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion|||
+|BLACKBYTE (1) |http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion|(CURRENTLY DOWN)||
+|BLACKBYTE (2) |http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion|||
+|Bit/LolKek group| http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion|(Support Page)||
 |BLACKMATTER|http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion/|||
 |BLACK SHADOW |http://544corkfh5hwhtn4.onion/ |(CURRENTLY DOWN)||
 |CLOP (old) |http://ekbgzchl6x2ias37.onion/|||
-|CLOP |http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/
+|CLOP |http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/|||
 |CONTI/RYUK| http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/|||
 |CONTI/RYUK (SURFACE WEB)| https://continews.click/|||
-|CRYLOCK (victims request id page)| http://d57uremugxjrafyg.onion/
+|CRYLOCK (victims request id page)| http://d57uremugxjrafyg.onion/|||
 |CUBA |http://cuba4mp6ximo2zlo.onion/|||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/ |(CURRENTLY DOWN)||
 |DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/|||
@@ -71,4 +74,6 @@
 |DARKRYPT| https://darkrypt.io/|||
 |COOMINGPROJECT| http://teo7aj5mfgzxyeme.onion|||
 |COOMINGPROJECT (SURFACE WEB)| http://coomingproject.com|||
-|Groove| http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion|||
+|GROOVE| http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion|||
+|ATOMSILO| http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion|||
+|BONACI GROUP| http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion|||

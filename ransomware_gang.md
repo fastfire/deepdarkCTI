@@ -8,6 +8,7 @@
 |AVOS (victims request id page)|http://avos2fuj6olp6x36.onion/|||
 |AVOS|http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion|||
 |BABUK|http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/|||
+|Bit/LolKek group| http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion|(Support Page)||
 |BLACKBYTE|http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion|||
 |BLACKMATTER|http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion/|||
 |BLACK SHADOW |http://544corkfh5hwhtn4.onion/ |(CURRENTLY DOWN)||

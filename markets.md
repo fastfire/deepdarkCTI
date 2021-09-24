@@ -1,5 +1,8 @@
 |Name|Link|
 | ------ | ------ |
+|WHM market (1)| http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion|
+|Russian Market (tor)| http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion|
+|Russian Market (clear)| https://russianmarket.gs/|
 |2EASY| https://2easy.shop/|
 |AlphaBay (tor)| http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion|
 |AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|

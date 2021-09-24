@@ -3,6 +3,7 @@
 |RANSOMWARE GROUP SITES (list)| http://thexfvx7hqcrpgtm.onion/|||
 |RANSOMWARE GROUP SITES (list)| http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/
 |RANSOMWARE GROUP SITES (list)| http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion/
+|ATOMSILO| http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion/list.html|||
 |ASTROTEAM|http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/|||
 |AVADDON|http://avaddongun7rngel.onion/|(CURRENTLY DOWN)||
 |AVOS (victims request id page)|http://avos2fuj6olp6x36.onion/|||

@@ -105,3 +105,6 @@
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0| Data Leaks
 |https://t.me/Cunfig | Data Leaks, Combos, Openbullet Configs |
 |https://t.me/coomingproject| Ransomware Gang |
+|https://t.me/MalwareResearch | Group for Malware Analysts |
+|https://t.me/TheMalware_Team | Malware hacking group |
+|https://t.me/bulletproftlink | BulletProftlink Threat Actor |

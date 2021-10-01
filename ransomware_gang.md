@@ -46,7 +46,7 @@
 |LORENZ |http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |||
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |||
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |||
-|KATSKURY |https://karakurt.tech |||
+|KARAKURT |https://karakurt.tech |||
 |MARKETO (deep)| https://marketo.cloud |||
 |MARKETO (tor v2)|http://g5sbltooh2okkcb2.onion |||
 |MARKETO (tor v3| http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |||

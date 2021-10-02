@@ -78,6 +78,7 @@
 |REVIL |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |||
 |SEKHMET |http://sekhmet.top |(CURRENTLY DOWN)||
 |SODINOKIBI (REVIL) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |||
+|SPOOK DATA |http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/ |||
 |SUNCRYPT (tor v2) |http://nbzzb6sa6xuura2z.onion |||
 |SUNCRYPT (tor v3) |http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |||
 |SynACK (El_Cometa) |http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |||

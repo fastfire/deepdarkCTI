@@ -43,6 +43,7 @@
 |RAID FORUM| https://raidforums.com/|
 |RAID FORUM (mirror 1)| https://rf.ws|
 |RAID FORUM (mirror 2)| https://raid.lol/|
+|RAID FORUM (mirror 3)| https://rfmirror.com/|
 |RAMP| http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion/login/|
 |RUTOR| https://darknet.rutor.nl/|
 |SINISTER| https://sinister.ly/|

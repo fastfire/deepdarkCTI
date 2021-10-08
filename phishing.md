@@ -9,3 +9,4 @@
 |PhishTank| https://www.phishtank.com/|
 |Phishing.Database| https://github.com/mitchellkrogza/Phishing.Database|
 |PhishingCheck|https://phishcheck.me/|
+|StopForumSpam| https://www.stopforumspam.com|

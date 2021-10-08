@@ -8,3 +8,4 @@
 |PhishBank| https://phishbank.org|
 |PhishTank| https://www.phishtank.com/|
 |Phishing.Database| https://github.com/mitchellkrogza/Phishing.Database|
+|PhishingCheck|https://phishcheck.me/|

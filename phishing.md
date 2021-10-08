@@ -1,5 +1,6 @@
 |Name|Link|
 | ------ | ------ |
+|IsitPhishing| https://isitphishing.org/|
 |CheckPhish| https://checkphish.ai/|
 |OpenPhish | https://openphish.com/|
 |PhishingArmy| https://phishing.army/|

@@ -105,3 +105,4 @@
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0| Data Leaks
 |https://t.me/Cunfig | Data Leaks, Combos, Openbullet Configs |
 |https://t.me/coomingproject| Ransomware Gang |
+|https://t.me/s3cureEvn| News and Data Leaks |

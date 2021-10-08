@@ -27,6 +27,7 @@
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion |||
 |CUBA |http://cuba4mp6ximo2zlo.onion |||
 |DARKRYPT |https://darkrypt.io |||
+|DARKLEAKS |Ciao Carola, non ho il contatto del colonnello Meneguzzo, se tu ce l'hai puoi avvisarlo che in un gruppo Telegram è appena stato pubblicato questo? http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |(CURRENTLY DOWN)||
 |DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |||
 |ECH0RAIX |http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |||

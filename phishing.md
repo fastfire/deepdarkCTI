@@ -6,6 +6,7 @@
 |PhishingArmy| https://phishing.army/|
 |PhishBank| https://phishbank.org|
 |PhishingCheck|https://phishcheck.me/|
+|StopForumSpam| https://www.stopforumspam.com|
 |Phishing.Database| https://github.com/mitchellkrogza/Phishing.Database|
 |PhishingInitiative | https://phishing-initiative.fr/contrib/|
 |PhishStats| https://phishstats.info/|

@@ -20,7 +20,8 @@
 |LOCKDATA AUCTION (probably scam site)| http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/|
 |MAGBO (tor)| http://magbocc3tco4vmxx.onion/|
 |MAGBO (clear)| https://magbo.shop|
-|NOHIDE| https://nohide.space/
+|NOHIDE| https://nohide.space/|
+|Pois0n| https://pois0ncc.ru|
 |PROBIV|https://probiv.one/|
 |Russian Market (tor)| http://rusmarkethgwhfbn.onion/|
 |Russian Market (clear)| https://russianmarket.gs/|

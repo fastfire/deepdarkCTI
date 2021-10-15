@@ -23,6 +23,7 @@
 |MAGBO (tor)| http://magbocc3tco4vmxx.onion/|
 |MAGBO (clear)| https://magbo.shop|
 |NOHIDE| https://nohide.space/|
+|Pois0n| https://pois0ncc.ru|
 |ONLYONE| https://only-one.cc/|
 |PROBIV|https://probiv.one/|
 |Russian Market (tor)| http://rusmarkethgwhfbn.onion/|

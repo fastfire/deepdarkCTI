@@ -108,4 +108,4 @@
 |https://t.me/s3cureEvn| News and Data Leaks |
 |https://t.me/Arvin_club2| Data Leaks |
 |https://t.me/leakdataprivate| Data Leaks |
-|https://udacha123yes| Ransomware Gang |
+|https://t.me/udacha123yes| Ransomware Gang |

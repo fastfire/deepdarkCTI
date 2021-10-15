@@ -12,6 +12,7 @@
 |CLUB2CRD|https://club2crd.cc|
 |CLUBV |https://clubv.su|
 |CRIMEMARKET|https://crimemarket.to|
+|CVVUNION|https://cvv-union.at/|
 |DAKC0DE| http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion/|
 |DARKFOX MARKET| http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion/|
 |DARK ZONE| http://6bcecdo7ldzkudt6dnsuljqoyhgme4afsnytarre5nucjhgzmrn4txad.onion|

@@ -8,7 +8,9 @@
 |AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|
 |ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion|
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
+|CARD TEAM| https://card.ms/|
 |CLUB2CRD|https://club2crd.cc|
+|CLUBV |https://clubv.su|
 |CRIMEMARKET|https://crimemarket.to|
 |DAKC0DE| http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion/|
 |DARKFOX MARKET| http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion/|
@@ -22,12 +24,14 @@
 |MAGBO (clear)| https://magbo.shop|
 |NOHIDE| https://nohide.space/|
 |Pois0n| https://pois0ncc.ru|
+|ONLYONE| https://only-one.cc/|
 |PROBIV|https://probiv.one/|
 |Russian Market (tor)| http://rusmarkethgwhfbn.onion/|
 |Russian Market (clear)| https://russianmarket.gs/|
 |Russian Market (clear)| https://russianmarket.gs/|
 |WHM market (1)| http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion|
 |WHM market (2)| http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion/|
+|WINXXX| https://wixxx.cc/|
 |VICE CITY| http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion/|
 |XLEET| https://xleet.is/|
 |XLEET (tor)| http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion

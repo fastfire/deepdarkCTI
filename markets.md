@@ -17,6 +17,7 @@
 |DARKFOX MARKET| http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion/|
 |DARK ZONE| http://6bcecdo7ldzkudt6dnsuljqoyhgme4afsnytarre5nucjhgzmrn4txad.onion|
 |DATABASE| http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion/|
+|DOCSHOP| https://doc-shop.ws/|
 |Genesis Market (clear)| https://genesis.market/|
 |HYDRA (tor v2)| http://hydra3rudf3j4hww.onion/|
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/|

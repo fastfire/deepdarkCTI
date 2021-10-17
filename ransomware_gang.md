@@ -54,12 +54,13 @@
 |KARAKURT |https://karakurt.tech |||
 |MARKETO (deep)| https://marketo.cloud |||
 |MARKETO (tor v2)|http://g5sbltooh2okkcb2.onion |||
-|MARKETO (tor v3| http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |||
+|MARKETO (tor v3|http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |||
 |MAZE |https://newsmaze.net |(CURRENTLY DOWN)||
 |MBC |http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |||
 |MEDUSA LOCKER |http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion |||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)||
-|Moses Staff | http://mosesstaffm7hptp.onion/ |||
+|Moses Staff |http://mosesstaffm7hptp.onion |||
+|Moses Staff (deep) |http://moses-staff.se |||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion |||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)||
 |NEFILIM |http://hxt254aygrsziejn.onion |||

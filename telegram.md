@@ -110,3 +110,4 @@
 |https://t.me/Arvin_club2| Data Leaks |
 |https://t.me/leakdataprivate| Data Leaks |
 |https://t.me/udacha123yes| Ransomware Gang |
+|https://t.me/Moses_staff | Ransomware Gang |

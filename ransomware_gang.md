@@ -59,6 +59,7 @@
 |MBC |http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |||
 |MEDUSA LOCKER |http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion |||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)||
+|Moses Staff | http://mosesstaffm7hptp.onion/ |||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion |||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)||
 |NEFILIM |http://hxt254aygrsziejn.onion |||

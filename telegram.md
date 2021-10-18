@@ -64,7 +64,7 @@
 |https://t.me/nohidespace| Combo List
 |https://t.me/spamsmtpcombo| Combo List
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig| Forum
-|https://t.me/venomous_support| Ransomware gang
+|https://t.me/venomous_support (DELETED)| Ransomware gang
 |https://t.me/DBleak| Data Leaks
 |https://t.me/Log_Market_Place| Data Leaks
 |https://t.me/joinchat/8IpIg1MaoLs3YjMy| Log Leaks

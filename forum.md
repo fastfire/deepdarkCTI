@@ -22,6 +22,7 @@
 |EXPLOIT.IN (dark)| https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/|
 |EXPLOIT.IN (deep)| https://exploit.in/|
 |EXPLOITS.WS| https://exploits.ws/|
+|EVILARMY| https://evilarmy.in|
 |FORUMTEAM| https://forumteam.top/|
 |FSSQUAD| https://fssquad.com/|
 |GETREKT| https://www.getrekt.io/|

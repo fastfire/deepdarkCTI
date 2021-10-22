@@ -5,12 +5,15 @@
 |AlphaBay (tor)| http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion|
 |AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|
 |ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion|
+|BLACKBONES| https://blackbones.net/|
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
 |BRAINSCLUB| https://brainsclub.to/|
+|CARD STORE| https://carding.store/|
 |CARD TEAM| https://card.ms/|
 |CLUB2CRD|https://club2crd.cc|
 |CLUBV |https://clubv.su|
 |CRIMEMARKET|https://crimemarket.to|
+|CVV SHOP DUMPS|http://masterc2oss6cmeiwd6hzz44ghjdvkw2og6zv5iczcrssrbkrbuhn3qd.onion/login|
 |CVVUNION|https://cvv-union.at/|
 |DAKC0DE| http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion/|
 |DARKFOX MARKET| http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion/|

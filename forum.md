@@ -30,6 +30,7 @@
 |HACKFORUMS| https://hackforums.net/index.php|
 |IFUD| https://ifud.cx/|
 |ITALIAN DARKNET COMMUNITY 3.0 (dark)| http://dhri7ogvfpnflpkj3sc5x7umjl4gd26bkukzotbwdy76yjp5qvhjzmqd.onion|
+|KickAss |http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion/ |
 |LEAKS.SX| https://leak.sx/|
 |LOLZGURU| https://lolz.guru/|
 |LOLZ| https://lolz.guru/|
@@ -46,11 +47,10 @@
 |RAID FORUM (mirror 1)| https://rf.ws|
 |RAID FORUM (mirror 2)| https://raid.lol/|
 |RAID FORUM (mirror 3)| https://rfmirror.com/|
+|RAMBLE| http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/| 
 |RAMP| http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion/login/|
 |RUTOR| https://darknet.rutor.nl/|
 |SINISTER| https://sinister.ly/|
+|SuperBay | http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/ | 
 |XSS (dark)| http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/|
 |XSS (deep)| https://xss.is/|
-|KickAss |http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion/ |
-|RAMBLE| http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/| 
-|SuperBay | http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/ | 

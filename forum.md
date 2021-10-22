@@ -6,6 +6,7 @@
 |BTTFORUM| https://btt-club.top/|
 |BLACKHATWORLD| https://blackhatworld.com/|
 |CARDING FORUM (deep)| https://cybercarders.su/|
+|CHITACHOK| https://chitachok.ru/|
 |CRACKED| https://cracked.to/|
 |CRACKING KING| https://crackingking.com/|
 |CRDCLUB (dark)| http://crdclub4wraumez4.onion/|

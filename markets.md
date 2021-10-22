@@ -5,6 +5,7 @@
 |AlphaBay (tor)| http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion|
 |AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|
 |ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion|
+|BLACKBONES| https://blackbones.net/|
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
 |CARD TEAM| https://card.ms/|
 |CLUB2CRD|https://club2crd.cc|

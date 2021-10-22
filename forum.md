@@ -48,6 +48,7 @@
 |RAID FORUM (mirror 3)| https://rfmirror.com/|
 |RAMP| http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion/login/|
 |RUTOR| https://darknet.rutor.nl/|
+|SINFUL| https://sinfulsite.com/|
 |SINISTER| https://sinister.ly/|
 |XSS (dark)| http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/|
 |XSS (deep)| https://xss.is/|

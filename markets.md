@@ -7,6 +7,7 @@
 |ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion|
 |BLACKBONES| https://blackbones.net/|
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
+|BRAINSCLUB| https://brainsclub.to/|
 |CARD STORE| https://carding.store/|
 |CARD TEAM| https://card.ms/|
 |CLUB2CRD|https://club2crd.cc|

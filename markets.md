@@ -10,6 +10,7 @@
 |BRAINSCLUB| https://brainsclub.to/|
 |CARD STORE| https://carding.store/|
 |CARD TEAM| https://card.ms/|
+|CARDVILLA| https://cardvilla.cc/|
 |CLUB2CRD|https://club2crd.cc|
 |CLUBV |https://clubv.su|
 |CRIMEMARKET|https://crimemarket.to|

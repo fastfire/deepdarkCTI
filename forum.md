@@ -13,6 +13,7 @@
 |CRYPTBB| http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/|
 |DARK2WEB| https://dark2web.net/|
 |DARKMARKET| https://darkmarket.at/|
+|DARKSIDE| https://www.dark-side.black/|
 |DEDICATET| https://dedicatet.com/|
 |DEMONFORUMS| https://demonforums.net/|
 |DREAD| http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion|

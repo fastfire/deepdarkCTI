@@ -49,6 +49,7 @@
 |RAMP| http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion/login/|
 |RUTOR| https://darknet.rutor.nl/|
 |SINISTER| https://sinister.ly/|
+|VERYLEAKS| https://veryleaks.cz/|
 |XSS (dark)| http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/|
 |XSS (deep)| https://xss.is/|
 |KickAss |http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion/ |

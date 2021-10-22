@@ -9,6 +9,8 @@
 |CHITACHOK| https://chitachok.ru/|
 |CRACKED| https://cracked.to/|
 |CRACKING KING| https://crackingking.com/|
+|CRACKING PRO| https://www.crackingpro.com/|
+|CRAX PRO| https://crax.pro/|
 |CRDCLUB (dark)| http://crdclub4wraumez4.onion/|
 |CRDCLUB| https://crdclub.su/|
 |CRYPTBB| http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/|

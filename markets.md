@@ -6,6 +6,7 @@
 |AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|
 |ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion|
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
+|BRAINSCLUB| https://brainsclub.to/|
 |CARD TEAM| https://card.ms/|
 |CLUB2CRD|https://club2crd.cc|
 |CLUBV |https://clubv.su|

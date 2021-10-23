@@ -113,3 +113,4 @@
 |https://t.me/Moses_staff | Ransomware Gang |
 |https://t.me/worldwidelogs | Data Leaks |
 |https://t.me/tbotlist |Bots |
+|https://t.me/weleakdatabase | Data Leaks |

@@ -114,3 +114,4 @@
 |https://t.me/worldwidelogs | Data Leaks |
 |https://t.me/tbotlist |Bots |
 |https://t.me/weleakdatabase | Data Leaks |
+|https://t.me/WLDBackup | Data Leaks |

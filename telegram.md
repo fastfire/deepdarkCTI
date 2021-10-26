@@ -85,7 +85,7 @@
 |https://t.me/Allhak_mv| Data Leaks
 |https://t.me/silentplug666| Market
 |https://t.me/cybdetective| News & Info Sharing
-|https://t.me/darkrypt| Ransomware gang
+|https://t.me/darkrypt (DELETED)| Ransomware gang
 |https://t.me/GhostSecc| Data Leaks & Hacktivism group
 |https://t.me/moment9007| Hacking and News
 |https://t.me/zer0daylab/| Hacking, Leaks and News

@@ -115,3 +115,4 @@
 |https://t.me/tbotlist |Bots |
 |https://t.me/weleakdatabase | Data Leaks |
 |https://t.me/WLDBackup | Data Leaks |
+|https://t.me/joker_logs1 | JokerLogs/Installs - Free logs and bots |

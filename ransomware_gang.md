@@ -24,7 +24,7 @@
 |CONTI/RYUK (SURFACE WEB) |https://continews.click ||||
 |COOMINGPROJECT |http://teo7aj5mfgzxyeme.onion ||||
 |COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion ||||
-|COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com ||||
+|COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion ||||
 |CUBA |http://cuba4mp6ximo2zlo.onion ||||
 |DARKRYPT |https://darkrypt.io ||||

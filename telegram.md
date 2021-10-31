@@ -2,6 +2,7 @@
 | ------ | ------ |
 |https://t.me/gladdos69_official| DDoS
 |https://t.me/arvin_club|
+|https://t.me/blackshadowsleaks3| Black Shadow Iran based hacking group
 |https://t.me/shieldteam1|
 |https://t.me/databreach|
 |https://t.me/Combulist (DELETED)|

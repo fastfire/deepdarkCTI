@@ -17,6 +17,7 @@
 |BLACKMATTER |http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion ||||
 |BLACKMATTER Support | http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2 ||||
 |BLACK SHADOW |http://544corkfh5hwhtn4.onion |(CURRENTLY DOWN)|||
+|BLACK SHADOW (DEEP WEB)|https://blackshadow.cc/ ||||
 |BONACI GROUP |http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion ||||
 |CLOP (old) |http://ekbgzchl6x2ias37.onion ||||
 |CLOP |http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion ||||
@@ -52,7 +53,7 @@
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion ||||
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion ||||
 |KARAKURT |https://karakurt.tech ||||
-|MARKETO (deep)| https://marketo.cloud ||||
+|MARKETO (DEEP WEB)| https://marketo.cloud ||||
 |MARKETO (tor v2)|http://g5sbltooh2okkcb2.onion ||||
 |MARKETO (tor v3|http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion ||||
 |MAZE |https://newsmaze.net |(CURRENTLY DOWN)|||
@@ -60,7 +61,7 @@
 |MEDUSA LOCKER |http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion ||||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)|||
 |Moses Staff |http://mosesstaffm7hptp.onion ||||
-|Moses Staff (deep) |http://moses-staff.se ||||
+|Moses Staff (DEEP WEB) |http://moses-staff.se ||||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion ||||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)|||
 |NEFILIM |http://hxt254aygrsziejn.onion ||||

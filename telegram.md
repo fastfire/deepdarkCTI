@@ -2,7 +2,7 @@
 | ------ | ------ |
 |https://t.me/gladdos69_official| DDoS
 |https://t.me/arvin_club|
-|https://t.me/blackshadowsleaks3| Black Shadow Iran based hacking group
+|https://t.me/blackshadowsleaks3 (DELETED)| Black Shadow Iran based hacking group
 |https://t.me/shieldteam1|
 |https://t.me/databreach|
 |https://t.me/Combulist (DELETED)|
@@ -95,7 +95,7 @@
 |https://t.me/DarkWebForums (DELETED)| Forum
 |https://t.me/privatecombos| Data Leaks
 |https://t.me/Dark_webl| Onion Links
-|https://t.me/leaksgood| Data Leaks
+|https://t.me/leaksgood (DELETED)| Data Leaks
 |https://t.me/lefousamples| Data Leaks
 |https://t.me/joinchat/UhP5kie2OiRetosa| Data Leaks
 |https://t.me/procoder_base| Data Leaks

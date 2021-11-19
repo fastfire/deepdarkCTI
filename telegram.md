@@ -19,7 +19,7 @@
 |https://t.me/marketo_leaks| Data Leaks
 |https://t.me/outlew (DELETED)|
 |https://t.me/We_are_not_eternal|
-|https://t.me/joinchat/UhP5kie2OiRetosa|
+|https://t.me/joinchat/UhP5kie2OiRetosa (EXPIRED)|
 |https://t.me/BruteForce|
 |https://t.me/icrewhackers|
 |https://t.me/leaklicks/| Data Leaks

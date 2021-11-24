@@ -5,12 +5,15 @@
 |AlphaBay (tor)| http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion|
 |AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|
 |ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion|
+|ASEAN| asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion|
 |BLACKBONES| https://blackbones.net/|
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
+|BOHEMIAN| bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion|
 |BRAINSCLUB| https://brainsclub.to/|
 |CARD STORE| https://carding.store/|
 |CARD TEAM| https://card.ms/|
 |CARDVILLA| https://cardvilla.cc/|
+|CARTEL| mgybzfrldjn5drzv537skh7kgwgbq45dwha67r4elda4vl7m6qul5xqd.onion|
 |CLUB2CRD|https://club2crd.cc|
 |CLUBV |https://clubv.su|
 |CRIMEMARKET|https://crimemarket.to|
@@ -25,9 +28,12 @@
 |Genesis Market (clear)| https://genesis.market/|
 |HYDRA (tor v2)| http://hydra3rudf3j4hww.onion/|
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/|
+|LIBERTY| liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion|
 |LOCKDATA AUCTION (probably scam site)| http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/|
 |MAGBO (tor)| http://magbocc3tco4vmxx.onion/|
 |MAGBO (clear)| https://magbo.shop|
+|MGM GRAND| wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion|
+|MONOPOLY| monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion|
 |NOHIDE| https://nohide.space/|
 |Pois0n| https://pois0ncc.ru|
 |ONLYONE| https://only-one.cc/|
@@ -38,6 +44,9 @@
 |Russian Market (clear)| https://russianmarket.gs/|
 |SHADOWCARDERS| https://shadowcarders.com/|
 |SWIPESTORE (clear)| https://swipestore.cc|
+|THEMAJESTIC| tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion|
+|TOR2DOOR| orn3olemwhrsqbpz7iv34mjzare6sns5z75rea3qzwqlle76wxsdzeqd.onion|
+|TOOREZ| lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion|
 |WHM market (1)| http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion|
 |WHM market (2)| http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion/|
 |UniCC| https://unicvv.ru/|

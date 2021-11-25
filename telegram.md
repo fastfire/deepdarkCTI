@@ -118,4 +118,5 @@
 |https://t.me/joker_logs1 | JokerLogs/Installs - Free logs and bots |
 |https://t.me/jester_stealer_channel | jester stealer channel |
 |https://t.me/MalwareLogs | Logs |
-https://t.me/BreachedDB | Data Leaks |
+|https://t.me/BreachedDB | Data Leaks |
+|https://t.me/windmarketo | Data Leaks |

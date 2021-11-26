@@ -55,7 +55,8 @@
 |KARAKURT |https://karakurt.tech ||||
 |MARKETO (DEEP WEB)| https://marketo.cloud ||||
 |MARKETO (tor v2)|http://g5sbltooh2okkcb2.onion ||||
-|MARKETO (tor v3|http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion ||||
+|MARKETO (tor v3 old)|http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion ||||
+|MARKETO (tor v3 new)|http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion ||||
 |MAZE |https://newsmaze.net |(CURRENTLY DOWN)|||
 |MBC |http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion ||||
 |MEDUSA LOCKER |http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion ||||

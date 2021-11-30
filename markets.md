@@ -11,6 +11,7 @@
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
 |BOHEMIAN| bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion|
 |BRAINSCLUB| https://brainsclub.to/|
+|CARDMAFIA| https://cardmafia.cc/|
 |CARD STORE| https://carding.store/|
 |CARD TEAM| https://card.ms/|
 |CARDVILLA| https://cardvilla.cc/|

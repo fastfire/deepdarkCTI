@@ -13,6 +13,7 @@
 |BRAINSCLUB| https://brainsclub.to/|
 |CARD STORE| https://carding.store/|
 |CARD TEAM| https://card.ms/|
+|CARDING TEAM| https://https://cardingteam.ru/|
 |CARDVILLA| https://cardvilla.cc/|
 |CARTEL| mgybzfrldjn5drzv537skh7kgwgbq45dwha67r4elda4vl7m6qul5xqd.onion|
 |CLUB2CRD|https://club2crd.cc|

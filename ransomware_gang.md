@@ -88,6 +88,7 @@
 |RANZY/AKO |http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |(CURRENTLY DOWN)|||
 |REVIL |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion ||||
 |ROBINHOOD |https://robinhoodleaks.tumblr.com ||||
+|ROOK |http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion ||||
 |SEKHMET |http://sekhmet.top |(CURRENTLY DOWN)|||
 |SNATCH |http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php ||||
 |SNATCH (DEEP WEB) |http://snatch.vip ||||

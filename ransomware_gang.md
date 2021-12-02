@@ -4,6 +4,7 @@
 |RANSOMWARE GROUP SITES (list)|http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion ||||
 |RANSOMWARE GROUP SITES (list)|http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion ||||
 |AKO |http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |(CURRENTLY DOWN)|||
+|AgainstTheWest |http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion/ ||||
 |ASTROTEAM |http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion ||||
 |ATOMSILO |http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion ||||
 |AVADDON |http://avaddongun7rngel.onion |(CURRENTLY DOWN)|||

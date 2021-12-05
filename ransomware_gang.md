@@ -82,7 +82,8 @@
 |RAGNAROK |http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion ||||
 |RAGNAROK |http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |(CURRENTLY DOWN)|||
 |RAGNAR LOCKER (old) |http://ragnarleaks.top |(CURRENTLY DOWN)|||
-|RAGNAR LOCKER |http://p6o7m73ujalhgkiv.onion ||||
+|RAGNAR LOCKER |http://p6o7m73ujalhgkiv.onion |(CURRENTLY DOWN)|||
+|RAGNAR LOCKER |http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion ||||
 |RAMP |http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion ||||
 |RAMP (new) |http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion ||||
 |RANSOMEXX |http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion ||||

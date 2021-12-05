@@ -6,3 +6,4 @@
 |https://twitter.com/RdpSnitch | A bot who snitches on RDP Scanners, sharing IOC |
 |https://github.com/0xDanielLopez/TweetFeed|
 |https://twitter.com/ecarlesi | Phishing IOC | 
+|https://twitter.com/EmotetB | Emotet OSINT | 

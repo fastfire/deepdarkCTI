@@ -58,7 +58,6 @@
 |RAID FORUM (mirror 2)| https://raid.lol/|
 |RAID FORUM (mirror 3)| https://rfmirror.com/|
 |SINFUL| https://sinfulsite.com/|
-|VERYLEAKS| https://veryleaks.cz/|
 |RAMBLE| http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion| 
 |RAMP| http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion/login|
 |RUTOR (tor v3)| http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion|
@@ -68,6 +67,8 @@
 |SQLI| https://sqli.cloud/|
 |SUPERBAY| http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion|
 |THE HUB| http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion|
+|VERIFIED (clearweb)| https://ver.sc/index.php|
+|VERIFIED| http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php|
 |VERYLEAKS| https://veryleaks.cz/|
 |XSS (dark)| http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion|
 |XSS (deep)| https://xss.is|

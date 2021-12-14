@@ -12,3 +12,4 @@
 |PhishingInitiative | https://phishing-initiative.fr/contrib/|
 |PhishStats| https://phishstats.info/|
 |PhishTank| https://www.phishtank.com/|
+|urlscan.io|https://urlscan.io/|

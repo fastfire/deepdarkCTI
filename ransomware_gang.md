@@ -1,3 +1,4 @@
+|Name|Link|Status|User:Password|Tox ID|RSS Feed|
 | ------ | ------ | ------ | ------ | ------ | ----- |
 |RANSOMWARE GROUP SITES (list) |http://thexfvx7hqcrpgtm.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion ||||
@@ -10,7 +11,8 @@
 |ALPHV (aka BlackCat) (1)|http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion|||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
 |ALPHV (aka BlackCat) (2) |http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion ||||
 |ASTROTEAM |http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion ||||
-|ATOMSILO |http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion ||||
+|ATOMSILO (old) |http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion ||||
+|ATOMSILO |http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion ||||
 |AVADDON |http://avaddongun7rngel.onion |(CURRENTLY DOWN)|||
 |AVOS |http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion ||||YES|
 |AVOS (victims request id page) |http://avos2fuj6olp6x36.onion ||||

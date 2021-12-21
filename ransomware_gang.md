@@ -1,4 +1,5 @@
-| ------ | ------ | ------ | ------ | ------ | 
+|Name|Link|Status|User:Password|Tox ID|RSS Feed|
+| ------ | ------ | ------ | ------ | ------ | ----- |
 |RANSOMWARE GROUP SITES (list) |http://thexfvx7hqcrpgtm.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion ||||
@@ -80,7 +81,6 @@
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)|||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion ||||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)|||
-|Name|Link|Status|User:Password|Tox ID|RSS Feed|
 |NEFILIM |http://hxt254aygrsziejn.onion ||||
 |NEMTY |http://nemty.top |(CURRENTLY DOWN)|||
 |NEMTY |http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |(CURRENTLY DOWN)|||

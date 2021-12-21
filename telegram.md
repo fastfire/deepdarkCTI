@@ -121,4 +121,4 @@
 |https://t.me/BreachedDB | Data Leaks |
 |https://t.me/windmarketo | Data Leaks |
 |https://t.me/dataflows | Data Leaks |
-|https://t.me/torbrowser_leak_database | Data Leaks |
+|https://t.me/torbrowser_leak_database (DELETED) | Data Leaks |

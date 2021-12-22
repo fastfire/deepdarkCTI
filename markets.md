@@ -58,4 +58,5 @@
 |WINXXX| https://wixxx.cc/|
 |VICE CITY| http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion/|
 |XLEET| https://xleet.is/|
-|XLEET (tor)| http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion
+|XLEET (tor)| http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion|
+|2easy|https://2easy.shop/|

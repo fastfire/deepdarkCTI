@@ -1,4 +1,4 @@
-|Name|Link|Status|User:Password|Tox ID|RSS Feed|
+|Name|Link|Status|User:Password|Tox ID or other channel|RSS Feed|
 | ------ | ------ | ------ | ------ | ------ | ----- |
 |RANSOMWARE GROUP SITES (list) |http://thexfvx7hqcrpgtm.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion ||||
@@ -41,7 +41,7 @@
 |DARKRYPT |https://darkrypt.io ||||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |(CURRENTLY DOWN)|||
 |DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion ||||
-|DOTADMIN | http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion ||||
+|DOTADMIN | http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |||@dotADMINbot (Telegram)|
 |ECH0RAIX |http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion ||||
 |EGREGOR |https://egregornews.com |(CURRENTLY DOWN)|||
 |ENTROPY |http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |||

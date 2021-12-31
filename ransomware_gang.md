@@ -116,7 +116,8 @@
 |ROOK |http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion ||||
 |RRANSOM (victims page) |http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form |||
 |SEKHMET |http://sekhmet.top |(CURRENTLY DOWN)|||
-|SNATCH (DEEP WEB) |http://snatch.vip ||||
+|SNATCH (DEEP WEB) |https://snatch.press/ ||||
+|SNATCH (DEEP WEB) |http://snatch.vip |(CURRENTLY DOWN)|||
 |SNATCH |http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php ||||
 |SODINOKIBI (REVIL) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion ||||
 |SPOOK DATA |http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/ ||||YES|

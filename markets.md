@@ -1,5 +1,7 @@
 |Name|Link|
 | ------ | ------ |
+|Wannabuy RDP|http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion/|
+|LuxeCC| https://luxecc.net/ | 
 |2EASY| https://2easy.shop/|
 |ALLWORLDCARDS| https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion|
 |AlphaBay (tor)| http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion|

@@ -3,7 +3,7 @@
 |RANSOMWARE GROUP SITES (list) |http://thexfvx7hqcrpgtm.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion ||||
-|NightSky| gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion| UP ||||
+|NightSky| http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion ||||
 |54bb47h |http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog |(CURRENTLY DOWN)|||
 |54bb47h |http://54bb47h.blog ||||
 |54bb47h (victims page) |http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |(CURRENTLY DOWN)|||

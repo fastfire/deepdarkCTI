@@ -68,7 +68,7 @@
 |https://t.me/venomous_support (DELETED)| Ransomware gang
 |https://t.me/DBleak| Data Leaks
 |https://t.me/Log_Market_Place| Data Leaks
-|https://t.me/joinchat/8IpIg1MaoLs3YjMy| Log Leaks
+|https://t.me/joinchat/8IpIg1MaoLs3YjMy (EXPIRED) | Log Leaks
 |https://t.me/cbanke| Data Leaks
 |https://t.me/cbanke_logs| Log Leaks
 |https://t.me/cbanke_market| Market

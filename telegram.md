@@ -124,3 +124,4 @@
 |https://t.me/torbrowser_leak_database (DELETED) | Data Leaks |
 |https://t.me/snatch_news | Snatch Team (Ransomware Gang) |
 |https://t.me/ransomwatcher | Data Leaks |
+|https://t.me/gulfdocs| Data Leaks (Gulf Region)|

@@ -35,6 +35,7 @@
 |FSSQUAD| https://fssquad.com/|
 |GERKI| http://gerkipwhfuqeeizl.onion|
 |GETREKT| https://www.getrekt.io/|
+|G0D.ONE MARKET| https://www.g0d.one/|
 |HACKFORUMS| https://hackforums.net/index.php|
 |HACKTOWN| http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion/HackTown.html|
 |HELIUM| http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/login|

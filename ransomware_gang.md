@@ -16,6 +16,7 @@
 |AVADDON |http://avaddongun7rngel.onion |(CURRENTLY DOWN)|||
 |AVOS |http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion ||||YES|
 |AVOS (victims request id page) |http://avos2fuj6olp6x36.onion ||||
+|BABUK (old) |http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |(CURRENTLY DOWN)|||
 |BABUK |http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion ||||
 |BABYDUCK (victims request id Page) |http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion ||||
 |BIT/LOLKEK/GLOBEIMPOSTER (SUPPORT PAGE) |http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |||
@@ -108,9 +109,6 @@
 |RAGNAR LOCKER (old) |http://ragnarleaks.top |(CURRENTLY DOWN)|||
 |RAGNAROK |http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion ||||
 |RAGNAROK |http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |(CURRENTLY DOWN)|||
-|RAMP |http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion ||||
-|RAMP (new) |http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion ||||
-|RAMP (old) |http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion ||||
 |RANSOM CARTEL |http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion/ ||||
 |RANSOMEXX |http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion ||||
 |RANZY/AKO |http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |(CURRENTLY DOWN)|||

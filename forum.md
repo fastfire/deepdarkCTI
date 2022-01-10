@@ -11,6 +11,7 @@
 |CRACKED| https://cracked.to/|
 |CRACKING KING| https://crackingking.com/|
 |CRACKING PRO| https://www.crackingpro.com/|
+|CRACKING X| https://crackingx.com/|
 |CRAX PRO| https://crax.pro/|
 |CRDCLUB (dark)| http://crdclub4wraumez4.onion/|
 |CRDCLUB| https://crdclub.su/|
@@ -21,6 +22,7 @@
 |DEDICATET| https://dedicatet.com/|
 |DEFCON| http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion|
 |DEMONFORUMS| https://demonforums.net/|
+|DRDARK| https://drdark.ru/|
 |DREAD| http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion|
 |DUBLIKAT| https://my.dublikat.pro/|
 |DWF (tor v2)| http://dwforumsmrcqdnt3.onion/|
@@ -42,6 +44,7 @@
 |IFUD| https://ifud.cx/|
 |ITALIAN DARKNET COMMUNITY 3.0 (dark)| http://dhri7ogvfpnflpkj3sc5x7umjl4gd26bkukzotbwdy76yjp5qvhjzmqd.onion|
 |KICKASS| http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion|
+|LEAKS.SO| https://leaks.so/|
 |LEAKS.SX| https://leak.sx/|
 |LOLZGURU| https://lolz.guru/|
 |LOLZ| https://lolz.guru/|
@@ -71,6 +74,7 @@
 |SQLI| https://sqli.cloud/|
 |SUPERBAY| http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion|
 |THE HUB| http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion|
+|THE JAVA SEA| https://thejavasea.com/|
 |VERIFIED (clearweb)| https://ver.sc/index.php|
 |VERIFIED| http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php|
 |VERYLEAKS| https://veryleaks.cz/|

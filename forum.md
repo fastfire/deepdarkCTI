@@ -2,6 +2,7 @@
 | ------ | ------ |
 |AGAINSTTHEWEST| http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion|
 |ALTENEN (deep)| https://altenens.is/|
+|ANTIMIGALKI| https://antimigalki.co/|
 |ASCARDING| https://ascarding.com/|
 |BHF| https://bhf.io/|
 |BTTFORUM| https://btt-club.top/|

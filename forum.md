@@ -59,6 +59,7 @@
 |NULLEDBB| https://nulledbb.com/|
 |OGUSERS| https://www.ogusers.com/|
 |PAYLOAD.SH| https://payload.sh/|
+|PIRATEBUHTA| https://s1.piratebuhta.net/|
 |PROLOGIC| https://prologic.su/|
 |RAID FORUM| https://raidforums.com/|
 |RAID FORUM (mirror 1)| https://rf.ws|

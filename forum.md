@@ -18,6 +18,7 @@
 |CRYPTBB| http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/|
 |DARK2WEB| https://dark2web.net/|
 |DARKMARKET| https://darkmarket.at/|
+|DARKNET| https://darknet.ug/|
 |DARKSIDE| https://www.dark-side.black/|
 |DEDICATET| https://dedicatet.com/|
 |DEFCON| http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion|
@@ -57,7 +58,6 @@
 |NULLEDBB| https://nulledbb.com/|
 |OGUSERS| https://www.ogusers.com/|
 |PAYLOAD.SH| https://payload.sh/|
-|PIRATEBUHTA| https://s1.piratebuhta.net/|
 |PROLOGIC| https://prologic.su/|
 |RAID FORUM| https://raidforums.com/|
 |RAID FORUM (mirror 1)| https://rf.ws|

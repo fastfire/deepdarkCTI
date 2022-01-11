@@ -1,5 +1,6 @@
 |Link| Category|
 | ------ | ------ |
+|https://t.me/zeroc0der_v2| Zeroc0d3r Threat Actor Channel
 |https://t.me/gladdos69_official| DDoS
 |https://t.me/arvin_club|
 |https://t.me/blackshadowsleaks3 (DELETED)| Black Shadow Iran based hacking group

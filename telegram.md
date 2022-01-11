@@ -125,4 +125,5 @@
 |https://t.me/snatch_news | Snatch Team (Ransomware Gang) |
 |https://t.me/ransomwatcher | Data Leaks |
 |https://t.me/gulfdocs| Data Leaks (Gulf Region)|
+|https://t.me/PrivateKeeperChannel | Data Leaks |
 |https://t.me/boosty66brvte| Data Leaks |

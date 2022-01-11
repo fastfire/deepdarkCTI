@@ -71,6 +71,7 @@
 |RUTOR (tor v2)| https://darknet.rutor.nl|
 |SINISTER| https://sinister.ly|
 |SKYFRAUD| http://bcbm4y7yusdxthg3.onion|
+|SKYNEZONE| https://skynetzone.pw/|
 |SQLI| https://sqli.cloud/|
 |SUPERBAY| http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion|
 |THE HUB| http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion|

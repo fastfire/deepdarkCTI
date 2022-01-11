@@ -81,6 +81,7 @@
 |VERIFIED (clearweb)| https://ver.sc/index.php|
 |VERIFIED| http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php|
 |VERYLEAKS| https://veryleaks.cz/|
+|VLMI| https://vlmi.ws/|
 |XSS (dark)| http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion|
 |XSS (deep)| https://xss.is|
 |XREACTOR| https://xreactor.org|

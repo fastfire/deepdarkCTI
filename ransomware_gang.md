@@ -32,36 +32,36 @@
 |CONTI/RYUK |http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion ||||
 |CONTI/RYUK (SURFACE WEB) |https://continews.click ||||
 |COOMINGPROJECT |http://teo7aj5mfgzxyeme.onion ||||
-|COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion ||||
+|COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion ||||
 |CRYP70N1C0D3 |http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion/
 |CUBA |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||
 |CUBA |http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/ ||||
 |DARKLEAKS |http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion ||||
-|DARKRYPT |https://darkrypt.io ||||
+|DARKRYPT |https://darkrypt.io |(CURRENTLY DOWN)|||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |(CURRENTLY DOWN)|||
-|DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion ||||
+|DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |(CURRENTLY DOWN)|||
 |DOTADMIN | http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |||@dotADMINbot (Telegram)|
 |ECH0RAIX |http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion ||||
 |EGREGOR |https://egregornews.com |(CURRENTLY DOWN)|||
 |ENTROPY |http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |||
-|EP918 |http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion ||||
+|EP918 |http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion |(CURRENTLY DOWN)|||
 |EVEREST |http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion ||||YES|
-|EVILCORP |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion||||
+|EVILCORP |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion|(CURRENTLY DOWN)|||
 |EXORCIST |http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |(CURRENTLY DOWN)|||
 |GRIEF |http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion ||||
-|GROOVE |http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion ||||
+|GROOVE |http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |(CURRENTLY DOWN)|||
 |HADES |http://ixltdyumdlthrtgx.onion |(CURRENTLY DOWN)|||
 |HARON |http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php ||Chaddadgroup:Chaddadgroup||
-|HELLO KITTY |http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion ||||
+|HELLO KITTY |http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion |(CURRENTLY DOWN)|||
 |HITLER |http://hitleransomware.cf |||
 |HIVE |http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion ||||
 |HIVE (negotiation) |http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion ||random generated user/pass in ransom note||
-|HOLYGHOST |http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |||
-|HOTARUS |http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion ||||
-|KARAKURT |https://karakurt.tech ||||
-|KARMA |http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion ||||
+|HOLYGHOST |http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |(CURRENTLY DOWN)|||
+|HOTARUS |http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |(CURRENTLY DOWN)|||
+|KARAKURT |https://karakurt.tech |(CURRENTLY DOWN)|||
+|KARMA |http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |(CURRENTLY DOWN)|||
 |LAPSUS$ ||||https://t.me/minsaudebr |
 |LOCKBIT 2.0 (mirror 1) |http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion | | | 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7	|
 |LOCKBIT 2.0 (mirror 2) |http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion | | | 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7	|
@@ -77,17 +77,17 @@
 |LOCKFILE (victim request id page)|http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB |
 |LORENZ |http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion ||||
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion ||||
-|LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion ||||
-|MARKETO (DEEP WEB) | https://marketo.cloud ||||
-|MARKETO (tor v2) |http://g5sbltooh2okkcb2.onion ||||
+|LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |(CURRENTLY DOWN)|||
+|MARKETO (DEEP WEB) | https://marketo.cloud |(CURRENTLY DOWN)|||
+|MARKETO (tor v2) |http://g5sbltooh2okkcb2.onion |(CURRENTLY DOWN)|||
 |MARKETO (tor v3 new) |http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion ||||
-|MARKETO (tor v3 old) |http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion ||||
+|MARKETO (tor v3 old) |http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |(CURRENTLY DOWN)|||
 |MAZE |https://newsmaze.net |(CURRENTLY DOWN)|||
-|MBC |http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion ||||
+|MBC |http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |(CURRENTLY DOWN)|||
 |MEDUSA LOCKER |http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion ||||
 |MIDAS/HARON |http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion/blog.php |||
 |Moses Staff (DEEP WEB) |http://moses-staff.se ||||
-|Moses Staff |http://mosesstaffm7hptp.onion ||||
+|Moses Staff |http://mosesstaffm7hptp.onion |(CURRENTLY DOWN)|||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)|||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion ||||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)|||

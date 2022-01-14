@@ -61,7 +61,7 @@
 |HOLYGHOST |http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |(CURRENTLY DOWN)|||
 |HOTARUS |http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |(CURRENTLY DOWN)|||
 |KARAKURT |https://karakurt.tech |(CURRENTLY DOWN)|||
-|KARAKURT 2.0 | http://209.222.98.19 | LIVE SINCE 10th |||
+|KARAKURT 2.0 | https://209.222.98.19 ||||
 |KARMA |http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |(CURRENTLY DOWN)|||
 |LAPSUS$ ||||https://t.me/minsaudebr |
 |LOCKBIT 2.0 (mirror 1) |http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion | | | 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7	|

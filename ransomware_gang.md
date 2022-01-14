@@ -31,7 +31,7 @@
 |CLOP (old) |http://ekbgzchl6x2ias37.onion |(CURRENTLY DOWN)|||
 |CONTI/RYUK |http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion ||||
 |CONTI/RYUK (SURFACE WEB) |https://continews.click ||||
-|COOMINGPROJECT |http://teo7aj5mfgzxyeme.onion ||||
+|COOMINGPROJECT |http://teo7aj5mfgzxyeme.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion ||||
@@ -90,9 +90,9 @@
 |Moses Staff (DEEP WEB) |http://moses-staff.se ||||
 |Moses Staff |http://mosesstaffm7hptp.onion |(CURRENTLY DOWN)|||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)|||
-|MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion ||||
+|MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion |(CURRENTLY DOWN)|||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)|||
-|NEFILIM |http://hxt254aygrsziejn.onion ||||
+|NEFILIM |http://hxt254aygrsziejn.onion |(CURRENTLY DOWN)|||
 |NEMTY |http://nemty.top |(CURRENTLY DOWN)|||
 |NEMTY |http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |(CURRENTLY DOWN)|||
 |NETWALKER |http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |(CURRENTLY DOWN)|||
@@ -101,33 +101,33 @@
 |PAY2KEY |http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion ||||
 |PAYLOAD.BIN (EX BABUK LOCKER) |http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion ||||
 |PROLOCK |http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |(CURRENTLY DOWN)|||
-|PROMETHEUS |http://promethw27cbrcot.onion/blog ||||
+|PROMETHEUS |http://promethw27cbrcot.onion/blog |(CURRENTLY DOWN)|||
 |PYSA |http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html ||||
 |QLOCKER |http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion ||||
 |QUANTUM| http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion ||||
 |RAGNAR LOCKER |http://p6o7m73ujalhgkiv.onion |(CURRENTLY DOWN)|||
 |RAGNAR LOCKER |http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion ||||
 |RAGNAR LOCKER (old) |http://ragnarleaks.top |(CURRENTLY DOWN)|||
-|RAGNAROK |http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion ||||
+|RAGNAROK |http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |(CURRENTLY DOWN)|||
 |RAGNAROK |http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |(CURRENTLY DOWN)|||
 |RANSOM CARTEL |http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion/ ||||
 |RANSOMEXX |http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion ||||
 |RANZY/AKO |http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |(CURRENTLY DOWN)|||
 |REVIL |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion ||||
-|ROBINHOOD |https://robinhoodleaks.tumblr.com ||||
+|ROBINHOOD |https://robinhoodleaks.tumblr.com |(CURRENTLY DOWN)|||
 |ROOK |http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion ||||
-|RRANSOM (victims page) |http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form |||
+|RRANSOM (victims page) |http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form |(CURRENTLY DOWN)|||
 |SEKHMET |http://sekhmet.top |(CURRENTLY DOWN)|||
 |SNATCH (DEEP WEB) |https://snatch.press/ ||||
 |SNATCH (DEEP WEB) |http://snatch.vip |(CURRENTLY DOWN)|||
 |SNATCH |http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php ||||
-|SODINOKIBI (REVIL) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion ||||
-|SPOOK DATA |http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/ ||||YES|
-|SUNCRYPT (tor v2) |http://nbzzb6sa6xuura2z.onion ||||
+|SODINOKIBI (REVIL) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(CURRENTLY DOWN)|||
+|SPOOK DATA |http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/ |(CURRENTLY DOWN)|||YES|
+|SUNCRYPT (tor v2) |http://nbzzb6sa6xuura2z.onion |(CURRENTLY DOWN)|||
 |SUNCRYPT (tor v3) |http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion ||||
-|SynACK (El_Cometa) |http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion ||||
-|VFOKX (1) |http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion ||||
-|VFOKX (2) |http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion ||||
+|SynACK (El_Cometa) |http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |(CURRENTLY DOWN)|||
+|VFOKX (1) |http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |(CURRENTLY DOWN)|||
+|VFOKX (2) |http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |(CURRENTLY DOWN)|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion |(CURRENTLY DOWN)||
 |VICE SOCIETY |http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion |||
 |XING LOCKER |http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion ||||

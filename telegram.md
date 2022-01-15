@@ -129,3 +129,4 @@
 |https://t.me/gulfdocs| Data Leaks (Gulf Region)|
 |https://t.me/PrivateKeeperChannel | Data Leaks |
 |https://t.me/boosty66brvte| Data Leaks |
+|https://t.me/minsaudebr| LAPSUS Ransomware Gang |

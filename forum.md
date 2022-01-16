@@ -19,6 +19,7 @@
 |CRYPTBB| http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/|
 |DARK2WEB| https://dark2web.net/|
 |DARKMARKET| https://darkmarket.at/|
+|DARKNET| https://darknet.ug/|
 |DARKSIDE| https://www.dark-side.black/|
 |DEDICATET| https://dedicatet.com/|
 |DEFCON| http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion|

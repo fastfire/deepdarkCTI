@@ -1,5 +1,6 @@
 |Link| Category|
 | ------ | ------ |
+|https://t.me/flannels| Market
 |https://t.me/zeroc0d3r_v2| Zeroc0d3r Threat Actor Channel
 |https://t.me/O1chat| Market
 |https://t.me/gladdos69_official| DDoS

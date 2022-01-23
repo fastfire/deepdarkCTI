@@ -111,7 +111,7 @@
 |https://t.me/pwnwiki_zhchannel|
 |https://t.me/ransomwatcher | Data Leaks |
 |https://t.me/reveng3rs| Data Leaks
-|https://t.me/s3cureEvn| News and Data Leaks |
+|https://t.me/s3cureEvn (DELETED)| News and Data Leaks |
 |https://t.me/sanaski | configs, combos |
 |https://t.me/Sell_rdp1|
 |https://t.me/SHARK_CHANNEL1| configs, combos |

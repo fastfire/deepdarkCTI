@@ -18,6 +18,7 @@
 |PWNDB|http://pwndb2am4tzkvold.onion/|
 |QUANTUM BLOG|http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion|
 |RANSOMWARE PAYMENTS TRACKER| https://ransomwhe.re/|
+|RANSOMWARE VICTIMS TRACKER| https://ransom.wiki/|
 |SAUDI ARAMCO LEAK|http://662m7dfcpfsmeetqucdekz3rn4a6dxsxbdjwd6iz3rwnogjsj7i3hxad.onion/|
 |VISITOR SEARCH ENGINE|http://visitorfi5kl7q7i.onion|
 |TOR Index Taxi | http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion/ |  

@@ -86,3 +86,4 @@
 |XSS (dark)| http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion|
 |XSS (deep)| https://xss.is|
 |XREACTOR| https://xreactor.org|
+|Ukraine leak| http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion

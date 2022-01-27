@@ -11,6 +11,7 @@
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
 |BOHEMIAN| bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion|
 |BRAINSCLUB| https://brainsclub.to/|
+|CARDER| https://carder.uk/|
 |CARDMAFIA| https://cardmafia.cc/|
 |CARD STORE| https://carding.store/|
 |CARD TEAM| https://card.ms/|
@@ -35,6 +36,7 @@
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/|
 |LIBERTY| liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion|
 |LOCKDATA AUCTION (probably scam site)| http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/|
+|LuxeCC| https://luxecc.net/ | 
 |MAGBO (tor)| http://magbocc3tco4vmxx.onion/|
 |MAGBO (clear)| https://magbo.shop|
 |MGM GRAND| wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion|
@@ -52,6 +54,7 @@
 |THEMAJESTIC| tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion|
 |TOR2DOOR| orn3olemwhrsqbpz7iv34mjzare6sns5z75rea3qzwqlle76wxsdzeqd.onion|
 |TOOREZ| lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion|
+|Wannabuy RDP|http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion/|
 |WHM market (1)| http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion|
 |WHM market (2)| http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion/|
 |UniCC| https://unicvv.ru/|
@@ -60,4 +63,4 @@
 |VICE CITY| http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion/|
 |XLEET| https://xleet.is/|
 |XLEET (tor)| http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion|
-|2easy|https://2easy.shop/|
+|ZISMO| https://zismo.biz/

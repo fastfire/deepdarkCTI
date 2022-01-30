@@ -13,7 +13,7 @@
 |https://t.me/boosty66brvte| Data Leaks |
 |https://t.me/breachdetector|
 |https://t.me/BreachedDB | Data Leaks |
-|https://t.me/BruteForce|
+|https://t.me/BruteForce (DELETED)|
 |https://t.me/cbanke| Data Leaks
 |https://t.me/cbanke_logs| Log Leaks
 |https://t.me/cbanke_market| Market

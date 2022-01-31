@@ -134,6 +134,7 @@
 |VFOKX (1) |http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |(CURRENTLY DOWN)|||
 |VFOKX (2) |http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |(CURRENTLY DOWN)|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion |(CURRENTLY DOWN)||
+|X001XS |http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion |||
 |VICE SOCIETY |http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion |||
 |XING LOCKER |http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion ||||
 |XINOF |http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |(CURRENTLY DOWN)|||

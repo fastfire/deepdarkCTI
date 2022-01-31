@@ -39,7 +39,7 @@
 |https://t.me/dataflows | Data Leaks |
 |https://t.me/DataleakBin (DELETED)| Data Leaks
 |https://t.me/dataleakbreach| Data Leaks
-|https://t.me/datamuseum| Data Leaks
+|https://t.me/datamuseum (DELETED)| Data Leaks
 |https://t.me/dbforall|
 |https://t.me/DBleak| Data Leaks
 |https://t.me/DB_MARKEET|

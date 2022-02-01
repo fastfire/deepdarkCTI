@@ -58,6 +58,7 @@
 |https://t.me/hashbin (DELETED) | Data Leaks
 |https://t.me/hidden_links| Hidden Links
 |https://t.me/HK4GANG|
+|https://t.me/HUBLOGS| Redline malware logs |
 |https://t.me/icrewhackers|
 |https://t.me/itsecalert| News
 |https://t.me/jester_stealer_channel | jester stealer channel |
@@ -118,6 +119,7 @@
 |https://t.me/shieldteam1|
 |https://t.me/silentplug666| Market
 |https://t.me/snatch_news | Snatch Team (Ransomware Gang) |
+|https://t.me/snatch_cloud | Redline malware logs |
 |https://t.me/spamsmtpcombo| Combo List
 |https://t.me/Storm_Free_Config| Configs, Combos |
 |https://t.me/StormFreeConfig| Configs, Combos |

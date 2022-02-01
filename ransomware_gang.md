@@ -104,7 +104,7 @@
 |NightSky|http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |(CURRENTLY DOWN)|||
 |ONEPERCENT |http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion |(CURRENTLY DOWN)|||
 |PAY2KEY |http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion ||||
-|PAYLOAD.BIN (EX BABUK LOCKER) |http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion ||||
+|PAYLOAD.BIN (EX BABUK LOCKER) |http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |(CURRENTLY DOWN)|||
 |PROLOCK |http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |(CURRENTLY DOWN)|||
 |PROMETHEUS |http://promethw27cbrcot.onion/blog |(CURRENTLY DOWN)|||
 |PYSA |http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html ||||
@@ -118,9 +118,9 @@
 |RANSOM CARTEL |http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion/ ||||
 |RANSOMEXX |http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion ||||
 |RANZY/AKO |http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |(CURRENTLY DOWN)|||
-|REVIL |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion ||||
+|REVIL |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(CURRENTLY DOWN)|||
 |ROBINHOOD |https://robinhoodleaks.tumblr.com |(CURRENTLY DOWN)|||
-|ROOK |http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion ||||
+|ROOK |http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |(CURRENTLY DOWN)|||
 |RRANSOM (victims page) |http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form |(CURRENTLY DOWN)|||
 |SEKHMET |http://sekhmet.top |(CURRENTLY DOWN)|||
 |SNATCH (DEEP WEB) |https://snatch.press/ ||||
@@ -136,5 +136,5 @@
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion |(CURRENTLY DOWN)||
 |X001XS |http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion |||
 |VICE SOCIETY |http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion |||
-|XING LOCKER |http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion ||||
+|XING LOCKER |http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |(CURRENTLY DOWN)|||
 |XINOF |http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |(CURRENTLY DOWN)|||

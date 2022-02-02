@@ -39,9 +39,9 @@
 |COOMINGPROJECT |http://teo7aj5mfgzxyeme.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
-|CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion ||||
+|CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion |(CURRENTLY DOWN)|||
 |CUBA |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||
-|CUBA |http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/ ||||
+|CUBA |http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion ||||
 |DARKLEAKS |http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion ||||
 |DARKRYPT |https://darkrypt.io |(CURRENTLY DOWN)|||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |(CURRENTLY DOWN)|||
@@ -58,7 +58,7 @@
 |GRIEF |http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion ||||
 |GROOVE |http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |(CURRENTLY DOWN)|||
 |HADES |http://ixltdyumdlthrtgx.onion |(CURRENTLY DOWN)|||
-|HARON |http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php ||Chaddadgroup:Chaddadgroup||
+|HARON |http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php |(CURRENTLY DOWN)|Chaddadgroup:Chaddadgroup||
 |HELLO KITTY |http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion |(CURRENTLY DOWN)|||
 |HITLER |http://hitleransomware.cf |(CURRENTLY DOWN)|||
 |HIVE |http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion ||||
@@ -83,7 +83,7 @@
 |LORENZ |http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion ||||
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion ||||
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |(CURRENTLY DOWN)|||
-|MARKETO (DEEP WEB) |https://marketo.cloud |(CURRENTLY DOWN)|||
+|MARKETO (DEEP WEB) |https://marketo.cloud ||||
 |MARKETO (tor v2) |http://g5sbltooh2okkcb2.onion |(CURRENTLY DOWN)|||
 |MARKETO (tor v3 new) |http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion ||||
 |MARKETO (tor v3 old) |http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |(CURRENTLY DOWN)|||
@@ -117,7 +117,7 @@
 |RANSOM CARTEL |http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion/ ||||
 |RANSOMEXX |http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion ||||
 |RANZY/AKO |http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |(CURRENTLY DOWN)|||
-|REVIL |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion ||||
+|REVIL |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(CURRENTLY DOWN)|||
 |ROBINHOOD |https://robinhoodleaks.tumblr.com |(CURRENTLY DOWN)|||
 |ROOK |http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |(CURRENTLY DOWN)|||
 |RRANSOM (victims page) |http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form |(CURRENTLY DOWN)|||

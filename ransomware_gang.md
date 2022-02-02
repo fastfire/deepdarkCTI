@@ -42,7 +42,6 @@
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion |(CURRENTLY DOWN)|||
 |CUBA |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||
 |CUBA |http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion ||||
-|DARKLEAKS |http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion ||||
 |DARKRYPT |https://darkrypt.io |(CURRENTLY DOWN)|||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |(CURRENTLY DOWN)|||
 |DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |(CURRENTLY DOWN)|||

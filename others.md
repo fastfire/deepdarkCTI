@@ -22,3 +22,4 @@
 |SAUDI ARAMCO LEAK|http://662m7dfcpfsmeetqucdekz3rn4a6dxsxbdjwd6iz3rwnogjsj7i3hxad.onion/|
 |VISITOR SEARCH ENGINE|http://visitorfi5kl7q7i.onion|
 |TOR Index Taxi | http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion/ |  
+|LeakTheAnalyst |http://leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion |  

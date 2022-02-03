@@ -18,6 +18,7 @@
 |CRDCLUB| https://crdclub.su/|
 |CRYPTBB| http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/|
 |DARK2WEB| https://dark2web.net/|
+|DARKLEAKS |http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion|
 |DARKMARKET| https://darkmarket.at/|
 |DARKNET| https://darknet.ug/|
 |DARKSIDE| https://www.dark-side.black/|

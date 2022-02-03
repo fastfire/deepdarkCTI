@@ -21,6 +21,6 @@
 |RANSOMWARE PAYMENTS TRACKER| https://ransomwhe.re|
 |RANSOMWARE VICTIMS TRACKER| https://ransom.wiki|
 |SAUDI ARAMCO LEAK|http://662m7dfcpfsmeetqucdekz3rn4a6dxsxbdjwd6iz3rwnogjsj7i3hxad.onion|
+|TOR Index Taxi | http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion|
 |Ukraine leak| http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion|
 |VISITOR SEARCH ENGINE|http://visitorfi5kl7q7i.onion|
-|TOR Index Taxi | http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion|

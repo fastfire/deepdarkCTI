@@ -1,6 +1,6 @@
 |Link| Category|
 | ------ | ------ |
-|https://t.me/Allhak_mv| Data Leaks
+|https://t.me/Allhak_mv (DELETED)| Data Leaks
 |https://t.me/altenens|
 |https://t.me/AntiPlumbers|
 |https://t.me/arvin_club|

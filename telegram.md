@@ -24,6 +24,7 @@
 |https://t.me/config_combos | Configs, Combos |
 |https://t.me/Configsandcombos | Configs, Combos |
 |https://t.me/coomingproject| Ransomware Gang |
+|https://t.me/cpartisans| Кибер-Партизаны (Cyber Partisans)
 |https://t.me/Cunfig | Data Leaks, Combos, Openbullet Configs |
 |https://t.me/cveNotify| CVE feed
 |https://t.me/cyb3rtr0nian|
@@ -97,6 +98,7 @@
 |https://t.me/MBCRANSOMWARE| Ransomware gang
 |https://t.me/meganzshare|
 |https://t.me/milkdude| Data Leaks
+|https://t.me/minsaudebr| Ransomware Gang  |
 |https://t.me/moment9007| Hacking and News
 |https://t.me/Moses_staff (DELETED) | Ransomware Gang |
 |https://t.me/nohidespace|
@@ -138,5 +140,4 @@
 |https://t.me/Yad2Leaks| Data Leaks
 |https://t.me/zer0daylab/| Hacking, Leaks and News
 |https://t.me/zeroc0d3r_v2| Zeroc0d3r Threat Actor Channel
-|https://t.me/cpartisans| Кибер-Партизаны (Cyber Partisans)
-|https://t.me/minsaudebr| Ransomware Gang  |
+

@@ -1,4 +1,4 @@
-# deepdarkCTI
+# deepdarkCTI (repo clonada para aprender github)
 Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
 
 The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.

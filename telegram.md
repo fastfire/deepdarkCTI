@@ -75,7 +75,7 @@
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0| Data Leaks
 |https://t.me/joinchat/YOS3-gNIIINjNWRk (EXPIRED)| Data Leaks
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|
-|https://t.me/joker_logs1 | JokerLogs/Installs - Free logs and bots |
+|https://t.me/joker_logs1 (DELETED)| JokerLogs/Installs - Free logs and bots |
 |https://t.me/Kristina_Pass_RF| Data Leaks
 |https://t.me/latest_leaks| Data Leaks
 |https://t.me/leakdatabase (DELETED)| Data Leaks

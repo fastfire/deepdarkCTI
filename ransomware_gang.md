@@ -23,6 +23,7 @@
 |BIT/LOLKEK/GLOBEIMPOSTER (SUPPORT PAGE) |http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |||
 |BLACKBYTE (1) |http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion |(CURRENTLY DOWN)|||
 |BLACKBYTE (2) |http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |(CURRENTLY DOWN)|||
+|BLACKBYTE (NEW) |http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion ||||
 |BLACKMATTER |http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |(CURRENTLY DOWN)|||
 |BLACKMATTER Support |http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2 |(CURRENTLY DOWN)|||
 |BLACK SHADOW (DEEP WEB)|https://blackshadow.cc |(CURRENTLY DOWN)|||

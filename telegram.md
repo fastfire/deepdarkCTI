@@ -76,7 +76,7 @@
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0| Data Leaks
 |https://t.me/joinchat/YOS3-gNIIINjNWRk (EXPIRED)| Data Leaks
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|
-|https://t.me/joker_logs1 | JokerLogs/Installs - Free logs and bots |
+|https://t.me/joker_logs1 (DELETED)| JokerLogs/Installs - Free logs and bots |
 |https://t.me/Kristina_Pass_RF| Data Leaks
 |https://t.me/latest_leaks| Data Leaks
 |https://t.me/leakdatabase (DELETED)| Data Leaks
@@ -99,6 +99,7 @@
 |https://t.me/MBCRANSOMWARE| Ransomware gang
 |https://t.me/meganzshare|
 |https://t.me/milkdude| Data Leaks
+|https://t.me/moment9007 (DELETED)| Hacking and News
 |https://t.me/minsaudebr| Ransomware Gang  |
 |https://t.me/moment9007| Hacking and News
 |https://t.me/Moses_staff (DELETED) | Ransomware Gang |
@@ -141,7 +142,10 @@
 |https://t.me/worldwidelogs | Data Leaks |
 |https://t.me/Yad2Leaks| Data Leaks
 |https://t.me/zer0daylab/| Hacking, Leaks and News
+|https://t.me/zeroc0d3r_v2 (DELETED)| Zeroc0d3r Threat Actor Channel
+|https://t.me/cpartisans| Кибер-Партизаны (Cyber Partisans)
+|https://t.me/minsaudebr| Ransomware Gang  |
 |https://t.me/zeroc0d3r_v2| Zeroc0d3r Threat Actor Channel
 |https://t.me/joinchat/j686dJsfnF0wYmM0| PhishyBiz - phishing pages |
 |https://t.me/+UYKtaIt6KFGlFwBJ| VIP Config - configs, combos, etc |
-|
+|https://t.me/joinchat/j686dJsfnF0wYmM0|

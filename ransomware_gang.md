@@ -138,3 +138,4 @@
 |VICE SOCIETY |http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion |||
 |XING LOCKER |http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |(CURRENTLY DOWN)|||
 |XINOF |http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |(CURRENTLY DOWN)|||
+|ZEON (victims page)|http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion ||||

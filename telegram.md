@@ -31,6 +31,7 @@
 |https://t.me/cybdetective| News & Info Sharing
 |https://t.me/cyber_cracking_mv (DELETED)|
 |https://t.me/D3atr0y3d| Data Leaks
+|https://t.me/D3v1LZoNe | devilzone 1 - configs, combos |
 |https://t.me/DarkfeedNews| News
 |https://t.me/darkrypt (DELETED)| Ransomware gang
 |https://t.me/DarkWebForums (DELETED)| Forum
@@ -131,6 +132,7 @@
 |https://t.me/torbrowser_leak_database (DELETED) | Data Leaks |
 |https://t.me/torlinks|
 |https://t.me/udacha123yes| Ransomware Gang |
+|https://t.me/V3TerN| devilzone (2) - configs, combos, etc |
 |https://t.me/venomous_support (DELETED)| Ransomware gang
 |https://t.me/We_are_not_eternal|
 |https://t.me/weleakdatabase | Data Leaks |
@@ -140,5 +142,6 @@
 |https://t.me/Yad2Leaks| Data Leaks
 |https://t.me/zer0daylab/| Hacking, Leaks and News
 |https://t.me/zeroc0d3r_v2| Zeroc0d3r Threat Actor Channel
-|https://t.me/joinchat/j686dJsfnF0wYmM0|
-
+|https://t.me/joinchat/j686dJsfnF0wYmM0| PhishyBiz - phishing pages |
+|https://t.me/+UYKtaIt6KFGlFwBJ| VIP Config - configs, combos, etc |
+|

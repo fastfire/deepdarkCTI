@@ -149,3 +149,4 @@
 |https://t.me/joinchat/j686dJsfnF0wYmM0| PhishyBiz - phishing pages |
 |https://t.me/+UYKtaIt6KFGlFwBJ| VIP Config - configs, combos, etc |
 |https://t.me/joinchat/j686dJsfnF0wYmM0|
+|https://t.me/freedatabasechannel| Data Leaks |

@@ -5,3 +5,4 @@
 |Eros Market| https://discord.gg/YZmJNjcG| valid 7 days from 07/19/21|
 |LolzTeam| https://discord.com/invite/lzt|
 |VXUnderground| https://discord.com/invite/3mxXqnD78a|
+|AgainstTheWest| https://discord.com/invite/wCRH46NgEF |expired|

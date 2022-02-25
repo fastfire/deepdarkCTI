@@ -148,3 +148,4 @@
 |https://t.me/+UYKtaIt6KFGlFwBJ| VIP Config - configs, combos, etc |
 |https://t.me/joinchat/j686dJsfnF0wYmM0|
 |https://t.me/freedatabasechannel (DELETED)| Data Leaks |
+|https://t.me/leaked_detabase| Data Leaks |

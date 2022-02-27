@@ -66,6 +66,8 @@
 |RAID FORUM (mirror 1)| https://rf.ws|
 |RAID FORUM (mirror 2)| https://raid.lol/|
 |RAID FORUM (mirror 3)| https://rfmirror.com/|
+|RAID FORUMS2| https://raidforums2.com/|
+|RAID FORUMS2| https://raidforumstwo.com/|
 |SINFUL| https://sinfulsite.com/|
 |RAMBLE| http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion| 
 |RAMP (old) |http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion|

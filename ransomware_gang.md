@@ -7,7 +7,7 @@
 |54bb47h |http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog |(CURRENTLY DOWN)|||
 |54bb47h |http://54bb47h.blog |(CURRENTLY DOWN)|||
 |54bb47h (victims page) |http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |(CURRENTLY DOWN)|||
-|AgainstTheWest |http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion/ |(CURRENTLY DOWN)|||
+|AgainstTheWest |http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion/ |(CURRENTLY DOWN)||https://t.me/ATW2022|
 |AKO |http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |(CURRENTLY DOWN)|||
 |ALPHV (aka BlackCat) (1)|http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |(CURRENTLY DOWN)||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
 |ALPHV (aka BlackCat) (2) |http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion ||||

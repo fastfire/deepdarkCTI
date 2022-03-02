@@ -8,3 +8,4 @@
 |https://twitter.com/ecarlesi | Phishing IOC | 
 |https://twitter.com/EmotetB | Emotet OSINT | 
 |https://twitter.com/pr0xylife | Emotet OSINT |
+|https://twitter.com/vxunderground | malware samples |

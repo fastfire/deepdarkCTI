@@ -23,7 +23,7 @@
 |https://t.me/Combulist (DELETED)|
 |https://t.me/config_combos | Configs, Combos |
 |https://t.me/Configsandcombos | Configs, Combos |
-|https://t.me/coomingproject| Ransomware Gang |
+|https://t.me/coomingproject (DELETED)| Ransomware Gang |
 |https://t.me/cpartisans| Кибер-Партизаны (Cyber Partisans)
 |https://t.me/Cunfig | Data Leaks, Combos, Openbullet Configs |
 |https://t.me/cveNotify| CVE feed

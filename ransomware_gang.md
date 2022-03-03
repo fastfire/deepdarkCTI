@@ -50,9 +50,9 @@
 |DOTADMIN |http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |||@dotADMINbot (Telegram)|
 |ECH0RAIX |http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |(CURRENTLY DOWN)|||
 |EGREGOR |https://egregornews.com |(CURRENTLY DOWN)|||
-|ENTROPY |http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |||
+|ENTROPY |http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |(CURRENTLY DOWN)||
 |EP918 |http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion |(CURRENTLY DOWN)|||
-|EVEREST |http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion ||||YES|
+|EVEREST |http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |(CURRENTLY DOWN)|||YES|
 |EVILCORP |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |(CURRENTLY DOWN)|||
 |EXORCIST |http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |(CURRENTLY DOWN)|||
 |FREE CIVILIAN (attacks Ukrainian government agencies)|http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion/ ||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
@@ -86,19 +86,19 @@
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |(CURRENTLY DOWN)|||
 |MARKETO (DEEP WEB) |https://marketo.cloud |(CURRENTLY DOWN)|||
 |MARKETO (tor v2) |http://g5sbltooh2okkcb2.onion |(CURRENTLY DOWN)|||
-|MARKETO (tor v3 new) |http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion ||||
+|MARKETO (tor v3 new) |http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion |(CURRENTLY DOWN)|||
 |MARKETO (tor v3 old) |http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |(CURRENTLY DOWN)|||
 |MAZE |https://newsmaze.net |(CURRENTLY DOWN)|||
 |MBC |http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |(CURRENTLY DOWN)|||
 |MEDUSA LOCKER |http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion ||||
 |MIDAS/HARON |http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion/blog.php |||
-|Moses Staff (DEEP WEB) |http://moses-staff.se |||https://t.me/moses_staff_se_11|
+|Moses Staff (DEEP WEB) |http://moses-staff.se |||https://t.me/moses_staff_se_11||
 |Moses Staff |http://mosesstaffm7hptp.onion |(CURRENTLY DOWN)|||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)|||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion |(CURRENTLY DOWN)|||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)|||
 |NEFILIM |http://hxt254aygrsziejn.onion |(CURRENTLY DOWN)|||
-|NEMTY |http://nemty.top |(CURRENTLY DOWN)|||
+|NEMTY (surface web) |http://nemty.top |(CURRENTLY DOWN)|||
 |NEMTY |http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |(CURRENTLY DOWN)|||
 |NETWALKER |http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |(CURRENTLY DOWN)|||
 |NightSky|http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |(CURRENTLY DOWN)|||
@@ -128,11 +128,11 @@
 |SNATCH |http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php ||||
 |SODINOKIBI (REVIL) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(CURRENTLY DOWN)|||
 |SPOOK DATA |http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/ |(CURRENTLY DOWN)|||YES|
-|STORMOUS |||https://t.me/STORMOUS_HACKER |
+|STORMOUS ||||https://t.me/STORMOUS_HACKER ||
 |SUGAR (victims page)|http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data= ||||
 |SUGAR (SURFACE WEB)|https://sugarpanel.space/advauth_ffma |(CURRENTLY DOWN)|||
 |SUNCRYPT (tor v2) |http://nbzzb6sa6xuura2z.onion |(CURRENTLY DOWN)|||
-|SUNCRYPT (tor v3) |http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion ||||
+|SUNCRYPT (tor v3) |http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |(CURRENTLY DOWN)|||
 |SynACK (El_Cometa) |http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |(CURRENTLY DOWN)|||
 |VFOKX (1) |http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |(CURRENTLY DOWN)|||
 |VFOKX (2) |http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |(CURRENTLY DOWN)|||

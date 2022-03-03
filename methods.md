@@ -1,67 +1,49 @@
-**TWITTER**
+# Twitter
 
-Look for ransomware related resources on the dark web
+Search for ransomware related resources on the dark web
 
-(url:onion) "ransomware"
+```(url:onion) "ransomware"```
 
-ransomware AND (url:onion -filter:retweets)
+```ransomware AND (url:onion -filter:retweets)```
 
-(hxxp:// OR http://) [.] AND url:onion
+```(hxxp:// OR http://) [.] AND url:onion```
 
+Search for PoC of vulnerabilities
 
-Look for vulnerability PoC
+```PoC and CVE-20xx-xxxxx```
 
-PoC and CVE-20xx-xxxxx
+Search for leaks on pastebin or ghostbin
 
+```target OR dump OR combo OR password OR leak OR breach OR databreach OR credential OR steal AND (url:pastebin.com OR url:ghostbin.co)```
 
-Look for leaks on pastebin or ghostbin
+# Google
 
-target OR dump OR combo OR password OR leak OR breach OR databreach OR credential OR steal AND (url:pastebin.com OR url:ghostbin.co)
+Search for onion sites on AnonFiles shared
+```intext:.onion site:anonfiles.com```
 
+Search for vulnerability PoC in GitHub
+```CVE-20xx-xxxxx site:GitHub.com```
 
-**GOOGLE**
-
-Look for onion sites on AnonFiles shared
-intext:.onion site:anonfiles.com
-
-Look for vulnerability PoC in GitHub
-CVE-20xx-xxxxx site:GitHub.com
-
-
-**DARK WEB SITE ANALYSIS**
-
-https://www.neteye-blog.com/2021/07/analysis-of-a-dark-web-site/
-
-
-**TELEGRAM**
-
-Search for onion links in Telegram groups and channels
-
-
-**DISCORD**
-
-Search for onion links in Discord channels
-
-
-**SHODAN**
+# Shodan
 
 Use these filters:
-ssl:".onion"
-".onion"
-"linkxyz.onion"
+```ssl:".onion"```
+```".onion"```
+```"linkxyz.onion"```
 
-**REDDIT**
+# Interesting urls
 
-join to r/onions
+[r/onions](https://www.reddit.com/r/onions/) on reddit
+In an [article](https://www.neteye-blog.com/2021/07/analysis-of-a-dark-web-site/) at Neteye blog we can see how to perform an analysis of a site present on the Dark Web
 
 
-**VARIOUS**
+# Other
 
-**How to download large files from Tor or anonymize yourself while downloading files**
+## How to download large files from Tor or anonymize yourself while downloading files
 - Install torsocks `sudo apt install torsocks`
-- Use torsocks chained with wget `torsocks wget --tries=0 --retry-connrefused --continue --timeout=90 --progress=bar --show-progress --random-wait --append-output=/tmp/wget_background <YOUR DOWNLOAD LINK>`
+- Use torsocks chained with wget `torsocks wget --tries=0 --retry-connrefused --retry-on-host-error -retry-on-http-error=500,502 --continue --timeout=90 --progress=bar --show-progress --random-wait --append-output=/tmp/wget_background <YOUR DOWNLOAD LINK>`
 
-**How to download files via cmdline from Raidforums**
+## How to download files via cmdline from Raidforums
 - On your favorite browser go to raidforums website
 - Open developer tools (for firefox CTRL+SHIFT+i)
 - Go to network (if no data do CTRL+r to reload)
@@ -71,7 +53,8 @@ join to r/onions
 - Append --output to your cURL cmd with a filename like (curl ... --output thisisatest.7z)
 - Enjoy
 
-**SEARCH INVITATION LINKS (thanks to IntelligenceX https://intelx.io/dorks)**
+## Search for invitation links
+Thanks to [IntelligenceX](https://intelx.io/dorks)
 - Skype: https://www.google.com/search?q=%22join.skype.com%22%20-site:google.com%20-site:microsoft.com
 - Zoom: https://www.google.com/search?q=%22zoom.us%2Fj%2F%22
 - Google Hangouts: https://www.google.com/search?q=%22hangouts.google.com%2Fgroup%2F%22%20-site:google.com

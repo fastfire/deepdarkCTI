@@ -10,3 +10,4 @@
 |https://twitter.com/EmotetB | Emotet OSINT | 
 |https://twitter.com/pr0xylife | Emotet OSINT |
 |https://twitter.com/vxunderground | malware samples |
+|https://twitter.com/Cyberknow20 | Situational Awareness |

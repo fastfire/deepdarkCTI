@@ -21,6 +21,7 @@
 |DARKLEAKS |http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion|
 |DARKMARKET| https://darkmarket.at/|
 |DARKNET| https://darknet.ug/|
+|DARKNETWORLD| https://www.darknetworld.com/|
 |DARKSIDE| https://www.dark-side.black/|
 |DEDICATET| https://dedicatet.com/|
 |DEFCON| http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion|

@@ -128,7 +128,7 @@
 |https://t.me/StormFreeConfig| Configs, Combos |
 |https://t.me/tbotlist |Bots |
 |https://t.me/techpwnews| News
-|https://t.me/theofficial0day|
+|https://t.me/theofficial0day (DELETED)
 |https://t.me/torbrowser_leak_database (DELETED) | Data Leaks |
 |https://t.me/torlinks|
 |https://t.me/udacha123yes| Ransomware Gang |

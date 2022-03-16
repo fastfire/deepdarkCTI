@@ -144,7 +144,7 @@
 |https://t.me/zeroc0d3r_v2 (DELETED)| Zeroc0d3r Threat Actor Channel
 |https://t.me/cpartisans| Кибер-Партизаны (Cyber Partisans)
 |https://t.me/minsaudebr| Ransomware Gang  |
-|https://t.me/joinchat/j686dJsfnF0wYmM0| PhishyBiz - phishing pages |
+|https://t.me/joinchat/j686dJsfnF0wYmM0 (EXPIRED)| PhishyBiz - phishing pages |
 |https://t.me/+UYKtaIt6KFGlFwBJ| VIP Config - configs, combos, etc |
 |https://t.me/joinchat/j686dJsfnF0wYmM0|
 |https://t.me/freedatabasechannel (DELETED)| Data Leaks |

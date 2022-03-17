@@ -149,3 +149,4 @@
 |https://t.me/joinchat/j686dJsfnF0wYmM0|
 |https://t.me/freedatabasechannel (DELETED)| Data Leaks |
 |https://t.me/leaked_detabase| Data Leaks |
+|https://t.me/xaknet_team| Killnet |

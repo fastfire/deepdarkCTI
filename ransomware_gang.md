@@ -11,6 +11,7 @@
 |AKO |http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |(CURRENTLY DOWN)|||
 |ALPHV (aka BlackCat) (1)|http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |(CURRENTLY DOWN)||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
 |ALPHV (aka BlackCat) (2) |http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion ||||
+|ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |||http://t.me/arvin_club|
 |ASTROTEAM |http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |(CURRENTLY DOWN)|||
 |ATOMSILO |http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |(CURRENTLY DOWN)|||
 |ATOMSILO |http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion |(CURRENTLY DOWN)|||

@@ -1,6 +1,7 @@
 |Name|Link|Status|User:Password|Tox ID or other channel|RSS Feed|
 | ------ | ------ | ------ | ------ | ------ | ----- |
 |RANSOM DB |https://www.ransom-db.com|||
+|RANSOMWARE GROUP SITES (list) |https://ransomwatch.telemetry.ltd/#/INDEX ||||
 |RANSOMWARE GROUP SITES (list) |http://thexfvx7hqcrpgtm.onion |(CURRENTLY DOWN)|||
 |RANSOMWARE GROUP SITES (list) |http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion ||||

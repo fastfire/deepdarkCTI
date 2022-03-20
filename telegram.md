@@ -150,3 +150,4 @@
 |https://t.me/freedatabasechannel (DELETED)| Data Leaks |
 |https://t.me/leaked_detabase| Data Leaks |
 |https://t.me/xaknet_team| Killnet |
+|https://t.me/opentis| IoC |

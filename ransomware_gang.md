@@ -99,7 +99,7 @@
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)|||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion |(CURRENTLY DOWN)|||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)|||
-|N4UGHTYSEC |https://t.me/N4ughtySecStatutes |||@N4ughtySecTU||
+|N4UGHTYSEC |https://t.me/N4ughtySecStatutes |||@N4ughtySecTU & https://t.me/n4ughtysec||
 |NEFILIM |http://hxt254aygrsziejn.onion |(CURRENTLY DOWN)|||
 |NEMTY (surface web) |http://nemty.top |(CURRENTLY DOWN)|||
 |NEMTY |http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |(CURRENTLY DOWN)|||

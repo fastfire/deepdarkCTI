@@ -5,6 +5,8 @@
 |ANTIMIGALKI| https://antimigalki.co/|
 |ASCARDING| https://ascarding.com/|
 |BHF| https://bhf.io/|
+|BREACHED| https://breached.co/|
+|BTTFORUM| https://btt-club.top/|
 |BLACKHATWORLD| https://blackhatworld.com/|
 |BTTFORUM| https://btt-club.top/|
 |CARDING FORUM (deep)| https://cybercarders.su/|

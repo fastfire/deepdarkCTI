@@ -149,3 +149,5 @@
 |https://t.me/leaked_detabase| Data Leaks |
 |https://t.me/xaknet_team| Killnet |
 |https://t.me/opentis| IoC |
+|https://t.me/+bIPtOTGG7QgwNDQ5| Data Leaks |
+|https://t.me/BreachedData | Data Leaks |

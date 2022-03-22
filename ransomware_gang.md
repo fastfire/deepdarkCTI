@@ -40,11 +40,7 @@
 |COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion|(CURRENTLY DOWN)|||
 |CRYP70N1C0D3 |http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |||
-|COOMINGPROJECT |http://teo7aj5mfgzxyeme.onion |(CURRENTLY DOWN)|||
-|COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |(CURRENTLY DOWN)|||
-|COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
-|CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion |(CURRENTLY DOWN)|||
-|CUBA |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||
+|CUBA (old) |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||
 |CUBA |http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion ||||
 |DARKRYPT |https://darkrypt.io |(CURRENTLY DOWN)|||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |(CURRENTLY DOWN)|||
@@ -54,7 +50,7 @@
 |EGREGOR |https://egregornews.com |(CURRENTLY DOWN)|||
 |ENTROPY |http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |(CURRENTLY DOWN)||
 |EP918 |http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion |(CURRENTLY DOWN)|||
-|EVEREST |http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion ||||YES|
+|EVEREST |http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |(CURRENTLY DOWN)|||YES|
 |EVILCORP |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |(CURRENTLY DOWN)|||
 |EXORCIST |http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |(CURRENTLY DOWN)|||
 |FREE CIVILIAN (attacks Ukrainian government agencies)|http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion/ |(CURRENTLY DOWN)|78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
@@ -66,7 +62,7 @@
 |HITLER |http://hitleransomware.cf |(CURRENTLY DOWN)|||
 |HIVE |http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion ||||
 |HIVE (negotiation) |http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion ||random generated user/pass in ransom note||
-|HOLYGHOST |http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion ||||
+|HOLYGHOST |http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |(CURRENTLY DOWN)|||
 |HOTARUS |http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |(CURRENTLY DOWN)|||
 |KARAKURT |https://karakurt.tech |(CURRENTLY DOWN)|||
 |KARAKURT |https://karakurt.co ||||
@@ -130,7 +126,7 @@
 |ROOK |http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |(CURRENTLY DOWN)|||
 |RRANSOM (victims page) |http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form ||||
 |SEKHMET |http://sekhmet.top |(CURRENTLY DOWN)|||
-|SNATCH (DEEP WEB) |https://snatch.press/ |(CURRENTLY DOWN)|||
+|SNATCH (DEEP WEB) |https://snatch.press ||||
 |SNATCH (DEEP WEB) |http://snatch.vip |(CURRENTLY DOWN)|||
 |SNATCH |http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php ||||
 |SODINOKIBI (REVIL) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(CURRENTLY DOWN)|||

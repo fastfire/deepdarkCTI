@@ -1,6 +1,7 @@
 |Name|Link|Status|User:Password|Tox ID or other channel|RSS Feed|
 | ------ | ------ | ------ | ------ | ------ | ----- |
 |RANSOM DB |https://www.ransom-db.com|||
+|RANSOMWARE GROUP SITES (list) |https://ransomwatch.telemetry.ltd/#/INDEX ||||
 |RANSOMWARE GROUP SITES (list) |http://thexfvx7hqcrpgtm.onion |(CURRENTLY DOWN)|||
 |RANSOMWARE GROUP SITES (list) |http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion ||||
@@ -11,6 +12,7 @@
 |AKO |http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |(CURRENTLY DOWN)|||
 |ALPHV (aka BlackCat) (1)|http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |(CURRENTLY DOWN)||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
 |ALPHV (aka BlackCat) (2) |http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion ||||
+|ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |||http://t.me/arvin_club|
 |ASTROTEAM |http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |(CURRENTLY DOWN)|||
 |ATOMSILO |http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |(CURRENTLY DOWN)|||
 |ATOMSILO |http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion |(CURRENTLY DOWN)|||
@@ -71,6 +73,7 @@
 |KARAKURT 2.0 |https://209.222.98.19 ||||
 |KARMA |http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |(CURRENTLY DOWN)|||
 |LAPSUS$ | |||https://t.me/minsaudebr||
+|KELVIN SECURITY |https://kelvinsecteamcyber.wixsite.com/my-site/items ||https://t.me/kelvinsecteam|
 |LOCKBIT 2.0 (mirror 1) |http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |LOCKBIT 2.0 (mirror 2) |http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |LOCKBIT 2.0 (mirror 3) |http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
@@ -99,6 +102,7 @@
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)|||
 |MYDECRYPTOR |http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion |(CURRENTLY DOWN)|||
 |N3TW0RM |http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion  |(CURRENTLY DOWN)|||
+|N4UGHTYSEC |https://t.me/N4ughtySecStatutes |||@N4ughtySecTU & https://t.me/n4ughtysec||
 |NEFILIM |http://hxt254aygrsziejn.onion |(CURRENTLY DOWN)|||
 |NEMTY (surface web) |http://nemty.top |(CURRENTLY DOWN)|||
 |NEMTY |http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |(CURRENTLY DOWN)|||
@@ -131,7 +135,7 @@
 |SNATCH |http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php ||||
 |SODINOKIBI (REVIL) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(CURRENTLY DOWN)|||
 |SPOOK DATA |http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/ |(CURRENTLY DOWN)|||YES|
-|STORMOUS ||||https://t.me/STORMOUS_HACKER ||
+|STORMOUS |http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion |||https://t.me/STORMOUS_HACKER ||
 |SUGAR (victims page)|http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data= ||||
 |SUGAR (SURFACE WEB)|https://sugarpanel.space/advauth_ffma |(CURRENTLY DOWN)|||
 |SUNCRYPT (tor v2) |http://nbzzb6sa6xuura2z.onion |(CURRENTLY DOWN)|||
@@ -140,8 +144,9 @@
 |VFOKX (1) |http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |(CURRENTLY DOWN)|||
 |VFOKX (2) |http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |(CURRENTLY DOWN)|||
 |VICE SOCIETY |http://4hzyuotli6maqa4u.onion |(CURRENTLY DOWN)|||
-|X001XS |http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion |||
 |VICE SOCIETY |http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion ||||
+|VICE SOCIETY |http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion ||||
+|X001XS |http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion |||
 |XING LOCKER |http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |(CURRENTLY DOWN)|||
 |XINOF |http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |(CURRENTLY DOWN)|||
 |ZEON (victims page)|http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion ||||

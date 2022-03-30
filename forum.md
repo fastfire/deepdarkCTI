@@ -72,6 +72,7 @@
 |NULLED| https://www.nulled.to/|
 |OGUSERS| https://www.ogusers.com/|
 |PAYLOAD.SH| https://payload.sh/|
+|PHREAKER| phreaker.info|
 |PIRATEBUHTA| https://s1.piratebuhta.net/|
 |PROLOGIC| https://prologic.su/|
 |PROTON| https://proton.sc|

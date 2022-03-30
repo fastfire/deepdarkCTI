@@ -100,7 +100,8 @@
 |https://t.me/meganzshare|
 |https://t.me/milkdude| Data Leaks
 |https://t.me/moment9007 (DELETED)| Hacking and News
-|https://t.me/minsaudebr| Ransomware Gang (Lapsus$) |
+|https://t.me/minsaudebr| Lapsus$ channel |
+|https://t.me/saudechat| Lapsus$ chat |
 |https://t.me/Moses_staff (DELETED) | Ransomware Gang |
 |https://t.me/nohidespace|
 |https://t.me/nohidespace| Combo List

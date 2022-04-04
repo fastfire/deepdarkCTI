@@ -11,3 +11,6 @@
 |https://twitter.com/pr0xylife | Emotet OSINT |
 |https://twitter.com/vxunderground | malware samples |
 |https://twitter.com/Cyberknow20 | Situational Awareness |
+|https://twitter.com/shadowchasing1 | APT IOC |
+|https://twitter.com/vuldb | APT actors & IOC |
+|https://twitter.com/thedfirreport | APT IOC |

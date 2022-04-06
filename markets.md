@@ -63,3 +63,4 @@
 |XLEET| https://xleet.is/|
 |XLEET (tor)| http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion|
 |ZISMO| https://zismo.biz/
+|DarkLeak Market|http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion

@@ -87,7 +87,7 @@
 |https://t.me/LeakedSource| Data Leaks
 |https://t.me/leaklicks/| Data Leaks
 |https://t.me/LeaksData| Data Leaks
-|https://t.me/leaks_db| Data Leaks
+|https://t.me/leaks_db (DELETED)| Data Leaks
 |https://t.me/leaksgood (DELETED)| Data Leaks
 |https://t.me/LeaRNEXploIT|
 |https://t.me/lefousamples| Data Leaks
@@ -152,6 +152,6 @@
 |https://t.me/opentis (DELETED)| IoC |
 |https://t.me/+bIPtOTGG7QgwNDQ5| Data Leaks |
 |https://t.me/BreachedData | Data Leaks |
-|https://t.me/newleakschannel | Data Leaks |
+|https://t.me/newleakschannel (DELETED)| Data Leaks |
 |https://t.me/db_rf_rb | Data Leaks |
 |https://t.me/Oxceef | Data Leaks |

@@ -44,7 +44,7 @@
 |https://t.me/datamuseum (DELETED)| Data Leaks
 |https://t.me/dbforall|
 |https://t.me/DBleak| Data Leaks
-|https://t.me/DB_MARKEET|
+|https://t.me/DB_MARKEET (DELETED)|
 |https://t.me/deepdatamarket (DELETED)| Data Leaks
 |https://t.me/DWI_OFFICIAL|
 |https://t.me/exploit_db_com| Exploits

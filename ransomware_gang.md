@@ -26,7 +26,7 @@
 |BLACKBYTE (1) |http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion |(CURRENTLY DOWN)|||
 |BLACKBYTE (2) |http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |(CURRENTLY DOWN)|||
 |BLACKBYTE (3) |http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion |(CURRENTLY DOWN)|||
-|BLACKBYTE (4) |http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion |(CURRENTLY DOWN)|||
+|BLACKBYTE (4) |http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion ||||
 |BLACKMATTER |http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |(CURRENTLY DOWN)|||
 |BLACKMATTER Support |http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2 |(CURRENTLY DOWN)|||
 |BLACK SHADOW (DEEP WEB)|https://blackshadow.cc |(CURRENTLY DOWN)||https://t.me/Blackshadow_Team_official|

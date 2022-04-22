@@ -33,6 +33,7 @@
 |Genesis Market (clear)| https://genesis.market/|
 |HYDRA (tor v2)| http://hydra3rudf3j4hww.onion/|
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/|
+|INDUSTRIAL SPY| http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login |
 |LIBERTY| liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion|
 |LOCKDATA AUCTION (probably scam site)| http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/|
 |LuxeCC| https://luxecc.net/ | 

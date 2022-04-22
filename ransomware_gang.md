@@ -69,6 +69,7 @@
 |KARAKURT |https://karakurt.tech |(CURRENTLY DOWN)|||
 |KARAKURT |https://karakurt.co |(CURRENTLY DOWN)|||
 |KARAKURT 2.0 |https://209.222.98.19 |(CURRENTLY DOWN)|||
+|KARAKURT| https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion |||
 |KARMA |http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |(CURRENTLY DOWN)|||
 |LAPSUS$ ||||https://t.me/minsaudebr||
 |KELVIN SECURITY |https://kelvinsecteamcyber.wixsite.com/my-site/items ||https://t.me/kelvinsecteam|

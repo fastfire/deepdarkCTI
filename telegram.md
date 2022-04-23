@@ -111,7 +111,7 @@
 |https://t.me/openleak| Data Leaks
 |https://t.me/outlew (DELETED)|
 |https://t.me/privatecombos| Data Leaks
-|https://t.me/PrivateKeeperChannel | Data Leaks |
+|https://t.me/PrivateKeeperChannel (DELETED)| Data Leaks |
 |https://t.me/procoder_base| Data Leaks
 |https://t.me/pwnwiki_zhchannel|
 |https://t.me/ransomwatcher | Data Leaks |

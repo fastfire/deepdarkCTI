@@ -46,6 +46,7 @@
 |https://t.me/DBleak| Data Leaks
 |https://t.me/DB_MARKEET (DELETED)|
 |https://t.me/deepdatamarket (DELETED)| Data Leaks
+|https://t.me/ddos_separ| DDoS Services
 |https://t.me/DWI_OFFICIAL|
 |https://t.me/exploit_db_com| Exploits
 |https://t.me/flannels| Market
@@ -56,11 +57,14 @@
 |https://t.me/gladdos69_official| DDoS
 |https://t.me/grandgive|
 |https://t.me/gulfdocs| Data Leaks (Gulf Region)|
+|https://t.me/GitTools|
 |https://t.me/hadesh0p|
 |https://t.me/hashbin (DELETED) | Data Leaks
 |https://t.me/hidden_links| Hidden Links
 |https://t.me/HK4GANG|
+|https://t.me/hackgit| Offensive Security
 |https://t.me/HUBLOGS| Redline malware logs |
+|https://t.me/itarmyofukraine2022|
 |https://t.me/icrewhackers|
 |https://t.me/itsecalert| News
 |https://t.me/jester_stealer_channel | jester stealer channel |
@@ -78,6 +82,7 @@
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|
 |https://t.me/joker_logs1 (DELETED)| JokerLogs/Installs - Free logs and bots |
 |https://t.me/Kristina_Pass_RF| Data Leaks
+|https://t.me/killnet_channel|
 |https://t.me/latest_leaks| Data Leaks
 |https://t.me/leakdatabase (DELETED)| Data Leaks
 |https://t.me/LeakData (DELETED)| Data Leaks
@@ -89,6 +94,7 @@
 |https://t.me/LeaksData| Data Leaks
 |https://t.me/leaks_db (DELETED)| Data Leaks
 |https://t.me/leaksgood (DELETED)| Data Leaks
+|https://t.me/leakinformation|Data Leaks
 |https://t.me/LeaRNEXploIT|
 |https://t.me/lefousamples| Data Leaks
 |https://t.me/Log_Market_Place| Data Leaks
@@ -101,6 +107,7 @@
 |https://t.me/milkdude| Data Leaks
 |https://t.me/moment9007 (DELETED)| Hacking and News
 |https://t.me/minsaudebr| Lapsus$ channel |
+|https://t.me/membersofxaknet|
 |https://t.me/saudechat| Lapsus$ chat |
 |https://t.me/Moses_staff (DELETED) | Ransomware Gang |
 |https://t.me/nohidespace|
@@ -109,10 +116,14 @@
 |https://t.me/O1chat| Market
 |https://t.me/opendataleaks| Data Leaks
 |https://t.me/openleak| Data Leaks
+|https://t.me/OnePlusChat|
 |https://t.me/outlew (DELETED)|
 |https://t.me/privatecombos| Data Leaks
+|https://t.me/ProxyMTProto|
+|https://t.me/peass|
 |https://t.me/PrivateKeeperChannel (DELETED)| Data Leaks |
 |https://t.me/procoder_base| Data Leaks
+|https://t.me/proxy_bar|. Exploits, Hacking and Leaks
 |https://t.me/pwnwiki_zhchannel|
 |https://t.me/ransomwatcher | Data Leaks |
 |https://t.me/reveng3rs| Data Leaks
@@ -128,6 +139,7 @@
 |https://t.me/Storm_Free_Config| Configs, Combos |
 |https://t.me/StormFreeConfig| Configs, Combos |
 |https://t.me/tbotlist |Bots |
+|https://t.me/Turbotelproxy|The fastest Telegram proxies
 |https://t.me/techpwnews| News
 |https://t.me/theofficial0day (DELETED)
 |https://t.me/torbrowser_leak_database (DELETED) | Data Leaks |
@@ -142,6 +154,7 @@
 |https://t.me/worldwidelogs | Data Leaks |
 |https://t.me/Yad2Leaks| Data Leaks
 |https://t.me/zer0daylab/| Hacking, Leaks and News
+|https://t.me/ZeroDay_TM| Original  ZeroDay  Community
 |https://t.me/zeroc0d3r_v2 (DELETED)| Zeroc0d3r Threat Actor Channel
 |https://t.me/cpartisans| Кибер-Партизаны (Cyber Partisans)
 |https://t.me/joinchat/j686dJsfnF0wYmM0 (EXPIRED)| PhishyBiz - phishing pages |

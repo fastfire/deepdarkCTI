@@ -30,7 +30,8 @@
 |DATABASE| http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion/|
 |DOCSHOP| https://doc-shop.ws/|
 |EMPIRE MARKET| http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion/|
-|Genesis Market (clear)| https://genesis.market/|
+|Genesis Market (down)| https://genesis.market/|
+|Genesis Market (deep)| https://genesismarket.org/|
 |HYDRA (tor v2)| http://hydra3rudf3j4hww.onion/|
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/|
 |INDUSTRIAL SPY| http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login |

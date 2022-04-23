@@ -121,7 +121,7 @@
 |https://t.me/privatecombos| Data Leaks
 |https://t.me/ProxyMTProto|
 |https://t.me/peass|
-|https://t.me/PrivateKeeperChannel | Data Leaks |
+|https://t.me/PrivateKeeperChannel (DELETED)| Data Leaks |
 |https://t.me/procoder_base| Data Leaks
 |https://t.me/proxy_bar|. Exploits, Hacking and Leaks
 |https://t.me/pwnwiki_zhchannel|
@@ -170,3 +170,4 @@
 |https://t.me/Oxceef | Data Leaks |
 |https://t.me/+5lUGBfjqWLg3MDZk | 0xCeek chat
 |https://t.me/atw2022| Against The West
+|https://t.me/Industrial_Spy | Industrial Spy

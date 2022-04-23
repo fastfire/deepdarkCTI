@@ -27,7 +27,7 @@
 |BLACKBYTE (1) |http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion |(CURRENTLY DOWN)|||
 |BLACKBYTE (2) |http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |(CURRENTLY DOWN)|||
 |BLACKBYTE (3) |http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion |(CURRENTLY DOWN)|||
-|BLACKBYTE (4) |http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion ||||
+|BLACKBYTE (4) |http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion |(CURRENTLY DOWN)|||
 |BLACKMATTER |http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |(CURRENTLY DOWN)|||
 |BLACKMATTER Support |http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2 |(CURRENTLY DOWN)|||
 |BLACK SHADOW (DEEP WEB)|https://blackshadow.cc |(CURRENTLY DOWN)||https://t.me/Blackshadow_Team_official|
@@ -69,6 +69,7 @@
 |KARAKURT |https://karakurt.tech |(CURRENTLY DOWN)|||
 |KARAKURT |https://karakurt.co |(CURRENTLY DOWN)|||
 |KARAKURT 2.0 |https://209.222.98.19 |(CURRENTLY DOWN)|||
+|KARAKURT| https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion |||
 |KARMA |http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |(CURRENTLY DOWN)|||
 |LAPSUS$ ||||https://t.me/minsaudebr||
 |KELVIN SECURITY |https://kelvinsecteamcyber.wixsite.com/my-site/items ||https://t.me/kelvinsecteam|
@@ -123,7 +124,8 @@
 |RANSOM CARTEL |http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |(CURRENTLY DOWN)|||
 |RANSOMEXX |http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion ||||
 |RANZY/AKO |http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion |(CURRENTLY DOWN)|||
-|REVIL |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(CURRENTLY DOWN)|||
+|REVIL (OLD) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(REDIRECT TO NEW)|||
+|REVIL (NEW) |http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/Blog ||||
 |ROBINHOOD |https://robinhoodleaks.tumblr.com |(CURRENTLY DOWN)|||
 |ROOK |http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |(CURRENTLY DOWN)|||
 |RRANSOM (victims page) |http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form ||||

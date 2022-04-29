@@ -1,5 +1,4 @@
 # deepdarkCTI
-https://img.shields.io/github/issues/fastfire/deepdarkCTI
 
 Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
 

@@ -60,6 +60,7 @@
 |https://t.me/GitTools|
 |https://t.me/hadesh0p|
 |https://t.me/hashbin (DELETED) | Data Leaks
+|https://t.me/hellokittyleaks | Data Leaks |
 |https://t.me/hidden_links| Hidden Links
 |https://t.me/HK4GANG|
 |https://t.me/hackgit| Offensive Security
@@ -176,4 +177,4 @@
 |https://t.me/canyoupwnme | News |
 |https://t.me/Stealers_Logs_Group | Stealer Logs |
 |https://t.me/ddossatmak | DDoS Services |
-|https://t.me/+5XrZvo1danNhOGEy | GODELESS CLOUD Botnet Logs|
+|https://t.me/+5XrZvo1danNhOGEy | GODELESS CLOUD Botnet Logs |

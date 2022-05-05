@@ -53,6 +53,7 @@
 |Russian Market (clear)| https://russianmarket.gs/|
 |Russian Market (clear)| https://russianmarket.gs/|
 |SHADOWCARDERS| https://shadowcarders.com/|
+|SOLARIS| http://solaris6hl3hd66utabkeuz2kb7nh5fgaa5zg7sgnxbm3r2uvsnvzzad.onion|
 |SWIPESTORE (clear)| https://swipestore.cc|
 |THEMAJESTIC| tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion|
 |TOR2DOOR| orn3olemwhrsqbpz7iv34mjzare6sns5z75rea3qzwqlle76wxsdzeqd.onion|

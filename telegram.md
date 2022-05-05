@@ -25,7 +25,7 @@
 |https://t.me/Configsandcombos | Configs, Combos |
 |https://t.me/coomingproject (DELETED)| Ransomware Gang |
 |https://t.me/cpartisans| Кибер-Партизаны (Cyber Partisans)
-|https://t.me/Cunfig | Data Leaks, Combos, Openbullet Configs |
+|https://t.me/Cunfig (DELETED)| Data Leaks, Combos, Openbullet Configs |
 |https://t.me/cveNotify| CVE feed
 |https://t.me/cyb3rtr0nian|
 |https://t.me/cybdetective| News & Info Sharing
@@ -177,4 +177,5 @@
 |https://t.me/canyoupwnme | News |
 |https://t.me/Stealers_Logs_Group | Stealer Logs |
 |https://t.me/ddossatmak | DDoS Services |
-|https://t.me/+5XrZvo1danNhOGEy | GODELESS CLOUD Botnet Logs |
+|https://t.me/+5XrZvo1danNhOGEy | GODELESS CLOUD Botnet Logs|
+|https://t.me/c0xCee | Data Leaks |

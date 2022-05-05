@@ -5,7 +5,6 @@
 |AlphaBay (tor)| http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion|
 |AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|
 |ARES| http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion/|
-|ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion|
 |ASEAN| asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion|
 |BLACKBONES| https://blackbones.net/|
 |BLACKPASS| http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion/|
@@ -26,19 +25,23 @@
 |CYPHER| http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion/|
 |DAKC0DE| http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion/|
 |DARKFOX MARKET| http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion/|
-|DARK LEAK MARKET| http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion|
+|DARK LEAK MARKET (DOWN)| http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion|
+|DARK LEAK MARKET| http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion|
 |DARK ZONE| http://6bcecdo7ldzkudt6dnsuljqoyhgme4afsnytarre5nucjhgzmrn4txad.onion|
 |DATABASE| http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion/|
 |DOCSHOP| https://doc-shop.ws/|
 |EMPIRE MARKET| http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion/|
-|Genesis Market (clear)| https://genesis.market/|
+|Genesis Market| https://genesis.market/|
 |HYDRA (tor v2)| http://hydra3rudf3j4hww.onion/|
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/|
+|INDUSTRIAL SPY| http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login |
+|Iran Info Marketplace | http://marketir7joj2ibuouojg2nwkdwfal5dhisp3g246jl4ur7r7zfvloid.onion |
 |LIBERTY| liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion|
 |LOCKDATA AUCTION (probably scam site)| http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/|
 |LuxeCC| https://luxecc.net/ | 
 |MAGBO (tor)| http://magbocc3tco4vmxx.onion/|
 |MAGBO (clear)| https://magbo.shop|
+|MegaCiti | http://ba72lxa2o2qxqixzeubnbookar2kssk42ds63m2qvlnr7b4oqtyayvad.onion/ |
 |MGM GRAND| wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion|
 |MONOPOLY| monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion|
 |NOHIDE| https://nohide.space/|
@@ -64,3 +67,4 @@
 |XLEET| https://xleet.is/|
 |XLEET (tor)| http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion|
 |ZISMO| https://zismo.biz/
+|DarkLeak Market|http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion

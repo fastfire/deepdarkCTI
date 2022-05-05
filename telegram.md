@@ -60,6 +60,7 @@
 |https://t.me/GitTools|
 |https://t.me/hadesh0p|
 |https://t.me/hashbin (DELETED) | Data Leaks
+|https://t.me/hellokittyleaks | Data Leaks |
 |https://t.me/hidden_links| Hidden Links
 |https://t.me/HK4GANG|
 |https://t.me/hackgit| Offensive Security

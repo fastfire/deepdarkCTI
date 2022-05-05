@@ -1,4 +1,5 @@
 # deepdarkCTI
+
 Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
 
 The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
@@ -41,3 +42,7 @@ Through this project, which takes into consideration the OSINT sources related t
 - RaaS (Ransomware As A Service) sites
 
 In addition, within the **methods** file, various techniques for searching and analyzing sources are described.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fastfire/deepdarkCTI&type=Date)](https://star-history.com/#fastfire/deepdarkCTI&Date)

@@ -98,6 +98,7 @@
 |MBC |http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |(CURRENTLY DOWN)|||
 |MEDUSA LOCKER |http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion ||||
 |MIDAS/HARON |http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion/blog.php |(CURRENTLY DOWN)||
+|MINDWARE |http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion ||||
 |Moses Staff (DEEP WEB) |http://moses-staff.se |||https://t.me/moses_staff_se_11||
 |Moses Staff |http://mosesstaffm7hptp.onion |(CURRENTLY DOWN)|||
 |MOUNT LOCKER |http://mountnewsokhwilx.onion |(CURRENTLY DOWN)|||

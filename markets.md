@@ -46,6 +46,7 @@
 |MONOPOLY| monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion|
 |NOHIDE| https://nohide.space/|
 |Pois0n| https://pois0ncc.ru|
+|ODIN| https://odin.to/|
 |ONLYONE| https://only-one.cc/|
 |PROBIV|https://probiv.one/|
 |Russian Market (tor)| http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion|

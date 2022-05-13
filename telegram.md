@@ -107,7 +107,7 @@
 |https://t.me/meganzshare|
 |https://t.me/milkdude| Data Leaks
 |https://t.me/moment9007 (DELETED)| Hacking and News
-|https://t.me/minbr| Lapsus$ channel |
+|https://t.me/minsaudebr| Lapsus$ channel |
 |https://t.me/membersofxaknet|
 |https://t.me/saudechat (DELETED)| Lapsus$ chat |
 |https://t.me/Moses_staff (DELETED) | Ransomware Gang |

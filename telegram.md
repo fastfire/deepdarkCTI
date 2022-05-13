@@ -131,7 +131,7 @@
 |https://t.me/s3cureEvn (DELETED)| News and Data Leaks |
 |https://t.me/sanaski | configs, combos |
 |https://t.me/Sell_rdp1|
-|https://t.me/SHARK_CHANNEL1| configs, combos |
+|https://t.me/SHARK_CHANNEL1 (DELETED)| configs, combos |
 |https://t.me/shieldteam1|
 |https://t.me/silentplug666| Market
 |https://t.me/snatch_news | Snatch Team (Ransomware Gang) |

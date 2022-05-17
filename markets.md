@@ -27,6 +27,7 @@
 |DARKFOX MARKET| http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion|
 |DARK LEAK MARKET| http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion|
 |DARK LEAK MARKET| http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion|
+|DARK LEAK MARKET| http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion|
 |DARK ZONE| http://6bcecdo7ldzkudt6dnsuljqoyhgme4afsnytarre5nucjhgzmrn4txad.onion (offline)|
 |DATABASE| http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion|
 |DOCSHOP| https://doc-shop.ws (offline)|

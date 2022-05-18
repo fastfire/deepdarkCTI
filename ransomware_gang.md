@@ -12,7 +12,7 @@
 |AKO |http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |(CURRENTLY DOWN)|||
 |ALPHV (aka BlackCat) (1)|http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |(CURRENTLY DOWN)||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
 |ALPHV (aka BlackCat) (2) |http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion ||||
-|ARVIN |http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |||http://t.me/arvin_club|
+|ARVIN |http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion (CURRENTLY DOWN)|||http://t.me/arvin_club|
 |ARVIN (new)|http://xxz6hl6wwoa25er62tbjdxda4nxyt5iqziavb73mhda6q6zujsgfoxqd.onion ||||
 |ASTROTEAM |http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |(CURRENTLY DOWN)|||
 |ATOMSILO |http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |(CURRENTLY DOWN)|||
@@ -32,7 +32,7 @@
 |BLACKBYTE (4) |http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion |(CURRENTLY DOWN)|||
 |BLACKMATTER |http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |(CURRENTLY DOWN)|||
 |BLACKMATTER Support |http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2 |(CURRENTLY DOWN)|||
-|BLACK SHADOW (DEEP WEB)|https://blackshadow.cc |||https://t.me/Blackshadow_Team_official|
+|BLACK SHADOW (DEEP WEB)|https://blackshadow.cc (CURRENTLY DOWN)|||https://t.me/Blackshadow_Team_official|
 |BLACK SHADOW |http://544corkfh5hwhtn4.onion |(CURRENTLY DOWN)|||
 |BONACI GROUP |http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |(CURRENTLY DOWN)|||
 |CLOP |http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion ||||
@@ -43,7 +43,7 @@
 |COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion|(CURRENTLY DOWN)|||
-|CRYP70N1C0D3 |http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |||
+|CRYP70N1C0D3 |http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion (CURRENTLY DOWN)|||
 |CUBA (old) |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||
 |CUBA |http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion ||||
 |DARKRYPT |https://darkrypt.io |(CURRENTLY DOWN)|||
@@ -57,7 +57,7 @@
 |EVEREST |http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion.ly ||||YES|
 |EVILCORP |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |(CURRENTLY DOWN)|||
 |EXORCIST |http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |(CURRENTLY DOWN)|||
-|FREE CIVILIAN (attacks Ukrainian government agencies)|http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion/ ||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
+|FREE CIVILIAN (attacks Ukrainian government agencies)|http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion/ (CURRENTLY DOWN)||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
 |GRIEF |http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |(CURRENTLY DOWN)|||
 |GROOVE |http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |(CURRENTLY DOWN)|||
 |HADES |http://ixltdyumdlthrtgx.onion |(CURRENTLY DOWN)|||

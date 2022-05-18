@@ -46,6 +46,7 @@
 |CRYP70N1C0D3 |http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |||
 |CUBA (old) |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||
 |CUBA |http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion ||||
+|DARK ANGELS|https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion/ ||||
 |DARKRYPT |https://darkrypt.io |(CURRENTLY DOWN)|||
 |DARKSIDE |http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |(CURRENTLY DOWN)|||
 |DOPPLE PAYMER |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |(CURRENTLY DOWN)|||

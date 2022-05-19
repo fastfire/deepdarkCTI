@@ -173,7 +173,7 @@
 |https://t.me/atw2022| Against The West |
 |https://t.me/Industrial_Spy | Industrial Spy |
 |https://t.me/Database_breached | Data Leaks |
-|https://t.me/AccountBins |combos|
+|https://t.me/AccountBins (DELETED)|combos|
 |https://t.me/canyoupwnme | News |
 |https://t.me/Stealers_Logs_Group | Stealer Logs |
 |https://t.me/ddossatmak | DDoS Services |

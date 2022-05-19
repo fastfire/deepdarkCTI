@@ -32,6 +32,7 @@
 |DATABASE| http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion|
 |DOCSHOP| https://doc-shop.ws (offline)|
 |EMPIRE MARKET| http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion|
+|ETERNITY| http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion|
 |Genesis Market| https://genesis.market|
 |HYDRA (tor v2)| http://hydra3rudf3j4hww.onion (offline)|
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion (offline)|

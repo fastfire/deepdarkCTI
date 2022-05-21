@@ -185,4 +185,6 @@
 |https://t.me/UnsafeInternet | Data Leaks |
 |https://t.me/joinchat/Cyv2m5zFE6JmMjVi | Logs |
 |https://t.me/EternityMalwareTeam | Eternity Malware |
-|https://t.me/Legion_Russia | Legion |
+|https://t.me/Legion_Russia | Legion Russia |
+|https://t.me/KILLNETddos | Killnet DDoS |
+|https://t.me/killnet_channel | Killnet Channel |

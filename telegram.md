@@ -189,3 +189,4 @@
 |https://t.me/KILLNETddos | Killnet DDoS |
 |https://t.me/killnet_channel | Killnet Channel |
 |https://t.me/+uV_Lxf2uOHhkMjAy | Killnet Store Chat |
+|https://t.me/APIddosMirai | Killnet API DDoS Mirai |

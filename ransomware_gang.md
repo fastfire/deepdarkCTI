@@ -35,6 +35,7 @@
 |BLACK SHADOW (DEEP WEB)|https://blackshadow.cc (CURRENTLY DOWN)|||https://t.me/Blackshadow_Team_official|
 |BLACK SHADOW |http://544corkfh5hwhtn4.onion |(CURRENTLY DOWN)|||
 |BONACI GROUP |http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |(CURRENTLY DOWN)|||
+|CHEERS |http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion ||||
 |CLOP |http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion ||||
 |CLOP (old) |http://ekbgzchl6x2ias37.onion |(CURRENTLY DOWN)|||
 |CONTI/RYUK |http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion ||||

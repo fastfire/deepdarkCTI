@@ -60,6 +60,7 @@
 |EVILCORP |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |(CURRENTLY DOWN)|||
 |EXORCIST |http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |(CURRENTLY DOWN)|||
 |FREE CIVILIAN (attacks Ukrainian government agencies)|http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion/ ||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
+|GOODWILL (Dashboard)| http://9855-13-235-50-147(.)ngrok(.)io|||
 |GRIEF |http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |(CURRENTLY DOWN)|||
 |GROOVE |http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |(CURRENTLY DOWN)|||
 |HADES |http://ixltdyumdlthrtgx.onion |(CURRENTLY DOWN)|||

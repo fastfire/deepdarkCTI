@@ -19,7 +19,7 @@
 |CARTEL| http://mgybzfrldjn5drzv537skh7kgwgbq45dwha67r4elda4vl7m6qul5xqd.onion (offline)|
 |CLUB2CRD|https://club2crd.cc (offline)|
 |CLUBV |https://clubv.su (offline)|
-|CRIMEMARKET|https://crimemarket.to (offline)|
+|CRIMEMARKET|https://crimemarket.is|
 |CVV SHOP DUMPS|http://masterc2oss6cmeiwd6hzz44ghjdvkw2og6zv5iczcrssrbkrbuhn3qd.onion|
 |CVVUNION|https://cvv-union.at (offline)|
 |CYPHER| http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion|

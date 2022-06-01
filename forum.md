@@ -9,7 +9,7 @@
 |BREACHED (dark web)| http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion|
 |BLACKHATWORLD| https://blackhatworld.com/|
 |BTTFORUM| https://btt-club.top/ (offline)|
-|CARDING FORUM (deep)| https://cybercarders.su/ (offline)|
+|CARDING FORUM (deep)| https://cardingforum.cx/|
 |CENTER CLUB| https://center-club.top (offline)|
 |CHITACHOK| https://chitachok.ru/|
 |COOKIEPRO| https://coockie.pro|

@@ -59,6 +59,7 @@
 |THEMAJESTIC| http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion|
 |TOR2DOOR| http://orn3olemwhrsqbpz7iv34mjzare6sns5z75rea3qzwqlle76wxsdzeqd.onion (offline)|
 |TOOREZ| http://lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion (offline)|
+|UAS RDP SHOP| http://2x4tmsirlqvqmwdz.onion/|
 |UniCC| https://unicvv.ru|
 |Wannabuy RDP|http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion|
 |WHM market (1)| http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion (offline)|

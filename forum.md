@@ -3,13 +3,13 @@
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
 |[ALTENEN (Deep)](https://altenens.is)| ONLINE | |
 |[ANTIMIGALKI](https://antimigalki.space)| ONLINE | |
-|[ASCARDING](https://ascarding.com)| ONLINE | |
+|[AS](https://ascarding.com)| ONLINE | |
 |[BHF](https://bhf.io)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
 |[BREACHED (Dark)](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion)| ONLINE | |
 |[BREACHED (Deep)](https://breached.co)| ONLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
-|[CARDING FORUM (Deep)](https://cybercarders.su)| OFFLINE | |
+|[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
 |[CENTER CLUB](https://center-club.top)| OFFLINE | |
 |[CHITACHOK](https://chitachok.ru)| ONLINE | |
 |[COOKIEPRO](https://coockie.pro)| ONLINE | |

@@ -164,7 +164,7 @@
 |https://t.me/leaked_detabase| Data Leaks |
 |https://t.me/xaknet_team| Killnet |
 |https://t.me/opentis (DELETED)| IoC |
-|https://t.me/+bIPtOTGG7QgwNDQ5| Data Leaks |
+|https://t.me/+bIPtOTGG7QgwNDQ5 (EXPIRED)| Data Leaks |
 |https://t.me/BreachedData | Data Leaks |
 |https://t.me/newleakschannel (DELETED)| Data Leaks |
 |https://t.me/db_rf_rb | Data Leaks |

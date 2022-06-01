@@ -37,6 +37,7 @@
 |HYDRA (tor v2)| http://hydra3rudf3j4hww.onion (offline)|
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion (offline)|
 |INDUSTRIAL SPY| http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login |
+|INFINITY SHOP| http://infinityvzoe2ldb74y2klk7cs3nda2n3qozdy7sdgfouqrzfkp64sid.onion |
 |Iran Info Marketplace | http://marketir7joj2ibuouojg2nwkdwfal5dhisp3g246jl4ur7r7zfvloid.onion |
 |LIBERTY| http://liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion (offline)|
 |LOCKDATA AUCTION (probably scam site)| http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion (offline)|
@@ -59,6 +60,7 @@
 |THEMAJESTIC| http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion|
 |TOR2DOOR| http://orn3olemwhrsqbpz7iv34mjzare6sns5z75rea3qzwqlle76wxsdzeqd.onion (offline)|
 |TOOREZ| http://lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion (offline)|
+|UAS RDP SHOP| http://2x4tmsirlqvqmwdz.onion/|
 |UniCC| https://unicvv.ru|
 |Wannabuy RDP|http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion|
 |WHM market (1)| http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion (offline)|

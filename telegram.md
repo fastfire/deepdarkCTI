@@ -164,7 +164,7 @@
 |https://t.me/leaked_detabase| Data Leaks |
 |https://t.me/xaknet_team| Killnet |
 |https://t.me/opentis (DELETED)| IoC |
-|https://t.me/+bIPtOTGG7QgwNDQ5| Data Leaks |
+|https://t.me/+bIPtOTGG7QgwNDQ5 (EXPIRED)| Data Leaks |
 |https://t.me/BreachedData | Data Leaks |
 |https://t.me/newleakschannel (DELETED)| Data Leaks |
 |https://t.me/db_rf_rb | Data Leaks |
@@ -190,3 +190,17 @@
 |https://t.me/killnet_channel | Killnet Channel |
 |https://t.me/+uV_Lxf2uOHhkMjAy | Killnet Store Chat |
 |https://t.me/APIddosMirai | Killnet API DDoS Mirai |
+|https://t.me/webpwn | general hacking, privacy |
+|https://t.me/the_archivists_domain | Source code dumps |
+|https://t.me/silentplug666 | data dumps; data for sale |
+|https://t.me/raidsecretforums | claims to be the backup channel of raidforums |
+|https://t.me/s/hudyhstock | selling accounts |
+|https://t.me/s/ehdanstock | selling accounts |
+|https://t.me/s/dataleaksua | data dumps; esp Russian |
+|https://t.me/s/gulfdocs | middle east document dumps |
+|https://t.me/s/UPENBULLET | configs, checkers, combos |
+|https://t.me/s/NetSurvivalist | general hacking, privacy |
+|https://t.me/s/LearnExploit | general hacking, tutorials |
+|https://t.me/s/LeakedSource | Data Leaks |
+|https://t.me/s/Kristina_Pass_RF | Passport scans |
+|https://t.me/s/Bl4ck_Room | checkers, hacking tools |

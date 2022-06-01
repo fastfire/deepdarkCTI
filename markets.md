@@ -37,6 +37,7 @@
 |HYDRA (tor v2)| http://hydra3rudf3j4hww.onion (offline)|
 |HYDRA (tor v3)| http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion (offline)|
 |INDUSTRIAL SPY| http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login |
+|INFINITY SHOP| http://infinityvzoe2ldb74y2klk7cs3nda2n3qozdy7sdgfouqrzfkp64sid.onion |
 |Iran Info Marketplace | http://marketir7joj2ibuouojg2nwkdwfal5dhisp3g246jl4ur7r7zfvloid.onion |
 |LIBERTY| http://liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion (offline)|
 |LOCKDATA AUCTION (probably scam site)| http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion (offline)|

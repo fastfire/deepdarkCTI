@@ -20,6 +20,7 @@
 |[CLUB2CRD](https://club2crd.cc)| OFFLINE | |
 |[CLUBV](https://clubv.su)| OFFLINE | |
 |[CRIMEMARKET](https://crimemarket.is)| ONLINE | |
+|[CRIMEMARKET (Dark)](http://crimemosjicmij6jqtwww7wm2rmor5ymrs6wha6tzyiisxhy34go5sid.onion/)| ONLINE | |
 |[CVV SHOP DUMPS](http://masterc2oss6cmeiwd6hzz44ghjdvkw2og6zv5iczcrssrbkrbuhn3qd.onion)| ONLINE | |
 |[CVVUNION](https://cvv-union.at)| OFFLINE | |
 |[CYPHER](http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion)| ONLINE | |

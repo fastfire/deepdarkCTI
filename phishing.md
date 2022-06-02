@@ -1,15 +1,15 @@
-|Name|Link|
-| ------ | ------ |
-|CheckPhish| https://checkphish.ai|
-|IsitPhishing| https://isitphishing.org|
-|OpenPhish | https://openphish.com|
-|PhishingArmy| https://phishing.army|
-|PhishBank| https://phishbank.org (offline)|
-|PhishingCheck|https://phishcheck.me|
-|StopForumSpam| https://www.stopforumspam.com|
-|Phishing Kit| https://github.com/0xDanielLopez/phishing_kits|
-|Phishing.Database| https://github.com/mitchellkrogza/Phishing.Database|
-|PhishingInitiative | https://phishing-initiative.fr/contrib|
-|PhishStats| https://phishstats.info|
-|PhishTank| https://www.phishtank.com|
-|urlscan.io|https://urlscan.io|
+|Name|Status|Description|
+| ------ | ------ | ------ |
+|[CheckPhish](https://checkphish.ai)| ONLINE | |
+|[IsitPhishing](https://isitphishing.org)| ONLINE | |
+|[OpenPhish](https://openphish.com)| ONLINE | |
+|[PhishBank](https://phishbank.org)| OFFLINE | |
+|[Phishing Kit](https://github.com/0xDanielLopez/phishing_kits)| ONLINE | |
+|[Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)| ONLINE | |
+|[PhishingArmy](https://phishing.army)| ONLINE | |
+|[PhishingCheck](https://phishcheck.me)| ONLINE | |
+|[PhishingInitiative](https://phishing-initiative.fr/contrib)| ONLINE | |
+|[PhishStats](https://phishstats.info)| ONLINE | |
+|[PhishTank](https://www.phishtank.com)| ONLINE | |
+|[StopForumSpam](https://www.stopforumspam.com)| ONLINE | |
+|[urlscan.io](https://urlscan.io)| ONLINE | |

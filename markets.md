@@ -54,8 +54,12 @@
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.gs)| OFFLINE | |
+|[Russian Market (Deep)](https://russianmarket.to)| ONLINE | |
+|[Russian Market (Deep)](https://russianmarket.io)| ONLINE | |
+|[Russian Market (Deep)](https://russianmarket.vc)| ONLINE | |
 |[Russian Market (Tor v2)](http://rusmarkethgwhfbn.onion)| OFFLINE | |
 |[Russian Market (Tor v3)](http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion)| ONLINE | |
+|[Russian Market (Tor v3)](http://rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion)| ONLINE | |
 |[SHADOWCARDERS](https://shadowcarders.com)| ONLINE | |
 |[SWIPESTORE](https://swipestore.cc)| ONLINE | |
 |[THEMAJESTIC](http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion)| ONLINE | |

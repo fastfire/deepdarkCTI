@@ -145,10 +145,11 @@
 |https://t.me/WLDBackup | Data Leaks |
 |https://t.me/worldwidelogs | Data Leaks |
 |https://t.me/xaknet_team| Killnet |
-|https://t.me/Yad2Leaks| Data Leaks
-|https://t.me/zer0daylab/| Hacking, Leaks and News
-|https://t.me/ZeroDay_TM| Original  ZeroDay  Community
+|https://t.me/Yad2Leaks| Data Leaks |
+|https://t.me/zer0daylab/| Hacking, Leaks and News |
+|https://t.me/ZeroDay_TM| Original  ZeroDay  Community |
 |https://t.me/+UYKtaIt6KFGlFwBJ| VIP Config - configs, combos, etc |
 |https://t.me/+5XrZvo1danNhOGEy | GODELESS CLOUD Botnet Logs|
 |https://t.me/joinchat/Cyv2m5zFE6JmMjVi | Logs |
 |https://t.me/+uV_Lxf2uOHhkMjAy | Killnet Store Chat |
+|https://t.me/qZann | Data Leaks |

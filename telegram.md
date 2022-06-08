@@ -9,7 +9,7 @@
 |https://t.me/atw2022| Against The West |
 |https://t.me/base_brutesu| Combo List
 |https://t.me/baseleak| Data Leaks
-|https://t.me/s/Bl4ck_Room | checkers, hacking tools |
+|https://t.me/Bl4ck_Room | checkers, hacking tools |
 |https://t.me/Blank_Link|
 |https://t.me/blueteamzone|
 |https://t.me/boosty66brvte| Data Leaks |
@@ -37,7 +37,7 @@
 |https://t.me/databreach|
 |https://t.me/dataflows | Data Leaks |
 |https://t.me/dataleakbreach| Data Leaks|
-|https://t.me/s/dataleaksua| data dumps; esp Russian |
+|https://t.me/dataleaksua| data dumps; esp Russian |
 |https://t.me/DataLeakHome | Data Leaks |
 |https://t.me/db_rf_rb | Data Leaks |
 |https://t.me/dbforall|
@@ -45,7 +45,7 @@
 |https://t.me/ddos_separ| DDoS Services|
 |https://t.me/ddossatmak | DDoS Services |
 |https://t.me/DWI_OFFICIAL|
-|https://t.me/s/ehdanstock| selling accounts |
+|https://t.me/ehdanstock| selling accounts |
 |https://t.me/exploit_db_com| Exploits
 |https://t.me/EternityMalwareTeam | Eternity Malware |
 |https://t.me/flannels| Market
@@ -56,14 +56,14 @@
 |https://t.me/grandgive|
 |https://t.me/gulfdocs| Data Leaks (Gulf Region)|
 |https://t.me/GitTools|
-|https://t.me/s/gulfdocs| middle east document dumps |
+|https://t.me/gulfdocs| middle east document dumps |
 |https://t.me/hadesh0p|
 |https://t.me/hellokittyleaks | Data Leaks |
 |https://t.me/hidden_links| Hidden Links
 |https://t.me/HK4GANG|
 |https://t.me/hackgit| Offensive Security
 |https://t.me/HUBLOGS| Redline malware logs |
-|https://t.me/s/hudyhstock | selling accounts |
+|https://t.me/hudyhstock | selling accounts |
 |https://t.me/itarmyofukraine2022|
 |https://t.me/icrewhackers|
 |https://t.me/Industrial_Spy | Industrial Spy |
@@ -79,7 +79,7 @@
 |https://t.me/Kristina_Pass_RF| Data Leaks|
 |https://t.me/killnet_channel|
 |https://t.me/KILLNETddos | Killnet DDoS |
-|https://t.me/s/Kristina_Pass_RF | Passport scans |
+|https://t.me/Kristina_Pass_RF | Passport scans |
 |https://t.me/latest_leaks| Data Leaks|
 |https://t.me/leakdataprivate| Data Leaks |
 |https://t.me/leaked_databases| Data Leaks|
@@ -89,7 +89,7 @@
 |https://t.me/LeaksData| Data Leaks|
 |https://t.me/leakinformation|Data Leaks|
 |https://t.me/LeaRNEXploIT|
-|https://t.me/s/LearnExploit | general hacking, tutorials |
+|https://t.me/LearnExploit | general hacking, tutorials |
 |https://t.me/lefousamples| Data Leaks
 |https://t.me/Legion_Russia | Legion Russia |
 |https://t.me/Log_Market_Place| Data Leaks|
@@ -102,7 +102,7 @@
 |https://t.me/milkdude| Data Leaks|
 |https://t.me/minsaudebr| Lapsus$ channel |
 |https://t.me/membersofxaknet|
-|https://t.me/s/NetSurvivalist | general hacking, privacy |
+|https://t.me/NetSurvivalist | general hacking, privacy |
 |https://t.me/nohidespace|
 |https://t.me/nohidespace| Combo List
 |https://t.me/NullLeak| Data Leaks
@@ -136,7 +136,7 @@
 |https://t.me/torlinks|
 |https://t.me/udacha123yes| Ransomware Gang |
 |https://t.me/UnsafeInternet | Data Leaks |
-|https://t.me/s/UPENBULLET | configs, checkers, combos |
+|https://t.me/UPENBULLET | configs, checkers, combos |
 |https://t.me/V3TerN| devilzone (2) - configs, combos, etc |
 |https://t.me/We_are_not_eternal|
 |https://t.me/webpwn | general hacking, privacy |

@@ -127,7 +127,7 @@
 |https://t.me/snatch_cloud | Redline malware logs |
 |https://t.me/spamsmtpcombo| Combo List
 |https://t.me/Stealers_Logs_Group | Stealer Logs |
-|https://t.me/Storm_Free_Config| Configs, Combos |
+|https://t.me/Storm_Free_Config (DELETED)| Configs, Combos |
 |https://t.me/StormFreeConfig| Configs, Combos |
 |https://t.me/tbotlist |Bots |
 |https://t.me/Turbotelproxy|The fastest Telegram proxies

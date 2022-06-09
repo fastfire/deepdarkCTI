@@ -10,9 +10,9 @@
 |54bb47h (victims page) |http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |(CURRENTLY DOWN)|||
 |AgainstTheWest |http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion/ |(CURRENTLY DOWN)||https://t.me/ATW2022|
 |AKO |http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |(CURRENTLY DOWN)|||
-|ALPHV (aka BlackCat) (1)|http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |(CURRENTLY DOWN)||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
+|ALPHV (aka BlackCat) (1)|http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |(CURRENTLY DOWN)||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC||
 |ALPHV (aka BlackCat) (2) |http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion ||||
-|ARVIN |http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion (CURRENTLY DOWN)|||http://t.me/arvin_club|
+|ARVIN |http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |(CURRENTLY DOWN)||http://t.me/arvin_club|
 |ARVIN (new)|http://xxz6hl6wwoa25er62tbjdxda4nxyt5iqziavb73mhda6q6zujsgfoxqd.onion ||||
 |ASTROTEAM |http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |(CURRENTLY DOWN)|||
 |ATOMSILO |http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |(CURRENTLY DOWN)|||
@@ -32,7 +32,7 @@
 |BLACKBYTE (4) |http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion |(CURRENTLY DOWN)|||
 |BLACKMATTER |http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |(CURRENTLY DOWN)|||
 |BLACKMATTER Support |http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2 |(CURRENTLY DOWN)|||
-|BLACK SHADOW (DEEP WEB)|https://blackshadow.cc (CURRENTLY DOWN)|||https://t.me/Blackshadow_Team_official|
+|BLACK SHADOW (DEEP WEB)|https://blackshadow.cc |(CURRENTLY DOWN)||https://t.me/Blackshadow_Team_official|
 |BLACK SHADOW |http://544corkfh5hwhtn4.onion |(CURRENTLY DOWN)|||
 |BONACI GROUP |http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |(CURRENTLY DOWN)|||
 |CHEERS |http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion ||||
@@ -44,7 +44,7 @@
 |COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion|(CURRENTLY DOWN)|||
-|CRYP70N1C0D3 |http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion (CURRENTLY DOWN)|||
+|CRYP70N1C0D3 |http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |(CURRENTLY DOWN)|||
 |CUBA (old) |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||
 |CUBA |http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion ||||
 |DARK ANGELS|https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion/ ||||
@@ -59,8 +59,8 @@
 |EVEREST |http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion.ly ||||YES|
 |EVILCORP |http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |(CURRENTLY DOWN)|||
 |EXORCIST |http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |(CURRENTLY DOWN)|||
-|FREE CIVILIAN (attacks Ukrainian government agencies)|http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion/ ||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
-|GOODWILL (Dashboard)| http://9855-13-235-50-147(.)ngrok(.)io|||
+|FREE CIVILIAN (attacks Ukrainian government agencies)|http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion/ |||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
+|GOODWILL (Dashboard)| http://9855-13-235-50-147.ngrok.io|(CURRENTLY DOWN)||
 |GRIEF |http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |(CURRENTLY DOWN)|||
 |GROOVE |http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |(CURRENTLY DOWN)|||
 |HADES |http://ixltdyumdlthrtgx.onion |(CURRENTLY DOWN)|||
@@ -77,19 +77,19 @@
 |KARAKURT| https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion |(CURRENTLY DOWN)||
 |KARMA |http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |(CURRENTLY DOWN)|||
 |LAPSUS$ ||||https://t.me/minsaudebr||
-|KELVIN SECURITY |https://kelvinsecteamcyber.wixsite.com/my-site/items ||https://t.me/kelvinsecteam|
-|LOCKBIT 2.0 (mirror 1) |http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|LOCKBIT 2.0 (mirror 2) |http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|LOCKBIT 2.0 (mirror 3) |http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|LOCKBIT 2.0 (mirror 4) |http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|LOCKBIT 2.0 (mirror 5) |http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|LOCKBIT 2.0 (mirror 6) |http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|LOCKBIT 2.0 (mirror 7) |http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|LOCKBIT 2.0 (mirror 8) |http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|LOCKBIT 2.0 (mirror 9) |http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion ||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|KELVIN SECURITY |https://kelvinsecteamcyber.wixsite.com/my-site/items |(CURRENTLY DOWN)||https://t.me/kelvinsecteam|
+|LOCKBIT 2.0 (mirror 1) |http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|LOCKBIT 2.0 (mirror 2) |http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|LOCKBIT 2.0 (mirror 3) |http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|LOCKBIT 2.0 (mirror 4) |http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|LOCKBIT 2.0 (mirror 5) |http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|LOCKBIT 2.0 (mirror 6) |http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|LOCKBIT 2.0 (mirror 7) |http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|LOCKBIT 2.0 (mirror 8) |http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|LOCKBIT 2.0 (mirror 9) |http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion |||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |LOCKBIT 2.0 (SURFACE WEB) |http://www.lockbitapt.uz |(CURRENTLY DOWN)|||
 |LOCKBIT |http://lockbitkodidilol.onion |(CURRENTLY DOWN)|||
-|LOCKFILE (victim request id page)|http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |(CURRENTLY DOWN)||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB|
+|LOCKFILE (victim request id page)|http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |(CURRENTLY DOWN)||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB||
 |LORENZ |http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion ||||
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion ||||
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |(CURRENTLY DOWN)|||
@@ -114,7 +114,7 @@
 |NETWALKER |http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |(CURRENTLY DOWN)|||
 |NightSky|http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |(CURRENTLY DOWN)|||
 |ONEPERCENT |http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion |(CURRENTLY DOWN)|||
-|ONYX |http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion ||||
+|ONYX |http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion |(CURRENTLY DOWN)|||
 |PANDORA |http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |(CURRENTLY DOWN)|||
 |PAY2KEY |http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |(CURRENTLY DOWN)|||
 |PAYLOAD.BIN (EX BABUK LOCKER) |http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |(CURRENTLY DOWN)|||

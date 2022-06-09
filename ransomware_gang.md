@@ -43,6 +43,7 @@
 |COOMINGPROJECT |http://teo7aj5mfgzxyeme.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (new) |http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |(CURRENTLY DOWN)|||
 |COOMINGPROJECT (SURFACE WEB)|http://coomingproject.com |(CURRENTLY DOWN)|||
+|CRIMSON WALRUS|http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion ||||
 |CRYLOCK (victims request id page) |http://d57uremugxjrafyg.onion|(CURRENTLY DOWN)|||
 |CRYP70N1C0D3 |http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |(CURRENTLY DOWN)|||
 |CUBA (old) |http://cuba4mp6ximo2zlo.onion |(CURRENTLY DOWN)|||

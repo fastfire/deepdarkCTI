@@ -77,7 +77,7 @@
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0| Data Leaks
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|
 |https://t.me/Kristina_Pass_RF| Data Leaks|
-|https://t.me/killnet_channel|
+|https://t.me/killnet_channel (DELETED)|
 |https://t.me/KILLNETddos | Killnet DDoS |
 |https://t.me/Kristina_Pass_RF | Passport scans |
 |https://t.me/latest_leaks| Data Leaks|

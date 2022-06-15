@@ -23,6 +23,7 @@
 |https://t.me/cbanke| Data Leaks|
 |https://t.me/cbanke_logs| Log Leaks|
 |https://t.me/cbanke_market| Market|
+|https://t.me/cloudlogs | Redline LogZone
 |https://t.me/CloudLogsPrivate | UnixSeller89 Redline Stealer |
 https://t.me/cloudmika | Redline Logs
 |https://t.me/club1337|
@@ -126,7 +127,7 @@ https://t.me/cloudmika | Redline Logs
 |https://t.me/pwnwiki_zhchannel|
 |https://t.me/raidsecretforums | claims to be the backup channel of raidforums |
 |https://t.me/ransomwatcher | Data Leaks |
-|https://t.me/REDLINELOGSPANEL | Redline Leaks |
+|https://t.me/redlogscloud| Redline Leaks |
 |https://t.me/reveng3rs| Data Leaks
 |https://t.me/sanaski | configs, combos |
 |https://t.me/Sell_rdp1|
@@ -150,7 +151,7 @@ https://t.me/cloudmika | Redline Logs
 |https://t.me/We_are_not_eternal|
 |https://t.me/webpwn | general hacking, privacy |
 |https://t.me/weleakdatabase | Data Leaks |
-|https://t.me/WillieCloudLogs | Willie Cloud Redline Leaks |
+|https://t.me/WillieCloudFreeLogs | Willie Cloud Redline Leaks |
 |https://t.me/windmarketo | Data Leaks |
 |https://t.me/WLDBackup | Data Leaks |
 |https://t.me/worldwidelogs | Data Leaks |

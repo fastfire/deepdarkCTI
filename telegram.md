@@ -2,6 +2,7 @@
 | ------ | ------ |
 |https://t.me/Allhak_mv (DELETED)| Data Leaks
 |https://t.me/altenens|
+|https://t.me/American_LOGS | Redline - Group changes names frequently, Also known as Foxy Team
 |https://t.me/AntiPlumbers|
 |https://t.me/APIddosMirai | Killnet API DDoS Mirai |
 |https://t.me/arvin_club|
@@ -13,6 +14,7 @@
 |https://t.me/Blank_Link|
 |https://t.me/blueteamzone|
 |https://t.me/boosty66brvte| Data Leaks |
+|https://t.me/BorwitaFreeLogs | Redline Data Leaks |
 |https://t.me/breachdetector|
 |https://t.me/BreachedData | Data Leaks |
 |https://t.me/BreachedDB | Data Leaks |
@@ -21,6 +23,8 @@
 |https://t.me/cbanke| Data Leaks|
 |https://t.me/cbanke_logs| Log Leaks|
 |https://t.me/cbanke_market| Market|
+|https://t.me/CloudLogsPrivate | UnixSeller89 Redline Stealer |
+https://t.me/cloudmika | Redline Logs
 |https://t.me/club1337|
 |https://t.me/config_combos | Configs, Combos |
 |https://t.me/Configsandcombos | Configs, Combos |
@@ -50,6 +54,7 @@
 |https://t.me/EternityMalwareTeam | Eternity Malware |
 |https://t.me/flannels| Market
 |https://t.me/freedomf0x|
+|https://t.me/frilogs| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/fuckeddb|
 |https://t.me/GhostSecc| Data Leaks & Hacktivism group
 |https://t.me/gladdos69_official| DDoS
@@ -67,6 +72,7 @@
 |https://t.me/itarmyofukraine2022|
 |https://t.me/icrewhackers|
 |https://t.me/Industrial_Spy | Industrial Spy |
+|https://t.me/infinity_cloud_free | Infinity Cloud Redline Stealer Leaks |
 |https://t.me/itsecalert| News
 |https://t.me/jester_stealer_channel | jester stealer channel |
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|
@@ -76,6 +82,7 @@
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0| Data Leaks
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|
+|https://t.me/joker_reborn | Joker Reborn Redline Stealer |
 |https://t.me/Kristina_Pass_RF| Data Leaks|
 |https://t.me/killnet_channel (DELETED)|
 |https://t.me/KILLNETddos | Killnet DDoS |
@@ -107,6 +114,7 @@
 |https://t.me/nohidespace| Combo List
 |https://t.me/NullLeak| Data Leaks
 |https://t.me/O1chat| Market
+|https://t.me/OneLogs | Redline Logs
 |https://t.me/opendataleaks| Data Leaks
 |https://t.me/openleak| Data Leaks
 |https://t.me/OnePlusChat|
@@ -118,6 +126,7 @@
 |https://t.me/pwnwiki_zhchannel|
 |https://t.me/raidsecretforums | claims to be the backup channel of raidforums |
 |https://t.me/ransomwatcher | Data Leaks |
+|https://t.me/REDLINELOGSPANEL (DELETED) | Redline Leaks |
 |https://t.me/reveng3rs| Data Leaks
 |https://t.me/sanaski | configs, combos |
 |https://t.me/Sell_rdp1|
@@ -141,6 +150,7 @@
 |https://t.me/We_are_not_eternal|
 |https://t.me/webpwn | general hacking, privacy |
 |https://t.me/weleakdatabase | Data Leaks |
+|https://t.me/WillieCloudLogs (DELETED) | Willie Cloud Redline Leaks |
 |https://t.me/windmarketo | Data Leaks |
 |https://t.me/WLDBackup | Data Leaks |
 |https://t.me/worldwidelogs | Data Leaks |

@@ -18,7 +18,7 @@
 |https://t.me/breachdetector|
 |https://t.me/BreachedData | Data Leaks |
 |https://t.me/BreachedDB | Data Leaks |
-|https://t.me/c0xCee | Data Leaks |
+|https://t.me/c0xCee (DELETED)| Data Leaks |
 |https://t.me/canyoupwnme | News |
 |https://t.me/cbanke| Data Leaks|
 |https://t.me/cbanke_logs| Log Leaks|

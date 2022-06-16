@@ -2,7 +2,7 @@
 | ------ | ------ |
 |https://t.me/Allhak_mv (DELETED)| Data Leaks
 |https://t.me/altenens|
-|https://t.me/American_LOGS | Redline - Group changes names frequently, Also known as Foxy Team
+|https://t.me/American_LOGS (DELETED)| Redline - Group changes names frequently, Also known as Foxy Team
 |https://t.me/AntiPlumbers|
 |https://t.me/APIddosMirai | Killnet API DDoS Mirai |
 |https://t.me/arvin_club|
@@ -73,7 +73,7 @@ https://t.me/cloudmika | Redline Logs
 |https://t.me/itarmyofukraine2022|
 |https://t.me/icrewhackers|
 |https://t.me/Industrial_Spy | Industrial Spy |
-|https://t.me/infinity_cloud_free | Infinity Cloud Redline Stealer Leaks |
+|https://t.me/infinity_cloud_free (DELETED)| Infinity Cloud Redline Stealer Leaks |
 |https://t.me/itsecalert| News
 |https://t.me/jester_stealer_channel | jester stealer channel |
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|

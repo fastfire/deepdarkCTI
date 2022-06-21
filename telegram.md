@@ -43,7 +43,7 @@ https://t.me/cloudmika | Redline Logs
 |https://t.me/dataflows | Data Leaks |
 |https://t.me/dataleakbreach| Data Leaks|
 |https://t.me/dataleaksua| data dumps; esp Russian |
-|https://t.me/DataLeakHome | Data Leaks |
+|https://t.me/DataLeakHome (DELETED)| Data Leaks |
 |https://t.me/db_rf_rb | Data Leaks |
 |https://t.me/dbforall|
 |https://t.me/DBleak| Data Leaks

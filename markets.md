@@ -27,6 +27,9 @@
 |[CVVUNION](https://cvv-union.at)| OFFLINE | |
 |[CYPHER](http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion)| ONLINE | |
 |[DAKC0DE](http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion)| OFFLINE | |
+|[DARKCLUB](https://darkclub.pw/)| ONLINE| |
+|[DARKCLUB (Onion Site)](http://darkclubolst4fiquh7eodn3gffa4jr3y6nrfdxxii3hboulgotjj4ad.onion)| ONLINE |
+|[DARKCLUB (Onion Site 2](http://darkclub7swbzf2ndqowmijp735urtfv6vp5z327vdga5iltlwzyapid.onion//)| ONLINE |
 |[DARK LEAK MARKET](http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion)| ONLINE | |
 |[DARK LEAK MARKET](http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion)| ONLINE | |
 |[DARK LEAK MARKET](http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion)| ONLINE | |

@@ -109,7 +109,6 @@
 |https://t.me/mailpasword|ONLINE| |
 |https://t.me/MalwareLogs|ONLINE| Logs |
 |https://t.me/marketo_leaks|ONLINE| Data Leaks|
-|https://t.me/minsaudebr|ONLINE| Lapsus$ channel |
 |https://t.me/MBCRANSOMWARE|ONLINE| Ransomware Gang|
 |https://t.me/meganzshare|ONLINE| |
 |https://t.me/membersofxaknet|ONLINE| |

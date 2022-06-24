@@ -73,7 +73,6 @@
 |https://t.me/HUBLOGS|ONLINE| Redline Malware Logs |
 |https://t.me/hudyhstock|ONLINE| Selling Accounts |
 |https://t.me/icrewhackers|ONLINE| |
-|https://t.me/teamimm0rtal|ONLINE| |
 |https://t.me/Industrial_Spy|ONLINE| Industrial Spy |
 |https://t.me/itarmyofukraine2022|ONLINE| |
 |https://t.me/itsecalert|ONLINE| News |

@@ -3,6 +3,7 @@
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
 |[ALTENEN (Deep)](https://altenens.is)| ONLINE | |
 |[ANTIMIGALKI](https://antimigalki.space)| ONLINE | |
+|[ARBITRAJ](https://arbitraj-forum.ru)| ONLINE | |
 |[AS](https://ascarding.com)| ONLINE | |
 |[BHF](https://bhf.io)| ONLINE | |
 |[BREACH](https://breachforums.co)| ONLINE | |

@@ -12,7 +12,7 @@
 |[AKO](http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion)|OFFLINE|||
 |[ALPHV (aka BlackCat) (1)](http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion)|OFFLINE||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
 |[ALPHV (aka BlackCat) (2)](http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion)|ONLINE|||
-|[ARVIN](http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion)|OFFLINE|||http://t.me/arvin_club|
+|[ARVIN](http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion)|OFFLINE||http://t.me/arvin_club|
 |[ARVIN](http://xxz6hl6wwoa25er62tbjdxda4nxyt5iqziavb73mhda6q6zujsgfoxqd.onion)|ONLINE||||
 |[ASTROTEAM](http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion)|OFFLINE|||
 |[ATOMSILO](http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion)|OFFLINE|||
@@ -32,7 +32,7 @@
 |[BLACKBYTE (4)](http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion)|OFFLINE|||
 |[BLACKMATTER](http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion)|OFFLINE|||
 |[BLACKMATTER Support](http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2)|OFFLINE|||
-|[BLACK SHADOW (Deep)](https://blackshadow.cc)|OFFLINE|||https://t.me/Blackshadow_Team_official|
+|[BLACK SHADOW (Deep)](https://blackshadow.cc)|OFFLINE||https://t.me/Blackshadow_Team_official|
 |[BLACK SHADOW](http://544corkfh5hwhtn4.onion)|OFFLINE|||
 |[BONACI GROUP](http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion)|OFFLINE|||
 |[CHEERS](http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion)|ONLINE|||
@@ -78,7 +78,6 @@
 |[KARAKURT](https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion)|OFFLINE||
 |[KARAKURT (chat panel)}(https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion)|ONLINE||
 |[KARMA](http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion)|OFFLINE|||
-|LAPSUS$||||https://t.me/minsaudebr||
 |[KELVIN SECURITY](https://kelvinsecteamcyber.wixsite.com/my-site/items)|OFFLINE||https://t.me/kelvinsecteam|
 |[LOCKBIT 2.0 (Dark mirror 1)](http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |[LOCKBIT 2.0 (Dark mirror 2)](http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|

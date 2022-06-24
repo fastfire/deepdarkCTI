@@ -27,6 +27,9 @@
 |[CVVUNION](https://cvv-union.at)| OFFLINE | |
 |[CYPHER](http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion)| ONLINE | |
 |[DAKC0DE](http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion)| OFFLINE | |
+|[DARKCLUB](https://darkclub.pw/)| ONLINE| |
+|[DARKCLUB (Onion Site)](http://darkclubolst4fiquh7eodn3gffa4jr3y6nrfdxxii3hboulgotjj4ad.onion)| ONLINE |
+|[DARKCLUB (Onion Site 2](http://darkclub7swbzf2ndqowmijp735urtfv6vp5z327vdga5iltlwzyapid.onion//)| ONLINE |
 |[DARK LEAK MARKET](http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion)| ONLINE | |
 |[DARK LEAK MARKET](http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion)| ONLINE | |
 |[DARK LEAK MARKET](http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion)| ONLINE | |
@@ -37,6 +40,8 @@
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
 |[Genesis Market](https://genesis.market)| ONLINE | |
+|[Genesis Market](https://g3n3sis.pro)| ONLINE | |
+|[Genesis Market](https://g3n3sis.org)| ONLINE | |
 |[HYDRA (Tor v2)](http://hydra3rudf3j4hww.onion)| OFFLINE | |
 |[HYDRA (Tor v3)](http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion)| OFFLINE | |
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login)| ONLINE | |

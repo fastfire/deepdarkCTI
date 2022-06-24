@@ -1,5 +1,5 @@
 |Telegram|Status|Category|
-| ------ | ------ | ------ |https://github.com/fastfire/deepdarkCTI/pull/338/conflicts
+| ------ | ------ | ------ |
 |https://t.me/+5XrZvo1danNhOGEy|ONLINE| GODELESS CLOUD Botnet Logs|
 |https://t.me/+uV_Lxf2uOHhkMjAy|ONLINE| Killnet Store Chat |
 |https://t.me/+UYKtaIt6KFGlFwBJ|ONLINE| VIP Config - configs, combos, etc |
@@ -109,6 +109,7 @@
 |https://t.me/mailpasword|ONLINE| |
 |https://t.me/MalwareLogs|ONLINE| Logs |
 |https://t.me/marketo_leaks|ONLINE| Data Leaks|
+|https://t.me/minsaudebr|ONLINE| Lapsus$ channel |
 |https://t.me/MBCRANSOMWARE|ONLINE| Ransomware Gang|
 |https://t.me/meganzshare|ONLINE| |
 |https://t.me/membersofxaknet|ONLINE| |

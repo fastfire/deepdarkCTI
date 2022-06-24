@@ -43,6 +43,7 @@
 |[COOMINGPROJECT (Tor v2)](http://teo7aj5mfgzxyeme.onion)|OFFLINE|||
 |[COOMINGPROJECT (Tor v3)](http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion)|OFFLINE|||
 |[COOMINGPROJECT (Deep)](http://coomingproject.com)|OFFLINE|||
+|[CRIMSON WALRUS](http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion)|ONLINE|||
 |[CRYLOCK (Victims request ID page)](http://d57uremugxjrafyg.onion)|OFFLINE|||
 |[CRYP70N1C0D3](http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion)|OFFLINE|||
 |[CUBA (Old)](http://cuba4mp6ximo2zlo.onion)|OFFLINE|||
@@ -75,6 +76,7 @@
 |[KARAKURT](https://karakurt.co)|OFFLINE|||
 |[KARAKURT 2.0](https://209.222.98.19)|OFFLINE|||
 |[KARAKURT](https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion)|OFFLINE||
+|[KARAKURT (chat panel)}(https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion)|ONLINE||
 |[KARMA](http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion)|OFFLINE|||
 |LAPSUS$||||https://t.me/minsaudebr||
 |[KELVIN SECURITY](https://kelvinsecteamcyber.wixsite.com/my-site/items)|OFFLINE||https://t.me/kelvinsecteam|

@@ -7,6 +7,10 @@ The aim of this project is to collect the sources, present in the Deep and Dark 
 The contributors of the project (or people active in the field of Cyber Threat Intelligence) have a **Telegram groups** available to propose new sources to be integrated within the project and to have a place to discuss the tactics and techniques of research and analysis that are used daily.
 It is possible to request access to the Telegram group by sending a request to https://t.me/fastfire83
 
+Or, if you want to contribute with a donation, you can. We added this possibility because it was requested by some followers of the project. The donations, as well as the use of the same, will be managed in total transparency and will be used exclusively to build resources related to the deepdarkCTI project.
+
+<a href="https://www.buymeacoffee.com/fastfire" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 **What is Cyber Threat Intelligence?**
 
 Cyber Threat Intelligence (CTI) is defined as the collection and analysis of information about threats and adversaries and drawing patterns that provide an ability to make knowledgeable decisions for the preparedness, prevention and response actions against various cyber attacks.

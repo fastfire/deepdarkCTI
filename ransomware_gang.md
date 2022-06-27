@@ -79,11 +79,11 @@
 |[KARAKURT (chat panel)](https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion)|ONLINE||
 |[KARMA](http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion)|OFFLINE|||
 |[KELVIN SECURITY](https://kelvinsecteamcyber.wixsite.com/my-site/items)|OFFLINE||https://t.me/kelvinsecteam|
-|[LOCKBIT 2.0 (Dark mirror 1)](http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion)|OFFLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|[LOCKBIT 2.0 (Dark mirror 2)](http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion)|OFFLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|[LOCKBIT 2.0 (Dark mirror 3)](http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|[LOCKBIT 2.0 (Dark mirror 4)](http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion)|OFFLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
-|[LOCKBIT 2.0 (Dark mirror 5)](http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion)|OFFLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|[LOCKBIT 2.0 (Dark mirror 1)](http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion)|REBRANDED TO LB 3||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|[LOCKBIT 2.0 (Dark mirror 2)](http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion)|REBRANDED TO LB 3||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|[LOCKBIT 2.0 (Dark mirror 3)](http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion)|REBRANDED TO LB 3||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|[LOCKBIT 2.0 (Dark mirror 4)](http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion)|REBRANDED TO LB 3||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|[LOCKBIT 2.0 (Dark mirror 5)](http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion)|REBRANDED TO LB 3||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |[LOCKBIT 2.0 (Dark mirror 6)](http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion)|OFFLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |[LOCKBIT 2.0 (Dark mirror 7)](http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion)|OFFLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |[LOCKBIT 2.0 (Dark mirror 8)](http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion)|OFFLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|

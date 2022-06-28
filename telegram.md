@@ -20,7 +20,7 @@
 |https://t.me/breachdetector|ONLINE|
 |https://t.me/BreachedData|ONLINE| Data Leaks |
 |https://t.me/BreachedDB|ONLINE| Data Leaks |
-|https://t.me/c0xCee|ONLINE| Data Leaks |
+|https://t.me/c0xCee|OFFLINE| Data Leaks |
 |https://t.me/canyoupwnme|ONLINE| News |
 |https://t.me/cbanke_logs|ONLINE| Log Leaks|
 |https://t.me/cbanke_market|ONLINE| Market|
@@ -36,7 +36,7 @@
 |https://t.me/cveNotify|ONLINE| CVE Feed|
 |https://t.me/cyb3rtr0nian|ONLINE|
 |https://t.me/cybdetective|ONLINE| News & Info Sharing
-|https://t.me/D3atr0y3d|ONLINE| Data Leaks|
+|https://t.me/D3atr0y3d|OFFLINE| Data Leaks|
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos |
 |https://t.me/darkclubpw|ONLINE| Dark Club Market |
 |https://t.me/DarkfeedNews|ONLINE| News
@@ -45,7 +45,7 @@
 |https://t.me/databreach|ONLINE| |
 |https://t.me/dataflows|ONLINE| Data Leaks |
 |https://t.me/dataleakbreach|ONLINE| Data Leaks|
-|https://t.me/DataLeakHome|ONLINE| Data Leaks |
+|https://t.me/DataLeakHome|OFFLINE| Data Leaks |
 |https://t.me/dataleaksua|ONLINE| Data Dumps; ESP Russian |
 |https://t.me/db_rf_rb|ONLINE| Data Leaks |
 |https://t.me/dbforall|ONLINE| |

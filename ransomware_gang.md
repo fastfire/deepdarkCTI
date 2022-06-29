@@ -77,6 +77,7 @@
 |[KARAKURT](https://karakurt.co)|OFFLINE|||
 |[KARAKURT 2.0](https://209.222.98.19)|OFFLINE|||
 |[KARAKURT](https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion)|OFFLINE||
+|[KARAKURT](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion/)|ONLINE||
 |[KARAKURT (chat panel)](https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion)|ONLINE||
 |[KARMA](http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion)|OFFLINE|||
 |[KELVIN SECURITY](https://kelvinsecteamcyber.wixsite.com/my-site/items)|OFFLINE||https://t.me/kelvinsecteam|

@@ -34,6 +34,7 @@
 |[BLACKMATTER Support](http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2)|OFFLINE|||
 |[BLACK SHADOW (Deep)](https://blackshadow.cc)|OFFLINE||https://t.me/Blackshadow_Team_official|
 |[BLACK SHADOW](http://544corkfh5hwhtn4.onion)|OFFLINE|||
+|[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE|||
 |[BONACI GROUP](http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion)|OFFLINE|||
 |[CHEERS](http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion)|ONLINE|||
 |[CLOP](http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion)|ONLINE|||

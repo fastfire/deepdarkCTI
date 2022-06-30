@@ -44,7 +44,7 @@
 |https://t.me/Database_breached|ONLINE| Data Leaks |
 |https://t.me/databreach|ONLINE| |
 |https://t.me/dataflows|ONLINE| Data Leaks |
-|https://t.me/dataleakbreach|ONLINE| Data Leaks|
+|https://t.me/dataleakbreach|OFFLINE| Data Leaks|
 |https://t.me/DataLeakHome|OFFLINE| Data Leaks |
 |https://t.me/dataleaksua|ONLINE| Data Dumps; ESP Russian |
 |https://t.me/db_rf_rb|ONLINE| Data Leaks |

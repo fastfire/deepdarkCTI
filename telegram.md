@@ -86,7 +86,7 @@
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0|ONLINE| Data Leaks |
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|ONLINE| |
 |https://t.me/joker_reborn|ONLINE| Joker Reborn Redline Stealer |
-|https://t.me/JustAn0x|ONLINE| Data Leaks |
+|https://t.me/JustAn0x|OFFLINE| Data Leaks |
 |https://t.me/killnet_channel|OFFLINE| |
 |https://t.me/KILLNETddos|ONLINE| Killnet DDoS |
 |https://t.me/Kristina_Pass_RF|ONLINE| Data Leaks, Passport Scans|

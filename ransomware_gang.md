@@ -148,6 +148,7 @@
 |[RANSOMEXX](http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)|ONLINE|||
 |[RANSOM HOUSE](http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion)|ONLINE||https://t.me/ransom_house|
 |[RANZY/AKO](http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion)|OFFLINE|||
+|[REDALERT](http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion)|ONLINE|||
 |[REVIL (Old)](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)|OFFLINE|||
 |[REVIL (New)](http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/Blog)|ONLINE|||
 |[REVIL (Victims page)](http://landxxeaf2hoyl2jvcwuazypt6imcsbmhb7kx3x33yhparvtmkatpaad.onion)|ONLINE|||

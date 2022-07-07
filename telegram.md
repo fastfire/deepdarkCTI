@@ -3,6 +3,7 @@
 |https://t.me/+5XrZvo1danNhOGEy|ONLINE| GODELESS CLOUD Botnet Logs|
 |https://t.me/+uV_Lxf2uOHhkMjAy|ONLINE| Killnet Store Chat |
 |https://t.me/+UYKtaIt6KFGlFwBJ|ONLINE| VIP Config - configs, combos, etc |
+|https://t.me/+NshXlCbUEZkxZDMy|ONLINE| Luffich Logs - Redline Stealer|
 |https://t.me/Allhak_mv|OFFLINE| Data Leaks
 |https://t.me/altenens|ONLINE|
 |https://t.me/AntiPlumbers|ONLINE|
@@ -12,6 +13,7 @@
 |https://t.me/atw2022|ONLINE| Against The West |
 |https://t.me/base_brutesu|ONLINE| Combo List
 |https://t.me/baseleak|ONLINE| Data Leaks |
+|https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/Bl4ck_Room|ONLINE| Checkers, Hacking Tools |
 |https://t.me/Blank_Link|ONLINE|
 |https://t.me/blueteamzone|ONLINE|
@@ -20,6 +22,7 @@
 |https://t.me/breachdetector|ONLINE|
 |https://t.me/BreachedData|ONLINE| Data Leaks |
 |https://t.me/BreachedDB|ONLINE| Data Leaks |
+|https://t.me/bugatti_cloud|ONLINE| Bugatti Cloud Redline Stealer|
 |https://t.me/c0xCee|OFFLINE| Data Leaks |
 |https://t.me/canyoupwnme|ONLINE| News |
 |https://t.me/cbanke_logs|ONLINE| Log Leaks|
@@ -57,6 +60,8 @@
 |https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware |
 |https://t.me/exploit_db_com|ONLINE| Exploits |
 |https://t.me/flannels|ONLINE| Market |
+|https://t.me/fr33d4t4|ONLINE| Fr33 d4t4 - stolen redline from other channels|
+|https://t.me/freeDEFAULFcloud|ONLINE| Defaulf Cloud (Redline Stealer)|
 |https://t.me/freedomf0x|ONLINE| |
 |https://t.me/frilogs|ONLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/fuckeddb|ONLINE| |
@@ -104,6 +109,7 @@
 |https://t.me/lefousamples|ONLINE| Data Leaks
 |https://t.me/Legion_Russia|ONLINE| Legion Russia |
 |https://t.me/Log_Market_Place|ONLINE| Data Leaks|
+|https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
 |https://t.me/MaillAccessTop|ONLINE| Data Leaks |
 |https://t.me/mailpassclub|ONLINE| |
 |https://t.me/mailpasword|ONLINE| |
@@ -119,6 +125,7 @@
 |https://t.me/nohidespace|ONLINE| Combo List |
 |https://t.me/NullLeak|ONLINE| Data Leaks |
 |https://t.me/O1chat|ONLINE| Market |
+|https://t.me/ObserverCloud|ONLINE| Observer Cloud Redline Stealer (Harvests other channels) |
 |https://t.me/OneLogs|ONLINE| Redline Logs
 |https://t.me/OnePlusChat|ONLINE| |
 |https://t.me/opendataleaks|ONLINE| Data Leaks |
@@ -138,6 +145,7 @@
 |https://t.me/Sell_rdp1|ONLINE| |
 |https://t.me/shieldteam1|ONLINE| |
 |https://t.me/silentplug666|ONLINE| Market |
+|https://t.me/slivnoviy123|ONLINE| Erernity Team Redline Stealer|
 |https://t.me/snatch_cloud|ONLINE| Redline Malware Logs |
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) |
 |https://t.me/spamsmtpcombo|ONLINE| Combo List |

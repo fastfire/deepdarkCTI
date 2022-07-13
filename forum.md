@@ -76,6 +76,7 @@
 |[NULLED](https://www.nulled.to)| ONLINE | |
 |[NULLEDBB](https://nulledbb.com)| ONLINE | |
 |[OGUSERS](https://www.ogusers.com)| OFFLINE | |
+|[PATCHED.TO](https://patched.to)| ONLINE | |
 |[PAYLOAD.SH](https://payload.sh)| ONLINE | |
 |[PHREAKER](https://phreaker.info)| ONLINE | |
 |[PIRATEBUHTA](https://s1.piratebuhta.net)| ONLINE | |
@@ -103,6 +104,7 @@
 |[SUPERBAY](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)| ONLINE | |
 |[THE HUB](http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion)| ONLINE | |
 |[THE JAVA SEA](https://thejavasea.com)| ONLINE | |
+|[TOOLBASE](https://toolba.se)| ONLINE | |
 |[VERIFIED (Dark)](http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php)| ONLINE | |
 |[VERIFIED (Deep)](https://ver.sc/index.php)| OFFLINE | |
 |[VERYLEAKS](https://veryleaks.cz)| ONLINE | |

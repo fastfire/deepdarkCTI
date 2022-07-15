@@ -29,7 +29,7 @@
 |[BIANLIAN](http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/)|ONLINE||
 |[BIT/LOLKEK/GLOBEIMPOSTER (Support page)](http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion)|ONLINE||
 |[BLACKBASTA](https://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion)|ONLINE||
-|[BLACKBYTE](http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion)|ONLINE||
+|[BLACKBYTE](http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion)|OFFLINE||
 |[BLACKBYTE (1)](http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion)|OFFLINE|||
 |[BLACKBYTE (2)](http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion)|OFFLINE|||
 |[BLACKBYTE (3)](http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion)|OFFLINE|||

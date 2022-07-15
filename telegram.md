@@ -166,6 +166,7 @@
 |https://t.me/weleakdatabase|ONLINE| Data Leaks |
 |https://t.me/WillieCloudFreeLogs|ONLINE| Willie Cloud Redline Leaks |
 |https://t.me/windmarketo|ONLINE| Data Leaks |
+|https://t.me/pryntsktmarket|ONLINE| Prynt Stealer Official|
 |https://t.me/WLDBackup|ONLINE| Data Leaks |
 |https://t.me/worldwidelogs|ONLINE| Data Leaks |
 |https://t.me/xaknet_team|ONLINE| Killnet |

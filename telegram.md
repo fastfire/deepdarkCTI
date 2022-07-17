@@ -21,7 +21,7 @@
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
 |https://t.me/breachdetector|ONLINE|
 |https://t.me/BreachedData|ONLINE| Data Leaks |
-|https://t.me/BreachedDB|ONLINE| Data Leaks |
+|https://t.me/BreachedDB|OFFLINE| Data Leaks |
 |https://t.me/bugatti_cloud|ONLINE| Bugatti Cloud Redline Stealer|
 |https://t.me/c0xCee|OFFLINE| Data Leaks |
 |https://t.me/canyoupwnme|ONLINE| News |
@@ -132,7 +132,7 @@
 |https://t.me/openleak|ONLINE| Data Leaks |
 |https://t.me/peass|ONLINE| |
 |https://t.me/privatecombos|ONLINE| Data Leaks |
-|https://t.me/procoder_base|ONLINE| Data Leaks |
+|https://t.me/procoder_base|OFFLINE| Data Leaks |
 |https://t.me/proxy_bar|ONLINE| Exploits, Hacking and Leaks |
 |https://t.me/ProxyMTProto|ONLINE| |
 |https://t.me/pwnwiki_zhchannel|ONLINE| |

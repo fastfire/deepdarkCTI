@@ -29,7 +29,7 @@
 |https://t.me/cbanke_market|ONLINE| Market|
 |https://t.me/cbanke|ONLINE| Data Leaks|
 |https://t.me/cloudlogs|ONLINE| Redline LogZone
-|https://t.me/CloudLogsPrivate|ONLINE| UnixSeller89 Redline Stealer |
+|https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/club1337|ONLINE|
 |https://t.me/config_combos|ONLINE| Configs, Combos |
@@ -166,7 +166,7 @@
 |https://t.me/weleakdatabase|ONLINE| Data Leaks |
 |https://t.me/WillieCloudFreeLogs|ONLINE| Willie Cloud Redline Leaks |
 |https://t.me/windmarketo|ONLINE| Data Leaks |
-|https://t.me/pryntsktmarket|ONLINE| Prynt Stealer Official|
+|https://t.me/pryntsktmarket|OFFLINE| Prynt Stealer Official|
 |https://t.me/WLDBackup|ONLINE| Data Leaks |
 |https://t.me/worldwidelogs|ONLINE| Data Leaks |
 |https://t.me/xaknet_team|ONLINE| Killnet |

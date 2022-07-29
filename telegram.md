@@ -6,6 +6,7 @@
 |https://t.me/+NshXlCbUEZkxZDMy|ONLINE| Luffich Logs - Redline Stealer|
 |https://t.me/Allhak_mv|OFFLINE| Data Leaks
 |https://t.me/altenens|ONLINE|
+|https://t.me/anon_by|ONLINE| Anonymous Russia channel|
 |https://t.me/AntiPlumbers|ONLINE|
 |https://t.me/APIddosMirai|ONLINE| Killnet API DDoS Mirai |
 |https://t.me/arvin_club|ONLINE|

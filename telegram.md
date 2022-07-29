@@ -4,6 +4,7 @@
 |https://t.me/+uV_Lxf2uOHhkMjAy|ONLINE| Killnet Store Chat |
 |https://t.me/+UYKtaIt6KFGlFwBJ|ONLINE| VIP Config - configs, combos, etc |
 |https://t.me/+NshXlCbUEZkxZDMy|ONLINE| Luffich Logs - Redline Stealer|
+|https://t.me/aidlock|ONLINE| AiDLocker Group Data Leaks Channel|
 |https://t.me/Allhak_mv|OFFLINE| Data Leaks
 |https://t.me/altenens|ONLINE|
 |https://t.me/AntiPlumbers|ONLINE|

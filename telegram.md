@@ -141,6 +141,7 @@
 |https://t.me/ransomwatcher|ONLINE| Data Leaks |
 |https://t.me/redlogscloud|ONLINE| Redline Leaks |
 |https://t.me/reveng3rs|ONLINE| Data Leaks |
+|https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks|
 |https://t.me/sanaski|ONLINE| Configs, combos |
 |https://t.me/Sell_rdp1|ONLINE| |
 |https://t.me/shieldteam1|ONLINE| |

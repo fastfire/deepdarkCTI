@@ -5,6 +5,7 @@
 |https://t.me/+UYKtaIt6KFGlFwBJ|ONLINE| VIP Config - configs, combos, etc |
 |https://t.me/+NshXlCbUEZkxZDMy|ONLINE| Luffich Logs - Redline Stealer|
 |https://t.me/aidlock/|ONLINE| AiDLocker group channel|
+|https://t.me/slivaidlocker|ONLINE| AiDLocker Group Data Leaks Channel|
 |https://t.me/Allhak_mv|OFFLINE| Data Leaks
 |https://t.me/altenens|ONLINE|
 |https://t.me/AntiPlumbers|ONLINE|
@@ -142,6 +143,7 @@
 |https://t.me/ransomwatcher|ONLINE| Data Leaks |
 |https://t.me/redlogscloud|ONLINE| Redline Leaks |
 |https://t.me/reveng3rs|ONLINE| Data Leaks |
+|https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks|
 |https://t.me/sanaski|ONLINE| Configs, combos |
 |https://t.me/Sell_rdp1|ONLINE| |
 |https://t.me/shieldteam1|ONLINE| |

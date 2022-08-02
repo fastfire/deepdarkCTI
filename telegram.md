@@ -183,3 +183,4 @@
 |https://t.me/darxe_base|ONLINE| Data Leaks |
 |https://t.me/dumpforums|ONLINE| Dump Forums |
 |https://t.me/weareaig|ONLINE| Atlas Intelligence Group |
+|https://t.me/DB_MARKEETS|ONLINE| Data Leaks |

@@ -53,6 +53,7 @@
 |[CRYP70N1C0D3](http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion)|OFFLINE|||
 |[CUBA (Old)](http://cuba4mp6ximo2zlo.onion)|OFFLINE|||
 |[CUBA](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion)|ONLINE|||
+|[DAIXIN](http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion)|ONLINE|||
 |[DARK ANGELS](https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion)|ONLINE|||
 |[DARKRYPT](https://darkrypt.io)|OFFLINE|||
 |[DARKSIDE](http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion)|OFFLINE|||

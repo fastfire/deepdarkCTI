@@ -66,7 +66,7 @@
 |https://t.me/fr33d4t4|ONLINE| Fr33 d4t4 - stolen redline from other channels|
 |https://t.me/freeDEFAULFcloud|ONLINE| Defaulf Cloud (Redline Stealer)|
 |https://t.me/freedomf0x|ONLINE| |
-|https://t.me/frilogs|ONLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
+|https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/fuckeddb|ONLINE| |
 |https://t.me/GhostSecc|ONLINE| Data Leaks & Hacktivism group |
 |https://t.me/GitTools|ONLINE| |

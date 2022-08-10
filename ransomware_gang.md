@@ -166,6 +166,7 @@
 |[SNATCH (Deep)](http://snatch.vip)|OFFLINE|||
 |[SNATCH (Dark)](http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php)|ONLINE|||
 |[SODINOKIBI (REVIL)](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)|OFFLINE|||
+|[SOLIDBIT (Chat panel)](http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion)|ONLINE|||
 |[SPOOK DATA](http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog)|OFFLINE|||YES|
 |[STORMOUS](http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion)|OFFLINE||https://t.me/STORMOUS_HACKER ||
 |[SUGAR (Victims page)](http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data=)|OFFLINE|||

@@ -6,7 +6,8 @@
 |[ARBITRAJ](https://arbitraj-forum.ru)| ONLINE | |
 |[AS](https://ascarding.com)| ONLINE | |
 |[BEST CARDING WORLD](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion) | ONLINE | |
-|[BHF](https://bhf.io)| ONLINE | |
+|[BHF](https://bhf.io)| OFFLINE | |
+|[BHF](https://bhf.im)| ONLINE | |
 |[BREACH](https://breachforums.co)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
 |[BREACHED (Dark)](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion)| ONLINE | |

@@ -184,5 +184,7 @@
 |https://t.me/dumpforums|ONLINE| Dump Forums |
 |https://t.me/weareaig|ONLINE| Atlas Intelligence Group |
 |https://t.me/DB_MARKEETS|ONLINE| Data Leaks |
+|https://t.me/hgn01_ru|ONLINE| Data Leaks |
+|https://t.me/dailydarkweb|ONLINE| Data Leaks |
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang |
 |https://t.me/ddostm1|ONLINE| BlackObServers Channel (ddos team) |

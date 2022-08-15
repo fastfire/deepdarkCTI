@@ -85,7 +85,7 @@
 |[PAYLOAD.SH](https://payload.sh)| ONLINE | |
 |[PHREAKER](https://phreaker.info)| ONLINE | |
 |[PIRATEBUHTA](https://s1.piratebuhta.net)| ONLINE | |
-|[PROCRD](https://procrd.pw) ONLINE | |
+|[PROCRD](https://procrd.pw)| ONLINE | |
 |[PROJECT SPHERE](http://psphere7gzibrekpbvzitrul46aol2ibvnexpfymcne3xx4uzwdwdaad.onion/)| |
 |[PROLOGIC](https://prologic.su)| ONLINE | |
 |[PROTON](https://proton.sc)| ONLINE | |

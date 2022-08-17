@@ -81,6 +81,7 @@
 |[HIVE (Negotiation)](http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion)|ONLINE|Random generated user/pass in ransom note||
 |[HOLYGHOST](http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion)|OFFLINE|||
 |[HOTARUS](http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion)|OFFLINE|||
+|[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion)|ONLINE|||
 |[KARAKURT](https://karakurt.tech)|OFFLINE|||
 |[KARAKURT](https://karakurt.co)|OFFLINE|||
 |[KARAKURT 2.0](https://209.222.98.19)|OFFLINE|||

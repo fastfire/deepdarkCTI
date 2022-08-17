@@ -36,6 +36,7 @@
 |[BLACKBYTE (2)](http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion)|OFFLINE|||
 |[BLACKBYTE (3)](http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion)|OFFLINE|||
 |[BLACKBYTE (4)](http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion)|OFFLINE|||
+|[BLACKBYTE (5)](http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion)|ONLINE|||
 |[BLACKMATTER](http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion)|OFFLINE|||
 |[BLACKMATTER Support](http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2)|OFFLINE|||
 |[BLACK SHADOW (Deep)](https://blackshadow.cc)|OFFLINE||https://t.me/Blackshadow_Team_official|
@@ -150,7 +151,8 @@
 |[RAGNAR LOCKER (Old)](http://ragnarleaks.top)|OFFLINE|||
 |[RAGNAROK](http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion)|OFFLINE|||
 |[RAGNAROK](http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion)|OFFLINE|||
-|[RANSOM CARTEL](http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion)|OFFLINE|||
+|[RANSOM CARTEL (1)](http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion)|OFFLINE|||
+|[RANSOM CARTEL (2)](http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion)|ONLINE|||
 |[RANSOMEXX](http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)|ONLINE|||
 |[RANSOM HOUSE](http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion)|ONLINE||https://t.me/ransom_house|
 |[RANZY/AKO](http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion)|OFFLINE|||

@@ -188,4 +188,5 @@
 |https://t.me/dailydarkweb|ONLINE| Data Leaks |
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang |
 |https://t.me/ddostm1|ONLINE| BlackObServers Channel (ddos team) |
-|https://t.me/+ipEzVrjM43NkODc0|AKATSUKI| AKATSUKI gang (Algerian Ministry breach) |
+|https://t.me/+ipEzVrjM43NkODc0|ONLINE| AKATSUKI gang (Algerian Ministry breach) |
+|https://t.me/eliteband|ONLINE| 1337.BAND |

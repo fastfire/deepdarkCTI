@@ -190,3 +190,4 @@
 |https://t.me/ddostm1|ONLINE| BlackObServers Channel (ddos team) |
 |https://t.me/+ipEzVrjM43NkODc0|ONLINE| AKATSUKI gang (Algerian Ministry breach) |
 |https://t.me/eliteband|ONLINE| 1337.BAND |
+|https://t.me/UnsafeInternet|ONLINE| Unsafe Internet |

@@ -191,5 +191,5 @@
 |https://t.me/+ipEzVrjM43NkODc0|ONLINE| AKATSUKI gang (Algerian Ministry breach) |
 |https://t.me/eliteband|ONLINE| 1337.BAND |
 |https://t.me/zerodayforums|ONLINE| ZeroDay Forums |
-|https://t.me/blackshadowhackers| Blackshadow Hackers |
-|https://t.me/ransom_house| RansomHouse official channel |
+|https://t.me/blackshadowhackers|ONLINE| Blackshadow Hackers |
+|https://t.me/ransom_house|ONLINE| RansomHouse official channel |

@@ -38,7 +38,7 @@
 |[DARK ZONE](http://6bcecdo7ldzkudt6dnsuljqoyhgme4afsnytarre5nucjhgzmrn4txad.onion)| OFFLINE | |
 |[DARKFOX MARKET](http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion)| ONLINE | |
 |[DATABASE](http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion)| ONLINE | |
-|[Delta Marketplace](https://delta-marketplace.sellix.io/)| ONLINE ||
+|[Delta Marketplace](https://delta-marketplace.sellix.io/)| ONLINE | |
 |[DOCSHOP](https://doc-shop.ws)| OFFLINE | |
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |

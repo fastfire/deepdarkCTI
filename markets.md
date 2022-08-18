@@ -50,6 +50,7 @@
 |[INFINITY SHOP](http://infinityvzoe2ldb74y2klk7cs3nda2n3qozdy7sdgfouqrzfkp64sid.onion)| ONLINE | |
 |[Iran Info Marketplace](http://marketir7joj2ibuouojg2nwkdwfal5dhisp3g246jl4ur7r7zfvloid.onion)| ONLINE | |
 |[LIBERTY](http://liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion)| OFFLINE | |
+|[LOLZ.GURU](https://lolz.guru/)| ONLINE | |
 |[LOCKDATA AUCTION](http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion)| OFFLINE | Probably a scam website. |
 |[LuxeCC](https://luxecc.net)| ONLINE | |
 |[MAGBO (Dark)](http://magbocc3tco4vmxx.onion)| OFFLINE | |

@@ -194,3 +194,5 @@
 |https://t.me/blackshadowhackers|ONLINE| Blackshadow Hackers |
 |https://t.me/ransom_house|ONLINE| RansomHouse official channel |
 |https://t.me/wwhsmi|ONLINE| WWH Forum |
+|https://t.me/metastealer_official|ONLINE| Metastealer Officiale |
+|https://t.me/CryptoGinzo|ONLINE| Crypt_0x00 |

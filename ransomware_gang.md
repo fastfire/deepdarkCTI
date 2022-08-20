@@ -131,6 +131,7 @@
 |[Moses Staff (Dark)](http://mosesstaffm7hptp.onion)|OFFLINE|||
 |[MOUNT LOCKER](http://mountnewsokhwilx.onion)|OFFLINE|||
 |[MYDECRYPTOR](http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion)|OFFLINE|||
+|[MOISHA](http://moishddxqnpdxpababec6exozpl2yr7idfhdldiz5525ao25bmasxhid.onion)|OFFLINE|||
 |[N3TW0RM](http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion)|OFFLINE|||
 |[NEFILIM](http://hxt254aygrsziejn.onion)|OFFLINE|||
 |[NEMTY (Deep)](http://nemty.top)|OFFLINE|||

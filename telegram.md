@@ -12,13 +12,13 @@
 |https://t.me/AntiPlumbers|ONLINE|
 |https://t.me/APIddosMirai|ONLINE| Killnet API DDoS Mirai |
 |https://t.me/arvin_club|ONLINE|
-|https://t.me/Arvin_club2|ONLINE| Data Leaks |
+|https://t.me/Arvin_club2|OFFLINE| Data Leaks |
 |https://t.me/atw2022|ONLINE| Against The West |
 |https://t.me/base_brutesu|ONLINE| Combo List
 |https://t.me/baseleak|ONLINE| Data Leaks |
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/Bl4ck_Room|ONLINE| Checkers, Hacking Tools |
-|https://t.me/Blank_Link|ONLINE|
+|https://t.me/Blank_Link|OFFLINE|
 |https://t.me/blueteamzone|ONLINE|
 |https://t.me/boosty66brvte|ONLINE| Data Leaks |
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
@@ -61,7 +61,7 @@
 |https://t.me/DWI_OFFICIAL|ONLINE| |
 |https://t.me/ehdanstock|ONLINE| Selling Accounts |
 |https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware |
-|https://t.me/exploit_db_com|ONLINE| Exploits |
+|https://t.me/exploit_db_com|OFFLINE| Exploits |
 |https://t.me/flannels|ONLINE| Market |
 |https://t.me/fr33d4t4|ONLINE| Fr33 d4t4 - stolen redline from other channels|
 |https://t.me/freeDEFAULFcloud|ONLINE| Defaulf Cloud (Redline Stealer)|
@@ -103,7 +103,7 @@
 |https://t.me/leakdataprivate|ONLINE| Data Leaks |
 |https://t.me/leaked_databases|ONLINE| Data Leaks|
 |https://t.me/leaked_detabase|ONLINE| Data Leaks |
-|https://t.me/LeakedSource|ONLINE| Data Leaks|
+|https://t.me/LeakedSource|OFFLINE| Data Leaks|
 |https://t.me/leakinformation|ONLINE|Data Leaks|
 |https://t.me/leaklicks|ONLINE| Data Leaks|
 |https://t.me/LeaksData|ONLINE| Data Leaks|
@@ -115,7 +115,7 @@
 |https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
 |https://t.me/MaillAccessTop|ONLINE| Data Leaks |
 |https://t.me/mailpassclub|ONLINE| |
-|https://t.me/mailpasword|ONLINE| |
+|https://t.me/mailpasword|OFFLINE| |
 |https://t.me/MalwareLogs|ONLINE| Logs |
 |https://t.me/marketo_leaks|ONLINE| Data Leaks|
 |https://t.me/MBCRANSOMWARE|OFFLINE| Ransomware Gang|
@@ -126,15 +126,15 @@
 |https://t.me/NetSurvivalist|ONLINE| General Hacking, Privacy |
 |https://t.me/nohidespace|ONLINE| |
 |https://t.me/nohidespace|ONLINE| Combo List |
-|https://t.me/NullLeak|ONLINE| Data Leaks |
+|https://t.me/NullLeak|OFFLINE| Data Leaks |
 |https://t.me/O1chat|ONLINE| Market |
 |https://t.me/ObserverCloud|ONLINE| Observer Cloud Redline Stealer (Harvests other channels) |
 |https://t.me/OneLogs|ONLINE| Redline Logs
 |https://t.me/OnePlusChat|ONLINE| |
-|https://t.me/opendataleaks|ONLINE| Data Leaks |
+|https://t.me/opendataleaks|OFFLINE| Data Leaks |
 |https://t.me/openleak|ONLINE| Data Leaks |
 |https://t.me/peass|ONLINE| |
-|https://t.me/privatecombos|ONLINE| Data Leaks |
+|https://t.me/privatecombos|OFFLINE| Data Leaks |
 |https://t.me/procoder_base|OFFLINE| Data Leaks |
 |https://t.me/proxy_bar|ONLINE| Exploits, Hacking and Leaks |
 |https://t.me/ProxyMTProto|ONLINE| |
@@ -143,10 +143,10 @@
 |https://t.me/raidsecretforums|ONLINE| Claims to be the backup channel of RaidForums |
 |https://t.me/ransomwatcher|ONLINE| Data Leaks |
 |https://t.me/redlogscloud|ONLINE| Redline Leaks |
-|https://t.me/reveng3rs|ONLINE| Data Leaks |
+|https://t.me/reveng3rs|OFFLINE| Data Leaks |
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks|
 |https://t.me/sanaski|ONLINE| Configs, combos |
-|https://t.me/Sell_rdp1|ONLINE| |
+|https://t.me/Sell_rdp1|OFFLINE| |
 |https://t.me/shieldteam1|ONLINE| |
 |https://t.me/silentplug666|ONLINE| Market |
 |https://t.me/slivnoviy123|ONLINE| Erernity Team Redline Stealer|
@@ -167,14 +167,14 @@
 |https://t.me/V3TerN|ONLINE| Devilzone (2) - configs, combos, etc |
 |https://t.me/We_are_not_eternal|ONLINE| |
 |https://t.me/webpwn|ONLINE| Hacking, Privacy |
-|https://t.me/weleakdatabase|ONLINE| Data Leaks |
+|https://t.me/weleakdatabase|OFFLINE| Data Leaks |
 |https://t.me/WillieCloudFreeLogs|ONLINE| Willie Cloud Redline Leaks |
 |https://t.me/windmarketo|ONLINE| Data Leaks |
 |https://t.me/pryntsktmarket|OFFLINE| Prynt Stealer Official|
 |https://t.me/WLDBackup|ONLINE| Data Leaks |
 |https://t.me/worldwidelogs|ONLINE| Data Leaks |
 |https://t.me/xaknet_team|ONLINE| Killnet |
-|https://t.me/Yad2Leaks|ONLINE| Data Leaks |
+|https://t.me/Yad2Leaks|OFFLINE| Data Leaks |
 |https://t.me/zer0daylab|ONLINE| Hacking, Leaks and News |
 |https://t.me/ZeroDay_TM|ONLINE| Original  ZeroDay  Community |
 |https://t.me/+fR-06lKTQ_VmODA0|ONLINE| Data Leaks |

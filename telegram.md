@@ -198,3 +198,4 @@
 |https://t.me/CryptoGinzo|OFFLINE| Crypt_0x00 |
 |https://t.me/leaksmarts|ONLINE| Data Leaks |
 |https://t.me/+IYBPSRVwk6k4ZTEy|ONLINE| Atlantis Cyber Army A.I.G. |
+|https://t.me/intelrepo|ONLINE|Spectre's Intel Repository|

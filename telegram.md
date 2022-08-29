@@ -200,3 +200,4 @@
 |https://t.me/+IYBPSRVwk6k4ZTEy|OFFLINE| Atlantis Cyber Army A.I.G. |
 |https://t.me/intelrepo|ONLINE|Spectre's Intel Repository|
 |https://t.me/leaksmarts|ONLINE| Leaks Marts|
+|https://t.me/+T0l1VDuQzDpjYWQ0|ONLINE| Data Leaks|

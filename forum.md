@@ -61,6 +61,7 @@
 |[HACKFORUMS](https://hackforums.net/index.php)| ONLINE | |
 |[HACKTOWN](http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion/HackTown.html)| ONLINE | |
 |[HELIUM](http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/login)| ONLINE | |
+|[HOHEKAMMER](http://hohekammer.cc)| ONLINE | |
 |[IFUD](https://ifud.cx)| OFFLINE | |
 |[INFECTED ZONE](https://infected-zone.com)| ONLINE | |
 |[ITALIAN DARKNET COMMUNITY 3.0 (Dark)](http://dhri7ogvfpnflpkj3sc5x7umjl4gd26bkukzotbwdy76yjp5qvhjzmqd.onion)| OFFLINE | |
@@ -108,6 +109,7 @@
 |[SKYNETZONE.PW](https://skynetzone.pw)| ONLINE | |
 |[SQLI](https://sqli.cloud)| ONLINE | |
 |[SUPERBAY](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)| ONLINE | |
+|[THE GOOD LIFE](https://thegoodlife.to)| ONLINE | |
 |[THE HUB](http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion)| ONLINE | |
 |[THE JAVA SEA](https://thejavasea.com)| ONLINE | |
 |[TOOLBASE](https://toolba.se)| ONLINE | |

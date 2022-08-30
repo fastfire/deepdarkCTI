@@ -196,7 +196,6 @@
 |https://t.me/wwhsmi|ONLINE| WWH Forum |
 |https://t.me/metastealer_official|ONLINE| Metastealer Officiale |
 |https://t.me/CryptoGinzo|OFFLINE| Crypt_0x00 |
-|https://t.me/leaksmarts|ONLINE| Data Leaks |
 |https://t.me/+IYBPSRVwk6k4ZTEy|OFFLINE| Atlantis Cyber Army A.I.G. |
 |https://t.me/intelrepo|ONLINE|Spectre's Intel Repository|
 |https://t.me/leaksmarts|ONLINE| Leaks Marts|

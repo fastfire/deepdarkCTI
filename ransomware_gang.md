@@ -13,7 +13,7 @@
 |[AgainstTheWest](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion)|OFFLINE||https://t.me/ATW2022|
 |[AKO](http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion)|OFFLINE|||
 |[ALPHV (aka BlackCat 1)](http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion)|OFFLINE||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
-|[ALPHV (aka BlackCat 2)](http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion)|ONLINE|||
+|[ALPHV (aka BlackCat 2)](http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion)|OFFLINE|||
 |[ALPHV (collection data leaks)](http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion)|ONLINE|||
 |[ARVIN](http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion)|OFFLINE||http://t.me/arvin_club|
 |[ARVIN](http://xxz6hl6wwoa25er62tbjdxda4nxyt5iqziavb73mhda6q6zujsgfoxqd.onion)|OFFLINE||||
@@ -80,7 +80,7 @@
 |[HARON](http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php)|OFFLINE|Chaddadgroup:Chaddadgroup||
 |[HELLO KITTY](http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion)|OFFLINE|||
 |[HITLER](http://hitleransomware.cf)|OFFLINE|||
-|[HIVE](http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion)|ONLINE|||
+|[HIVE](http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion)|OFFLINE|||
 |[HIVE (Negotiation)](http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion)|ONLINE|Random generated user/pass in ransom note||
 |[HOLYGHOST](http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion)|OFFLINE|||
 |[HOTARUS](http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion)|OFFLINE|||
@@ -119,7 +119,7 @@
 |[LOCKBIT](http://lockbitkodidilol.onion)|OFFLINE|||
 |[LOCKFILE (Victims request ID page)](http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion)|OFFLINE||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB|
 |[LORENZ](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion)|ONLINE|||
-|[LV (1)](http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion)|ONLINE|||
+|[LV (1)](http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion)|OFFLINE|||
 |[LV (2)](http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion)|OFFLINE|||
 |[MARKETO (Deep)](https://marketo.cloud)|OFFLINE|||
 |[MARKETO (Tor v2)](http://g5sbltooh2okkcb2.onion)|OFFLINE|||

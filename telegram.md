@@ -200,3 +200,5 @@
 |https://t.me/intelrepo|ONLINE|Spectre's Intel Repository|
 |https://t.me/leaksmarts|ONLINE| Leaks Marts|
 |https://t.me/+T0l1VDuQzDpjYWQ0|ONLINE| Data Leaks|
+|https://t.me/BAZU_BD| Data Leaks|
+|https://t.me/+nCFeH8PT-XUxZjEy| Data Leaks|

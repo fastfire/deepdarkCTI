@@ -150,6 +150,7 @@
 |[PROLOCK](http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion)|OFFLINE|||
 |[PROMETHEUS](http://promethw27cbrcot.onion/blog)|OFFLINE|||
 |[PYSA](http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html)|OFFLINE|||
+|[QILIN](http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion)|ONLINE|||
 |[QLOCKER](http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion)|ONLINE|||
 |[QUANTUM](http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion)|OFFLINE|||
 |[QUANTUM (clearnet)](http://quantumleap.quest)|OFFLINE|||

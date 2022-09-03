@@ -203,3 +203,4 @@
 |https://t.me/BAZU_BD|ONLINE| Data Leaks|
 |https://t.me/+nCFeH8PT-XUxZjEy|ONLINE| Data Leaks|
 |https://t.me/+8UWtFO9H_9dhODVk|ONLINE| 0x_dump alternative channel|
+|https://t.me/kelvinsecuritydarkmarket|ONLINE| Kelvin Security Dark Market|

@@ -131,7 +131,7 @@
 |[MEDUSA - Victims Page](http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion)|ONLINE|||
 |[MIDAS/HARON](http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion/blog.php)|OFFLINE||
 |[MINDWARE](http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion)|OFFLINE|||
-|[Moses Staff (Deep)](http://moses-staff.se)|ONLINE||https://t.me/moses_staff_se_11||
+|[Moses Staff (Deep)](http://moses-staff.se)|ONLINE||https://t.me/moses_staff_se_15||
 |[Moses Staff (Dark)](http://mosesstaffm7hptp.onion)|OFFLINE|||
 |[MOUNT LOCKER](http://mountnewsokhwilx.onion)|OFFLINE|||
 |[MYDECRYPTOR](http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion)|OFFLINE|||

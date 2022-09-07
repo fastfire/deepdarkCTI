@@ -31,6 +31,7 @@
 |[BIT/LOLKEK/GLOBEIMPOSTER (SMTP Server)](http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion/)|ONLINE||
 |[BIT/LOLKEK/GLOBEIMPOSTER (Support page)](http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion/)|ONLINE||
 |[BLACKBASTA](https://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion)|ONLINE||
+|[BLACKBASTA (Victims request ID Page)](https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion)|ONLINE||
 |[BLACKBYTE](http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion)|OFFLINE||
 |[BLACKBYTE (1)](http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion)|OFFLINE|||
 |[BLACKBYTE (2)](http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion)|OFFLINE|||

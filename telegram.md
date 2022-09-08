@@ -168,7 +168,7 @@
 |https://t.me/We_are_not_eternal|ONLINE| |
 |https://t.me/webpwn|ONLINE| Hacking, Privacy |
 |https://t.me/weleakdatabase|OFFLINE| Data Leaks |
-|https://t.me/WillieCloudFreeLogs|ONLINE| Willie Cloud Redline Leaks |
+|https://t.me/WillieCloudFreeLogs|OFFLINE| Willie Cloud Redline Leaks |
 |https://t.me/windmarketo|ONLINE| Data Leaks |
 |https://t.me/pryntsktmarket|OFFLINE| Prynt Stealer Official|
 |https://t.me/WLDBackup|ONLINE| Data Leaks |

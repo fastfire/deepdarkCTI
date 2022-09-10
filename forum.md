@@ -17,6 +17,7 @@
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
 |[CENTER CLUB](https://center-club.top)| OFFLINE | |
 |[CHITACHOK](https://chitachok.ru)| ONLINE | |
+|[COMFYBOX](https://comfybox.floofey.dog)| ONLINE | |
 |[COOKIEPRO](https://coockie.pro)| ONLINE | |
 |[CRACKED](https://cracked.io)| ONLINE | |
 |[CRACKING KING](https://crackingking.com)| OFFLINE | |

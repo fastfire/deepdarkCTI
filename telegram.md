@@ -204,3 +204,14 @@
 |https://t.me/+nCFeH8PT-XUxZjEy|ONLINE| Data Leaks|
 |https://t.me/+8UWtFO9H_9dhODVk|ONLINE| 0x_dump alternative channel|
 |https://t.me/kelvinsecuritydarkmarket|ONLINE| Kelvin Security Dark Market|
+|https://t.me/+jCjbvdsUSJIzN2Vl|ONLINE| The Collective Sentinel|
+|https://t.me/stkdatabase|ONLINE| Mapper (former STK Database)|
+|https://t.me/+YhH_DjYUyYpmNDRi|ONLINE| Backup @HackGit channel|
+|https://http://t.me/DarknetNewsEng|ONLINE| Darknet News(English Version)|
+|https://t.me/Bust3d|ONLINE| волчья свалка|
+|https://t.me/ShizoPrivacy|ONLINE| 0% Privacy|
+|https://t.me/SiegedSec|ONLINE| Sieged Sec|
+|https://t.me/EVILEAKSU|ONLINE| UNLISTEDLEAKS|
+|https://t.me/+ghq2ayK6ybIwYmJi|ONLINE| voidy - database storage|
+|https://t.me/+xr2N5_kqYQE3ZDUy|ONLINE| Kingsman|
+|https://t.me/intelx_io|ONLINE| intelx | infosec|

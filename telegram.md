@@ -35,7 +35,7 @@
 |https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/club1337|ONLINE|
-|https://t.me/config_combos|ONLINE| Configs, Combos |
+|https://t.me/config_combos|OFFLINE| Configs, Combos |
 |https://t.me/Configsandcombos|ONLINE| Configs, Combos |
 |https://t.me/cpartisans|ONLINE| Кибер-Партизаны (Cyber Partisans) |
 |https://t.me/crackcodes|ONLINE| Data Leaks |
@@ -47,7 +47,7 @@
 |https://t.me/darkclubpw|ONLINE| Dark Club Market |
 |https://t.me/DarkfeedNews|ONLINE| News
 |https://t.me/data1eaks|ONLINE| |
-|https://t.me/Database_breached|ONLINE| Data Leaks |
+|https://t.me/Database_breached|OFFLINE| Data Leaks |
 |https://t.me/databreach|ONLINE| |
 |https://t.me/dataflows|ONLINE| Data Leaks |
 |https://t.me/dataleakbreach|OFFLINE| Data Leaks|

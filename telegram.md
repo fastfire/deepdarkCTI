@@ -214,4 +214,6 @@
 |https://t.me/EVILEAKSU|ONLINE| UNLISTEDLEAKS|
 |https://t.me/+ghq2ayK6ybIwYmJi|ONLINE| voidy - database storage|
 |https://t.me/+xr2N5_kqYQE3ZDUy|ONLINE| Kingsman|
-|https://t.me/intelx_io|ONLINE| intelx | infosec|
+|https://t.me/intelx_io|ONLINE| intelx - infosec|
+|https://t.me/StealerStore|ONLINE| Stealer Store|
+|https://t.me/RansomwareTeam|ONLINE| Ransomware Team|

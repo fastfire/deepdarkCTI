@@ -58,7 +58,7 @@
 |https://t.me/DBleak|ONLINE| Data Leaks |
 |https://t.me/ddos_separ|ONLINE| DDoS Services |
 |https://t.me/ddossatmak|ONLINE| DDoS Services |
-|https://t.me/DWI_OFFICIAL|ONLINE| |
+|https://t.me/DWI_OFFICIAL|OFFLINE| |
 |https://t.me/ehdanstock|ONLINE| Selling Accounts |
 |https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware |
 |https://t.me/exploit_db_com|OFFLINE| Exploits |

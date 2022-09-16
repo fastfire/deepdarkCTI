@@ -217,3 +217,4 @@
 |https://t.me/intelx_io|ONLINE| intelx - infosec|
 |https://t.me/StealerStore|ONLINE| Stealer Store|
 |https://t.me/RansomwareTeam|ONLINE| Ransomware Team|
+|https://t.me/bazubd|ONLINE| Data Leaks|

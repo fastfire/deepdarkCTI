@@ -81,7 +81,7 @@
 |[HARON](http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php)|OFFLINE|Chaddadgroup:Chaddadgroup||
 |[HELLO KITTY](http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion)|OFFLINE|||
 |[HITLER](http://hitleransomware.cf)|OFFLINE|||
-|[HIVE](http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion)|OFFLINE|||
+|[HIVE](http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion)|ONLINE|||
 |[HIVE (Negotiation)](http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion)|ONLINE|Random generated user/pass in ransom note||
 |[HOLYGHOST](http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion)|OFFLINE|||
 |[HOTARUS](http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion)|OFFLINE|||

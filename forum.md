@@ -67,6 +67,7 @@
 |[INFECTED ZONE](https://infected-zone.com)| ONLINE | |
 |[ITALIAN DARKNET COMMUNITY 3.0 (Dark)](http://dhri7ogvfpnflpkj3sc5x7umjl4gd26bkukzotbwdy76yjp5qvhjzmqd.onion)| OFFLINE | |
 |[KICKASS](http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion)| ONLINE | |
+|[LEAKBASE](https://leakbase.cc)| ONLINE | |
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |

@@ -154,6 +154,7 @@
 |[PROMETHEUS](http://promethw27cbrcot.onion/blog)|OFFLINE|||
 |[PYSA](http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html)|OFFLINE|||
 |[QILIN](http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion)|ONLINE|||
+|[QILIN DLS](http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/)|ONLINE||| 
 |[QLOCKER](http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion)|ONLINE|||
 |[QUANTUM](http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion)|ONLINE|||
 |[QUANTUM (clearnet)](http://quantumleap.quest)|OFFLINE|||

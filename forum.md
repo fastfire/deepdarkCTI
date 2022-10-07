@@ -103,6 +103,8 @@
 |[RAMP](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion) | ONLINE | |
 |[RUTOR (Dark)](http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion)| ONLINE | |
 |[RUTOR (Deep)](https://darknet.rutor.nl) | ONLINE | |
+|[RUTOR (Surface)](http://rutor.info) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.is) | ONLINE ||
 |[SINFUL](https://sinfulsite.com)| ONLINE | |
 |[SINISTER](https://sinister.ly)| ONLINE | |
 |[SKYFRAUD](http://bcbm4y7yusdxthg3.onion)| OFFLINE | |

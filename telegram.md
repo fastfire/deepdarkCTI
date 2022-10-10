@@ -219,3 +219,4 @@
 |https://t.me/RansomwareTeam|ONLINE| Ransomware Team|
 |https://t.me/bazubd|ONLINE| Data Leaks|
 |https://t.me/lazarus_apt18|ONLINE| Lazarus channel|
+|https://t.me/breachdetector|ONLINE| Data Leak Monitor|

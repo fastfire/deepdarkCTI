@@ -5,6 +5,7 @@
 |[RANSOMWARE GROUP SITES (list)](http://thexfvx7hqcrpgtm.onion)|OFFLINE|||
 |[RANSOMWARE GROUP SITES (list)](http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion)|ONLINE|||
 |[RANSOMWARE GROUP SITES (list)](http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion)|ONLINE|||
+|[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomlook.io/)|ONLINE|||
 |[54bb47h](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog)|OFFLINE|||
 |[0mega (Dark)](http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion)|ONLINE|||
 |[0mega (Deep)](https://0mega.cc)|OFFLINE|||

@@ -1,6 +1,7 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
 |[CheckPhish](https://checkphish.ai)| ONLINE | |
+|[EasyDmark](https://easydmarc.com/tools/phishing-url)| ONLINE | |
 |[IsitPhishing](https://isitphishing.org)| ONLINE | |
 |[OpenPhish](https://openphish.com)| ONLINE | |
 |[PhishBank](https://phishbank.org)| OFFLINE | |
@@ -12,4 +13,5 @@
 |[PhishStats](https://phishstats.info)| ONLINE | |
 |[PhishTank](https://www.phishtank.com)| ONLINE | |
 |[StopForumSpam](https://www.stopforumspam.com)| ONLINE | |
+|[ThreatCOp](https://threatcop.com/phishing-url-checker)| ONLINE | |
 |[urlscan.io](https://urlscan.io)| ONLINE | |

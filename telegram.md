@@ -222,3 +222,4 @@
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor|
 |https://t.me/Privatedata77new|ONLINE| Logs Market |
 |https://t.me/expertsa11m|ONLINE| Logs Market |
+|https://t.me/cbanke_market|ONLINE| Data Leaks |

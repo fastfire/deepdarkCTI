@@ -92,7 +92,8 @@
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion)|ONLINE|||
 |[KARAKURT (Deep)](https://karakurt.tech)|OFFLINE|||
 |[KARAKURT (Deep)](https://karakurt.co)|OFFLINE|||
-|[KARAKURT (Deep)](https://karanews.live)|ONLINE|||
+|[KARAKURT (Deep)](https://karanews.live)|OFFLINE|||
+|[KARAKURT (Deep)](https://karaleaks.com)|ONLINE|||
 |[KARAKURT 2.0 (IP)](https://209.222.98.19)|OFFLINE|||
 |[KARAKURT (Dark)](https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion)|OFFLINE|||
 |[KARAKURT (chat panel)](https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion)|ONLINE|||

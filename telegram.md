@@ -225,3 +225,4 @@
 |https://t.me/cbanke_market|ONLINE| Data Leaks |
 |https://t.me/DailyCombos1|ONLINE| Combo List|
 |https://t.me/DailyCombos|ONLINE| Combo List|
+|https://t.me/karakurt_news|ONLINE| Karakurt|

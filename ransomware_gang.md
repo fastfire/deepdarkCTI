@@ -127,6 +127,7 @@
 |[LORENZ](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion)|ONLINE|||
 |[LV (1)](http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion)|OFFLINE|||
 |[LV (2)](http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion)|OFFLINE|||
+|[MALLOX](http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion)|ONLINE|||
 |[MARKETO (Deep)](https://marketo.cloud)|OFFLINE|||
 |[MARKETO (Tor v2)](http://g5sbltooh2okkcb2.onion)|OFFLINE|||
 |[MARKETO (Tor v3)](http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion)|OFFLINE|||

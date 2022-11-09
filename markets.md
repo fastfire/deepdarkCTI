@@ -65,6 +65,9 @@
 |[ONLYONE](https://only-one.cc)| OFFLINE | |
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |
+|[RONDA STORE (Deep - mirror)](https://rondastore.vip)| ONLINE | |
+|[RONDA STORE (Deep)](http://rondastore.cc)| ONLINE | |
+|[RONDA STORE (Tor v3)](http://r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.gs)| OFFLINE | |
 |[Russian Market (Deep)](https://russianmarket.to)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.io)| ONLINE | |

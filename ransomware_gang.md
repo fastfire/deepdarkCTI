@@ -91,7 +91,7 @@
 |[HOTARUS](http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion)|OFFLINE|||
 |[ICEFIRE](http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list/)|OFFLINE|||
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion)|ONLINE|||
-|[JUSTICE BLADE](https://justice-blade.io)|ONLINE|||
+|[JUSTICE BLADE](https://justice-blade.io)|ONLINE||https://t.me/justiceblade3 - https://t.me/+UbB2H5vTBJJkYTRl|
 |[KARAKURT (Deep)](https://karakurt.tech)|OFFLINE|||
 |[KARAKURT (Deep)](https://karakurt.co)|OFFLINE|||
 |[KARAKURT (Deep)](https://karanews.live)|OFFLINE|||

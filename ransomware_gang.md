@@ -176,6 +176,7 @@
 |[RANSOM HOUSE](http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion)|ONLINE|||
 |[RANZY/AKO](http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion)|OFFLINE|||
 |[REDALERT](http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion)|ONLINE|||
+|[RELIC](https://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion.pet)|ONLINE|||
 |[REVIL (Old)](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)|OFFLINE|||
 |[REVIL (New)](http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/Blog)|ONLINE|||
 |[REVIL (Victims page)](http://landxxeaf2hoyl2jvcwuazypt6imcsbmhb7kx3x33yhparvtmkatpaad.onion)|ONLINE|||

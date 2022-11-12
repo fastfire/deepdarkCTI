@@ -229,3 +229,7 @@
 |https://t.me/+eOtgrt4gB68wM2Qy|ONLINE| Atlantis Cyber Army A.I.G. - backup|
 |https://t.me/Venari_By_BetterCyber|ONLINE| Data Leaks Feed|
 |https://t.me/GonjeshkeDarand|ONLINE| Gonjeshke Darande|
+|https://t.me/noname05716eng|ONLINE| NoName057(16) Eng|
+|https://t.me/nn05716chat|ONLINE| NoName057(16) Eng|
+|https://t.me/noname05716engchat|ONLINE| NoName057(16) chat|
+|http://t.me/c/1228309110/7662|ONLINE| Ddosia project chat|

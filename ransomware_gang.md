@@ -72,6 +72,7 @@
 |[DOPPLE PAYMER](http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion)|OFFLINE|||
 |[DOTADMIN](http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion)|OFFLINE||@dotADMINbot (Telegram)|
 |[ECH0RAIX](http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion)|OFFLINE|||
+|[ENDURANCE](http://h44jyyfomcbnnw5dha7zgwgkvpzbzbdyx2onu4fxaa5smxrgbjgq7had.onion/)|ONLINE|||
 |[EGREGOR](https://egregornews.com)|OFFLINE|||
 |[ENTROPY](http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion)|OFFLINE||
 |[EP918](http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion)|OFFLINE|||

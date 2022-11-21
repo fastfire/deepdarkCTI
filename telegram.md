@@ -233,3 +233,5 @@
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng|
 |https://t.me/noname05716engchat|ONLINE| NoName057(16) chat|
 |http://t.me/c/1228309110/7662|ONLINE| Ddosia project chat|
+|https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|
+|https://t.me/+wlf3z9fVHqgzYzk1|ONLINE| Darks chat|

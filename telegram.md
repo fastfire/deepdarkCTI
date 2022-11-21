@@ -235,3 +235,4 @@
 |http://t.me/c/1228309110/7662|ONLINE| Ddosia project chat|
 |https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|
 |https://t.me/+wlf3z9fVHqgzYzk1|ONLINE| Darks chat|
+|https://t.me/joinchat/aLzjwn_93JtkMDA8|ONLINE| Logs Market|

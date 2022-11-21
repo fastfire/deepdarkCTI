@@ -5,6 +5,7 @@
 |[ANTIMIGALKI](https://antimigalki.space)| ONLINE | |
 |[ARBITRAJ](https://arbitraj-forum.ru)| ONLINE | |
 |[AS](https://ascarding.com)| ONLINE | |
+|[BDF CLUB](https://bdfclub.com)| ONLINE | |
 |[BEST CARDING WORLD](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion) | ONLINE | |
 |[BHF](https://bhf.io)| OFFLINE | |
 |[BHF](https://bhf.im)| ONLINE | |

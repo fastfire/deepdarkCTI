@@ -161,6 +161,8 @@
 |[PANDORA](http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion)|OFFLINE|||
 |[PAY2KEY](http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion)|OFFLINE|||
 |[PAYLOAD.BIN (Ex BABUK LOCKER)](http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion)|OFFLINE|||
+|[PLAY](http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion)|ONLINE|||
+|[PLAY](http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion)|ONLINE|||
 |[PROLOCK](http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion)|OFFLINE|||
 |[PROMETHEUS](http://promethw27cbrcot.onion/blog)|OFFLINE|||
 |[PYSA](http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html)|OFFLINE|||
@@ -170,7 +172,6 @@
 |[QUANTUM](http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion)|ONLINE|||
 |[QUANTUM (clearnet)](http://quantumleap.quest)|OFFLINE|||
 |[QUANTUM (clearnet)](http://mtr.ddns.mobi)|OFFLINE|||
-|[PLAY](http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion)|ONLINE|||
 |[RAGNAR LOCKER](http://p6o7m73ujalhgkiv.onion)|OFFLINE|||
 |[RAGNAR LOCKER](http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion)|ONLINE|||
 |[RAGNAR LOCKER (Old)](http://ragnarleaks.top)|OFFLINE|||

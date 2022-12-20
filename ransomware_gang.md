@@ -103,7 +103,7 @@
 |[KARAKURT 2.0 (IP)](https://209.222.98.19)|OFFLINE|||
 |[KARAKURT (Dark)](https://lhxxtrqraokn63f3nubhbjrzxkrgduq3qogp3yr424tkpvh3z7n4kcyd.onion)|OFFLINE|||
 |[KARAKURT (chat panel)](https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion)|ONLINE|||
-|[KARAKURT (Dark)](http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion)|ONLINE|||
+|[KARAKURT (Dark)](https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion)|ONLINE|||
 |[KARMA](http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion)|OFFLINE|||
 |[KELVIN SECURITY](https://vipsuscription.org)|ONLINE||https://t.me/kelvinsecteam|
 |[LILITH](http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion)|OFFLINE||BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC|

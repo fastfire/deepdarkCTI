@@ -46,6 +46,7 @@
 |[Genesis Market](https://genesis.market)| ONLINE | |
 |[Genesis Market](https://g3n3sis.pro)| ONLINE | |
 |[Genesis Market](https://g3n3sis.org)| ONLINE | |
+|[HYDRA (Deep)](https://hydramarket.co)| ONLINE | |
 |[HYDRA (Tor v2)](http://hydra3rudf3j4hww.onion)| OFFLINE | |
 |[HYDRA (Tor v3)](http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion)| OFFLINE | |
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login)| ONLINE | |

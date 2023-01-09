@@ -1,5 +1,6 @@
 |Link| Description |
 | ------ | ------ |
+|https://twitter.com/crep1x | Threat Analyst |
 |https://twitter.com/executemalware | Malware hunter & analyst |
 |https://twitter.com/mojoesec | Cobalt Strike IOC |
 |https://twitter.com/PhishStats | Realtime phishing database & statistics |

@@ -5,6 +5,7 @@
 |[ANONLEAKS.LIVE](https://anonymousleaks.live)| ONLINE | |
 |[ANONLEAKS.XYZ](https://anonymousleaks.xyz)| ONLINE | |
 |[BL4CKT0R](http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion)| ONLINE | |
+|[BREACHED DB](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion)| ONLINE | |
 |[DARK LEAK MARKET](http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion)| OFFLINE | |
 |[DARKFEED LIVE RANSOMWARE MONITOR](https://darkfeed.io/indexransomware)| OFFLINE | |
 |[DARKFEED RANSOMWIKI](https://darkfeed.io/ransomwiki)| OFFLINE | |

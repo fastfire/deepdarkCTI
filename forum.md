@@ -104,7 +104,8 @@
 |[RAMBLE](http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion)| ONLINE | |
 |[RAMP (Old)](http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion) | OFFLINE | |
 |[RAMP (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion) | OFFLINE | |
-|[RAMP](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion) | ONLINE | |
+|[RAMP (Dark)](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion) | ONLINE | |
+|[RAMP (Deep)](https://ramp4u.io) | ONLINE | |
 |[RUTOR (Dark)](http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion)| ONLINE | |
 |[RUTOR (Deep)](https://darknet.rutor.nl) | ONLINE | |
 |[RUTOR (Surface)](http://rutor.info) | ONLINE ||

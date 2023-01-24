@@ -45,7 +45,7 @@
 |[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| ONLINE | |
 |[DUBLIKAT.CLUB](https://at.dublikat.club)| ONLINE | |
 |[DUBLIKAT.PRO](https://my.dublikat.pro)| OFFLINE | |
-|[DUMPFORUMS (Deep)](https://dumpforums.com/)| ONLINE | |
+|[DUMPFORUMS (Deep)](https://dumpforums.to/)| ONLINE | |
 |[DUMPFORUMS (Dark)](http://cwtvplqgymm3kbzj7g2qijhpau4tcco52qwvkm66k357svomp5bw5eqd.onion/)| ONLINE | |
 |[DWF (Tor v2)](http://dwforumsmrcqdnt3.onion)| OFFLINE | |
 |[DWF (Tor v3)](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |

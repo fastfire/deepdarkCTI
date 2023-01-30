@@ -43,6 +43,7 @@
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
 |[FREDDY](FREDDY.ATSHOP.IO)]| ONLINE | |
+|[FreshTools](https://freshtools.net/))]| ONLINE | |
 |[Genesis Market](https://genesis.market)| ONLINE | |
 |[Genesis Market](https://g3n3sis.pro)| ONLINE | |
 |[Genesis Market](https://g3n3sis.org)| ONLINE | |

@@ -43,6 +43,10 @@ In an [article](https://www.neteye-blog.com/2021/07/analysis-of-a-dark-web-site/
 - Install torsocks `sudo apt install torsocks`
 - Use torsocks chained with wget `torsocks wget --tries=0 --retry-connrefused --retry-on-host-error -retry-on-http-error=500,502 --continue --timeout=90 --progress=bar --show-progress --random-wait --append-output=/tmp/wget_background <YOUR DOWNLOAD LINK>`
 
+## How to download large and numerous files from Tor at high speed trough multi-threading and downloads fragmentation
+Aria2-onion-downloader docker image is composed by an aria2ng webinterface as well as an downloader, which creates up to 99 tor-services and allows to load-balance downloads between these via an local nginx instance. This means you can download at an really high speed, since Aria2 fragments the downloads by default to 10 connections, which get load-balanced to Tor-Services.
+https://github.com/sn0b4ll/aria2-onion-downloader
+
 ## How to download files via cmdline from Raidforums
 - On your favorite browser go to raidforums website
 - Open developer tools (for firefox CTRL+SHIFT+i)

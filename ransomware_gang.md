@@ -199,6 +199,7 @@
 |[SEKHMET](http://sekhmet.top)|OFFLINE|||
 |[SNATCH (Deep)](https://snatch.press)|OFFLINE|||
 |[SNATCH (Deep)](http://snatch.vip)|OFFLINE|||
+|[SNATCH (Deep)](https://snatchnews.top/)|ONLINE|||
 |[SNATCH (Dark)](http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php)|ONLINE|||
 |[SODINOKIBI (REVIL)](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)|OFFLINE|||
 |[SOLIDBIT (Chat panel)](http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion)|OFFLINE|||

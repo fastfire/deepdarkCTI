@@ -177,7 +177,7 @@
 |https://t.me/Yad2Leaks|OFFLINE| Data Leaks |
 |https://t.me/zer0daylab|ONLINE| Hacking, Leaks and News |
 |https://t.me/ZeroDay_TM|ONLINE| Original  ZeroDay  Community |
-|https://t.me/+fR-06lKTQ_VmODA0|ONLINE| Data Leaks |
+|https://t.me/+fR-06lKTQ_VmODA0|OFFLINE| Data Leaks |
 |https://t.me/eliteband|ONLINE| Logs |
 |https://t.me/aresmainchannel|ONLINE| Data Leaks |
 |https://t.me/darxe_base|ONLINE| Data Leaks |

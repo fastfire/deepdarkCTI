@@ -157,7 +157,8 @@
 |[NEMTY (Deep)](http://nemty.top)|OFFLINE|||
 |[NEMTY](http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion)|OFFLINE|||
 |[NETWALKER](http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion)|OFFLINE|||
-|[NEVADA](http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion/)|ONLINE|||
+|[NEVADA](http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion)|ONLINE|||
+|[NEVADA](http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion)|ONLINE|||
 |[NightSky](http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion)|OFFLINE|||
 |[NOKOYAWA](http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion)|OFFLINE|||
 |[NOKOYAWA](http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion)|ONLINE|||

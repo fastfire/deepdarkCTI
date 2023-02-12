@@ -218,6 +218,7 @@
 |[SUNCRYPT (Tor v3)](http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion)|ONLINE|||
 |[SynACK (El_Cometa)](http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion)|OFFLINE|||
 |[UNSAFE](http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion)|ONLINE|||
+|[V IS VENDETTA](http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion)|ONLINE|||
 |[VFOKX (1)](http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion)|OFFLINE|||
 |[VFOKX (2)](http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion)|OFFLINE|||
 |[VICE SOCIETY](http://4hzyuotli6maqa4u.onion)|OFFLINE|||

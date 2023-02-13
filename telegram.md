@@ -28,7 +28,8 @@
 |https://t.me/bugatti_cloud|ONLINE| Bugatti Cloud Redline Stealer|
 |https://t.me/c0xCee|OFFLINE| Data Leaks |
 |https://t.me/canyoupwnme|ONLINE| News |
-|https://t.me/cbanke_logs|ONLINE| Log Leaks|
+|https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
+|https://t.me/+V_oM-vx0YnSN7nzH| Log Leaks Group|
 |https://t.me/cbanke_market|ONLINE| Market|
 |https://t.me/cbanke|ONLINE| Data Leaks|
 |https://t.me/cloudlogs|ONLINE| Redline LogZone

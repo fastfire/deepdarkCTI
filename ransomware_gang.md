@@ -145,6 +145,7 @@
 |[MAZE](https://newsmaze.net)|OFFLINE|||
 |[MBC](http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion)|OFFLINE|||
 |[MEDUSA LOCKER](http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion)|ONLINE|||
+|[MEDUSA](http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion)|ONLINE|||
 |[MEDUSA (Victims Page)](http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion)|OFFLINE|||
 |[MONTI](http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion)|ONLINE|||
 |[NO NAME SPECIFIED](http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion/)|ONLINE|||

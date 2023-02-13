@@ -243,7 +243,7 @@
 |https://t.me/expertsa11m|ONLINE| Logs|
 |https://t.me/datacloudspace|ONLINE| Combo List|
 |https://t.me/hacker_trick|ONLINE| Hack Tricks|
-|https://t.me/freshtoolsnet| Freshtools Market |
+|https://t.me/freshtoolsnet|ONLINE|Freshtools Market|
 |https://t.me/+paglZbHnhE8xMTA8|ONLINE| Adrastea Group|
 |https://t.me/crewcomboteams|ONLINE| Crew Combo Teams|
 |https://t.me/leakes4|ONLINE| Data Leaks, Combo List|
@@ -253,3 +253,4 @@
 |https://t.me/tgcnnatgvctfenqwf|ONLINE|Combo List|
 |https://t.me/DarkBitChannel|ONLINE|Darkbit Channel|
 |https://t.me/asdcloud|ONLINE|Combo List|
+|https://t.me/+yXOcSjVjI9tjM2E0|ONLINE|Medusa|

@@ -261,4 +261,5 @@
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
 |https://t.me/hydramarketrebuild|ONLINE|Hydra Market Rebuild|
 |https://t.me/CHO1CHO1|ONLINE|CH01 group|
-|https://t.me/logsgang2|ONLINE| Logs Market|
+|https://t.me/logsgang2|ONLINE|Logs Market|
+|https://t.me/raincloudlogs|ONLINE|Logs Market|

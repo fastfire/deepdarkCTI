@@ -96,7 +96,8 @@
 |[HIVE (Negotiation)](http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion)|ONLINE|Random generated user/pass in ransom note||
 |[HOLYGHOST](http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion)|OFFLINE|||
 |[HOTARUS](http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion)|OFFLINE|||
-|[ICEFIRE](http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list/)|OFFLINE|||
+|[ICEFIRE](http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list)|OFFLINE|||
+|[ICEFIRE](http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list)|ONLINE|||
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion)|ONLINE|||
 |[JUSTICE BLADE](https://justice-blade.io)|OFFLINE||https://t.me/justiceblade3 - https://t.me/+UbB2H5vTBJJkYTRl|
 |[KARAKURT (Deep)](https://karakurt.tech)|OFFLINE|||

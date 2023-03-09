@@ -38,6 +38,7 @@
 |[DARKNET](https://darknet.ug)| ONLINE | |
 |[DARKNETWORLD](https://www.darknetworld.com)| OFFLINE | |
 |[DARKSIDE](https://www.dark-side.black)| OFFLINE | |
+|[DATACLOUD](https://datacloud.space)| ONLINE | |
 |[DEDICATET](https://dedicatet.com)| ONLINE | |
 |[DEFCON](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion)| OFFLINE | |
 |[DEMONFORUMS](https://demonforums.net)| ONLINE | |

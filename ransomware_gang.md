@@ -70,6 +70,7 @@
 |[DARKBIT01(Victims request ID Page)](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion/support)|ONLINE|||
 |[DARKBIT01](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion)|ONLINE|||
 |[DARKRYPT](https://darkrypt.io)|OFFLINE|||
+|[DARKPOWER](http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/)|ONLINE|||
 |[DARKSIDE](http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion)|OFFLINE|||
 |[DONUT BLOG](https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion)|OFFLINE|||
 |[DONUT DLS](https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion)|OFFLINE|||

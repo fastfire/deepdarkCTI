@@ -50,6 +50,7 @@
 |https://t.me/data1eaks|ONLINE| |
 |https://t.me/Database_breached|OFFLINE| Data Leaks |
 |https://t.me/databreach|ONLINE| |
+|https://t.me/datacloudspace|ONLINE| Datacloud |
 |https://t.me/dataflows|ONLINE| Data Leaks |
 |https://t.me/dataleakbreach|OFFLINE| Data Leaks|
 |https://t.me/DataLeakHome|OFFLINE| Data Leaks |

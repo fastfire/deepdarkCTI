@@ -266,3 +266,4 @@
 |https://t.me/raincloudlogs|ONLINE|Logs Market|
 |https://t.me/leakbase_official|ONLINE|LeakBase Official|
 |https://t.me/leaklogs_official|ONLINE|LeakLogs Official|
+|https://t.me/databasemarkett|ONLINE|Database Market|

@@ -275,3 +275,4 @@
 |https://t.me/MysteriousTeam0|ONLINE|Mysterious team bangladesh|
 |https://t.me/teaminsanepk|ONLINE|Team insane pk|
 |https://t.me/civiliandarkcode404|ONLINE|Civilan dark code|
+|https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|

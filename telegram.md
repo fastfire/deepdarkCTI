@@ -276,3 +276,5 @@
 |https://t.me/teaminsanepk|ONLINE|Team insane pk|
 |https://t.me/civiliandarkcode404|ONLINE|Civilan dark code|
 |https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|
+|https://t.me/baphchat|ONLINE|The Jacuzzi|
+|https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial|

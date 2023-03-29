@@ -132,3 +132,5 @@
 |[XSS (Dark)](http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion)| ONLINE | |
 |[XSS (Deep)](https://xss.is)| ONLINE | |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
+|[KKKSecForum](https://forum.kkksec.com)| ONLINE | |
+|[DarkForum](https://darkforum.in)| ONLINE | |

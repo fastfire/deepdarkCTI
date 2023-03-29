@@ -278,3 +278,4 @@
 |https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|
 |https://t.me/baphchat|ONLINE|The Jacuzzi|
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial|
+|https://t.me/CyberSecurityTechnologies|ONLINE|CyberSecurityTechnologies|

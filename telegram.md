@@ -279,3 +279,5 @@
 |https://t.me/baphchat|ONLINE|The Jacuzzi|
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial|
 |https://t.me/CyberSecurityTechnologies|ONLINE|CyberSecurityTechnologies|
+|https://t.me/KillnetLATAM|ONLINE|KillneLATAM channel|
+|https://t.me/KillnetChatLATAM|ONLINE|KillnetLATAM chat|

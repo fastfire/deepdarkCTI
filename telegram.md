@@ -254,6 +254,7 @@
 |https://t.me/infinity_hackers_group|ONLINE|Infinity Hackers By|
 |https://t.me/tgcnnatgvctfenqwf|ONLINE|Combo List|
 |https://t.me/DarkBitChannel|ONLINE|Darkbit Channel|
+|https://t.me/poenamarket|ONLINE|Poena Market|
 |https://t.me/asdcloud|ONLINE|Combo List|
 |https://t.me/+yXOcSjVjI9tjM2E0|ONLINE|Medusa|
 |https://t.me/AnonymousSudan|ONLINE|Anonymous Sudan|

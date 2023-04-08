@@ -44,11 +44,12 @@
 |[DOCSHOP](https://doc-shop.ws)| OFFLINE | |
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
-|[FREDDY](FREDDY.ATSHOP.IO)]| ONLINE | |
-|[FreshTools](https://freshtools.net/))]| ONLINE | |
+|[FREDDY](freddy.atshop.io)| ONLINE | |
+|[FreshTools](https://freshtools.net)| ONLINE | |
 |[Genesis Market](https://genesis.market)| ONLINE | |
 |[Genesis Market](https://g3n3sis.pro)| ONLINE | |
 |[Genesis Market](https://g3n3sis.org)| ONLINE | |
+|[Genesis Market (Tor v3)](https://genesis7zoveavupiiwnrycmaq6uro3kn5h2be3el7wdnbjti2ln2wid.onion)| ONLINE | |
 |[HYDRA (Deep)](https://hydramarket.co)| ONLINE | |
 |[HYDRA (Tor v2)](http://hydra3rudf3j4hww.onion)| OFFLINE | |
 |[HYDRA (Tor v3)](http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion)| OFFLINE | |
@@ -81,6 +82,7 @@
 |[Russian Market (Tor v3)](http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion)| ONLINE | |
 |[Russian Market (Tor v3)](http://rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion)| ONLINE | |
 |[SHADOWCARDERS](https://shadowcarders.com)| ONLINE | |
+|[STYX](https://styxmarket.com)| ONLINE | |
 |[SWIPESTORE](https://swipestore.cc)| ONLINE | |
 |[THEMAJESTIC](http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion)| ONLINE | |
 |[TOOREZ](http://lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion)| OFFLINE | |

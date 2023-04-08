@@ -135,3 +135,4 @@
 |[KKKSecForum](https://forum.kkksec.com)| ONLINE | |
 |[DarkForum](https://darkforum.in)| ONLINE | |
 |[D4rkForums](https://d4rkforums.net)| ONLINE | |
+|[DataForums](https://dataforums.co)| ONLINE | |

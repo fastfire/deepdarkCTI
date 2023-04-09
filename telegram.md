@@ -282,3 +282,4 @@
 |https://t.me/CyberSecurityTechnologies|ONLINE|CyberSecurityTechnologies|
 |https://t.me/KillnetLATAM|ONLINE|KillneLATAM channel|
 |https://t.me/KillnetChatLATAM|ONLINE|KillnetLATAM chat|
+|https://t.me/leakbaseforum|ONLINE|LeakBaseForum|

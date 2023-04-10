@@ -283,3 +283,4 @@
 |https://t.me/KillnetLATAM|ONLINE|KillneLATAM channel|
 |https://t.me/KillnetChatLATAM|ONLINE|KillnetLATAM chat|
 |https://t.me/leakbaseforum|ONLINE|LeakBaseForum|
+|https://t.me/arvinclub1|ONLINE|Arvin|

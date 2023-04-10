@@ -71,6 +71,7 @@
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |
 |[RESCATOR](https://rescator.cn)| ONLINE | |
+|[RESCATOR (Tor v3)](http://rescatorfof3pwgux4olwxxcd22yjtuj72kmdltyr6tsr6jfohpnhead.onion)| ONLINE | |
 |[RONDA STORE (Deep - mirror)](https://rondastore.vip)| ONLINE | |
 |[RONDA STORE (Deep)](http://rondastore.cc)| ONLINE | |
 |[RONDA STORE (Tor v3)](http://r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion)| ONLINE | |

@@ -46,9 +46,9 @@
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
 |[FREDDY](freddy.atshop.io)| ONLINE | |
 |[FreshTools](https://freshtools.net)| ONLINE | |
-|[Genesis Market](https://genesis.market)| ONLINE | |
-|[Genesis Market](https://g3n3sis.pro)| ONLINE | |
-|[Genesis Market](https://g3n3sis.org)| ONLINE | |
+|[Genesis Market](https://genesis.market)| OFFLINE | | Put offline by FBI.
+|[Genesis Market](https://g3n3sis.pro)| OFFLINE | | Put offline by FBI.
+|[Genesis Market](https://g3n3sis.org)| OFFLINE | | Put offline by FBI.
 |[Genesis Market (Tor v3)](https://genesis7zoveavupiiwnrycmaq6uro3kn5h2be3el7wdnbjti2ln2wid.onion)| ONLINE | |
 |[HYDRA (Deep)](https://hydramarket.co)| ONLINE | |
 |[HYDRA (Tor v2)](http://hydra3rudf3j4hww.onion)| OFFLINE | |

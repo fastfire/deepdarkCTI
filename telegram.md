@@ -8,6 +8,7 @@
 |https://t.me/slivaidlocker|ONLINE| AiDLocker Group Data Leaks Channel|
 |https://t.me/Allhak_mv|OFFLINE| Data Leaks
 |https://t.me/altenens|ONLINE|
+|https://t.me/anarchy_squad|ONLINE| [ Cyber.Anarchy.Squad ]|
 |https://t.me/anon_by|ONLINE| Anonymous Russia channel|
 |https://t.me/AntiPlumbers|ONLINE|
 |https://t.me/APIddosMirai|ONLINE| Killnet API DDoS Mirai |
@@ -30,6 +31,7 @@
 |https://t.me/canyoupwnme|ONLINE| News |
 |https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
 |https://t.me/+V_oM-vx0YnSN7nzH|ONLINE| Log Leaks Group|
+|https://t.me/cas_files| [ C.A.S · FiLe$ ], Data Leaks|
 |https://t.me/cbanke_market|ONLINE| Market|
 |https://t.me/cbanke|ONLINE| Data Leaks|
 |https://t.me/cloudlogs|ONLINE| Redline LogZone
@@ -115,6 +117,7 @@
 |https://t.me/Legion_Russia|ONLINE| Legion Russia |
 |https://t.me/Log_Market_Place|ONLINE| Data Leaks|
 |https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
+|https://t.me/MarkLogsBot|ONLINE| Logs Market |
 |https://t.me/MaillAccessTop|ONLINE| Data Leaks |
 |https://t.me/mailpassclub|ONLINE| |
 |https://t.me/mailpasword|OFFLINE| |

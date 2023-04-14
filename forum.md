@@ -85,7 +85,7 @@
 |[MIPPED](https://mipped.com)| ONLINE | |
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
-|[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| |
+|[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| OFFLINE | |
 |[NOHIDESPACE](https://nohide.space)| ONLINE | |
 |[NULLED](https://www.nulled.to)| ONLINE | |
 |[NULLEDBB](https://nulledbb.com)| ONLINE | |
@@ -95,7 +95,7 @@
 |[PHREAKER](https://phreaker.info)| ONLINE | |
 |[PIRATEBUHTA](https://s1.piratebuhta.net)| ONLINE | |
 |[PROCRD](https://procrd.pw)| ONLINE | |
-|[PROJECT SPHERE](http://psphere7gzibrekpbvzitrul46aol2ibvnexpfymcne3xx4uzwdwdaad.onion/)| |
+|[PROJECT SPHERE](http://psphere7gzibrekpbvzitrul46aol2ibvnexpfymcne3xx4uzwdwdaad.onion/)| OFFLINE | |
 |[PROLOGIC](https://prologic.su)| ONLINE | |
 |[PROTON](https://proton.sc)| ONLINE | |
 |[RAID FORUMS (Mirror 1)](https://rf.ws)| OFFLINE | |

@@ -287,3 +287,4 @@
 |https://t.me/KillnetChatLATAM|ONLINE|KillnetLATAM chat|
 |https://t.me/leakbaseforum|ONLINE|LeakBaseForum|
 |https://t.me/arvinclub1|ONLINE|Arvin|
+|https://t.me/+O7yT5lylY89lMTcy|ONLINE|TCG|

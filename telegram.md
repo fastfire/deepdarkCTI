@@ -288,4 +288,5 @@
 |https://t.me/leakbaseforum|ONLINE|LeakBaseForum|
 |https://t.me/arvinclub1|ONLINE|Arvin|
 |https://t.me/+O7yT5lylY89lMTcy|ONLINE|TCG|
-|https://t.me/+y8c51prOz20wNWU0|ONLINE|Solomon market place|
+|https://t.me/+y8c51prOz20wNWU0|ONLINE|Solomon market place support|
+|https://t.me/SolomonUpdates|ONLINE|Solomon market place updates|

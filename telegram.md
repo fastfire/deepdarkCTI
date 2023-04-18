@@ -293,3 +293,5 @@
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet
 |https://t.me/clean_tools_net|ONLINE|Clean Tools|
 |https://t.me/x7seller|ONLINE|X7Root Seller|
+|https://t.me/banklogplug2|ONLINE|Bank Logs|
+|https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|

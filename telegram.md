@@ -291,3 +291,5 @@
 |https://t.me/+y8c51prOz20wNWU0|ONLINE|Solomon market place support|
 |https://t.me/SolomonUpdates|ONLINE|Solomon market place updates|
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet
+|https://t.me/clean_tools_net|ONLINE|Clean Tools|
+|https://t.me/x7seller|ONLINE|X7Root Seller|

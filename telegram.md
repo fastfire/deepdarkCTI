@@ -295,5 +295,5 @@
 |https://t.me/x7seller|ONLINE|X7Root Seller|
 |https://t.me/banklogplug2|ONLINE|Bank Logs|
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
-|https://t.me/illsvc|ONLINE|Ilicit Service|
-|https://t.me/illsvcchat|ONLINE|Ilicit Service chat|
+|https://t.me/illsvc|ONLINE|Illicit Service|
+|https://t.me/illsvcchat|ONLINE|Illicit Service chat|

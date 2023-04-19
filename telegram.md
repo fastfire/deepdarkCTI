@@ -48,7 +48,8 @@
 |https://t.me/D3atr0y3d|OFFLINE| Data Leaks|
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos |
 |https://t.me/darkclubpw|ONLINE| Dark Club Market |
-|https://t.me/DarkfeedNews|ONLINE| News
+|https://t.me/DarkfeedNews|ONLINE| News |
+|https://t.me/darknet_br|ONLINE| |
 |https://t.me/data1eaks|ONLINE| |
 |https://t.me/Database_breached|OFFLINE| Data Leaks |
 |https://t.me/databreach|ONLINE| |

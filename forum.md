@@ -62,7 +62,7 @@
 |[FSSQUAD](https://fssquad.com)| ONLINE | |
 |[G0D.ONE MARKET](https://www.g0d.one)| OFFLINE | |
 |[GERKI](http://gerkipwhfuqeeizl.onion)| OFFLINE | |
-|[GETREKT](https://www.getrekt.io)| ONLINE | |
+|[GETREKT](https://getrekt.io)| ONLINE | https://t.me/getrektio |
 |[HACKFORUMS](https://hackforums.net/index.php)| ONLINE | |
 |[HACKTOWN](http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion/HackTown.html)| ONLINE | |
 |[HELIUM](http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/login)| ONLINE | |

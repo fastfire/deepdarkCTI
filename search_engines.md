@@ -7,6 +7,7 @@
 |[Fresh onions](http://freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion)|ONLINE|
 |[GDark](http://zb2jtkhnbvhkya3d46twv3g7lkobi4s62tjffqmafjibixk6pmq75did.onion)|ONLINE|
 |[Hidden Reviews](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion)|ONLINE|
+|[I2P Search](http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion)|ONLINE|
 |[Kilos](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion)|ONLINE|
 |[metaGer](http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion)|ONLINE|
 |[Onion Center](http://5qqrlc7hw3tsgokkqifb33p3mrlpnleka2bjg7n46vih2synghb6ycid.onion)|ONLINE|

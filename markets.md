@@ -93,6 +93,8 @@
 |[UAS RDP SHOP](http://2x4tmsirlqvqmwdz.onion)| ONLINE | |
 |[UniCC](https://unicvv.ru)| ONLINE | |
 |[VICE CITY](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion)| ONLINE | |
+|[VICE CITY](http://viceagrs476vms3hlgotcimao4lwnpz2ffpvgbdnbeqwu74g47z4usyd.onion)| ONLINE | |
+|[VICE CITY](http://vice3nwnin46cmmvg4j3wd3xguaaiwlwzxt2mxkd5ng6ougfcu4rdfid.onion)| ONLINE | |
 |[Wannabuy RDP](http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion)| ONLINE | |
 |[WHM market (1)](http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion)| OFFLINE | |
 |[WHM market (2)](http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion)| OFFLINE | |

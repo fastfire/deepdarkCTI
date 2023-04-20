@@ -298,3 +298,4 @@
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
 |https://t.me/illsvc|ONLINE|Illicit Service|
 |https://t.me/illsvcchat|ONLINE|Illicit Service chat|
+|https://t.me/leaksdirectory|ONLINE|Leaks Directory|

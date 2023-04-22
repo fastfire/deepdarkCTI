@@ -137,3 +137,4 @@
 |[DarkForum](https://darkforum.in)| ONLINE | |
 |[D4rkForums](https://d4rkforums.net)| ONLINE | |
 |[DataForums](https://dataforums.co)| ONLINE | |
+|[ZDL](https://zdl.pw)| ONLINE | |

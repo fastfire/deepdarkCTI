@@ -129,6 +129,7 @@
 |https://t.me/membersofxaknet|ONLINE| |
 |https://t.me/milkdude|ONLINE| Data Leaks|
 |https://t.me/minsaudebr|ONLINE| Lapsus$ channel |
+|https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
 |https://t.me/NetSurvivalist|ONLINE| General Hacking, Privacy |
 |https://t.me/nohidespace|ONLINE| |
 |https://t.me/nohidespace|ONLINE| Combo List |

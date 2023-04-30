@@ -301,3 +301,4 @@
 |https://t.me/illsvcchat|ONLINE|Illicit Service chat|
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory|
 |https://t.me/GoneTeam410|ONLINE|GoneTeam|
+| https://t.me/Leaked_Breached_Hacked_Database|ONLINE|Database of Data Breaches|

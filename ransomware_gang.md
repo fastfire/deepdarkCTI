@@ -28,7 +28,7 @@
 |[ATOMSILO](http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion)|OFFLINE|||
 |[AVADDON](http://avaddongun7rngel.onion)|OFFLINE|||
 |[AVOS](http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion)|ONLINE|||YES|
-|[AVOS (Victims request ID page)](http://avos2fuj6olp6x36.onion)|OFFLINE|||
+|[AVOS (Victims request ID page)](http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion)|ONLINE|||
 |[BABUK (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion)|OFFLINE|||
 |[BABUK](http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion)|ONLINE|||
 |[BABYDUCK (Victims request ID page)](http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion)|OFFLINE|||

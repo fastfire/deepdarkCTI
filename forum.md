@@ -84,6 +84,7 @@
 |[MASTODON](https://masthead.social/auth/sign_in)| ONLINE | |
 |[MIPPED](https://mipped.com)| ONLINE | |
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
+|[NEFAR](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
 |[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| OFFLINE | |
 |[NOHIDESPACE](https://nohide.space)| ONLINE | |

@@ -1,6 +1,7 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
 |https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
+|https://t.me/Sl1ddifree|ONLINE|Sl1ddi CLOUD FREE LOGS|
 |https://t.me/+uV_Lxf2uOHhkMjAy|ONLINE| Killnet Store Chat |
 |https://t.me/+UYKtaIt6KFGlFwBJ|OFFLINE| VIP Config - configs, combos, etc |
 |https://t.me/+NshXlCbUEZkxZDMy|ONLINE| Luffich Logs - Redline Stealer|

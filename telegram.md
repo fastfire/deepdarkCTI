@@ -1,6 +1,9 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
 |https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
+|https://t.me/fatecloud|ONLINE| Fatecloud Logs|
+|https://t.me/marvelcloudRB|ONLINE| Marvel Logs|
+|https://t.me/+fcxhFl9JSRE3YTdi|ONLINE| HUBHEAD Logs|
 |https://t.me/Sl1ddifree|ONLINE|Sl1ddi CLOUD FREE LOGS|
 |https://t.me/+uV_Lxf2uOHhkMjAy|ONLINE| Killnet Store Chat |
 |https://t.me/+UYKtaIt6KFGlFwBJ|OFFLINE| VIP Config - configs, combos, etc |

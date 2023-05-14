@@ -10,6 +10,7 @@
 |[BHF](https://bhf.io)| OFFLINE | |
 |[BHF](https://bhf.im)| ONLINE | |
 |[BREACH](https://breachforums.co)| ONLINE | |
+|[BLACKFORUMS](https://blackforums.net)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
 |[BREACHED (Dark)](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion)| ONLINE | |
 |[BREACHED (Deep)](https://breached.co)| ONLINE | |
@@ -84,7 +85,7 @@
 |[MASTODON](https://masthead.social/auth/sign_in)| ONLINE | |
 |[MIPPED](https://mipped.com)| ONLINE | |
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
-|[NEFAR](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
+|[NEFARIUM](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
 |[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| OFFLINE | |
 |[NOHIDESPACE](https://nohide.space)| ONLINE | |

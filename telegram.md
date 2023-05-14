@@ -308,3 +308,5 @@
 |https://t.me/Leaked_Breached_Hacked_Database|ONLINE|Database of Data Breaches|
 |https://t.me/phoenixinform|ONLINE|Phoenix group|
 |https://t.me/shadowleakss|ONLINE|ShadowHacker Leaks|
+|https://t.me/illsvcleaksupload|ONLINE|Illicit Service Upload|
+|https://t.me/illsvcleaks|ONLINE|Illicit Service Leaks|

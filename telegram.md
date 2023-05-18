@@ -29,6 +29,7 @@
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
 |https://t.me/breachdetector|ONLINE|
 |https://t.me/BreachedData|ONLINE| Data Leaks |
+|http://t.me/BreachedDiscussion|ONLINE| Data Leaks |
 |https://t.me/BreachedDB|OFFLINE| Data Leaks |
 |https://t.me/bugatti_cloud|ONLINE| Bugatti Cloud Redline Stealer|
 |https://t.me/c0xCee|OFFLINE| Data Leaks |

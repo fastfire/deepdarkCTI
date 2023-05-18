@@ -311,3 +311,4 @@
 |https://t.me/shadowleakss|ONLINE|ShadowHacker Leaks|
 |https://t.me/illsvcleaksupload|ONLINE|Illicit Service Upload|
 |https://t.me/illsvcleaks|ONLINE|Illicit Service Leaks|
+|https://t.me/cloudata_free_databases|ONLINE|Free Data Breaches Provider|

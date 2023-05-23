@@ -313,3 +313,5 @@
 |https://t.me/illsvcleaks|ONLINE|Illicit Service Leaks|
 |https://t.me/cloudata_free_databases|ONLINE|Free Data Breaches Provider|
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service|
+|https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider|
+|https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider|

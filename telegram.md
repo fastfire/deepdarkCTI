@@ -312,3 +312,4 @@
 |https://t.me/illsvcleaksupload|ONLINE|Illicit Service Upload|
 |https://t.me/illsvcleaks|ONLINE|Illicit Service Leaks|
 |https://t.me/cloudata_free_databases|ONLINE|Free Data Breaches Provider|
+|https://t.me/best_cracking_soft|ONLINE|Illicit Service|

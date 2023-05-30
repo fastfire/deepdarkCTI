@@ -221,6 +221,7 @@
 |[ROYAL](http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion)|ONLINE|||
 |[RRANSOM (Victims page)](http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form)|ONLINE|||
 |[SEKHMET](http://sekhmet.top)|OFFLINE|||
+|[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE|||
 |[SNATCH (Deep)](https://snatch.press)|OFFLINE|||
 |[SNATCH (Deep)](http://snatch.vip)|OFFLINE|||
 |[SNATCH (Deep)](https://snatchnews.top/)|ONLINE|||

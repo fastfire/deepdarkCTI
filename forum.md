@@ -58,6 +58,7 @@
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
 |[EXPLOITS.WS](https://exploits.ws)| ONLINE | |
+|[EXPOSED](https://exposed.vc)| ONLINE | |
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |
 |[FORUMTEAM.TOP](https://forumteam.top)| ONLINE | |
 |[FSSQUAD](https://fssquad.com)| ONLINE | |

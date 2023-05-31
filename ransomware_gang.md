@@ -196,6 +196,7 @@
 |[QUANTUM](http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion)|ONLINE|||
 |[QUANTUM (clearnet)](http://quantumleap.quest)|OFFLINE|||
 |[RA GROUP](http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion)|ONLINE|||
+|[RA GROUP (Storage Server)](http://hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion)|ONLINE|||
 |[RAGNAR LOCKER](http://p6o7m73ujalhgkiv.onion)|OFFLINE|||
 |[RAGNAR LOCKER](http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion)|ONLINE|||
 |[RAGNAR LOCKER (Old)](http://ragnarleaks.top)|OFFLINE|||

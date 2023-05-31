@@ -320,3 +320,4 @@
 |https://t.me/HQ_COMBO|ONLINE|Data Breaches Provider|
 |https://t.me/HQCracking|ONLINE|Data Breaches Provider|
 |https://t.me/groupcracked|ONLINE|Group Ctacked|
+|https://t.me/latestbin|ONLINE|Hacking Group|

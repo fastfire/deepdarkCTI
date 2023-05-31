@@ -14,6 +14,7 @@
 |[DARKTOR](http://darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion)| OFFLINE | |
 |[DDOSECRETS](https://ddosecrets.com)| ONLINE | |
 |[DEEP DATABASE LEAK MARKET](http://a7fgazjfsn5kwk2psase4oepogihgvb3bm4enomnyfg52dwghdymeyqd.onion)| OFFLINE | |
+|[DOUBLE EXTORTION PLATFORM](https://doubleextortion.com/#/land)| ONLINE ||
 |[DOXBIN](https://doxbin.org)| ONLINE | |
 |[HAPPY BLOG](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)| OFFLINE | |
 |[HAYSTACK SEARCH ENGINE](http://haystakvxad7wbk5.onion)| OFFLINE | |

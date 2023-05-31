@@ -50,6 +50,7 @@
 |https://t.me/cveNotify|ONLINE| CVE Feed|
 |https://t.me/cyb3rtr0nian|ONLINE|
 |https://t.me/cybdetective|ONLINE| News & Info Sharing
+|https://t.me/cityofleaker|ONLINE| Leaks |
 |https://t.me/D3atr0y3d|OFFLINE| Data Leaks|
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos |
 |https://t.me/darkclubpw|ONLINE| Dark Club Market |
@@ -83,6 +84,7 @@
 |https://t.me/gladdos69_official|ONLINE| DDoS |
 |https://t.me/grandgive|ONLINE| |
 |https://t.me/gulfdocs|ONLINE| Data Leaks (Gulf Region), Middle East Document Dumps|
+|https://t.me/hackingtoolsprvi8|ONLINE| Leaks |
 |https://t.me/hackgit|ONLINE| Offensive Security
 |https://t.me/hadesh0p|ONLINE| |
 |https://t.me/hellokittyleaks|ONLINE| Data Leaks |

@@ -327,3 +327,4 @@
 |https://t.me/t_darknet|ONLINE|Illicit Service|
 |https://t.me/darkwebdarknetmarketplace|ONLINE|Illicit Service|
 |https://t.me/MiladLeaks|ONLINE|Milad Leaks|
+|https://t.me/Craxpro_Channel|ONLINE|Cracking, spamming, carding|

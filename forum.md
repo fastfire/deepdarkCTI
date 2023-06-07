@@ -71,6 +71,7 @@
 |[DWF (Tor v3)](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
 |[ELEAKS](https://eleaks.to)| ONLINE | |
 |[ENCLAVE](https://www.enclave.cc)| ONLINE | |
+|[ENDWAY](https://endway.su)| ONLINE | |
 |[ETERNIA](https://eternia.to)| ONLINE | |
 |[EVILARMY](https://evilarmy.in)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |

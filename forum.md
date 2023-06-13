@@ -179,3 +179,5 @@
 |[D4rkForums](https://d4rkforums.net)| ONLINE | |
 |[DataForums](https://dataforums.co)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |
+|[BreachForums](https://breachforums.vc/) | ONLINE | |
+|[OnniForums](https://onniforums.com) | ONLINE | |

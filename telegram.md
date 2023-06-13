@@ -330,3 +330,7 @@
 |https://t.me/Craxpro_Channel|ONLINE|Cracking, spamming, carding|
 |https://t.me/exposedannouncements|ONLINE|Exposed Forum|
 |https://t.me/RansomTeam|ONLINE|RansomTeam  Chat|
+|https://t.me/atlantiscyberarmy|ONLINE|Atlantis - CyberArmy - A.I.G|
+|https://t.me/illsvcleaksupload|ONLINE|Illicit Service|
+|https://t.me/ACCOUNTSQUAD|ONLINE|Illicit Service Channel|
+|https://t.me/AccountSquadChat|ONLINE|Illicit Service Group|

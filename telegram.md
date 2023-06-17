@@ -334,3 +334,5 @@
 |https://t.me/illsvcleaksupload|ONLINE|Illicit Service|
 |https://t.me/ACCOUNTSQUAD|ONLINE|Illicit Service Channel|
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group|
+|http://t.me/killnet_mirror|ONLINE|Killnet mirror|
+|https://t.me/killnet_reservs|ONLINE|Killnet reservs|

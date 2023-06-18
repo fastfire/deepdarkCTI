@@ -336,3 +336,4 @@
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group|
 |http://t.me/killnet_mirror|ONLINE|Killnet mirror|
 |https://t.me/killnet_reservs|ONLINE|Killnet reservs|
+|https://t.me/hooshyarane|ONLINE|Hooshyaran-e Vatan group|

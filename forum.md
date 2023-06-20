@@ -26,7 +26,7 @@
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
-|[CENTER CLUB](https://center-club.top)| OFFLINE | |
+|[CENTER CLUB](https://center-club.io)| ONLINE | |
 |[CHITACHOK](https://chitachok.ru)| ONLINE | |
 |[COMFYBOX](https://comfybox.floofey.dog)| ONLINE | |
 |[COOKIEPRO](https://coockie.pro)| ONLINE | |

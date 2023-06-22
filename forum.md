@@ -181,3 +181,9 @@
 |[ZDL](https://zdl.pw)| ONLINE | |
 |[BreachForums](https://breachforums.vc/) | ONLINE | |
 |[OnniForums](https://onniforums.com) | ONLINE | |
+
+
+https://korovka.cc/
+https://darkpid.com/
+https://forum.antichat.com/
+https://lampeduza.la/

@@ -18,7 +18,7 @@
 |[BLACKHACKER](https://blackhacker.pw)|ONLINE||
 |[BLACKFORUMS](https://blackforums.net)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
-|[BREACH](https://breachforums.co)| ONLINE | |
+|[BREACH FORUMS](https://breachforums.vc)| ONLINE | |
 |[BREACHED (Dark)](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion)| OFFLINE | |
 |[BREACHED (Deep)](https://breached.co)| OFFLINE | |
 |[BREACHED (Deep)](https://breached.to)| OFFLINE | |
@@ -77,7 +77,6 @@
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
 |[EXPLOITS.WS](https://exploits.ws)| ONLINE | |
-|[EXPOSED](https://exposed.vc)| ONLINE | |
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |
 |[FORUMTEAM.TOP](https://forumteam.top)| ONLINE | |
 |[FSSQUAD](https://fssquad.com)| ONLINE | |

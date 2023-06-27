@@ -27,6 +27,7 @@
 |https://t.me/blueteamzone|ONLINE|
 |https://t.me/boosty66brvte|ONLINE| Data Leaks |
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
+|https://t.me/bradmax_cloud|ONLINE| Redline and Raccoon Data Logs |
 |https://t.me/breachdetector|ONLINE|
 |https://t.me/BreachedData|ONLINE| Data Leaks |
 |http://t.me/BreachedDiscussion|ONLINE| Data Leaks |

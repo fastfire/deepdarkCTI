@@ -1,10 +1,5 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
-|http://t.me/BreachedDiscussion|ONLINE| Data Leaks |
-|http://t.me/c/1228309110/7662|ONLINE| Ddosia project chat|
-|http://t.me/Combolistfresh|ONLINE| Combo List|
-|http://t.me/crewcomboteam|ONLINE| Combo List|
-|http://t.me/killnet_mirror|ONLINE|Killnet mirror|
 |https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|
 |https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
 |https://t.me/+8UWtFO9H_9dhODVk|ONLINE| 0x_dump alternative channel|
@@ -68,8 +63,10 @@
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor|
 |https://t.me/BreachedData|ONLINE| Data Leaks |
 |https://t.me/BreachedDB|OFFLINE| Data Leaks |
+|https://t.me/BreachedDiscussion|ONLINE| Data Leaks |
 |https://t.me/bugatti_cloud|ONLINE| Bugatti Cloud Redline Stealer|
 |https://t.me/Bust3d|ONLINE| волчья свалка|
+|https://t.me/c/1228309110/7662|ONLINE| Ddosia project chat|
 |https://t.me/c0xCee|OFFLINE| Data Leaks |
 |https://t.me/canyoupwnme|ONLINE| News |
 |https://t.me/cas_files| [ C.A.S · FiLe$ ], Data Leaks|
@@ -86,9 +83,10 @@
 |https://t.me/cloudlogs|ONLINE| Redline LogZone
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/club1337|ONLINE|
-|https://t.me/combo2021|ONLINE| Combo List |
+|https://t.me/combo2021|ONLINE| Combo List|
 |https://t.me/combo_listt|ONLINE| Combo List |
 |https://t.me/combo_offensive|ONLINE| Combo List |
+|https://t.me/Combolistfresh|ONLINE| Combo List|
 |https://t.me/combosgrupoplex|ONLINE| Combo List |
 |https://t.me/config_combos|OFFLINE| Configs, Combos |
 |https://t.me/Configsandcombos|ONLINE| Configs, Combos |
@@ -100,6 +98,7 @@
 |https://t.me/Craxpro_Channel|ONLINE|Cracking, spamming, carding|
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
 |https://t.me/crewcomboteams|ONLINE| Crew Combo Teams|
+|https://t.me/crewcomboteam|ONLINE| Combo List|
 |https://t.me/CryptoGinzo|OFFLINE| Crypt_0x00 |
 |https://t.me/cveNotify|ONLINE| CVE Feed|
 |https://t.me/cyb3rtr0nian|ONLINE|
@@ -208,6 +207,7 @@
 |https://t.me/karakurt_news|ONLINE| Karakurt|
 |https://t.me/kelvinsecuritydarkmarket|ONLINE| Kelvin Security Dark Market|
 |https://t.me/killnet_channel|OFFLINE| |
+|https://t.me/killnet_mirror|ONLINE|Killnet mirror|
 |https://t.me/killnet_reservs|ONLINE|Killnet reservs|
 |https://t.me/KillnetChatLATAM|ONLINE|KillnetLATAM chat|
 |https://t.me/KILLNETddos|ONLINE| Killnet DDoS |

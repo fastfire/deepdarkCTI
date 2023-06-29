@@ -206,7 +206,7 @@
 |[RAGNAR LOCKER (Old)](http://ragnarleaks.top)|OFFLINE|||
 |[RAGNAROK](http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion)|OFFLINE|||
 |[RAGNAROK](http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion)|OFFLINE|||
-|[RANCOZ](http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/)|ONLINE|||
+|[RANCOZ](http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/)|OFFLINE|||
 |[RANSOM CARTEL (1)](http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion)|OFFLINE|||
 |[RANSOM CARTEL (Victims page)](http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion)|OFFLINE|||
 |[RANSOMEXX](http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)|ONLINE|||

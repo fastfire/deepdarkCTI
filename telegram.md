@@ -1,5 +1,6 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
+|https://t.me/ArenaCloudFree|ONLINE| Arena Cloud Free Logs |
 |https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
 |https://t.me/fatecloud|ONLINE| Fatecloud Logs|
 |https://t.me/marvelcloudRB|ONLINE| Marvel Logs|

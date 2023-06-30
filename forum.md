@@ -182,9 +182,7 @@
 |[BreachForums](https://breachforums.vc/) | ONLINE | |
 |[BreachForums (Dark)](http://breached4w3qphorxg2fwqkhpfnsyf65je72d2shli3fcfgorwdeymad.onion)| ONLINE | |
 |[OnniForums](https://onniforums.com) | ONLINE | |
-
-
-https://korovka.cc/
-https://darkpid.com/
-https://forum.antichat.com/
-https://lampeduza.la/
+|[Korovka](https://korovka.cc) | ONLINE | |
+|[Darkpid](https://darkpid.com) | ONLINE | |
+|[Antichat](https://forum.antichat.com) | ONLINE | |
+|[Lampeduza](https://lampeduza.la) | ONLINE | |

@@ -1,6 +1,5 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
-|https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|
 |https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
 |https://t.me/+8UWtFO9H_9dhODVk|ONLINE| 0x_dump alternative channel|
 |https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|
@@ -347,3 +346,5 @@
 |https://t.me/ZeroDay_TM|ONLINE| Original  ZeroDay  Community |
 |https://t.me/zerodayforums|ONLINE| ZeroDay Forums |
 |https://t.me/StarLinkCloud|ONLINE| STARLINK[CLOUD] Logs |
+|https://t.me/ArenaCloudFree|ONLINE| Arena Cloud Free Logs |
+|https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|

@@ -224,7 +224,7 @@
 |[ROBINHOOD](https://robinhoodleaks.tumblr.com)|OFFLINE|||
 |[ROOK](http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion)|OFFLINE|||
 |[ROYAL (Victims Page)](http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion)|ONLINE|||
-|[ROYAL](http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion)|ONLINE|||
+|[ROYAL](http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion)|OFFLINE|||
 |[RRANSOM (Victims page)](http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form)|OFFLINE|||
 |[SEKHMET](http://sekhmet.top)|OFFLINE|||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE|||

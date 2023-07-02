@@ -51,6 +51,7 @@
 |[DARK2WEB](https://dark2web.net)| ONLINE | |
 |[DARKCLUB](https://darkclub.pw)| ONLINE | |
 |[DARKFORUM](https://darkforum.net)| ONLINE | |
+|[DARKFORUMS](https://darkforums.me)| ONLINE | |
 |[DARKMARKET.AT](https://darkmarket.at)| OFFLINE | |
 |[DARKMARKET.CX](https://darkmarket.cx)| OFFLINE | |
 |[DARKMONEY](https://darkmoney.lc)| ONLINE | |

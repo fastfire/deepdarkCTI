@@ -36,10 +36,10 @@
 |[RANSOMWARE VICTIMS TRACKER](https://ransom.wiki)| ONLINE | |
 |[SAUDI ARAMCO LEAK](http://662m7dfcpfsmeetqucdekz3rn4a6dxsxbdjwd6iz3rwnogjsj7i3hxad.onion)| OFFLINE | |
 |[StrangerealIntel](https://github.com/StrangerealIntel)| ONLINE |GitHub Repo|
-|[TweetFeed](https://github.com/0xDanielLopez/TweetFeed)| ONLINE | GitHub Repo|
-|[TOR Index Taxi](http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion)| ONLINE | |
-|[Ukraine leak](http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion)| ONLINE | |
+|[THE DIGEST CRYPTO-RANSOMWARE](https://id-ransomware.blogspot.com)| ONLINE | |
+|[TWEETFEED](https://github.com/0xDanielLopez/TweetFeed)| ONLINE | GitHub Repo|
+|[TOR INDEX TAXI](http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion)| ONLINE | |
+|[UKRAINE LEAK](http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion)| ONLINE | |
 |[VISITOR SEARCH ENGINE](http://visitorfi5kl7q7i.onion)| OFFLINE | |
 |[VXVAULT](http://vxvault.net/ViriList.php)| ONLINE | |
 |[ZONE-H](https://www.zone-h.org)| ONLINE | |
-|[The Digest Crypto-Ransomware](https://id-ransomware.blogspot.com)| ONLINE | |

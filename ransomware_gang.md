@@ -73,6 +73,7 @@
 |[CRYP70N1C0D3](http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion)|OFFLINE|||
 |[CUBA (Old)](http://cuba4mp6ximo2zlo.onion)|OFFLINE|||
 |[CUBA](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion)|ONLINE||37790E2D198DFD20C9D2887D4EF7C3E2951BB84248D192689B64DCCA3C8BD808A1895676B271|
+|[Cyclops](http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion)|ONLINE|||
 |[DAGON LOCKER (Victims request ID Page)](http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion)|OFFLINE|||
 |[DAIXIN](http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion)|ONLINE|||
 |[DARK ANGELS](https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion)|OFFLINE|||
@@ -80,7 +81,7 @@
 |[DARKBIT01](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion)|OFFLINE|||
 |[DARKRYPT](https://darkrypt.io)|OFFLINE|||
 |[DARKPOWER](http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/)|OFFLINE|||
-|[DARKRACE](http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/)|ONLINE|||
+|[DARKRACE](http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/)|OFFLINE|||
 |[DARKSIDE](http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion)|OFFLINE|||
 |[DONUT BLOG](https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion)|OFFLINE|||
 |[DONUT DLS](https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion)|OFFLINE|||
@@ -206,7 +207,7 @@
 |[RAGNAR LOCKER (Old)](http://ragnarleaks.top)|OFFLINE|||
 |[RAGNAROK](http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion)|OFFLINE|||
 |[RAGNAROK](http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion)|OFFLINE|||
-|[RANCOZ](http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/)|ONLINE|||
+|[RANCOZ](http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/)|OFFLINE|||
 |[RANSOM CARTEL (1)](http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion)|OFFLINE|||
 |[RANSOM CARTEL (Victims page)](http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion)|OFFLINE|||
 |[RANSOMEXX](http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)|ONLINE|||
@@ -223,7 +224,7 @@
 |[ROBINHOOD](https://robinhoodleaks.tumblr.com)|OFFLINE|||
 |[ROOK](http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion)|OFFLINE|||
 |[ROYAL (Victims Page)](http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion)|ONLINE|||
-|[ROYAL](http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion)|ONLINE|||
+|[ROYAL](http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion)|OFFLINE|||
 |[RRANSOM (Victims page)](http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form)|OFFLINE|||
 |[SEKHMET](http://sekhmet.top)|OFFLINE|||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE|||
@@ -242,7 +243,7 @@
 |[SUNCRYPT (Tor v2)](http://nbzzb6sa6xuura2z.onion)|OFFLINE|||
 |[SUNCRYPT (Tor v3)](http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion)|OFFLINE|||
 |[SynACK (El_Cometa)](http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion)|OFFLINE|||
-|[TRIGONA](http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion)|ONLINE|||
+|[TRIGONA](http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion)|OFFLINE|||
 |[UNSAFE](http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion)|ONLINE|||
 |[V IS VENDETTA](http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion)|ONLINE|||
 |[VFOKX (1)](http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion)|OFFLINE|||

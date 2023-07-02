@@ -186,4 +186,4 @@
 |[Darkpid](https://darkpid.com) | ONLINE | |
 |[Antichat](https://forum.antichat.com) | ONLINE | |
 |[Lampeduza](https://lampeduza.la) | ONLINE | |
-https://cracking.org/
+|[CRACKING](https://cracking.org) | ONLINE | |

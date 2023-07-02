@@ -1,5 +1,6 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
+|[0-DAY](https://0-day.shop)| ONLINE | |
 |[2EASY](https://2easy.shop)| OFFLINE | |
 |[2EASY](https://2easy.cc)| ONLINE | |
 |[ALLWORLDCARDS](https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
@@ -39,6 +40,7 @@
 |[DARK LEAK MARKET](http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion)| ONLINE | |
 |[DARK LEAK MARKET](http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion)| ONLINE | |
 |[DARK LEAK MARKET](http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion)| ONLINE | |
+|[DarkSsasinsShop](http://dq7hdxbxxw4sjssigwq4tivo22dpurpy65f7xqqcdesf4jzq5tsh7did.onion/)| ONLINE | |
 |[DARK ZONE](http://6bcecdo7ldzkudt6dnsuljqoyhgme4afsnytarre5nucjhgzmrn4txad.onion)| OFFLINE | |
 |[DARKFOX MARKET](http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion)| ONLINE | |
 |[DATABASE](http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion)| ONLINE | |

@@ -350,4 +350,3 @@
 |https://t.me/StarLinkCloud|ONLINE| STARLINK[CLOUD] Logs |
 |https://t.me/ArenaCloudFree|ONLINE| Arena Cloud Free Logs |
 |https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|
-|https://0-day.shop |ONLINE| O DAY logs market|

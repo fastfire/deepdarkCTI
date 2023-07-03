@@ -43,3 +43,4 @@
 |[VISITOR SEARCH ENGINE](http://visitorfi5kl7q7i.onion)| OFFLINE | |
 |[VXVAULT](http://vxvault.net/ViriList.php)| ONLINE | |
 |[ZONE-H](https://www.zone-h.org)| ONLINE | |
+|[VX-Underground](https://www.vx-underground.org/#E:/root)| ONLINE | |

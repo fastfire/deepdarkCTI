@@ -260,7 +260,7 @@
 |https://t.me/minsaudebr|ONLINE| Lapsus$ channel |
 |https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
 |https://t.me/MysteriousTeam0|ONLINE|Mysterious team bangladesh|
-|https://t.me/s/naosbase|ONLINE|DB / Data Leak Search Engine|
+|https://t.me/naosbase|ONLINE|DB / Data Leak Search Engine|
 |https://t.me/NetSurvivalist|ONLINE| General Hacking, Privacy |
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng|
 |https://t.me/nohidespace|ONLINE| Combo List |

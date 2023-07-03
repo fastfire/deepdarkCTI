@@ -10,6 +10,7 @@
 |[PhishingArmy](https://phishing.army)| ONLINE | |
 |[PhishingCheck](https://phishcheck.me)| ONLINE | |
 |[PhishingInitiative](https://phishing-initiative.fr/contrib)| ONLINE | |
+|[PhishHunt](https://phishunt.io)| ONLINE | |
 |[PhishStats](https://phishstats.info)| ONLINE | |
 |[PhishTank](https://www.phishtank.com)| ONLINE | |
 |[StopForumSpam](https://www.stopforumspam.com)| ONLINE | |

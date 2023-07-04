@@ -83,7 +83,7 @@
 |[DARKPOWER](http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/)|OFFLINE|||
 |[DARKRACE](http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/)|OFFLINE|||
 |[DARKSIDE](http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion)|OFFLINE|||
-|[DONUT BLOG](https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion)|OFFLINE|||
+|[DONUT BLOG](http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion)|OFFLINE|||
 |[DONUT DLS](https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion)|OFFLINE|||
 |[DOPPLE PAYMER](http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion)|OFFLINE|||
 |[DOTADMIN](http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion)|OFFLINE||@dotADMINbot (Telegram)|

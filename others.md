@@ -20,7 +20,7 @@
 |[HAYSTACK SEARCH ENGINE](http://haystakvxad7wbk5.onion)| OFFLINE | |
 |[HIDDEN LINKS](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion)| ONLINE | |
 |[I2P SEARCH ENGINE](http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion)| ONLINE | |
-|[ILLICIT SERVICES LTD LEAK SEARCH](https://search.illicit.services)| ONLINE | For JSON API Access contact miyako@miyako.rocks |
+|[Zero Trust LTD leak search](https://search.0t.rocks/)| ONLINE | For JSON API Access contact miyako@miyako.rocks (rebrand of search.illicit.services) |
 |[Lapsus$ Matrix Chat](https://matrix.to/#/#lapsus:matrix.org)| ONLINE | |
 |[LeakTheAnalyst](http://leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion)| OFFLINE | | 
 |[LINK BASE](https://link-base.org)| ONLINE | Various forums links |

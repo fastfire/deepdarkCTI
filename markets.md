@@ -60,6 +60,7 @@
 |[HYDRA (Tor v3)](http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion)| OFFLINE | |
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login)| ONLINE | |
 |[INFINITY SHOP](http://infinityvzoe2ldb74y2klk7cs3nda2n3qozdy7sdgfouqrzfkp64sid.onion)| ONLINE | |
+|[Intel Repository](http://intelrepository.com/)|ONLINE|Sale of Defense Contractor and Military Files|
 |[Iran Info Marketplace](http://marketir7joj2ibuouojg2nwkdwfal5dhisp3g246jl4ur7r7zfvloid.onion)| ONLINE | |
 |[LIBERTY](http://liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion)| OFFLINE | |
 |[LOLZ.GURU](https://lolz.guru/)| ONLINE | |

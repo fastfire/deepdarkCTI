@@ -351,3 +351,8 @@
 |https://t.me/ArenaCloudFree|ONLINE| Arena Cloud Free Logs |
 |https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|
 |https://t.me/TigerElectronicUnit|ONLINE|Electronic Tigers Unit |
+|https://t.me/ndtgroup_kh|ONLINE| |
+|https://t.me/FR3DENSOFSECURITY_2023|ONLINE| |
+|https://t.me/anoncambodia|ONLINE| |
+|https://t.me/INDIAN_CYBER_FORCE|ONLINE| |
+|https://t.me/vulzsec_official|ONLINE| |

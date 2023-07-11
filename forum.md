@@ -189,3 +189,14 @@
 |[Antichat](https://forum.antichat.com) | ONLINE | |
 |[Lampeduza](https://lampeduza.la) | ONLINE | |
 |[CRACKING](https://cracking.org) | ONLINE | |
+
+rutor.live
+rutor.gs
+rutor.fr
+rutor.la
+rutor.ac
+
+
+These are the correct rutor links, the rutor link listed above is a separate forum.
+
+

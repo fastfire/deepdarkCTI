@@ -360,3 +360,4 @@
 |https://t.me/blackvaultcc|ONLINE|Blackvault|
 |https://t.me/ExploitService|ONLINE|Exploit Service|
 |https://t.me/shadowleakss|ONLINE|Shadow Leaks|
+|https://t.me/awsleaks|ONLINE|AWS Leaks|

@@ -358,3 +358,5 @@
 |https://t.me/vulzsec_official|ONLINE| |
 |https://t.me/dontleakmydata|ONLINE|DontLeakMyData|
 |https://t.me/blackvaultcc|ONLINE|Blackvault|
+|https://t.me/ExploitService|ONLINE|Exploit Service|
+|https://t.me/shadowleakss|ONLINE|Shadow Leaks|

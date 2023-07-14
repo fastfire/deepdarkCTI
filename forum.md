@@ -147,6 +147,12 @@
 |[RUTOR (Deep)](https://darknet.rutor.nl) | ONLINE | |
 |[RUTOR (Surface)](http://rutor.info) | ONLINE ||
 |[RUTOR (Surface)](http://rutor.is) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.live) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.gs) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.fr) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.la) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.ac) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.li) | ONLINE ||
 |[SEOPIRAT](https://seopirat.club) | ONLINE ||
 |[SINFUL](https://sinfulsite.com)| ONLINE | |
 |[SINISTER](https://sinister.ly)| ONLINE | |

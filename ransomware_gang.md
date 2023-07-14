@@ -229,10 +229,10 @@
 |[RRANSOM (Victims page)](http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form)|OFFLINE|||
 |[SEKHMET](http://sekhmet.top)|OFFLINE|||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE|||
-|[SNATCH (Deep)](https://snatch.press)|OFFLINE|||
-|[SNATCH (Deep)](http://snatch.vip)|OFFLINE|||
-|[SNATCH (Deep)](https://snatchnews.top/)|ONLINE|||
-|[SNATCH (Dark)](http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php)|ONLINE|||
+|[SNATCH (Deep)](https://snatch.press)|OFFLINE||https://t.me/snatch_info|
+|[SNATCH (Deep)](http://snatch.vip)|OFFLINE||https://t.me/snatch_info|
+|[SNATCH (Deep)](https://snatchnews.top/)|ONLINE||https://t.me/snatch_info|
+|[SNATCH (Dark)](http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php)|ONLINE||https://t.me/snatch_info|
 |[SODINOKIBI (REVIL)](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)|OFFLINE|||
 |[SOLIDBIT (Chat panel)](http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion)|OFFLINE|||
 |[SPARTA](http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion)|OFFLINE|||

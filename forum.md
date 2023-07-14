@@ -147,6 +147,12 @@
 |[RUTOR (Deep)](https://darknet.rutor.nl) | ONLINE | |
 |[RUTOR (Surface)](http://rutor.info) | ONLINE ||
 |[RUTOR (Surface)](http://rutor.is) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.live) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.gs) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.fr) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.la) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.ac) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.li) | ONLINE ||
 |[SEOPIRAT](https://seopirat.club) | ONLINE ||
 |[SINFUL](https://sinfulsite.com)| ONLINE | |
 |[SINISTER](https://sinister.ly)| ONLINE | |
@@ -189,16 +195,3 @@
 |[Antichat](https://forum.antichat.com) | ONLINE | |
 |[Lampeduza](https://lampeduza.la) | ONLINE | |
 |[CRACKING](https://cracking.org) | ONLINE | |
-
-
-rutor.live
-rutor.gs
-rutor.fr
-rutor.la
-rutor.ac
-rutor.li
-rutor.bio
-rutor.gs
-rutor.frl
-
-These are the correct rutor links. They change domains frequently. The rutor link listed above is a separate forum. 

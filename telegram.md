@@ -362,3 +362,4 @@
 |https://t.me/ExploitService|ONLINE|Exploit Service|
 |https://t.me/shadowleakss|ONLINE|Shadow Leaks|
 |https://t.me/awsleaks|ONLINE|AWS Leaks|
+|https://t.me/snatch_info|ONLINE|Snatch ransomware gang|

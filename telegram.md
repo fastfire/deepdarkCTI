@@ -363,3 +363,4 @@
 |https://t.me/shadowleakss|ONLINE|Shadow Leaks|
 |https://t.me/awsleaks|ONLINE|AWS Leaks|
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|
+|https://t.me/GhostSecS|ONLINE|GhostSec Service|

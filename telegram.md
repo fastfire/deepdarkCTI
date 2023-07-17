@@ -37,7 +37,7 @@
 |https://t.me/Arvin_club2|OFFLINE| Data Leaks |
 |https://t.me/arvin_club|ONLINE|
 |https://t.me/arvinclub1|ONLINE|Arvin|
-|https://t.me/https://t.me/Team_r70YEMEN|ONLINE|DDoS Hactivitsts|
+|https://t.me/Team_r70YEMEN|ONLINE|DDoS Hactivitsts|
 |https://t.me/asdcloud|ONLINE|Combo List|
 |https://t.me/atlantiscyberarmy|ONLINE|Atlantis - CyberArmy - A.I.G|
 |https://t.me/atw2022|ONLINE| Against The West |

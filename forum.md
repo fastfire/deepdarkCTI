@@ -195,3 +195,10 @@
 |[Antichat](https://forum.antichat.com) | ONLINE | |
 |[Lampeduza](https://lampeduza.la) | ONLINE | |
 |[CRACKING](https://cracking.org) | ONLINE | |
+
+
+https://rutor.day/
+
+https://rutor.cx/
+
+These should replace the RuTor links above. These are the sites that host links to active mirrors. 

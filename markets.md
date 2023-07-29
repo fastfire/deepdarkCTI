@@ -81,6 +81,7 @@
 |[RONDA STORE (Deep - mirror)](https://rondastore.vip)| ONLINE | |
 |[RONDA STORE (Deep)](http://rondastore.cc)| ONLINE | |
 |[RONDA STORE (Tor v3)](http://r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion)| ONLINE | |
+|[Royal Market (Tor v3)](http://royalyygxzq5fadtlgzftq3dwpdycq4gvddmvhrk3l2gjzsfqqwpvwad.onion)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.gs)| OFFLINE | |
 |[Russian Market (Deep)](https://russianmarket.to)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.io)| ONLINE | |

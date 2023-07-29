@@ -17,6 +17,7 @@
 |[BLACKBONES](https://blackbones.net)|ONLINE||
 |[BLACKHACKER](https://blackhacker.pw)|ONLINE||
 |[BLACKFORUMS](https://blackforums.net)| ONLINE | |
+|[BLACKFORUMS](https://blackforums.me)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.is)| ONLINE | |
@@ -113,6 +114,8 @@
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
 |[NEFARIUM](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
+|[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.net)| ONLINE | |
+|[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.me)| ONLINE | |
 |[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| OFFLINE | |
 |[NOHIDESPACE](https://nohide.space)| ONLINE | |
 |[NULLED](https://www.nulled.to)| ONLINE | |

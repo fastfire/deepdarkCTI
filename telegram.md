@@ -365,4 +365,5 @@
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|
 |https://t.me/GhostSecS|ONLINE|GhostSec Service|
 |https://t.me/CyberCatChat|ONLINE|Cyber Cat|
+|https://t.me/KryptonNetworks|ONLINE|Krypton|
 |https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat|

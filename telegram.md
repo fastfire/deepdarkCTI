@@ -364,7 +364,8 @@
 |https://t.me/awsleaks|ONLINE|AWS Leaks|
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|
 |https://t.me/GhostSecS|ONLINE|GhostSec Service|
-|https://t.me/CyberCatChat|ONLINE|Cyber Cat|
+|https://t.me/CyberCatChat|ONLINE|Cyber Cat chat|
 |https://t.me/KryptonNetworks|ONLINE|Krypton|
 |https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat|
 |https://twitter.com/Cyb3rAvengers|ONLINE|Cyber Avengers|
+|https://t.me/CyberCatHack|ONLINE|Cyber Cat channel|

@@ -367,3 +367,4 @@
 |https://t.me/CyberCatChat|ONLINE|Cyber Cat|
 |https://t.me/KryptonNetworks|ONLINE|Krypton|
 |https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat|
+|https://twitter.com/Cyb3rAvengers|ONLINE|Cyber Avengers|

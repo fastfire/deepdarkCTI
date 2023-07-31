@@ -3,15 +3,18 @@
 |https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
 |https://t.me/+8UWtFO9H_9dhODVk|ONLINE| 0x_dump alternative channel|
 |https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|
+|https://t.me/+9P5FQ85afTc4NGNl|ONLINE| Goblin's Database |
 |https://t.me/+eOtgrt4gB68wM2Qy|ONLINE| Atlantis Cyber Army A.I.G. - backup|
 |https://t.me/+fcxhFl9JSRE3YTdi|ONLINE| HUBHEAD Logs|
 |https://t.me/+fR-06lKTQ_VmODA0|OFFLINE| Data Leaks |
+|https://t.me/+FuLjnRtP3BhiZDNl|ONLINE| Goblin's Hub (private) | 
 |https://t.me/+ghq2ayK6ybIwYmJi|ONLINE| voidy - database storage|
 |https://t.me/+ipEzVrjM43NkODc0|ONLINE| AKATSUKI gang (Algerian Ministry breach) |
 |https://t.me/+IYBPSRVwk6k4ZTEy|OFFLINE| Atlantis Cyber Army A.I.G. |
 |https://t.me/+jCjbvdsUSJIzN2Vl|ONLINE| The Collective Sentinel|
 |https://t.me/+nCFeH8PT-XUxZjEy|ONLINE| Data Leaks|
 |https://t.me/+NshXlCbUEZkxZDMy|ONLINE| Luffich Logs - Redline Stealer|
+|https://t.me/+OZheKtZ368YxMDBl|ONLINE| Goblin's Free Logs |
 |https://t.me/+O7yT5lylY89lMTcy|ONLINE|TCG|
 |https://t.me/+paglZbHnhE8xMTA8|ONLINE| Adrastea Group|
 |https://t.me/+T0l1VDuQzDpjYWQ0|ONLINE| Data Leaks|
@@ -158,6 +161,8 @@
 |https://t.me/GhostSecc|ONLINE| Data Leaks & Hacktivism group |
 |https://t.me/GitTools|ONLINE| |
 |https://t.me/gladdos69_official|ONLINE| DDoS |
+|https://t.me/goblins_gang| ONLINE | chat |
+|https://t.me/goblins_hub| ONLINE | hub links |
 |https://t.me/GoneTeam410|ONLINE|GoneTeam|
 |https://t.me/GonjeshkeDarand|ONLINE| Gonjeshke Darande|
 |https://t.me/grandgive|ONLINE| |

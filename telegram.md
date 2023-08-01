@@ -377,3 +377,5 @@
 |https://t.me/ThreatSec|ONLINE|ThreatSec|
 |https://t.me/LummaC2Stealer|ONLINE|LummaC2 Stealer|
 |https://t.me/LummaC2Team|ONLINE|LummaC2 Stealer Chat|
+|https://t.me/CyberAv3ngers|ONLINE|Cyber Av3ngers|
+|https://t.me/+DLb_tfrPeE4wNDM8|ONLINE|Biskooit Pedar|

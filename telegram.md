@@ -375,3 +375,5 @@
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel|
 |https://t.me/net_worker_alliance|ONLINE|Net Worker Alliance|
 |https://t.me/ThreatSec|ONLINE|ThreatSec|
+|https://t.me/LummaC2Stealer|ONLINE|LummaC2 Stealer|
+|https://t.me/LummaC2Team|ONLINE|LummaC2 Stealer Chat|

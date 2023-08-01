@@ -374,3 +374,4 @@
 |https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat|
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel|
 |https://t.me/net_worker_alliance|ONLINE|Net Worker Alliance|
+|https://t.me/ThreatSec|ONLINE|ThreatSec|

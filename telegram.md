@@ -379,3 +379,6 @@
 |https://t.me/LummaC2Team|ONLINE|LummaC2 Stealer Chat|
 |https://t.me/CyberAv3ngers|ONLINE|Cyber Av3ngers|
 |https://t.me/+DLb_tfrPeE4wNDM8|ONLINE|Biskooit Pedar|
+|https://t.me/+E0eng43CkZowMTdl|ONLINE|BF Repo V3 Files|
+|https://t.me/+LZQBX9ml0Qk3YWFl|ONLINE|BF Repo V3 Chat|
+|https://t.me/+YRLqvlnUI84zNzZl|ONLINE|BF Repo V3 Files|

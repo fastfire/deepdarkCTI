@@ -75,7 +75,7 @@
 |[CRYP70N1C0D3](http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion)|OFFLINE|||
 |[CUBA (Old)](http://cuba4mp6ximo2zlo.onion)|OFFLINE|||
 |[CUBA](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion)|ONLINE||37790E2D198DFD20C9D2887D4EF7C3E2951BB84248D192689B64DCCA3C8BD808A1895676B271|
-|[CYCLOPS]([http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion](http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion/blogs/79b2eb61-97e2-4a2e-81f8-1c1d45c3b59c/))|ONLINE|||
+|[CYCLOPS](http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion/blogs/79b2eb61-97e2-4a2e-81f8-1c1d45c3b59c)|ONLINE|||
 |[DAGON LOCKER (Victims request ID Page)](http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion)|OFFLINE|||
 |[DAIXIN](http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion)|ONLINE|||
 |[DARK ANGELS](https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion)|OFFLINE|||
@@ -126,7 +126,7 @@
 |[KARAKURT (Dark)](https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion)|ONLINE|||
 |[KARMA](http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion)|OFFLINE|||
 |[KELVIN SECURITY](https://vipsuscription.org)|ONLINE||https://t.me/kelvinsecteam|
-|[KNIGHT (ex CYCLOPS)](http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion)|ONLINE||TOX:9096AD7062A4232F5AA31C2F7C4DF0AC1EAD10B78D40A6A3328AD142A42B555E635954D8B6C5|
+|[KNIGHT (ex CYCLOPS)](http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion)|ONLINE||9096AD7062A4232F5AA31C2F7C4DF0AC1EAD10B78D40A6A3328AD142A42B555E635954D8B6C5|
 |[LA PIOVRA](http://et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion)|OFFLINE|||
 |[LILITH](http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion)|OFFLINE||BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC|
 |[LOCKBIT 2.0 (Dark mirror 1)](http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion)|REBRANDED TO LB 3||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|

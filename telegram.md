@@ -138,7 +138,7 @@
 |https://t.me/ddos_separ|ONLINE| DDoS Services |
 |https://t.me/ddossatmak|ONLINE| DDoS Services |
 |https://t.me/ddostm1|ONLINE| BlackObServers Channel (ddos team) |
-|https://t.me/dumpforums|ONLINE| Dump Forums |
+|https://t.me/dumpforums|OFFLINE| Dump Forums |
 |https://t.me/DWI_OFFICIAL|OFFLINE| |
 |https://t.me/eaglecyberwashere|ONLINE|Eaglecyber|
 |https://t.me/ehdanstock|ONLINE| Selling Accounts |

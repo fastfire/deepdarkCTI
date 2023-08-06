@@ -71,6 +71,7 @@
 |[MegaCiti](http://ba72lxa2o2qxqixzeubnbookar2kssk42ds63m2qvlnr7b4oqtyayvad.onion)| ONLINE | |
 |[MGM GRAND](http://wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion)| ONLINE | |
 |[MONOPOLY](http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion)| OFFLINE | |
+|[NEXUS](http://nexus2bmba34euohk3xo7og2zelkgbtc2p7rjsbxrjjknlecja2tdvyd.onion/categoria-produto/malware)|ONLINE | |
 |[NOHIDE](https://nohide.space)| ONLINE | |
 |[ODIN](https://odin.to)| ONLINE | |
 |[ONLYONE](https://only-one.cc)| OFFLINE | |

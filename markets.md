@@ -71,8 +71,14 @@
 |[MegaCiti](http://ba72lxa2o2qxqixzeubnbookar2kssk42ds63m2qvlnr7b4oqtyayvad.onion)| ONLINE | |
 |[MGM GRAND](http://wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion)| ONLINE | |
 |[MONOPOLY](http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion)| OFFLINE | |
+|[NEXUS](http://nexus2bmba34euohk3xo7og2zelkgbtc2p7rjsbxrjjknlecja2tdvyd.onion/categoria-produto/malware)|ONLINE | |
 |[NOHIDE](https://nohide.space)| ONLINE | |
-|[ODIN](https://odin.to)| ONLINE | |
+|[ODIN](https://odin.to)| OFFLINE | |
+|[ODIN](https://odin.pw)| ONLINE | |
+|[ODIN](https://odin.pm)| ONLINE | |
+|[ODIN](https://odinshop.io)| ONLINE | |
+|[ODIN](https://odinshop.se)| ONLINE | |
+|[ODIN](https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion)| ONLINE | |
 |[ONLYONE](https://only-one.cc)| OFFLINE | |
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |

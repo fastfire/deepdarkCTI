@@ -17,8 +17,10 @@
 |[BLACKBONES](https://blackbones.net)|ONLINE||
 |[BLACKHACKER](https://blackhacker.pw)|ONLINE||
 |[BLACKFORUMS](https://blackforums.net)| ONLINE | |
+|[BLACKFORUMS](https://blackforums.me)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
+|[BREACH FORUMS](https://breachforums.is)| ONLINE | |
 |[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| ONLINE | |
 |[BREACHED (Dark)](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion)| OFFLINE | |
 |[BREACHED (Deep)](https://breached.co)| OFFLINE | |
@@ -112,6 +114,8 @@
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
 |[NEFARIUM](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
+|[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.net)| ONLINE | |
+|[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.me)| ONLINE | |
 |[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| OFFLINE | |
 |[NOHIDESPACE](https://nohide.space)| ONLINE | |
 |[NULLED](https://www.nulled.to)| ONLINE | |

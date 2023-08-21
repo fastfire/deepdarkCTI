@@ -92,7 +92,7 @@
 |https://t.me/Combolistfresh|ONLINE| Combo List|
 |https://t.me/combosgrupoplex|ONLINE| Combo List |
 |https://t.me/config_combos|OFFLINE| Configs, Combos |
-|https://t.me/Configsandcombos|ONLINE| Configs, Combos |
+|https://t.me/Configsandcombos|OFFLINE| Configs, Combos |
 |https://t.me/ConfigsServices|ONLINE| Configs, Combos |
 |https://t.me/cpartisans|ONLINE| Кибер-Партизаны (Cyber Partisans) |
 |https://t.me/crackcodes|ONLINE| Data Leaks |

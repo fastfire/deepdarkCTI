@@ -385,3 +385,4 @@
 |https://t.me/NewBlood_Project|ONLINE|New Blood Project|
 |https://t.me/cristallineforum|Cristalline Forum|
 |https://t.me/kittensec|KittenSec|
+|https://t.me/Osintcorp_chat|ONLINE|OsintCorp|

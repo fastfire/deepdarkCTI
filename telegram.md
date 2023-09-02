@@ -383,7 +383,7 @@
 |https://t.me/+LZQBX9ml0Qk3YWFl|ONLINE|BF Repo V3 Chat|
 |https://t.me/+YRLqvlnUI84zNzZl|ONLINE|BF Repo V3 Files|
 |https://t.me/NewBlood_Project|ONLINE|New Blood Project|
-|https://t.me/cristallineforum|Cristalline Forum|
-|https://t.me/kittensec|KittenSec|
+|https://t.me/cristallineforum|ONLINE|Cristalline Forum|
+|https://t.me/kittensec|ONLINE|KittenSec|
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp|
 |https://t.me/AutoLookup|ONLINE|AutoLookup|

@@ -387,3 +387,4 @@
 |https://t.me/kittensec|ONLINE|KittenSec|
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp|
 |https://t.me/AutoLookup|ONLINE|AutoLookup|
+|https://t.me/inj3ct0rs|ONLINE|Exploits Market and 0day Exploits Database|

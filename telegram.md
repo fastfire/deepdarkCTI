@@ -125,8 +125,7 @@
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
 |https://t.me/databasemarkett|ONLINE|Database Market|
 |https://t.me/databreach|ONLINE| |
-|https://t.me/datacloudspace|ONLINE| Combo List|
-|https://t.me/datacloudspace|ONLINE| Datacloud |
+|https://t.me/datacloudspace|OFFLINE| Combo List|
 |https://t.me/dataflows|ONLINE| Data Leaks |
 |https://t.me/dataleakbreach|OFFLINE| Data Leaks|
 |https://t.me/DataLeakHome|ONLINE| Data Leaks |
@@ -303,7 +302,7 @@
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks|
 |https://t.me/sanaski|ONLINE| Configs, combos |
 |https://t.me/Sell_rdp1|OFFLINE| |
-|https://t.me/shadowleakss|ONLINE|ShadowHacker Leaks|
+|https://t.me/shadowleakss|OFFLINE|ShadowHacker Leaks|
 |https://t.me/shieldteam1|ONLINE| |
 |https://t.me/ShizoPrivacy|ONLINE| 0% Privacy|
 |https://t.me/SiegedSec|ONLINE| Sieged Sec|
@@ -382,6 +381,7 @@
 |https://t.me/+E0eng43CkZowMTdl|ONLINE|BF Repo V3 Files|
 |https://t.me/+LZQBX9ml0Qk3YWFl|ONLINE|BF Repo V3 Chat|
 |https://t.me/+YRLqvlnUI84zNzZl|ONLINE|BF Repo V3 Files|
+|https://t.me/+_d-aW--RLXszYmU0|ONLINE|Openbullet Config Service|
 |https://t.me/NewBlood_Project|ONLINE|New Blood Project|
 |https://t.me/cristallineforum|ONLINE|Cristalline Forum|
 |https://t.me/kittensec|ONLINE|KittenSec|

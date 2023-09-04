@@ -119,7 +119,7 @@
 |https://t.me/darknet_br|ONLINE| |
 |https://t.me/DarknetNewsEng|ONLINE| Darknet News(English Version)|
 |https://t.me/darkwebdarknetmarketplace|ONLINE|Illicit Service|
-|https://t.me/darxe_base|ONLINE| Data Leaks |
+|https://t.me/darxe_base|OFFLINE| Data Leaks |
 |https://t.me/data1eaks|ONLINE| |
 |https://t.me/Database_breached|OFFLINE| Data Leaks |
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|

@@ -92,7 +92,7 @@
 |https://t.me/Combolistfresh|ONLINE| Combo List|
 |https://t.me/combosgrupoplex|ONLINE| Combo List |
 |https://t.me/config_combos|OFFLINE| Configs, Combos |
-|https://t.me/Configsandcombos|ONLINE| Configs, Combos |
+|https://t.me/Configsandcombos|OFFLINE| Configs, Combos |
 |https://t.me/ConfigsServices|ONLINE| Configs, Combos |
 |https://t.me/cpartisans|ONLINE| Кибер-Партизаны (Cyber Partisans) |
 |https://t.me/crackcodes|ONLINE| Data Leaks |
@@ -119,14 +119,13 @@
 |https://t.me/darknet_br|ONLINE| |
 |https://t.me/DarknetNewsEng|ONLINE| Darknet News(English Version)|
 |https://t.me/darkwebdarknetmarketplace|ONLINE|Illicit Service|
-|https://t.me/darxe_base|ONLINE| Data Leaks |
+|https://t.me/darxe_base|OFFLINE| Data Leaks |
 |https://t.me/data1eaks|ONLINE| |
 |https://t.me/Database_breached|OFFLINE| Data Leaks |
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
 |https://t.me/databasemarkett|ONLINE|Database Market|
 |https://t.me/databreach|ONLINE| |
-|https://t.me/datacloudspace|ONLINE| Combo List|
-|https://t.me/datacloudspace|ONLINE| Datacloud |
+|https://t.me/datacloudspace|OFFLINE| Combo List|
 |https://t.me/dataflows|ONLINE| Data Leaks |
 |https://t.me/dataleakbreach|OFFLINE| Data Leaks|
 |https://t.me/DataLeakHome|ONLINE| Data Leaks |
@@ -303,7 +302,7 @@
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks|
 |https://t.me/sanaski|ONLINE| Configs, combos |
 |https://t.me/Sell_rdp1|OFFLINE| |
-|https://t.me/shadowleakss|ONLINE|ShadowHacker Leaks|
+|https://t.me/shadowleakss|OFFLINE|ShadowHacker Leaks|
 |https://t.me/shieldteam1|ONLINE| |
 |https://t.me/ShizoPrivacy|ONLINE| 0% Privacy|
 |https://t.me/SiegedSec|ONLINE| Sieged Sec|
@@ -380,6 +379,13 @@
 |https://t.me/CyberAv3ngers|ONLINE|Cyber Av3ngers|
 |https://t.me/+DLb_tfrPeE4wNDM8|ONLINE|Biskooit Pedar|
 |https://t.me/+E0eng43CkZowMTdl|ONLINE|BF Repo V3 Files|
+|https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat|
 |https://t.me/+LZQBX9ml0Qk3YWFl|ONLINE|BF Repo V3 Chat|
 |https://t.me/+YRLqvlnUI84zNzZl|ONLINE|BF Repo V3 Files|
+|https://t.me/+_d-aW--RLXszYmU0|ONLINE|Openbullet Config Service|
 |https://t.me/NewBlood_Project|ONLINE|New Blood Project|
+|https://t.me/cristallineforum|ONLINE|Cristalline Forum|
+|https://t.me/kittensec|ONLINE|KittenSec|
+|https://t.me/Osintcorp_chat|ONLINE|OsintCorp|
+|https://t.me/AutoLookup|ONLINE|AutoLookup|
+|https://t.me/inj3ct0rs|ONLINE|Exploits Market and 0day Exploits Database|

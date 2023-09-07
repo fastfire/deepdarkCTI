@@ -356,7 +356,7 @@
 |https://t.me/ArenaCloudFree|ONLINE| Arena Cloud Free Logs |
 |https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|
 |https://t.me/TigerElectronicUnit|ONLINE|Electronic Tigers Unit |
-|https://t.me/ndtgroup_kh|ONLINE| |
+|https://t.me/ndtgroup_kh|OFFLINE| |
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| |
 |https://t.me/anoncambodia|ONLINE| |
 |https://t.me/INDIAN_CYBER_FORCE|ONLINE| |
@@ -378,7 +378,7 @@
 |https://t.me/LummaC2Team|ONLINE|LummaC2 Stealer Chat|
 |https://t.me/CyberAv3ngers|ONLINE|Cyber Av3ngers|
 |https://t.me/+DLb_tfrPeE4wNDM8|ONLINE|Biskooit Pedar|
-|https://t.me/+E0eng43CkZowMTdl|ONLINE|BF Repo V3 Files|
+|https://t.me/+E0eng43CkZowMTdl|OFFLINE|BF Repo V3 Files|
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat|
 |https://t.me/+LZQBX9ml0Qk3YWFl|ONLINE|BF Repo V3 Chat|
 |https://t.me/+YRLqvlnUI84zNzZl|ONLINE|BF Repo V3 Files|

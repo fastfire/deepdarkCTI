@@ -1,5 +1,6 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
+|https://t.me/+6OJjr1dDbQw1NDli|ONLINE| RED HACKERS ALLIANCE |
 |https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
 |https://t.me/+8UWtFO9H_9dhODVk|ONLINE| 0x_dump alternative channel|
 |https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|

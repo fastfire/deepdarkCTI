@@ -15,6 +15,7 @@
 |https://t.me/+ipEzVrjM43NkODc0|ONLINE| AKATSUKI gang (Algerian Ministry breach) |
 |https://t.me/+IYBPSRVwk6k4ZTEy|OFFLINE| Atlantis Cyber Army A.I.G. |
 |https://t.me/+jCjbvdsUSJIzN2Vl|ONLINE| The Collective Sentinel|
+|https://t.me/+JMruw9EHhWtmYjc9|ONLINE| BlackDragonSec |
 |https://t.me/+nCFeH8PT-XUxZjEy|ONLINE| Data Leaks|
 |https://t.me/+NshXlCbUEZkxZDMy|ONLINE| Luffich Logs - Redline Stealer|
 |https://t.me/+OZheKtZ368YxMDBl|ONLINE| Goblin's Free Logs |
@@ -26,6 +27,7 @@
 |https://t.me/+UYKtaIt6KFGlFwBJ|OFFLINE| VIP Config - configs, combos, etc |
 |https://t.me/+V_oM-vx0YnSN7nzH|ONLINE| Log Leaks Group|
 |https://t.me/+wlf3z9fVHqgzYzk1|OFFLINE| Darks chat|
+|https://t.me/+x9tlrn-DoOw0NmNl|ONLINE| Team BlackDragonSec |
 |https://t.me/+xr2N5_kqYQE3ZDUy|ONLINE| Kingsman|
 |https://t.me/+y8c51prOz20wNWU0|OFFLINE|Solomon market place support|
 |https://t.me/+YhH_DjYUyYpmNDRi|ONLINE| Backup @HackGit channel|

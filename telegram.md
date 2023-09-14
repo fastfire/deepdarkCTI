@@ -10,6 +10,7 @@
 |https://t.me/+fR-06lKTQ_VmODA0|OFFLINE| Data Leaks |
 |https://t.me/+FuLjnRtP3BhiZDNl|ONLINE| Goblin's Hub (private) | 
 |https://t.me/+ghq2ayK6ybIwYmJi|ONLINE| voidy - database storage|
+|https://t.me/+GxHjaDP0bOphZjNh|ONLINE| 8BASE Chat Group |
 |https://t.me/+ipEzVrjM43NkODc0|ONLINE| AKATSUKI gang (Algerian Ministry breach) |
 |https://t.me/+IYBPSRVwk6k4ZTEy|OFFLINE| Atlantis Cyber Army A.I.G. |
 |https://t.me/+jCjbvdsUSJIzN2Vl|ONLINE| The Collective Sentinel|
@@ -144,6 +145,7 @@
 |https://t.me/DWI_OFFICIAL|OFFLINE| |
 |https://t.me/eaglecyberwashere|ONLINE|Eaglecyber|
 |https://t.me/ehdanstock|ONLINE| Selling Accounts |
+|https://t.me/eightbase|ONLINE| 8BASE |
 |https://t.me/eliteband|OFFLINE| Logs |
 |https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware |
 |https://t.me/EVILEAKSU|ONLINE| UNLISTEDLEAKS|

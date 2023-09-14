@@ -19,6 +19,7 @@
 |https://t.me/+paglZbHnhE8xMTA8|ONLINE| Adrastea Group|
 |https://t.me/+T0l1VDuQzDpjYWQ0|ONLINE| Data Leaks|
 |https://t.me/+uV_Lxf2uOHhkMjAy|ONLINE| Killnet Store Chat |
+|https://t.me/+Uxo9r92Ho5ZkYjdi|ONLINE| KILLNET |
 |https://t.me/+UYKtaIt6KFGlFwBJ|OFFLINE| VIP Config - configs, combos, etc |
 |https://t.me/+V_oM-vx0YnSN7nzH|ONLINE| Log Leaks Group|
 |https://t.me/+wlf3z9fVHqgzYzk1|OFFLINE| Darks chat|

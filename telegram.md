@@ -398,3 +398,4 @@
 |https://t.me/jambicyberteam|ONLINE|Jambi Cyber Team|
 |https://t.me/FiveFamilies|ONLINE|FiveFamilies|
 |https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches|
+|https://t.me/MalwareForums|ONLINE|Malware Forums|

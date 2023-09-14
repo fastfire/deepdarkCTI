@@ -33,7 +33,7 @@
 |https://t.me/altenens|ONLINE|
 |https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]|
 |https://t.me/anon_by|ONLINE| Anonymous Russia channel|
-|https://t.me/AnonymousSudan|ONLINE|Anonymous Sudan|
+|https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan|
 |https://t.me/AntiPlumbers|ONLINE|
 |https://t.me/APIddosMirai|ONLINE| Killnet API DDoS Mirai |
 |https://t.me/aresmainchannel|OFFLINE| Data Leaks |
@@ -325,7 +325,7 @@
 |https://t.me/TE1915|ONLINE|1915 team|
 |https://t.me/TeamDemon|ONLINE|Illicit Service|
 |https://t.me/teamimm0rtal|ONLINE| Team Imm0rtal channel |
-|https://t.me/teaminsanepk|ONLINE|Team insane pk|
+|https://t.me/teaminsanepk|OFFLINE|Team insane pk|
 |https://t.me/techpwnews|ONLINE| News |
 |https://t.me/tgcnnatgvctfenqwf|OFFLINE|Combo List|
 |https://t.me/the_archivists_domain|ONLINE| Source Code Dumps |
@@ -391,3 +391,6 @@
 |https://t.me/inj3ct0rs|ONLINE|Exploits Market and 0day Exploits Database|
 |https://t.me/APTIRAN|ONLINE|APT Iran|
 |https://t.me/rdpstealer|ONLINE|Rdp Stealer|
+|https://t.me/ZulikGroupTG|ONLINE|ZulikGroup|
+|https://t.me/jambicyberteam|ONLINE|Jambi Cyber Team|
+|https://t.me/FiveFamilies|ONLINE|FiveFamilies|

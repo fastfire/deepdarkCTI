@@ -105,7 +105,8 @@
 |https://t.me/CryptoGinzo|OFFLINE| Crypt_0x00 |
 |https://t.me/cveNotify|ONLINE| CVE Feed|
 |https://t.me/cyb3rtr0nian|ONLINE|
-|https://t.me/cybdetective|ONLINE| News & Info Sharing
+|https://t.me/cybdetective|ONLINE| News & Info Sharing |
+|https://t.me/cyberactiveXXII|ONLINE| CA XXII Hacktivist Gang |
 |https://t.me/CyberSecurityTechnologies|ONLINE|CyberSecurityTechnologies|
 |https://t.me/D3atr0y3d|OFFLINE| Data Leaks|
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos |

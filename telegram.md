@@ -5,6 +5,7 @@
 |https://t.me/+8UWtFO9H_9dhODVk|ONLINE| 0x_dump alternative channel|
 |https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|
 |https://t.me/+9P5FQ85afTc4NGNl|ONLINE| Goblin's Database |
+|https://t.me/+Bat9QqJcSuE0MTg1|ONLINE| AresLoader |
 |https://t.me/+eOtgrt4gB68wM2Qy|ONLINE| Atlantis Cyber Army A.I.G. - backup|
 |https://t.me/+fcxhFl9JSRE3YTdi|ONLINE| HUBHEAD Logs|
 |https://t.me/+fR-06lKTQ_VmODA0|OFFLINE| Data Leaks |
@@ -53,6 +54,7 @@
 |https://t.me/baseleak|ONLINE| Data Leaks |
 |https://t.me/BAZU_BD|OFFLINE| Data Leaks|
 |https://t.me/bazubd|OFFLINE| Data Leaks|
+|https://t.me/BEARITARMY|ONLINE| BEAR IT ARMY |
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service|
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang |
@@ -94,6 +96,7 @@
 |https://t.me/combo_offensive|ONLINE| Combo List |
 |https://t.me/Combolistfresh|ONLINE| Combo List|
 |https://t.me/combosgrupoplex|ONLINE| Combo List |
+|https://t.me/Comments_RHA_Russia_chat|ONLINE| Red Hackers Alliance Chat Group |
 |https://t.me/config_combos|OFFLINE| Configs, Combos |
 |https://t.me/Configsandcombos|OFFLINE| Configs, Combos |
 |https://t.me/ConfigsServices|ONLINE| Configs, Combos |
@@ -287,6 +290,7 @@
 |https://t.me/opendataleaks|OFFLINE| Data Leaks |
 |https://t.me/openleak|ONLINE| Data Leaks |
 |https://t.me/peass|ONLINE| |
+|https://t.me/phantom_tg|ONLINE| PHANTOM DEV |
 |https://t.me/phoenixinform|ONLINE|Phoenix group|
 |https://t.me/poenamarket|ONLINE|Poena Market|
 |https://t.me/privatecombos|OFFLINE| Data Leaks |
@@ -353,6 +357,7 @@
 |https://t.me/wwhsmi|ONLINE| WWH Forum |
 |https://t.me/x7seller|ONLINE|X7Root Seller|
 |https://t.me/xaknet_team|ONLINE| Killnet |
+|https://t.me/xinject_official|ONLINE| (Dead)XInject Information Channel |
 |https://t.me/Yad2Leaks|OFFLINE| Data Leaks |
 |https://t.me/zendatamarket|OFFLINE|ZenData Database Market|
 |https://t.me/zer0daylab|ONLINE| Hacking, Leaks and News |

@@ -76,6 +76,7 @@
 |[CRIMSON WALRUS](http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion)|OFFLINE|||
 |[CROSSLOCK](http://crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion)|OFFLINE|||
 |[CRYLOCK (Victims request ID Page)](http://d57uremugxjrafyg.onion)|OFFLINE|||
+|[CRYPTBB](http://crypuglupv3bsqnbt5ruu5lgwrwoaojscwhuoccbmbzmcidft5kiccqd.onion)|ONLINE|||
 |[CRYPTNET](http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion)|ONLINE|||
 |[CRYPTNET (Victims request ID Page)](http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion)|ONLINE|||
 |[CRYP70N1C0D3](http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion)|OFFLINE|||

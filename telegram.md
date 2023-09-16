@@ -409,3 +409,4 @@
 |https://t.me/FiveFamilies|ONLINE|FiveFamilies|
 |https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches|
 |https://t.me/MalwareForums|ONLINE|Malware Forums|
+|https://t.me/anzu_team|ONLINE|Anzu Team|

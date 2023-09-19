@@ -412,3 +412,4 @@
 |https://t.me/anzu_team|ONLINE|Anzu Team|
 |https://t.me/+eRl4m-fdPl8yZTUx|ONLINE|Snatch channel|
 |https://t.me/turkhckteam|ONLINE|Turk Hack Team|
+|https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|

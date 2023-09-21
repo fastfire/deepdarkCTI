@@ -405,7 +405,7 @@
 |https://t.me/APTIRAN|ONLINE|APT Iran|
 |https://t.me/rdpstealer|ONLINE|Rdp Stealer|
 |https://t.me/ZulikGroupTG|ONLINE|ZulikGroup|
-|https://t.me/jambicyberteam|ONLINE|Jambi Cyber Team|
+|https://t.me/jambicyberteam|OFFLINE|Jambi Cyber Team|
 |https://t.me/FiveFamilies|ONLINE|FiveFamilies|
 |https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches|
 |https://t.me/MalwareForums|ONLINE|Malware Forums|

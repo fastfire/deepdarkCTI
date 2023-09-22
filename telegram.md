@@ -415,3 +415,4 @@
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|
 |https://t.me/DarkStormTeams|ONLINE|Dark Storm Team|
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive|
+|https://t.me/OBSERVERINFO|ONLINE|Logs aggregator|

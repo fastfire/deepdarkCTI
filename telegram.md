@@ -416,3 +416,4 @@
 |https://t.me/DarkStormTeams|ONLINE|Dark Storm Team|
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive|
 |https://t.me/OBSERVERINFO|ONLINE|Logs aggregator|
+|https://t.me/leaksdirectory|ONLINE|Leaks Directory|

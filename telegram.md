@@ -417,3 +417,4 @@
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive|
 |https://t.me/OBSERVERINFO|ONLINE|Logs aggregator|
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory|
+|https://t.me/+RxMyTFg9NYllZmU5|ONLINE|Waus Leaks|

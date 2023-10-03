@@ -160,6 +160,7 @@
 |[LOCKBIT 3.0 ("Leaked")](http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion)|ONLINE|||
 |[LOCKBIT 3.0 ("File Share")](http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion)|ONLINE|||
 |[LOCKBIT 3.0 ("Private Note")](http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion)|ONLINE|||
+|[LOCKBIT 3.0 ("Private Note")](http://lockbitsup4yezcd5enk5unncx3zcy7kw6wllyqmiyhvanjj352jayid.onion)|ONLINE|||
 |[LOCKBIT](http://lockbitkodidilol.onion)|OFFLINE|||
 |[LOCKFILE (Victims request ID page)](http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion)|OFFLINE||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB|
 |[LORENZ](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion)|ONLINE|||

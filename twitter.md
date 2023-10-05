@@ -14,6 +14,7 @@
 |https://twitter.com/PhishStats | Realtime phishing database & statistics |
 |https://twitter.com/powershellcode | Malware hunter & analyst |
 |https://twitter.com/pr0xylife | Emotet OSINT |
+|https://twitter.com/TMRansomMonitor | ThreatMon Ransomware Monitoring |
 |https://twitter.com/RdpSnitch | A bot who snitches on RDP Scanners, sharing IOC |
 |https://twitter.com/reecdeep | Malware Analyst | 
 |https://twitter.com/shadowchasing1 | APT IOC |

@@ -9,6 +9,7 @@
 |https://twitter.com/ecarlesi | Phishing IOC |
 |https://twitter.com/EmotetB | Emotet OSINT | 
 |https://twitter.com/executemalware | Malware hunter & analyst |
+|https://twitter.com/htmalgae | Security Researcher & Dark Net Pest |
 |https://twitter.com/JAMESWT_MHT | Malware Samples |
 |https://twitter.com/mojoesec | Cobalt Strike IOC |
 |https://twitter.com/PhishStats | Realtime phishing database & statistics |

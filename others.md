@@ -3,7 +3,7 @@
 |[185.149.41.46](http://185.149.41.46/)| ONLINE | |
 |[ALL WORLD CARDS](http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
 |[ANONLEAKS.LIVE](https://anonymousleaks.live)| ONLINE | |
-|[ANONLEAKS.XYZ](https://anonymousleaks.xyz)| ONLINE | |
+|[ANONLEAKS.XYZ](https://anonymousleaks.xyz)| OFFLINE | |
 |[BL4CKT0R](http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion)| ONLINE | |
 |[BREACHED DB](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion)| ONLINE | |
 |[BREACHED WIKI](https://breached.wiki)| ONLINE | |

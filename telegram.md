@@ -422,3 +422,4 @@
 |https://t.me/CyberAveng3rs|ONLINE|Cyber Aveng3rs|
 |https://t.me/AC3HCYBER|ONLINE|ACEH|
 |https://t.me/Killnet_Palestine|ONLINE|Killnet Palestina|
+|https://t.me/user_sec|ONLINE|UserSec Killnet Affiliated|

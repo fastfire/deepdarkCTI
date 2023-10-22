@@ -146,6 +146,7 @@
 |[RAMP (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion) | OFFLINE | |
 |[RAMP (Dark)](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion) | ONLINE | |
 |[RAMP (Deep)](https://ramp4u.io) | ONLINE | |
+|[RANSOMED](http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion) | ONLINE | |
 |[REVERSING](https://reversing.center) | ONLINE | |
 |[RF-CHEAT](https://www.rf-cheats.ru) | ONLINE | |
 |[RUTOR (Dark)](http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion)| ONLINE | |

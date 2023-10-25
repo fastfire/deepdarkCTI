@@ -54,7 +54,7 @@
 |[Genesis Market](https://genesis.market)| OFFLINE | | Put offline by FBI.
 |[Genesis Market](https://g3n3sis.pro)| OFFLINE | | Put offline by FBI.
 |[Genesis Market](https://g3n3sis.org)| OFFLINE | | Put offline by FBI.
-|[Genesis Market (Tor v3)](https://genesis7zoveavupiiwnrycmaq6uro3kn5h2be3el7wdnbjti2ln2wid.onion)| ONLINE | |
+|[Genesis Market (Tor v3)](https://genesis7zoveavupiiwnrycmaq6uro3kn5h2be3el7wdnbjti2ln2wid.onion)| OFFLINE | |
 |[HYDRA (Deep)](https://hydramarket.co)| ONLINE | |
 |[HYDRA (Tor v2)](http://hydra3rudf3j4hww.onion)| OFFLINE | |
 |[HYDRA (Tor v3)](http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion)| OFFLINE | |

@@ -110,7 +110,8 @@
 |[VICE CITY](http://vice3nwnin46cmmvg4j3wd3xguaaiwlwzxt2mxkd5ng6ougfcu4rdfid.onion)| ONLINE | |
 |[Wannabuy RDP](http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion)| ONLINE | |
 |[WAUS LEAKS](https://wausleaks.com)| OFFLINE | |
-|[WAUS LEAKS(news)](https://waus.io)| ONLINE | |
+|[WAUS LEAKS(new)](https://waus.io)| OFFLINE | |
+|[WAUS LEAKS(new)](http://waus.ninja)| ONLINE | |
 |[WHM market (1)](http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion)| OFFLINE | |
 |[WHM market (2)](http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion)| OFFLINE | |
 |[WINXXX (Dark)](http://cvvamoggrcopaeehscyic6xu3q5lbameo3kv3q3ptpfa5bsq2vrbjsad.onion)| ONLINE | |

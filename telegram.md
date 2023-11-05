@@ -424,3 +424,4 @@
 |https://t.me/Killnet_Palestine|ONLINE|Killnet Palestina|
 |https://t.me/user_sec|ONLINE|UserSec Killnet Affiliated|
 |https://t.me/dragonforceio|ONLINE|DragonForce Malaysia|
+|https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds|

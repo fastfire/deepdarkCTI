@@ -59,6 +59,7 @@
 |[BLACK SHADOW](http://544corkfh5hwhtn4.onion)|OFFLINE|||
 |[BLACK SUIT](http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion)|ONLINE|||
 |[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE|||
+|[Black Turtle](Extorsion via email)|ONLINE||blackturtle@sogou.cn.com|||
 |[Bl00dy Ransomware]()|||https://t.me/bl00dy_Ransomware_Gang||
 |[BONACI GROUP](http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion)|OFFLINE|||
 |[CACTUS](https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion)|ONLINE|||

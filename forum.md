@@ -69,6 +69,7 @@
 |[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| ONLINE | |
 |[DUBLIKAT.CLUB](https://at.dublikat.club)| ONLINE | |
 |[DUBLIKAT.PRO](https://my.dublikat.pro)| OFFLINE | |
+|[DUMPED](https://dumped.to)| ONLINE| |
 |[DUMPFORUMS (Deep)](https://dumpforums.to/)| ONLINE | |
 |[DUMPFORUMS (Dark)](http://cwtvplqgymm3kbzj7g2qijhpau4tcco52qwvkm66k357svomp5bw5eqd.onion/)| ONLINE | |
 |[DWF (Tor v2)](http://dwforumsmrcqdnt3.onion)| OFFLINE | |

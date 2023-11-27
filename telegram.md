@@ -1,36 +1,36 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
-|https://t.me/+6OJjr1dDbQw1NDli|ONLINE| RED HACKERS ALLIANCE |
+|https://t.me/+6OJjr1dDbQw1NDli|OFFLINE| RED HACKERS ALLIANCE |
 |https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
-|https://t.me/+8UWtFO9H_9dhODVk|ONLINE| 0x_dump alternative channel|
+|https://t.me/+8UWtFO9H_9dhODVk|OFFLINE| 0x_dump alternative channel|
 |https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|
 |https://t.me/+9P5FQ85afTc4NGNl|ONLINE| Goblin's Database |
 |https://t.me/+Bat9QqJcSuE0MTg1|ONLINE| AresLoader |
-|https://t.me/+eOtgrt4gB68wM2Qy|ONLINE| Atlantis Cyber Army A.I.G. - backup|
+|https://t.me/+eOtgrt4gB68wM2Qy|OFFLINE| Atlantis Cyber Army A.I.G. - backup|
 |https://t.me/+fcxhFl9JSRE3YTdi|ONLINE| HUBHEAD Logs|
 |https://t.me/+fR-06lKTQ_VmODA0|OFFLINE| Data Leaks |
 |https://t.me/+FuLjnRtP3BhiZDNl|ONLINE| Goblin's Hub (private) | 
-|https://t.me/+ghq2ayK6ybIwYmJi|ONLINE| voidy - database storage|
+|https://t.me/+ghq2ayK6ybIwYmJi|OFFLINE| voidy - database storage|
 |https://t.me/+GxHjaDP0bOphZjNh|ONLINE| 8BASE Chat Group |
 |https://t.me/+ipEzVrjM43NkODc0|ONLINE| AKATSUKI gang (Algerian Ministry breach) |
 |https://t.me/+IYBPSRVwk6k4ZTEy|OFFLINE| Atlantis Cyber Army A.I.G. |
 |https://t.me/+jCjbvdsUSJIzN2Vl|ONLINE| The Collective Sentinel|
 |https://t.me/+JMruw9EHhWtmYjc9|ONLINE| BlackDragonSec |
 |https://t.me/+nCFeH8PT-XUxZjEy|ONLINE| Data Leaks|
-|https://t.me/+NshXlCbUEZkxZDMy|ONLINE| Luffich Logs - Redline Stealer|
+|https://t.me/+NshXlCbUEZkxZDMy|OFFLINE| Luffich Logs - Redline Stealer|
 |https://t.me/+OZheKtZ368YxMDBl|ONLINE| Goblin's Free Logs |
 |https://t.me/+O7yT5lylY89lMTcy|ONLINE|TCG|
-|https://t.me/+paglZbHnhE8xMTA8|ONLINE| Adrastea Group|
-|https://t.me/+T0l1VDuQzDpjYWQ0|ONLINE| Data Leaks|
+|https://t.me/+paglZbHnhE8xMTA8|OFFLINE| Adrastea Group|
+|https://t.me/+T0l1VDuQzDpjYWQ0|OFFLINE| Data Leaks|
 |https://t.me/+uV_Lxf2uOHhkMjAy|ONLINE| Killnet Store Chat |
 |https://t.me/+Uxo9r92Ho5ZkYjdi|ONLINE| KILLNET |
 |https://t.me/+UYKtaIt6KFGlFwBJ|OFFLINE| VIP Config - configs, combos, etc |
 |https://t.me/+V_oM-vx0YnSN7nzH|ONLINE| Log Leaks Group|
 |https://t.me/+wlf3z9fVHqgzYzk1|OFFLINE| Darks chat|
-|https://t.me/+x9tlrn-DoOw0NmNl|ONLINE| Team BlackDragonSec |
+|https://t.me/+x9tlrn-DoOw0NmNl|OFFLINE| Team BlackDragonSec |
 |https://t.me/+xr2N5_kqYQE3ZDUy|ONLINE| Kingsman|
 |https://t.me/+y8c51prOz20wNWU0|OFFLINE|Solomon market place support|
-|https://t.me/+YhH_DjYUyYpmNDRi|ONLINE| Backup @HackGit channel|
+|https://t.me/+YhH_DjYUyYpmNDRi|OFFLINE| Backup @HackGit channel|
 |https://t.me/+yXOcSjVjI9tjM2E0|ONLINE|Medusa|
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group|
 |https://t.me/ACCOUNTSQUAD|ONLINE|Illicit Service Channel|
@@ -146,6 +146,7 @@
 |https://t.me/ddos_separ|ONLINE| DDoS Services |
 |https://t.me/ddossatmak|ONLINE| DDoS Services |
 |https://t.me/ddostm1|ONLINE| BlackObServers Channel (ddos team) |
+|https://t.me/DumpedOfficial|ONLINE|Dumped forum|
 |https://t.me/dumpforums|OFFLINE| Dump Forums |
 |https://t.me/DWI_OFFICIAL|OFFLINE| |
 |https://t.me/eaglecyberwashere|ONLINE|Eaglecyber|
@@ -157,7 +158,7 @@
 |https://t.me/expertsa11m|ONLINE| Logs Market |
 |https://t.me/expertsa11m|ONLINE| Logs|
 |https://t.me/exploit_db_com|OFFLINE| Exploits |
-|https://t.me/exposedannouncements|ONLINE|Exposed Forum|
+|https://t.me/exposedannouncements|OFFLINE|Exposed Forum|
 |https://t.me/fatecloud|ONLINE| Fatecloud Logs|
 |https://t.me/flannels|ONLINE| Market |
 |https://t.me/fr33d4t4|ONLINE| Fr33 d4t4 - stolen redline from other channels|
@@ -181,7 +182,7 @@
 |https://t.me/hackgit|ONLINE| Offensive Security
 |https://t.me/hackingtoolsprvi8|ONLINE| Leaks |
 |https://t.me/hadesh0p|ONLINE| |
-|https://t.me/hellokittyleaks|ONLINE| Data Leaks |
+|https://t.me/hellokittyleaks|OFFLINE| Data Leaks |
 |https://t.me/hgn01_ru|ONLINE| Data Leaks |
 |https://t.me/hidden_links|ONLINE| Hidden Links |
 |https://t.me/HK4GANG|ONLINE| |
@@ -211,7 +212,7 @@
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig|ONLINE| Forum |
 |https://t.me/joinchat/aLzjwn_93JtkMDA8|ONLINE| Logs Market|
 |https://t.me/joinchat/Cyv2m5zFE6JmMjVi|ONLINE| Logs |
-|https://t.me/joinchat/VBAj4Hc6Xki5lG_H|ONLINE| Data Leaks |
+|https://t.me/joinchat/VBAj4Hc6Xki5lG_H|OFFLINE| Data Leaks |
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|ONLINE| |
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0|ONLINE| Data Leaks |
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|ONLINE| |
@@ -225,7 +226,7 @@
 |https://t.me/killnet_reservs|ONLINE|Killnet reservs|
 |https://t.me/KillnetChatLATAM|ONLINE|KillnetLATAM chat|
 |https://t.me/KILLNETddos|ONLINE| Killnet DDoS |
-|https://t.me/KillnetLATAM|ONLINE|KillneLATAM channel|
+|https://t.me/KillnetLATAM|OFFLINE|KillneLATAM channel|
 |https://t.me/Killneto|ONLINE|Killnet Officiale (with invites for closed channel)
 |https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider|
 |https://t.me/Kristina_Pass_RF|OFFLINE| Data Leaks, Passport Scans|
@@ -261,7 +262,7 @@
 |https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
 |https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider|
 |https://t.me/MaillAccessTop|OFFLINE| Data Leaks |
-|https://t.me/mailpassclub|ONLINE| |
+|https://t.me/mailpassclub|OFFLINE| |
 |https://t.me/mailpasword|OFFLINE| |
 |https://t.me/MalwareLogs|ONLINE| Logs |
 |https://t.me/marketo_leaks|ONLINE| Data Leaks|
@@ -317,7 +318,7 @@
 |https://t.me/shadowleakss|OFFLINE|ShadowHacker Leaks|
 |https://t.me/shieldteam1|ONLINE| |
 |https://t.me/ShizoPrivacy|ONLINE| 0% Privacy|
-|https://t.me/SiegedSec|ONLINE| Sieged Sec|
+|https://t.me/SiegedSec|OFFLINE| Sieged Sec|
 |https://t.me/silentplug666|ONLINE| Market |
 |https://t.me/Sl1ddifree|ONLINE|Sl1ddi CLOUD FREE LOGS|
 |https://t.me/slivaidlocker|ONLINE| AiDLocker Group Data Leaks Channel|
@@ -354,7 +355,7 @@
 |https://t.me/weleakdatabase|OFFLINE| Data Leaks |
 |https://t.me/WillieCloudFreeLogs|OFFLINE| Willie Cloud Redline Leaks |
 |https://t.me/windmarketo|ONLINE| Data Leaks |
-|https://t.me/WLDBackup|ONLINE| Data Leaks |
+|https://t.me/WLDBackup|OFFLINE| Data Leaks |
 |https://t.me/worldwidelogs|ONLINE| Data Leaks |
 |https://t.me/wwhsmi|ONLINE| WWH Forum |
 |https://t.me/x7seller|ONLINE|X7Root Seller|
@@ -371,21 +372,21 @@
 |https://t.me/TigerElectronicUnit|ONLINE|Electronic Tigers Unit |
 |https://t.me/ndtgroup_kh|OFFLINE| |
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| |
-|https://t.me/anoncambodia|ONLINE| |
+|https://t.me/anoncambodia|OFFLINE| |
 |https://t.me/INDIAN_CYBER_FORCE|ONLINE| |
 |https://t.me/vulzsec_official|ONLINE| |
 |https://t.me/dontleakmydata|OFFLINE|DontLeakMyData|
 |https://t.me/blackvaultcc|ONLINE|Blackvault|
 |https://t.me/ExploitService|ONLINE|Exploit Service|
 |https://t.me/shadowleakss|ONLINE|Shadow Leaks|
-|https://t.me/awsleaks|ONLINE|AWS Leaks|
+|https://t.me/awsleaks|OFFLINE|AWS Leaks|
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|
 |https://t.me/GhostSecS|ONLINE|GhostSec Service|
 |https://t.me/CyberCatChat|ONLINE|Cyber Cat chat|
 |https://t.me/KryptonNetworks|ONLINE|Krypton|
 |https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat|
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel|
-|https://t.me/net_worker_alliance|ONLINE|Net Worker Alliance|
+|https://t.me/net_worker_alliance|OFFLINE|Net Worker Alliance|
 |https://t.me/ThreatSec|ONLINE|ThreatSec|
 |https://t.me/LummaC2Stealer|ONLINE|LummaC2 Stealer|
 |https://t.me/LummaC2Team|ONLINE|LummaC2 Stealer Chat|
@@ -426,4 +427,3 @@
 |https://t.me/dragonforceio|ONLINE|DragonForce Malaysia|
 |https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds|
 |https://t.me/weedforumslol|ONLINE|WeedSec|
-|https://t.me/DumpedOfficial|Dumped forum|

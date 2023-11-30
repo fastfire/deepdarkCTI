@@ -427,3 +427,4 @@
 |https://t.me/dragonforceio|ONLINE|DragonForce Malaysia|
 |https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds|
 |https://t.me/weedforumslol|OFFLINE|WeedSec|
+|https://t.me/cookieslog/|ONLINE|cookies,logs url:email:pass|

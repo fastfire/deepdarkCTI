@@ -35,6 +35,7 @@
 |[COOKIEPRO](https://coockie.pro)| ONLINE | |
 |[CRACKED](https://cracked.io)| ONLINE | |
 |[CRACKING KING](https://crackingking.com)| OFFLINE | |
+|[CRACKING MAFIA](https://crackingmafia.is)| ONLINE | |
 |[CRACKING PRO](https://www.crackingpro.com)| ONLINE | |
 |[CRACKING X](https://crackingx.com)| ONLINE | |
 |[CRAX PRO](https://crax.pro)| OFFLINE | |

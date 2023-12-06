@@ -94,7 +94,7 @@
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/club1337|ONLINE|
 |https://t.me/combo2021|ONLINE| Combo List|
-|https://t.me/combo_listt|ONLINE| Combo List |
+|https://t.me/combo_listt|OFFLINE| Combo List |
 |https://t.me/combo_offensive|ONLINE| Combo List |
 |https://t.me/Combolistfresh|ONLINE| Combo List|
 |https://t.me/combosgrupoplex|ONLINE| Combo List |
@@ -105,7 +105,7 @@
 |https://t.me/cpartisans|ONLINE| Кибер-Партизаны (Cyber Partisans) |
 |https://t.me/crackcodes|ONLINE| Data Leaks |
 |https://t.me/CrackerConfigs|ONLINE| Configs, Combos |
-|https://t.me/Crackers_Club|ONLINE| Configs, Combos |
+|https://t.me/Crackers_Club|OFFLINE| Configs, Combos |
 |https://t.me/Craxpro_Channel|ONLINE|Cracking, spamming, carding|
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
 |https://t.me/crewcomboteams|OFFLINE| Crew Combo Teams|

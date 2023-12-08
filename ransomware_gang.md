@@ -255,6 +255,7 @@
 |[RRANSOM (Victims page)](http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form)|OFFLINE|||
 |[SEKHMET](http://sekhmet.top)|OFFLINE|||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE|||
+|[SIEGEDSEC](http://nv5p2mmpctvyqdyyi5zwh4gnifq2uxdx4etvnmaheqlrw6ordrjwxryd.onion)|ONLINE|||
 |[SNATCH (Deep)](https://snatch.press)|OFFLINE||https://t.me/snatch_info|
 |[SNATCH (Deep)](http://snatch.vip)|OFFLINE||https://t.me/snatch_info|
 |[SNATCH (Deep)](https://snatchnews.top/)|ONLINE||https://t.me/snatch_info|

@@ -428,3 +428,4 @@
 |https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds|
 |https://t.me/weedforumslol|OFFLINE|WeedSec|
 |https://t.me/SiegedSecurity|ONLINE|SiegedSec|
+|https://t.me/malek_team1|ONLINE|MalekTeam|

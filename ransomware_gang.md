@@ -171,7 +171,7 @@
 |[LV (2)](http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion)|OFFLINE|||
 |[MADCAT RANSOM](http://i2gc52bwm2vu2wnohwi3cli7t7hj3y2q7qj3th2bs64h2eej7z5jcgqd.onion) |ONLINE||@MadCatRansom|
 |[MALAS](http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion)|ONLINE|||
-|[MALEK TEAM](https://malekteam.ac)|ONLINE|||
+|[MALEKTEAM](https://malekteam.ac)|ONLINE||https://twitter.com/malekteam2|
 |[MALLOX](http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion)|ONLINE|||
 |[MARKETO (Deep)](https://marketo.cloud)|OFFLINE|||
 |[MARKETO (Tor v2)](http://g5sbltooh2okkcb2.onion)|OFFLINE|||

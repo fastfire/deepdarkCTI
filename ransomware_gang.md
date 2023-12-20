@@ -290,6 +290,7 @@
 |[VICE SOCIETY](http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion)|ONLINE|||
 |[VICE SOCIETY](http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion)|ONLINE|||
 |[VSOP (ex ONIX)](http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion)|OFFLINE|||
+|[WEREWOLVES GROUP](https://werewolves.pro/en/)|ONLINE|||
 |WIPER LEAK (only on Discord)|ONLINE||https://discord.com/invite/jjZQdDNnGh||
 |[X001XS](http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion)|ONLINE|||
 |[XING LOCKER](http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion)|OFFLINE|||

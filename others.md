@@ -44,5 +44,5 @@
 |[UKRAINE LEAK](http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion)| ONLINE | |
 |[VISITOR SEARCH ENGINE](http://visitorfi5kl7q7i.onion)| OFFLINE | |
 |[VXVAULT](http://vxvault.net/ViriList.php)| ONLINE | |
-|[ZONE-H](https://www.zone-h.org)| ONLINE | |
 |[VX-Underground](https://www.vx-underground.org/#E:/root)| ONLINE | |
+|[TELEGRAM FRAUDSTER GLOSSARY](https://docs.google.com/spreadsheets/d/1-ICFqnnm0DryaVfCdp7NwleGG03pJorT63bEMPBmji8/htmlview)| ONLINE | |

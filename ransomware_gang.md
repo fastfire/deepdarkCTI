@@ -24,7 +24,8 @@
 |[Akira (Victims request ID page)](https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion/)|ONLINE|||
 |[AKO](http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion)|OFFLINE|||
 |[ALPHV (aka BlackCat 1)](http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion)|OFFLINE||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC|
-|[ALPHV (aka BlackCat 2)](http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion)|ONLINE|||
+|[ALPHV (aka BlackCat 2)](http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion)|OFFLINE|||
+|[ALPHV (aka BlackCat 2)](http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion)|ONLINE|||
 |[ALPHV (collection data leaks)](http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion)|ONLINE|||
 |[ARVIN](http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion)|OFFLINE||http://t.me/arvin_club|
 |[ARVIN](http://xxz6hl6wwoa25er62tbjdxda4nxyt5iqziavb73mhda6q6zujsgfoxqd.onion)|OFFLINE||||
@@ -268,7 +269,9 @@
 |[SPARTA](http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion)|OFFLINE|||
 |[SPOOK DATA](http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog)|OFFLINE|||YES|
 |[STORMOUS](http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion)|OFFLINE||https://t.me/STORMOUS_HACKER https://t.me/STORMOUSS||
-|[STORMOUS](http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion)|ONLINE|||
+|[STORMOUS](http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion)|OFFLINE|||
+|[STORMOUS](http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion)|ONLINE|||
+|[STORMOUS](http://ransekgbpijp56bflufgxptwn5hej2rztx423v6sim2zrzz7xetnr2qd.onion)|ONLINE|||
 |[SUGAR (Victims page)](http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data=)|OFFLINE|||
 |[SUGAR (Deep)](https://sugarpanel.space/advauth_ffma)|OFFLINE|||
 |[SUNCRYPT (Tor v2)](http://nbzzb6sa6xuura2z.onion)|OFFLINE|||
@@ -289,6 +292,7 @@
 |[VICE SOCIETY](http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion)|ONLINE|||
 |[VICE SOCIETY](http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion)|ONLINE|||
 |[VSOP (ex ONIX)](http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion)|OFFLINE|||
+|[WEREWOLVES GROUP](https://werewolves.pro/en/)|ONLINE|||
 |WIPER LEAK (only on Discord)|ONLINE||https://discord.com/invite/jjZQdDNnGh||
 |[X001XS](http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion)|ONLINE|||
 |[XING LOCKER](http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion)|OFFLINE|||

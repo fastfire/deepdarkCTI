@@ -429,27 +429,8 @@
 |https://t.me/weedforumslol|OFFLINE|WeedSec|
 |https://t.me/SiegedSecurity|ONLINE|SiegedSec|
 |https://t.me/malek_team1|ONLINE|MalekTeam|
-|https://t.me/breachdetector|ONLINE| Data Leak Monitor |
-|https://t.me/the_archivists_domain|ONLINE|The Archivists Domain|
-|https://t.me/SqlDumps|ONLINE|Database - Leaked, Download!|
-|https://t.me/asdcloud|ONLINE|Combo List|
-|https://t.me/atlantiscyberarmy|ONLINE|Atlantis - CyberArmy - A.I.G|
-|https://t.me/atw2022|ONLINE|Against The West|
-|https://t.me/banklogplug2|ONLINE|bank logplug|
-|https://t.me/ThreatSec|ONLINE|ThreatSec|
-|https://t.me/GhostSecc||GhostSec|
-|https://t.me/SkiddieSec|ONLINE|SkidSec Leaks|
-|https://t.me/MysteriousTeam0|ONLINE|Mysterious Team Bangladesh|
-|https://t.me/leakbase_official|ONLINE|🔻Leakbase Official|
-|https://t.me/leakbase_cc|ONLINE|Leakbase.cc|
-|https://t.me/collectiondatabase_reborn_two|ONLINE|DataBaseCollection|
-|https://t.me/WeLeak_Database|ONLINE|Leak Breached Database|
-|https://t.me/database_Private|ONLINE|Database Military private limited|
-|https://t.me/cloudata_free_databases|ONLINE|Cloudata FREE Databases ComboLists  Бесплатные базы для брута|
-|https://t.me/mail_bases|ONLINE|Databases. Email base.|
-|https://t.me/actualdb|ONLINE|БАЗЫ ДАННЫХEMAIL, ТЕЛЕФОНЫ, АДРЕСА DATABASE|
-|https://t.me/privateteam_channel|ONLINE|PrivateTeam Free Cloud|
-|https://t.me/dailycombos|ONLINE|Daily Combolist|
-|https://t.me/Combolist_TXT_2|ONLINE|COMBOLIST TXT|
-|https://t.me/emp_name|ONLINE|EMP Group (EMailPass)|
-|https://t.me/ComboPrX|ONLINE|ComboList PrX | Channel|
+|https://t.me/Phorcy| ONLINE |Phorcy Stealer| 
+|https://t.me/mailaccesscrack|ONLINE|Combo Lists|
+|https://t.me/bidencashfreecvv|ONLINE|BidenCash CVV [ANTIPUBLIC]|
+|https://t.me/D7BBUK|ONLINE|D7BBUK|
+|https://t.me/joinchat/xr2N5_kqYQE3ZDUy|ONLINE|Kingsman|

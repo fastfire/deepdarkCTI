@@ -429,8 +429,8 @@
 |https://t.me/weedforumslol|OFFLINE|WeedSec|
 |https://t.me/SiegedSecurity|ONLINE|SiegedSec|
 |https://t.me/malek_team1|ONLINE|MalekTeam|
-|https://t.me/Phorcy|Phorcy Stealer|
-|https://t.me/mailaccesscrack|Combo Lists|
-|https://t.me/bidencashfreecvv|BidenCash CVV [ANTIPUBLIC]|
-|https://t.me/D7BBUK|D7BBUK|
-|https://t.me/joinchat/xr2N5_kqYQE3ZDUy|Kingsman|
+|https://t.me/Phorcy| ONLINE |Phorcy Stealer| 
+|https://t.me/mailaccesscrack|ONLINE|Combo Lists|
+|https://t.me/bidencashfreecvv|ONLINE|BidenCash CVV [ANTIPUBLIC]|
+|https://t.me/D7BBUK|ONLINE|D7BBUK|
+|https://t.me/joinchat/xr2N5_kqYQE3ZDUy|ONLINE|Kingsman|

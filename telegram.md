@@ -69,6 +69,8 @@
 |https://t.me/boosty66brvte|ONLINE| Data Leaks |
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
 |https://t.me/bradmax_cloud|ONLINE| Redline and Raccoon Data Logs |
+|https://t.me/R00TK1TDB|ONLINE| R00tk1t DB |
+|https://t.me/R00TK1TOFF |ONLINE| R00tk1t Cyber Team |
 |https://t.me/breachdetector|ONLINE|
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor|
 |https://t.me/BreachedData|ONLINE| Data Leaks |

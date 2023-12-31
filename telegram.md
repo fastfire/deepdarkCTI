@@ -440,3 +440,4 @@
 |https://t.me/win_def|Windef|
 |https://t.me/user_sec|UserSec|
 |https://t.me/justice_homeland|Homeland Justice|
+|https://t.me/QuartzSec|QuartzSec|

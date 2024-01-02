@@ -1,37 +1,37 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
-|https://t.me/+6OJjr1dDbQw1NDli|OFFLINE| RED HACKERS ALLIANCE |
-|https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
-|https://t.me/+8UWtFO9H_9dhODVk|OFFLINE| 0x_dump alternative channel|
-|https://t.me/+9ETFYLy5Tc1lNzBh|ONLINE|Ares private channel|
-|https://t.me/+9P5FQ85afTc4NGNl|ONLINE| Goblin's Database |
-|https://t.me/+Bat9QqJcSuE0MTg1|ONLINE| AresLoader |
-|https://t.me/+eOtgrt4gB68wM2Qy|OFFLINE| Atlantis Cyber Army A.I.G. - backup|
-|https://t.me/+fcxhFl9JSRE3YTdi|ONLINE| HUBHEAD Logs|
-|https://t.me/+fR-06lKTQ_VmODA0|OFFLINE| Data Leaks |
-|https://t.me/+FuLjnRtP3BhiZDNl|ONLINE| Goblin's Hub (private) | 
-|https://t.me/+ghq2ayK6ybIwYmJi|OFFLINE| voidy - database storage|
-|https://t.me/+GxHjaDP0bOphZjNh|ONLINE| 8BASE Chat Group |
-|https://t.me/+ipEzVrjM43NkODc0|ONLINE| AKATSUKI gang (Algerian Ministry breach) |
-|https://t.me/+IYBPSRVwk6k4ZTEy|OFFLINE| Atlantis Cyber Army A.I.G. |
-|https://t.me/+jCjbvdsUSJIzN2Vl|ONLINE| The Collective Sentinel|
-|https://t.me/+JMruw9EHhWtmYjc9|ONLINE| BlackDragonSec |
-|https://t.me/+nCFeH8PT-XUxZjEy|ONLINE| Data Leaks|
-|https://t.me/+NshXlCbUEZkxZDMy|OFFLINE| Luffich Logs - Redline Stealer|
-|https://t.me/+OZheKtZ368YxMDBl|ONLINE| Goblin's Free Logs |
-|https://t.me/+O7yT5lylY89lMTcy|ONLINE|TCG|
-|https://t.me/+paglZbHnhE8xMTA8|OFFLINE| Adrastea Group|
-|https://t.me/+T0l1VDuQzDpjYWQ0|OFFLINE| Data Leaks|
-|https://t.me/+uV_Lxf2uOHhkMjAy|ONLINE| Killnet Store Chat |
-|https://t.me/+Uxo9r92Ho5ZkYjdi|ONLINE| KILLNET |
-|https://t.me/+UYKtaIt6KFGlFwBJ|OFFLINE| VIP Config - configs, combos, etc |
-|https://t.me/+V_oM-vx0YnSN7nzH|ONLINE| Log Leaks Group|
-|https://t.me/+wlf3z9fVHqgzYzk1|OFFLINE| Darks chat|
-|https://t.me/+x9tlrn-DoOw0NmNl|OFFLINE| Team BlackDragonSec |
-|https://t.me/+xr2N5_kqYQE3ZDUy|ONLINE| Kingsman|
-|https://t.me/+y8c51prOz20wNWU0|OFFLINE|Solomon market place support|
-|https://t.me/+YhH_DjYUyYpmNDRi|OFFLINE| Backup @HackGit channel|
-|https://t.me/+yXOcSjVjI9tjM2E0|ONLINE|Medusa|
+|https://t.me/+6OJjr1dDbQw1NDli|EXPIRED| RED HACKERS ALLIANCE |
+|https://t.me/+8DxOrHQdrzw1ZjUy|VALID| GODELESS CLOUD Botnet Logs|
+|https://t.me/+8UWtFO9H_9dhODVk|EXPIRED| 0x_dump alternative channel|
+|https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel|
+|https://t.me/+9P5FQ85afTc4NGNl|VALID| Goblin's Database |
+|https://t.me/+Bat9QqJcSuE0MTg1|VALID| AresLoader |
+|https://t.me/+eOtgrt4gB68wM2Qy|EXPIRED| Atlantis Cyber Army A.I.G. - backup|
+|https://t.me/+fcxhFl9JSRE3YTdi|VALID| HUBHEAD Logs|
+|https://t.me/+fR-06lKTQ_VmODA0|EXPIRED| Data Leaks |
+|https://t.me/+FuLjnRtP3BhiZDNl|VALID| Goblin's Hub (private) | 
+|https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED| voidy - database storage|
+|https://t.me/+GxHjaDP0bOphZjNh|VALID| 8BASE Chat Group |
+|https://t.me/+ipEzVrjM43NkODc0|VALID| AKATSUKI gang (Algerian Ministry breach) |
+|https://t.me/+IYBPSRVwk6k4ZTEy|EXPIRED| Atlantis Cyber Army A.I.G. |
+|https://t.me/+jCjbvdsUSJIzN2Vl|VALID| The Collective Sentinel|
+|https://t.me/+JMruw9EHhWtmYjc9|VALID| BlackDragonSec |
+|https://t.me/+nCFeH8PT-XUxZjEy|VALID| Data Leaks|
+|https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
+|https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
+|https://t.me/+O7yT5lylY89lMTcy|VALID|TCG|
+|https://t.me/+paglZbHnhE8xMTA8|EXPIRED| Adrastea Group|
+|https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED| Data Leaks|
+|https://t.me/+uV_Lxf2uOHhkMjAy|VALID| Killnet Store Chat |
+|https://t.me/+Uxo9r92Ho5ZkYjdi|EXPIRED| KILLNET |
+|https://t.me/+UYKtaIt6KFGlFwBJ|EXPIRED| VIP Config - configs, combos, etc |
+|https://t.me/+V_oM-vx0YnSN7nzH|VALID| Log Leaks Group|
+|https://t.me/+wlf3z9fVHqgzYzk1|EXPIRED| Darks chat|
+|https://t.me/+x9tlrn-DoOw0NmNl|EXPIRED| Team BlackDragonSec |
+|https://t.me/+xr2N5_kqYQE3ZDUy|VALID| Kingsman|
+|https://t.me/+y8c51prOz20wNWU0|EXPIRED|Solomon market place support|
+|https://t.me/+YhH_DjYUyYpmNDRi|EXPIRED| Backup @HackGit channel|
+|https://t.me/+yXOcSjVjI9tjM2E0|VALID|Medusa|
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group|
 |https://t.me/ACCOUNTSQUAD|ONLINE|Illicit Service Channel|
 |https://t.me/aidlock/|ONLINE| AiDLocker group channel|
@@ -65,7 +65,7 @@
 |https://t.me/blackshadowhackers|OFFLINE| Blackshadow Hackers |
 |https://t.me/Blank_Link|OFFLINE|
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet
-|https://t.me/blueteamzone|ONLINE|
+|https://t.me/blueteamzone|OFFLINE|
 |https://t.me/boosty66brvte|ONLINE| Data Leaks |
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
 |https://t.me/bradmax_cloud|ONLINE| Redline and Raccoon Data Logs |
@@ -73,12 +73,12 @@
 |https://t.me/R00TK1TOFF |ONLINE| R00tk1t Cyber Team |
 |https://t.me/breachdetector|ONLINE|
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor|
-|https://t.me/BreachedData|ONLINE| Data Leaks |
+|https://t.me/BreachedData|OFFLINE| Data Leaks |
 |https://t.me/BreachedDB|OFFLINE| Data Leaks |
 |https://t.me/BreachedDiscussion|OFFLINE| Data Leaks |
 |https://t.me/bugatti_cloud|ONLINE| Bugatti Cloud Redline Stealer|
 |https://t.me/Bust3d|ONLINE| волчья свалка|
-|https://t.me/c/1228309110/7662|ONLINE| Ddosia project chat|
+|https://t.me/c/1228309110/7662|PRIVATE| Ddosia project chat|
 |https://t.me/c0xCee|OFFLINE| Data Leaks |
 |https://t.me/canyoupwnme|ONLINE| News |
 |https://t.me/cas_files|ONLINE| Data Leaks |
@@ -208,17 +208,17 @@
 |https://t.me/itarmyofukraine2022|ONLINE| |
 |https://t.me/itsecalert|ONLINE| News |
 |https://t.me/jester_stealer_channel|ONLINE| Jester Stealer Channel |
-|https://t.me/joinchat/8yMjCnT06ytjNzQx|ONLINE| |
-|https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|ONLINE|Large Hacking Group|
-|https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|ONLINE| |
-|https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig|ONLINE| Forum |
-|https://t.me/joinchat/aLzjwn_93JtkMDA8|ONLINE| Logs Market|
-|https://t.me/joinchat/Cyv2m5zFE6JmMjVi|ONLINE| Logs |
-|https://t.me/joinchat/VBAj4Hc6Xki5lG_H|OFFLINE| Data Leaks |
-|https://t.me/joinchat/WCSE2vgon6IYGLgz|ONLINE| |
-|https://t.me/joinchat/YHUDj7dEmNE1NWQ0|ONLINE| Data Leaks |
-|https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|ONLINE| |
-|https://t.me/joinchat/ZST8YodAuzo2NGVk|ONLINE|Logs Market|
+|https://t.me/joinchat/8yMjCnT06ytjNzQx|VALID| |
+|https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|VALID|Large Hacking Group|
+|https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|VALID| |
+|https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig|VALID| Forum |
+|https://t.me/joinchat/aLzjwn_93JtkMDA8|VALID| Logs Market|
+|https://t.me/joinchat/Cyv2m5zFE6JmMjVi|VALID| Logs |
+|https://t.me/joinchat/VBAj4Hc6Xki5lG_H|EXPIRED| Data Leaks |
+|https://t.me/joinchat/WCSE2vgon6IYGLgz|VALID| |
+|https://t.me/joinchat/YHUDj7dEmNE1NWQ0|EXPIRED| Data Leaks |
+|https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|VALID| |
+|https://t.me/joinchat/ZST8YodAuzo2NGVk|VALID|Logs Market|
 |https://t.me/joker_reborn|ONLINE| Joker Reborn Redline Stealer |
 |https://t.me/JustAn0x|OFFLINE| Data Leaks |
 |https://t.me/karakurt_news|ONLINE| Karakurt|
@@ -370,7 +370,7 @@
 |https://t.me/zerodayforums|ONLINE| ZeroDay Forums |
 |https://t.me/StarLinkCloud|ONLINE| STARLINK[CLOUD] Logs |
 |https://t.me/ArenaCloudFree|ONLINE| Arena Cloud Free Logs |
-|https://t.me/+7VXL5Gy9NUc1YzFl|ONLINE| Darknet chat|
+|https://t.me/+7VXL5Gy9NUc1YzFl|VALID| Darknet chat|
 |https://t.me/TigerElectronicUnit|ONLINE|Electronic Tigers Unit |
 |https://t.me/ndtgroup_kh|OFFLINE| |
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| |
@@ -393,12 +393,12 @@
 |https://t.me/LummaC2Stealer|ONLINE|LummaC2 Stealer|
 |https://t.me/LummaC2Team|ONLINE|LummaC2 Stealer Chat|
 |https://t.me/CyberAv3ngers|ONLINE|Cyber Av3ngers|
-|https://t.me/+DLb_tfrPeE4wNDM8|ONLINE|Biskooit Pedar|
-|https://t.me/+E0eng43CkZowMTdl|OFFLINE|BF Repo V3 Files|
+|https://t.me/+DLb_tfrPeE4wNDM8|VALID|Biskooit Pedar|
+|https://t.me/+E0eng43CkZowMTdl|EXPIRED|BF Repo V3 Files|
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat|
-|https://t.me/+LZQBX9ml0Qk3YWFl|ONLINE|BF Repo V3 Chat|
-|https://t.me/+YRLqvlnUI84zNzZl|ONLINE|BF Repo V3 Files|
-|https://t.me/+_d-aW--RLXszYmU0|ONLINE|Openbullet Config Service|
+|https://t.me/+LZQBX9ml0Qk3YWFl|VALID|BF Repo V3 Chat|
+|https://t.me/+YRLqvlnUI84zNzZl|VALID|BF Repo V3 Files|
+|https://t.me/+_d-aW--RLXszYmU0|VALID|Openbullet Config Service|
 |https://t.me/NewBlood_Project|ONLINE|New Blood Project|
 |https://t.me/cristallineforum|ONLINE|Cristalline Forum|
 |https://t.me/kittensec|ONLINE|KittenSec|
@@ -413,31 +413,31 @@
 |https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches|
 |https://t.me/MalwareForums|ONLINE|Malware Forums|
 |https://t.me/anzu_team|ONLINE|Anzu Team|
-|https://t.me/+eRl4m-fdPl8yZTUx|ONLINE|Snatch channel|
+|https://t.me/+eRl4m-fdPl8yZTUx|VALID|Snatch channel|
 |https://t.me/turkhckteam|ONLINE|Turk Hack Team|
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|
 |https://t.me/DarkStormTeams|ONLINE|Dark Storm Team|
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive|
 |https://t.me/OBSERVERINFO|ONLINE|Logs aggregator|
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory|
-|https://t.me/+RxMyTFg9NYllZmU5|ONLINE|Waus Leaks|
+|https://t.me/+RxMyTFg9NYllZmU5|VALID|Waus Leaks|
 |https://t.me/SiegedSecc|OFFLINE|SiegedSec|
 |https://t.me/CyberAveng3rs|ONLINE|Cyber Aveng3rs|
 |https://t.me/AC3HCYBER|ONLINE|ACEH|
-|https://t.me/Killnet_Palestine|ONLINE|Killnet Palestina|
+|https://t.me/Killnet_Palestine|OFFLINE|Killnet Palestina|
 |https://t.me/user_sec|ONLINE|UserSec Killnet Affiliated|
 |https://t.me/dragonforceio|ONLINE|DragonForce Malaysia|
 |https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds|
 |https://t.me/weedforumslol|OFFLINE|WeedSec|
 |https://t.me/SiegedSecurity|ONLINE|SiegedSec|
 |https://t.me/malek_team1|ONLINE|MalekTeam|
-|https://t.me/Phorcy|Phorcy Stealer|
-|https://t.me/mailaccesscrack|Combo Lists|
-|https://t.me/bidencashfreecvv|BidenCash CVV [ANTIPUBLIC]|
-|https://t.me/D7BBUK|D7BBUK|
-|https://t.me/joinchat/xr2N5_kqYQE3ZDUy|Kingsman|
-|https://t.me/CyberToufanBackup|CyberToufan|
-|https://t.me/win_def|Windef|
-|https://t.me/user_sec|UserSec|
-|https://t.me/justice_homeland|Homeland Justice|
-|https://t.me/QuartzSec|QuartzSec|
+|https://t.me/Phorcy|ONLINE|Phorcy Stealer|
+|https://t.me/mailaccesscrack|ONLINE|Combo Lists|
+|https://t.me/bidencashfreecvv|ONLINE|BidenCash CVV [ANTIPUBLIC]|
+|https://t.me/D7BBUK|ONLINE|D7BBUK|
+|https://t.me/joinchat/xr2N5_kqYQE3ZDUy|VALID|Kingsman|
+|https://t.me/CyberToufanBackup|ONLINE|CyberToufan|
+|https://t.me/win_def|ONLINE|Windef|
+|https://t.me/user_sec|ONLINE|UserSec|
+|https://t.me/justice_homeland|ONLINE|Homeland Justice|
+|https://t.me/QuartzSec|ONLINE|QuartzSec|

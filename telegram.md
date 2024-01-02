@@ -430,7 +430,7 @@
 |https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds|
 |https://t.me/weedforumslol|OFFLINE|WeedSec|
 |https://t.me/SiegedSecurity|ONLINE|SiegedSec|
-|https://t.me/malek_team1|ONLINE|MalekTeam|
+|https://t.me/malek_team1|OFFLINE|MalekTeam|
 |https://t.me/Phorcy|ONLINE|Phorcy Stealer|
 |https://t.me/mailaccesscrack|ONLINE|Combo Lists|
 |https://t.me/bidencashfreecvv|ONLINE|BidenCash CVV [ANTIPUBLIC]|

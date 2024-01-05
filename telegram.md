@@ -442,3 +442,4 @@
 |https://t.me/justice_homeland|ONLINE|Homeland Justice|
 |https://t.me/QuartzSec|ONLINE|QuartzSec|
 |https://t.me/APTANALYSIS|Exploits|
+|https://t.me/Leak_23andme|23andme Leak Database|

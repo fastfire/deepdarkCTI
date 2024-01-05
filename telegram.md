@@ -441,5 +441,5 @@
 |https://t.me/user_sec|ONLINE|UserSec|
 |https://t.me/justice_homeland|ONLINE|Homeland Justice|
 |https://t.me/QuartzSec|ONLINE|QuartzSec|
-|https://t.me/APTANALYSIS|Exploits|
-|https://t.me/Leak_23andme|23andme Leak Database|
+|https://t.me/APTANALYSIS|ONLINE|Exploits|
+|https://t.me/Leak_23andme|ONLINE|23andme Leak Database|

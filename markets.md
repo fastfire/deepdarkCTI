@@ -1,8 +1,8 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
-|[0-DAY](https://0-day.shop)| ONLINE | |
+|[0-DAY](https://0-day.shop)| OFFLINE | |
 |[2EASY](https://2easy.shop)| OFFLINE | |
-|[2EASY](https://2easy.cc)| ONLINE | |
+|[2EASY](https://2easy.cc)| OFFLINE | |
 |[ALLWORLDCARDS](https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
 |[AlphaBay (Dark i2p)](tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p)| ONLINE | |
 |[AlphaBay (Dark Tor)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion)| ONLINE | |

@@ -443,3 +443,4 @@
 |https://t.me/QuartzSec|ONLINE|QuartzSec|
 |https://t.me/APTANALYSIS|ONLINE|Exploits|
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database|
+|https://t.me/kiborg_leak|ONLINT|Kiborg Leak (Alphabank)|

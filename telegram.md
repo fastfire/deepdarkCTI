@@ -444,3 +444,4 @@
 |https://t.me/APTANALYSIS|ONLINE|Exploits|
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database|
 |https://t.me/kiborg_leak|ONLINT|Kiborg Leak (Alphabank)|
+|https://t.me/ransomblackbit30|Lockbit 3.0 Main.js|

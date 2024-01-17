@@ -128,6 +128,7 @@
 |[INC RANSOM](http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion/blog/leaks)|ONLINE|||
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion)|OFFLINE|||
 |[JUSTICE BLADE](https://justice-blade.io)|OFFLINE||https://t.me/justiceblade3 - https://t.me/+UbB2H5vTBJJkYTRl|
+|[INSANE]|(http://nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion/Insane.html)|ONLINE|||
 |[KARAKURT (Deep)](https://karakurt.tech)|OFFLINE|||
 |[KARAKURT (Deep)](https://karakurt.co)|OFFLINE|||
 |[KARAKURT (Deep)](https://karanews.live)|OFFLINE|||

@@ -260,6 +260,7 @@
 |[SEKHMET](http://sekhmet.top)|OFFLINE|||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE|||
 |[SIEGEDSEC](http://nv5p2mmpctvyqdyyi5zwh4gnifq2uxdx4etvnmaheqlrw6ordrjwxryd.onion)|ONLINE|||
+|[SLUG](http://3ytm3d25hfzvbylkxiwyqmpvzys5of7l4pbosm7ol7czlkplgukjq6yd.onion)|ONLINE|||
 |[SNATCH (Deep)](https://snatch.press)|OFFLINE||https://t.me/snatch_info|
 |[SNATCH (Deep)](http://snatch.vip)|OFFLINE||https://t.me/snatch_info|
 |[SNATCH (Deep)](https://snatchnews.top/)|ONLINE||https://t.me/snatch_info|

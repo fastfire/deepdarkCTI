@@ -17,8 +17,7 @@
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID| The Collective Sentinel|
 |https://t.me/+JMruw9EHhWtmYjc9|VALID| BlackDragonSec |
 |https://t.me/+nCFeH8PT-XUxZjEy|VALID| Data Leaks|
-|https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
-|https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
+|https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer||https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG|
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED| Adrastea Group|
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED| Data Leaks|
@@ -443,6 +442,8 @@
 |https://t.me/QuartzSec|ONLINE|QuartzSec|
 |https://t.me/APTANALYSIS|ONLINE|Exploits|
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database|
+|https://t.me/kiborg_leak|ONLINT|Kiborg Leak (Alphabank)|
+|https://t.me/xxShad0dexx|ONLINE|Shad0de|
 |https://t.me/kiborg_leak|ONLINE|Kiborg Leak (Alphabank)|
 |https://t.me/ransomblackbit30|ONLINE|Lockbit 3.0 Main.js|
 |https://t.me/jokersworlds|ONLINE|Joker's world of Free Database|

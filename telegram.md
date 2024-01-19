@@ -445,3 +445,6 @@
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database|
 |https://t.me/kiborg_leak|ONLINE|Kiborg Leak (Alphabank)|
 |https://t.me/ransomblackbit30|ONLINE|Lockbit 3.0 Main.js|
+|https://t.me/leak_db2|ONLINE|d3ltaboys group 2 (DB Leaks)|
+|https://t.me/leak_db1|ONLINE|d3ltaboys group 1 (DB Leaks) - Backup|
+|https://t.me/leak_db3|ONLINE|d3ltaboys group 3 (DB Leaks) - Backup|

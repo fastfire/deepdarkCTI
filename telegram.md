@@ -450,3 +450,4 @@
 |https://t.me/leak_db2|ONLINE|d3ltaboys group 2 (DB Leaks)|
 |https://t.me/leak_db1|ONLINE|d3ltaboys group 1 (DB Leaks) - Backup|
 |https://t.me/leak_db3|ONLINE|d3ltaboys group 3 (DB Leaks) - Backup|
+|https://t.me/LCdatabase|ONLINE|Low-Cost-Database|

@@ -172,8 +172,8 @@
 |https://t.me/GhostSecc|ONLINE| Data Leaks & Hacktivism group |
 |https://t.me/GitTools|ONLINE| |
 |https://t.me/gladdos69_official|ONLINE| DDoS |
-|https://t.me/goblins_gang| ONLINE | chat |
-|https://t.me/goblins_hub| ONLINE | hub links |
+|https://t.me/goblins_gang|ONLINE| chat |
+|https://t.me/goblins_hub|ONLINE| hub links |
 |https://t.me/GoneTeam410|ONLINE|GoneTeam|
 |https://t.me/GonjeshkeDarand|ONLINE| Gonjeshke Darande|
 |https://t.me/grandgive|ONLINE| |
@@ -442,7 +442,7 @@
 |https://t.me/QuartzSec|ONLINE|QuartzSec|
 |https://t.me/APTANALYSIS|ONLINE|Exploits|
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database|
-|https://t.me/kiborg_leak|ONLINT|Kiborg Leak (Alphabank)|
+|https://t.me/kiborg_leak|ONLINE|Kiborg Leak (Alphabank)|
 |https://t.me/xxShad0dexx|ONLINE|Shad0de|
 |https://t.me/kiborg_leak|ONLINE|Kiborg Leak (Alphabank)|
 |https://t.me/ransomblackbit30|ONLINE|Lockbit 3.0 Main.js|

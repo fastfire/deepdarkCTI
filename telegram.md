@@ -452,3 +452,4 @@
 |https://t.me/leak_db3|ONLINE|d3ltaboys group 3 (DB Leaks) - Backup|
 |https://t.me/LCdatabase|ONLINE|Low-Cost-Database|
 |https://t.me/stealerlogsdark|ONLINE| stealerlogsdark|
+|https://t.me/hacker_luz_e_trevas/1|ONLINE| Brazilian hacker forum, focused on OPSEC

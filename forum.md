@@ -205,3 +205,4 @@
 |[Lampeduza](https://lampeduza.la) | ONLINE | |
 |[CRACKING](https://cracking.org) | ONLINE | |
 |[TURKHACKTEAM](https://www.turkhackteam.org) | ONLINE | |
+|[SECRET FORUM PROPAGANDA](http://qvwje7edtrfby6pfnm3q7o3lju22mfx3xsjyl3y33l66sbq3qcnlmvad.onion) | ONLINE | |

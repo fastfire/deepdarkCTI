@@ -60,7 +60,7 @@
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service|
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang |
 |https://t.me/Bl4ck_Room|ONLINE| Checkers, Hacking Tools |
-|https://t.me/blackforumsbf|ONLINE|Blackforum|
+|https://t.me/blackforumsbf|OFFLINE|Blackforum|
 |https://t.me/blackshadowhackers|OFFLINE| Blackshadow Hackers |
 |https://t.me/Blank_Link|OFFLINE|
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet
@@ -442,10 +442,10 @@
 |https://t.me/QuartzSec|ONLINE|QuartzSec|
 |https://t.me/APTANALYSIS|ONLINE|Exploits|
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database|
-|https://t.me/kiborg_leak|ONLINE|Kiborg Leak (Alphabank)|
+|https://t.me/kiborg_leak|OFFLINE|Kiborg Leak (Alphabank)|
 |https://t.me/xxShad0dexx|ONLINE|Shad0de|
 |https://t.me/kiborg_leak|ONLINE|Kiborg Leak (Alphabank)|
-|https://t.me/ransomblackbit30|ONLINE|Lockbit 3.0 Main.js|
+|https://t.me/ransomblackbit30|OFFLINE|Lockbit 3.0 Main.js|
 |https://t.me/jokersworlds|ONLINE|Joker's world of Free Database|
 |https://t.me/leak_db2|ONLINE|d3ltaboys group 2 (DB Leaks)|
 |https://t.me/leak_db1|ONLINE|d3ltaboys group 1 (DB Leaks) - Backup|

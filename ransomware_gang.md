@@ -1,6 +1,6 @@
 |Name|Status|User:Password|Tox ID or other channel|RSS Feed|
 | ------ | ------ | ------ | ------ | ------ |
-|[DRM - Dashboard Ransomware Monitor](https://ransom.insicurezzadigitale.com/index.php)|ONLINE||
+|[Ransomfeed](https://ransom.insicurezzadigitale.com/index.php)|ONLINE||
 |[eCrime Services](https://ecrime.ch)|ONLINE||
 |[RANSOM DB](https://www.ransom-db.com)|ONLINE||
 |[RANSOMWARE GROUP SITES (list)](https://ransomwatch.telemetry.ltd/#/INDEX)|ONLINE|||

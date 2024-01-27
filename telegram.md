@@ -460,3 +460,29 @@
 |https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix|
 |https://t.me/zolfcombo|ONLINE|ZOLF Combos|
 |http://t.me/hackberegini|ONLINE||
+|https://t.me/GroupLapsus|ONLINE||
+|https://t.me/dataleak|ONLINE||
+|https://t.me/aresmainchannel|ONLINE||
+|https://t.me/ARESNEWSCHANNEL|ONLINE||
+|https://t.me/aresdatachat|ONLINE||
+|https://t.me/vxunderground|ONLINE||
+|https://t.me/atw2022|ONLINE||
+|https://t.me/SiegedSec|ONLINE||
+|https://t.me/ThreatSec|ONLINE||
+|https://t.me/GhostSecc|ONLINE||
+|https://t.me/FiveFamilies|ONLINE||
+|https://t.me/ransomservice|ONLINE||
+|https://t.me/ransomteam|ONLINE||
+|https://t.me/ransomwareservice|ONLINE||
+|https://t.me/ransomwareteam|ONLINE||
+|https://t.me/itarmyofukraine2022|ONLINE||
+|https://t.me/breachdetector|ONLINE||
+|https://t.me/data_leak_breach|ONLINE||
+|https://t.me/anonymous_Cr02x|ONLINE||
+|https://t.me/Anonymous_v7X|ONLINE||
+|https://t.me/ArabAnonForce|ONLINE||
+|https://t.me/AnonymousSudan|ONLINE||
+|https://t.me/T_GRAY_HACKER|ONLINE||
+|https://t.me/TEAM_INSANE_PAKISTAN2|ONLINE||
+|https://t.me/breached|ONLINE||
+|https://t.me/breachforums|ONLINE||

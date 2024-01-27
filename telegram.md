@@ -486,3 +486,8 @@
 |https://t.me/TEAM_INSANE_PAKISTAN2|ONLINE||
 |https://t.me/breached|ONLINE||
 |https://t.me/breachforums|ONLINE||
+|https://t.me/LCdatabase|ONLINE||
+|https://t.me/stealerlogsdark|ONLINE||
+|https://t.me/hacker_luz_e_trevas|ONLINE||
+|https://t.me/AIGSECRETCHAT|ONLINE||
+|https://t.me/legion_ddos|ONLINE||

@@ -284,7 +284,8 @@
 |[TEAM UNDERGROUND (Victims page)](http://undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd[.]onion/auth/login)|ONLINE|||
 |[TRIGONA](http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion)|OFFLINE|||
 |[TRIGONA (Access Portal)](http://znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion/signin)|ONLINE|||
-|[TRIGONA](http://trigonax2zb3fw34rbaap4cqep76zofxs53zakrdgcxzq6xzt24l5lqd.onion)|ONLINE|||
+|[TRIGONA](http://trigonax2zb3fw34rbaap4cqep76zofxs53zakrdgcxzq6xzt24l5lqd.onion)|OFFLINE|||
+|[TRIGONA](http://krsbhaxbki6jr4zvwblvkaqzjkircj7cxf46qt3na5o5sj2hpikbupqd.onion)|ONLINE|||
 |[UNSAFE](http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion)|ONLINE|||
 |[V IS VENDETTA](http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion)|ONLINE|||
 |[VFOKX (1)](http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion)|OFFLINE|||

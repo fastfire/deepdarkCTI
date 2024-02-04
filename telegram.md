@@ -39,6 +39,7 @@
 |https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]|
 |https://t.me/anon_by|ONLINE| Anonymous Russia channel|
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan|
+|https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan|
 |https://t.me/AntiPlumbers|ONLINE|
 |https://t.me/APIddosMirai|ONLINE| Killnet API DDoS Mirai |
 |https://t.me/aresmainchannel|OFFLINE| Data Leaks |

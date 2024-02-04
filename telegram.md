@@ -435,7 +435,7 @@
 |https://t.me/bidencashfreecvv|ONLINE|BidenCash CVV [ANTIPUBLIC]|
 |https://t.me/D7BBUK|ONLINE|D7BBUK|
 |https://t.me/joinchat/xr2N5_kqYQE3ZDUy|VALID|Kingsman|
-|https://t.me/CyberToufanBackup|ONLINE|CyberToufan|
+|https://t.me/CyberToufanBackup|ONLINE|CyberToufan - dumps from Israeli companies|
 |https://t.me/win_def|ONLINE|Windef|
 |https://t.me/user_sec|ONLINE|UserSec|
 |https://t.me/justice_homeland|ONLINE|Homeland Justice|
@@ -459,3 +459,5 @@
 |https://t.me/DarkSeek_rus|ONLINE|DarkSeek Hacking Group|
 |https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix|
 |https://t.me/zolfcombo|ONLINE|ZOLF Combos|
+|https://t.me/+oC0UdcuI3LY3NTIy|ONLINE|LINK CLOUD - processed stealer logs (path, user, password)|
+|https://t.me/russia_logs|ONLINE|Russia Logs - stealer logs with 4-5 days delay|

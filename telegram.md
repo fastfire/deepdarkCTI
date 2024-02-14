@@ -210,7 +210,7 @@
 |https://t.me/jester_stealer_channel|ONLINE| Jester Stealer Channel |
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|VALID| |
 |https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|VALID|Large Hacking Group|
-|https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|VALID| |
+|https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED| |
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig|VALID| Forum |
 |https://t.me/joinchat/aLzjwn_93JtkMDA8|VALID| Logs Market|
 |https://t.me/joinchat/Cyv2m5zFE6JmMjVi|VALID| Logs |
@@ -416,7 +416,7 @@
 |https://t.me/+eRl4m-fdPl8yZTUx|VALID|Snatch channel|
 |https://t.me/turkhckteam|ONLINE|Turk Hack Team|
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|
-|https://t.me/DarkStormTeams|ONLINE|Dark Storm Team|
+|https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team|
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive|
 |https://t.me/OBSERVERINFO|ONLINE|Logs aggregator|
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory|
@@ -440,12 +440,11 @@
 |https://t.me/win_def|ONLINE|Windef|
 |https://t.me/user_sec|ONLINE|UserSec|
 |https://t.me/justice_homeland|ONLINE|Homeland Justice|
-|https://t.me/QuartzSec|ONLINE|QuartzSec|
+|https://t.me/QuartzSec|OFFLINE|QuartzSec|
 |https://t.me/APTANALYSIS|ONLINE|Exploits|
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database|
 |https://t.me/kiborg_leak|OFFLINE|Kiborg Leak (Alphabank)|
 |https://t.me/xxShad0dexx|ONLINE|Shad0de|
-|https://t.me/kiborg_leak|ONLINE|Kiborg Leak (Alphabank)|
 |https://t.me/ransomblackbit30|OFFLINE|Lockbit 3.0 Main.js|
 |https://t.me/jokersworlds|ONLINE|Joker's world of Free Database|
 |https://t.me/leak_db2|ONLINE|d3ltaboys group 2 (DB Leaks)|

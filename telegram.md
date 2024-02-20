@@ -460,7 +460,7 @@
 |https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix|
 |https://t.me/zolfcombo|ONLINE|ZOLF Combos|
 |https://t.me/+WbDFfZ2OOvdjY2M0|ONLINE|Deanon ClubV7|
-|https://t.me/LulzSecOff|ONLINE|LulzSec|
+|https://t.me/LulzSecOff|OFFLINE|LulzSec|
 |https://t.me/lapsusfr|ONLINE|LAPSUS$ France|
 |https://t.me/R00TK1TOFF|ONLINE|
 |https://t.me/HackForceAll|ONLINE|HackForce|R00TK1T ISC CYBER TEAM|

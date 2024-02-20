@@ -252,7 +252,7 @@
 |https://t.me/LeaksData|ONLINE| Data Leaks|
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory|
 |https://t.me/leaksmarts|ONLINE| Leaks Marts|
-|https://t.me/leaksploit|ONLINE| Data Leaks |
+|https://t.me/leaksploit|OFFLINE| Data Leaks |
 |https://t.me/LearnExploit|ONLINE| General hacking, Tutorials |
 |https://t.me/LeaRNEXploIT|ONLINE| |
 |https://t.me/lefousamples|ONLINE| Data Leaks

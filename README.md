@@ -1,4 +1,5 @@
 # deepdarkCTI
+![deepdarkCTI_logo_150x150](https://github.com/fastfire/deepdarkCTI/assets/16737186/c9b18d64-b4d5-41f0-a3d0-f03888eb5ad0)
 
 Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
 

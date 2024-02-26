@@ -56,7 +56,7 @@
 |https://t.me/baseleak|ONLINE| Data Leaks |
 |https://t.me/BAZU_BD|OFFLINE| Data Leaks|
 |https://t.me/bazubd|OFFLINE| Data Leaks|
-|https://t.me/BEARITARMY|ONLINE| BEAR IT ARMY |
+|https://t.me/BEARITARMY|OFFLINE| BEAR IT ARMY |
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service|
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang |
@@ -276,7 +276,7 @@
 |https://t.me/metastealer_official|ONLINE| Metastealer Officiale |
 |https://t.me/MiladLeaks|ONLINE|Milad Leaks|
 |https://t.me/milkdude|ONLINE| Data Leaks|
-|https://t.me/minsaudebr|ONLINE| Lapsus$ channel |
+|https://t.me/minsaudebr|OFFLINE| Lapsus$ channel |
 |https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
 |https://t.me/MysteriousTeam0|ONLINE|Mysterious team bangladesh|
 |https://t.me/naosbase|ONLINE|DB / Data Leak Search Engine|
@@ -329,7 +329,7 @@
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) |
 |https://t.me/SolomonUpdates|OFFLINE|Solomon market place updates|
 |https://t.me/spamsmtpcombo|ONLINE| Combo List |
-|https://t.me/Stealers_Logs_Group|ONLINE| Stealer Logs |
+|https://t.me/Stealers_Logs_Group|OFFLINE| Stealer Logs |
 |https://t.me/StealerStore|ONLINE| Stealer Store|
 |https://t.me/StealerStore|ONLINE|Stealer Store|
 |https://t.me/stkdatabase|ONLINE| Mapper (former STK Database)|

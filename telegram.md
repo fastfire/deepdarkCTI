@@ -248,7 +248,7 @@
 |https://t.me/leakinformation|OFFLINE|Data Leaks|
 |https://t.me/leaklicks|ONLINE| Data Leaks|
 |https://t.me/leaklogs_official|ONLINE|LeakLogs Official|
-|https://t.me/leaksdatabase|ONLINE| Data Leaks|
+|https://t.me/leaksdatabase|OFFLINE| Data Leaks|
 |https://t.me/LeaksData|ONLINE| Data Leaks|
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory|
 |https://t.me/leaksmarts|ONLINE| Leaks Marts|

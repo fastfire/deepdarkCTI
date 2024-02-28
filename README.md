@@ -6,7 +6,7 @@ Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
 The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
 
 The contributors of the project (or people active in the field of Cyber Threat Intelligence) have a **Telegram groups** available to propose new sources to be integrated within the project and to have a place to discuss the tactics and techniques of research and analysis that are used daily.
-It is possible to request access to the Telegram group by sending a request to https://t.me/fastfire83
+It is possible to request access to the Telegram group by sending a request to https://twitter.com/fastfire or https://t.me/fastfire83
 
 Or, if you want to contribute with a donation, you can. We added this possibility because it was requested by some followers of the project. The donations, as well as the use of the same, will be managed in total transparency and will be used exclusively to build resources related to the deepdarkCTI project.
 

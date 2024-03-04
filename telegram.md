@@ -256,7 +256,7 @@
 |https://t.me/LearnExploit|ONLINE| General hacking, Tutorials |
 |https://t.me/LeaRNEXploIT|ONLINE| |
 |https://t.me/lefousamples|ONLINE| Data Leaks
-|https://t.me/Legion_Russia|ONLINE| Legion Russia |
+|https://t.me/Legion_Russia|OFFLINE| Legion Russia |
 |https://t.me/LEGIONLEAKER|ONLINE|Legion Leaker|
 |https://t.me/LockBit_APT|ONLINE| LockBit APT |
 |https://t.me/Log_Market_Place|ONLINE| Data Leaks|

@@ -452,11 +452,11 @@
 |https://t.me/leak_db3|ONLINE|d3ltaboys group 3 (DB Leaks) - Backup|
 |https://t.me/LCdatabase|ONLINE|Low-Cost-Database|
 |https://t.me/+ykoIXVJBirI0NzU0|ONLINE|Leaks & Breaches|
-|https://t.me/CyberDragonRussia|ONLINE|Cyber Dragon Russia|
+|https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia|
 |https://t.me/ANONM0S_RU|ONLINE|Anonymous Russia|
 |https://t.me/BEARSPAW_RESERVS|ONLINE|BearSpaw|
 |https://t.me/BEARITARMY|ONLINE|BearITArmy|
-|https://t.me/DarkSeek_rus|ONLINE|DarkSeek Hacking Group|
+|https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group|
 |https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix|
 |https://t.me/zolfcombo|ONLINE|ZOLF Combos|
 |https://t.me/+WbDFfZ2OOvdjY2M0|ONLINE|Deanon ClubV7|

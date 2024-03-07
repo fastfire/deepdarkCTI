@@ -58,6 +58,7 @@
 |https://t.me/BAZU_BD|OFFLINE| Data Leaks|
 |https://t.me/bazubd|OFFLINE| Data Leaks|
 |https://t.me/BEARITARMY|OFFLINE| BEAR IT ARMY |
+|https://t.me/rsotmxackteam|ONLINE|R.S.O.T.M XackTeam (ex-Bear IT Army)|
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service|
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang |
@@ -489,3 +490,5 @@
 |https://t.me/HorusForumRus|ONLINE|Horus Forum|
 |https://t.me/killmilk_rus|ONLINE|DARKNET|
 |https://t.me/informZarya|ONLINE|Zarya|
+|https://t.me/MerisRobot|ONLINE|Covid Botnet|
+|https://t.me/powerproof_r3fusal|ONLINE| DDoS Powerproof|

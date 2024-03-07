@@ -425,7 +425,7 @@
 |https://t.me/CyberAveng3rs|ONLINE|Cyber Aveng3rs|
 |https://t.me/AC3HCYBER|ONLINE|ACEH|
 |https://t.me/Killnet_Palestine|OFFLINE|Killnet Palestina|
-|https://t.me/user_sec|ONLINE|UserSec Killnet Affiliated|
+|https://t.me/user_sec|OFFLINE|UserSec Killnet Affiliated|
 |https://t.me/dragonforceio|ONLINE|DragonForce Malaysia|
 |https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds|
 |https://t.me/weedforumslol|OFFLINE|WeedSec|

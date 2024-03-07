@@ -17,7 +17,8 @@
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID| The Collective Sentinel|
 |https://t.me/+JMruw9EHhWtmYjc9|VALID| BlackDragonSec |
 |https://t.me/+nCFeH8PT-XUxZjEy|VALID| Data Leaks|
-|https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer||https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
+|https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
+|https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG|
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED| Adrastea Group|
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED| Data Leaks|
@@ -286,6 +287,7 @@
 |https://t.me/nohidespace|ONLINE| |
 |https://t.me/noname05716engchat|ONLINE| NoName057(16) chat|
 |https://t.me/noname05716eng|ONLINE| NoName057(16) Eng|
+|http://t.me/noname05716|ONLINE|NoName057(16) RUS|
 |https://t.me/NullLeak|OFFLINE| Data Leaks |
 |https://t.me/O1chat|ONLINE| Market |
 |https://t.me/ObserverCloud|OFFLINE| Observer Cloud Redline Stealer (Harvests other channels) |
@@ -296,7 +298,9 @@
 |https://t.me/openleak|ONLINE| Data Leaks |
 |https://t.me/peass|ONLINE| |
 |https://t.me/phantom_tg|ONLINE| PHANTOM DEV |
-|https://t.me/phoenixinform|ONLINE|Phoenix group|
+|https://t.me/phoenixinform|OFFLINE|Phoenix group|
+|https://t.me/phoenix_inform|ONLINE|PHOENIX|
+|https://t.me/+k56KDQRn8FplN2Qy|ONLINE|PHOENIX|
 |https://t.me/poenamarket|ONLINE|Poena Market|
 |https://t.me/privatecombos|OFFLINE| Data Leaks |
 |https://t.me/Privatedata77new|OFFLINE| Logs Market |
@@ -408,6 +412,7 @@
 |https://t.me/APTIRAN|ONLINE|APT Iran|
 |https://t.me/rdpstealer|ONLINE|Rdp Stealer|
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup|
+|https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat|
 |https://t.me/jambicyberteam|OFFLINE|Jambi Cyber Team|
 |https://t.me/FiveFamilies|ONLINE|FiveFamilies|
 |https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches|
@@ -426,6 +431,10 @@
 |https://t.me/AC3HCYBER|ONLINE|ACEH|
 |https://t.me/Killnet_Palestine|OFFLINE|Killnet Palestina|
 |https://t.me/user_sec|OFFLINE|UserSec Killnet Affiliated|
+|https://t.me/user_secc|ONLINE|UserSec|
+|https://t.me/usersec_reservs|ONLINE|UserSec Reserve|
+|https://t.me/usersec_collective|ONLINE|UserSec Collective|
+|https://t.me/usersec_chat|ONLINE|UserSec Chat|
 |https://t.me/dragonforceio|ONLINE|DragonForce Malaysia|
 |https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds|
 |https://t.me/weedforumslol|OFFLINE|WeedSec|
@@ -438,7 +447,7 @@
 |https://t.me/joinchat/xr2N5_kqYQE3ZDUy|VALID|Kingsman|
 |https://t.me/CyberToufanBackup|ONLINE|CyberToufan|
 |https://t.me/win_def|ONLINE|Windef|
-|https://t.me/user_sec|ONLINE|UserSec|
+|https://t.me/user_sec|OFFLINE|UserSec|
 |https://t.me/justice_homeland|ONLINE|Homeland Justice|
 |https://t.me/QuartzSec|OFFLINE|QuartzSec|
 |https://t.me/APTANALYSIS|ONLINE|Exploits|
@@ -453,8 +462,10 @@
 |https://t.me/LCdatabase|ONLINE|Low-Cost-Database|
 |https://t.me/+ykoIXVJBirI0NzU0|ONLINE|Leaks & Breaches|
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia|
+|https://t.me/+lYYyb3exPNFjNmRi|ONLINE|Cyber Dragon|
 |https://t.me/ANONM0S_RU|ONLINE|Anonymous Russia|
-|https://t.me/BEARSPAW_RESERVS|ONLINE|BearSpaw|
+|https://t.me/BEARSPAW_RESERVS|ONLINE|BearSpaw (now they are Digital Revolt)|
+|https://t.me/Digital_Revolt_hack|ONLINE|Digital Revolt|
 |https://t.me/BEARITARMY|ONLINE|BearITArmy|
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group|
 |https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix|
@@ -465,3 +476,16 @@
 |https://t.me/R00TK1TOFF|ONLINE|
 |https://t.me/HackForceAll|ONLINE|HackForce|R00TK1T ISC CYBER TEAM|
 |https://t.me/GroupLapsus|ONLINE|Lapsus$ Group|
+|https://t.me/CyberArmyofRussia_Reborn|ONLINE|Народная CyberАрмия|
+|https://t.me/hackberegini|ONLINE|Beregini|
+|https://t.me/ServerKillers|ONLINE|Server Killers|
+|https://t.me/+SrY0b7MukCVmNDk1|ONLINE|22C|
+|https://t.me/CoupTeam|ONLINE|Coup Team|
+|https://t.me/lulzsecmuslimsworld|ONLINE|Lulzsec Muslims|
+|https://t.me/SylhetGangSgOfficial|ONLINE|Sylhet Gang-SG|
+|https://t.me/AnonCollective|ONLINE|Anonymous Collective|
+|https://t.me/WeJustEvil|ONLINE|Just Evil|
+|https://t.me/horusteam_official|ONLINE|Horus Evolution|
+|https://t.me/HorusForumRus|ONLINE|Horus Forum|
+|https://t.me/killmilk_rus|ONLINE|DARKNET|
+|https://t.me/informZarya|ONLINE|Zarya|

@@ -52,6 +52,8 @@
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
 |[FREDDY](freddy.atshop.io)| ONLINE | |
+|[Free Market](http://freemarrket.xyz)| ONLINE | |
+|[Free Market (dark)](http://fpdz4sbeldrqv5nxqctapcexo6nyarfopu42m7thzmht7zjcepi7a4qd.onion)| ONLINE | |
 |[FreshTools](https://freshtools.net)| ONLINE | |
 |[Genesis Market](https://genesis.market)| OFFLINE | | Put offline by FBI.
 |[Genesis Market](https://g3n3sis.pro)| OFFLINE | | Put offline by FBI.
@@ -64,12 +66,15 @@
 |[INFINITY SHOP](http://infinityvzoe2ldb74y2klk7cs3nda2n3qozdy7sdgfouqrzfkp64sid.onion)| ONLINE | |
 |[Intel Repository](http://intelrepository.com/)|ONLINE|Sale of Defense Contractor and Military Files|
 |[Iran Info Marketplace](http://marketir7joj2ibuouojg2nwkdwfal5dhisp3g246jl4ur7r7zfvloid.onion)| ONLINE | |
+|[KRAKEN](https://kraken6vk.top)| ONLINE | |
 |[LIBERTY](http://liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion)| OFFLINE | |
 |[LOLZ.GURU](https://lolz.guru/)| ONLINE | |
 |[LOCKDATA AUCTION](http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion)| OFFLINE | Probably a scam website. |
 |[LuxeCC](https://luxecc.net)| ONLINE | |
 |[MAGBO (Dark)](http://magbocc3tco4vmxx.onion)| OFFLINE | |
 |[MAGBO (Deep)](https://magbo.shop)| ONLINE | |
+|[MEGA (deep)](http://mega555akm67gdw5e6cwoxfqtx5uwn5ua3n7modeu3ho6v5rl3ke3sqd.com)| ONLINE | |
+|[MEGA (dark)](http://megadcmnfdvspdh75oebweqgshnxzns24ivojo3qikvijljvf6n3ddqd.onion)| ONLINE | |
 |[MegaCiti](http://ba72lxa2o2qxqixzeubnbookar2kssk42ds63m2qvlnr7b4oqtyayvad.onion)| ONLINE | |
 |[MGM GRAND](http://wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion)| ONLINE | |
 |[MONOPOLY](http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion)| OFFLINE | |
@@ -81,6 +86,8 @@
 |[ODIN](https://odinshop.io)| ONLINE | |
 |[ODIN](https://odinshop.se)| ONLINE | |
 |[ODIN](https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion)| ONLINE | |
+|[OMG!OMG!OMG!](https://omgomgdarknetmarketefl4onion.top)| ONLINE | |
+|[OMG!OMG!OMG! (dark)](http://omgomghirvo6cfqssx7g65ncri26cljvgvcdbtdmlvnpur4palytqhyd.onion)| ONLINE | |
 |[ONLYONE](https://only-one.cc)| OFFLINE | |
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |

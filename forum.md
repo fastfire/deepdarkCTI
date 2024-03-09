@@ -45,6 +45,7 @@
 |[CRDPRO](https://crdpro.cc)| ONLINE | |
 |[CRIMENETWORK (Dark)](http://cnw4acab23przeum6ios6pw63ivxxbrvpclz5yssflkos6ano6oq4fqd.onion)| ONLINE | |
 |[CRIMENETWORK (Deep)](http://crime.to)| ONLINE | |
+|[CRIMENOW](http://crimenow.is)| ONLINE | |
 |[CRYPTBB](http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion)| ONLINE | |
 |[CRYPTOCURRENCY.TECH](https://forum.cryptocurrency.tech)| ONLINE | |
 |[CRYPTOFF](https://forum.cryptoff.org)| ONLINE | |
@@ -61,6 +62,7 @@
 |[DARKMARKET.CX](https://darkmarket.cx)| OFFLINE | |
 |[DARKMONEY](https://darkmoney.lc)| ONLINE | |
 |[DARKNET](https://darknet.ug)| ONLINE | |
+|[DARKNET ARMY](http://dna777ucpo4unwxrzw5mzs4iqm5qz3uepw3k5mvwbt7tnufryvsgy5yd.onion)| ONLINE | |
 |[DARKNETWORLD](https://www.darknetworld.com)| OFFLINE | |
 |[DARKSIDE](https://www.dark-side.black)| OFFLINE | |
 |[DATACLOUD](https://datacloud.space)| ONLINE | |

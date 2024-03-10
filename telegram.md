@@ -489,3 +489,4 @@
 |https://t.me/HorusForumRus|ONLINE|Horus Forum|
 |https://t.me/killmilk_rus|ONLINE|DARKNET|
 |https://t.me/informZarya|ONLINE|Zarya|
+|https://t.me/Handala_hack|ONLINE|Handala Hack|

@@ -490,3 +490,4 @@
 |https://t.me/killmilk_rus|ONLINE|DARKNET|
 |https://t.me/informZarya|ONLINE|Zarya|
 |https://t.me/Handala_hack|ONLINE|Handala Hack|
+|https://t.me/InfraShutdown|ONLINE|InfraShutdown - DDoS|

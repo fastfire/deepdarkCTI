@@ -492,3 +492,5 @@
 |https://t.me/informZarya|ONLINE|Zarya|
 |https://t.me/MerisRobot|ONLINE|Covid Botnet|
 |https://t.me/powerproof_r3fusal|ONLINE| DDoS Powerproof|
+|https://t.me/nightmare_hacker|ONLINE|NIGHTMARE|
+|https://t.me/StmXGhostLocker|ONLINE|Stm.X GhostLocker V2.0 Service|

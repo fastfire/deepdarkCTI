@@ -71,7 +71,7 @@
 |[DEMONFORUMS](https://demonforums.net)| ONLINE | |
 |[DRDARK](https://drdark.ru)| ONLINE | |
 |[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| ONLINE | |
-|[DREAD](http[://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd[.onion)| ONLINE | |
+|[DREAD](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion)| ONLINE | |
 |[DUBLIKAT.CLUB](https://at.dublikat.club)| ONLINE | |
 |[DUBLIKAT.PRO](https://my.dublikat.pro)| OFFLINE | |
 |[DUMPED](https://dumped.to)| ONLINE| |

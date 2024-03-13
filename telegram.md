@@ -491,3 +491,5 @@
 |https://t.me/informZarya|ONLINE|Zarya|
 |https://t.me/Handala_hack|ONLINE|Handala Hack|
 |https://t.me/InfraShutdown|ONLINE|InfraShutdown - DDoS|
+|https://t.me/meris_botnet|ONLINE|Meris botnet|
+|https://t.me/redstresserorg|ONLINE|Meris botnet main channel|

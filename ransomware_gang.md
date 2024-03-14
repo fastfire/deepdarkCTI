@@ -54,6 +54,7 @@
 |[BLACKBYTE (3)](http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion)|OFFLINE|||
 |[BLACKBYTE (4)](http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion)|OFFLINE|||
 |[BLACKBYTE (5)](http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion)|ONLINE|||
+|[BLACKBYTE (6)](http://53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion)|ONLINE|||
 |[BLACKMATTER](http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion)|OFFLINE|||
 |[BLACKMATTER Support](http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2)|OFFLINE|||
 |[BLACKOUT](http://black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion)|ONLINE||36A73D90C66948D9268BDC4174A40E0064C43F10A35AEAA9DD74B3A14EF5654872D5DC67FC14|

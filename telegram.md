@@ -494,3 +494,7 @@
 |https://t.me/powerproof_r3fusal|ONLINE| DDoS Powerproof|
 |https://t.me/nightmare_hacker|ONLINE|NIGHTMARE|
 |https://t.me/StmXGhostLocker|ONLINE|Stm.X GhostLocker V2.0 Service|
+|https://t.me/Handala_hack|ONLINE|Handala Hack|
+|https://t.me/InfraShutdown|ONLINE|InfraShutdown - DDoS|
+|https://t.me/meris_botnet|ONLINE|Meris botnet|
+|https://t.me/redstresserorg|ONLINE|Meris botnet main channel|

@@ -493,3 +493,57 @@
 |https://t.me/InfraShutdown|ONLINE|InfraShutdown - DDoS|
 |https://t.me/meris_botnet|ONLINE|Meris botnet|
 |https://t.me/redstresserorg|ONLINE|Meris botnet main channel|
+|https://t.me/+lOX1jn9YKS03ZTcy|ONLINE|Emirates&Team І (Stealer Logs)|
+|https://t.me/typicaltemshchik|ONLINE|WLFR Project (Stealer Logs)|
+|https://t.me/dnftm_cloud|ONLINE|DNFTM Cloud (Stealer Logs)|
+|https://t.me/CloudLeaksBR|ONLINE|Cloud Leaks BR (Stealer Logs)|
+|https://t.me/clouddvd|ONLINE|DVD Cloud (Stealer Logs)|
+|https://t.me/segacloud|ONLINE|Sega Cloud (Stealer Logs)|
+|https://t.me/realcloud0|ONLINE|RealCloud (Stealer Logs)|
+|https://t.me/+IqEnwfj7CLU1Yjcy|ONLINE|Invite Link - OMEGA Cloud (Stealer Logs)|
+|https://t.me/DarkSideCloud|ONLINE|DarkSide Cloud (Stealer Logs)|
+|https://t.me/+FnHchisk1aU0ODVi|ONLINE|Invite Link - Harmony Cloud (Stealer Logs)|
+|https://t.me/chrono_logs|ONLINE|Chrono Logs (Stealer Logs)|
+|https://t.me/+lGosRlDC-UJhMDYy|ONLINE|Invite Link - Luffich Cloud (Stealer Logs)|
+|https://t.me/logs_cloud_free_true|ONLINE|БЕСПЛАТНЫЕ ЛОГИ (Stealer Logs)|
+|https://t.me/stormcloudlogs|ONLINE|Storm Cloud (Stealer Logs)|
+|https://t.me/SNAKEDBS|ONLINE|Nuttela Combo's (Repackaged Combo Lists)|
+|https://t.me/tichancloud|ONLINE|Tichan Cloud (Stealer Logs)|
+|https://t.me/BHF_CLOUD|ONLINE|BHF Cloud (Stealer Logs)|
+|https://t.me/HelloKittyCloud|ONLINE|HelloKitty Log Cloud (Stealer Logs)|
+|https://t.me/Skyl1neCloud|ONLINE|Skyline Cloud (Stealer Logs)|
+|https://t.me/solariscloud|ONLINE|Solaris Cloud (Stealer Logs)|
+|https://t.me/dragoncloud1|ONLINE|Dragon Cloud (Stealer Logs)|
+|https://t.me/OCTOPUSCLOUDLOGS|ONLINE|Octopus Logs (Combo Lists)|
+|https://t.me/TinyLogs|ONLINE|Tiny Cloud Logs (Stealer Logs)|
+|https://t.me/powercloudlogs|ONLINE|Power Cloud Logs (Stealer Logs)|
+|https://t.me/darknescloud|ONLINE|Darkness Cloud (Stealer Logs)|
+|https://t.me/gameslogscloud|ONLINE|Game Logs (Stealer Logs)|
+|https://t.me/Mariarticloud|ONLINE|Mariatri Cloud (Repackaged Stealer Logs)|
+|https://t.me/wlfrcloud|ONLINE|WLFR Project Cloud (Stealer Logs)|
+|https://t.me/LulzsecCloudLogs|ONLINE|Lulzsec Cloud Logs (Filtered Stealer Logs/Cookies)|
+|https://t.me/+-ol2dIgjU3YwYzAy|ONLINE|Invite Link - Stone Island Cloud Logs (Stealer Logs)|
+|https://t.me/werd1kcloud|ONLINE|Werd Cloud Logs (Repackaged Stealer Logs)|
+|https://t.me/BurnCloudLogs|ONLINE|Burn Cloud Logs (Stealer Logs)|
+|https://t.me/mercedesbenzcloud|ONLINE|Arcane Logs (Stealer Logs)|
+|https://t.me/PegasusCloud|ONLINE|Pegasus Cloud (Stealer Logs)|
+|https://t.me/SamuraiCloud|ONLINE|Samurai Cloud (Stealer Logs)|
+|https://t.me/EuropeCloud|ONLINE|Europe Cloud (Stealer Logs)|
+|https://t.me/free_logs_cloud_ArtHouse|ONLINE|Arthouse Cloud (Stealer Logs)|
+|https://t.me/ganjacloud|ONLINE|Ganja Cloud (Stealer Logs)|
+|https://t.me/enigmaLogS|ONLINE|Enigma Reborn (Stealer Logs)|
+|https://t.me/Redscritp|ONLINE|Redscript Logs (Stealer Logs)|
+|https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
+|https://t.me/stonecloudtg|ONLINE|StoneCloud Logs (Stealer Logs)|
+|https://t.me/CLOUDCASPERLINK|ONLINE|Casper Cloud (Stealer Logs)|
+|https://t.me/mooncloudfree|ONLINE|Moon Cloud (Stealer Logs)|
+|https://t.me/ManticoreCloud|ONLINE|Manticore (Stealer Logs)|
+|https://t.me/Trident_Cloud|ONLINE|Trident Cloud (Stealer Logs)|
+|https://t.me/+2ofZFLh--cdhYzJh|ONLINE|Invite Link - Neverhode Logs (Stealer Logs)|
+|https://t.me/ATM_LOGS|ONLINE|ATM Cloud (Stealer Logs)|
+|https://t.me/Logs_Tizix|ONLINE|Tizix Cloud (Stealer Logs)|
+|https://t.me/+uuz8-qLUNeU2ZmI0|ONLINE|Invite Link - DaisyCloud New (Stealer Logs)|
+|https://t.me/MaisonMarjelaCloud|ONLINE|M.M Cloud (Stealer Logs)|
+|https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud (Stealer Logs)|
+|https://t.me/miragelogscloud|ONLINE|Mirage Cloud (Stealer Logs)|
+|https://t.me/FehuCloud|ONLINE|Fehu Cloud (Stealer Logs)|

@@ -123,3 +123,12 @@
 |[XLEET (Dark)](http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion)| ONLINE | |
 |[XLEET (Deep)](https://xleet.is)| ONLINE | |
 |[ZISMO](https://zismo.biz)| ONLINE | |
+|[FIREARMS 72 (Deep)](http://fa72ibhl677j77dq4rt6bmiplwhpfymq2glwl5e2i563vkrcg4elfkyd.onion)| ONLINE | |
+|[CAREBBAEN (Deep)](http://cardpl74ltmwe4o7pgpefljcng6qr36cnn7gzer2wermedxz3volxkqd.onion)| ONLINE | |
+|[VORON MARKET (Deep)](http://vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion)| ONLINE | |
+|[WOLF BANK HACKER (Deep)](http://wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion)| ONLINE | |
+|[DARK TOOLS (Deep)](http://darkhuo35yiohrsdlbdhhrtl5ds7jtv5x2cjusqqebalj5vtrdqgqoid.onion)| ONLINE | |
+|[UNDERGROUND MARKET (Deep)](http://undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion)| ONLINE | |
+|[CC SALE (Deep)](http://csalryx3xenotyljyttsju6jfthrjyt6ijwd3zzykhkpyfoeao2nxaqd.onion)| ONLINE | |
+|[CREDIT CARD DUMPS (Deep)](http://cdumhlyjn3q6rzed5jtqzramrtznaahics5d2zhpspstw5stfkew3qqd.onion)| ONLINE | |
+|[PREPAID CARD STORE (Deep)](http://preplyqxgvapegf44xvv3c2kgccyi7enmcbqpck63j54c6av4fj2e2qd.onion)| ONLINE | |

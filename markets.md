@@ -1,6 +1,7 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
 |[0-DAY](https://0-day.shop)| ONLINE | |
+|[Darth maul shop](https://1977.ws/)| ONLINE | |
 |[2EASY](https://2easy.shop)| OFFLINE | |
 |[2EASY](https://2easy.cc)| ONLINE | |
 |[ALLWORLDCARDS](https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
@@ -82,6 +83,7 @@
 |[ODIN](https://odinshop.se)| ONLINE | |
 |[ODIN](https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion)| ONLINE | |
 |[ONLYONE](https://only-one.cc)| OFFLINE | |
+|[ORVX SHOP](https://orvx.pw/)| ONLINE | |
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |
 |[RESCATOR](https://rescator.cn)| ONLINE | |

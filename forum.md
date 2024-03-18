@@ -1,6 +1,8 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
+|[0x00sec](https://0x00sec.org/)|ONLINE|
 |[4CHEAT](https://4cheat.ru/)|ONLINE||
+|[589forum](https://589forum.org/)|OFFLINE|
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
 |[ALTENEN (Deep)](https://altenens.is)| ONLINE | |
 |[ANTIMIGALKI](https://antimigalki.space)| ONLINE | |
@@ -18,6 +20,8 @@
 |[BLACKHACKER](https://blackhacker.pw)|ONLINE||
 |[BLACKFORUMS](https://blackforums.net)| ONLINE | |
 |[BLACKFORUMS](https://blackforums.me)| ONLINE | |
+|[blackhatpakistan](https://blackhatpakistan.net)| ONLINE | |
+|[blackhatprotools](https://www.blackhatprotools.info/)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
@@ -65,6 +69,7 @@
 |[DARKNET ARMY](http://dna777ucpo4unwxrzw5mzs4iqm5qz3uepw3k5mvwbt7tnufryvsgy5yd.onion)| ONLINE | |
 |[DARKNETWORLD](https://www.darknetworld.com)| OFFLINE | |
 |[DARKSIDE](https://www.dark-side.black)| OFFLINE | |
+|[darkpro](https://darkpro.net/)| ONLINE | |
 |[DATACLOUD](https://datacloud.space)| ONLINE | |
 |[DEDICATET](https://dedicatet.com)| ONLINE | |
 |[DEFCON](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion)| OFFLINE | |
@@ -84,9 +89,11 @@
 |[ENDWAY](https://endway.su)| ONLINE | |
 |[ETERNIA](https://eternia.to)| ONLINE | |
 |[EVILARMY](https://evilarmy.in)| ONLINE | |
+|[evilx](https://evilx.su/forum/)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
 |[EXPLOITS.WS](https://exploits.ws)| ONLINE | |
+|[ezcarder](https://ezcarder.is/)| ONLINE | |
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |
 |[FORUMTEAM.TOP](https://forumteam.top)| ONLINE | |
 |[FSSQUAD](https://fssquad.com)| ONLINE | |
@@ -94,6 +101,9 @@
 |[GERKI](http://gerkipwhfuqeeizl.onion)| OFFLINE | |
 |[GETREKT](https://getrekt.io)| ONLINE | https://t.me/getrektio |
 |[HACKFORUMS](https://hackforums.net/index.php)| ONLINE | |
+|[hackingfather](https://hackingfather.com/)| ONLINE | |
+|[hackonology](https://hackonology.com/forum/)| ONLINE | |
+|[hacksnation](https://hacksnation.com/)| ONLINE | |
 |[HACKTOWN](http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion/HackTown.html)| ONLINE | |
 |[HELIUM](http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/login)| ONLINE | |
 |[HOHEKAMMER](http://hohekammer.cc)| ONLINE | |
@@ -106,6 +116,7 @@
 |[KOROVKA](http://korovka.cc)| ONLINE | |
 |[LEAKBASE](https://leakbase.cc)| ONLINE | |
 |[LEAKBASE](https://leakbase.org)| ONLINE | |
+|[LEAKBASE](https://leakbase.io/)| ONLINE | |
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |

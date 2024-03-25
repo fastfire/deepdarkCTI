@@ -1,4 +1,4 @@
-|Telegram|Status|Category|
+|Telegram|Status|Name|
 | ------ | ------ | ------ |
 |https://t.me/+8DxOrHQdrzw1ZjUy|VALID| GODELESS CLOUD Botnet Logs|
 |https://t.me/+fcxhFl9JSRE3YTdi|VALID| HUBHEAD Logs|

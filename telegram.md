@@ -1,13 +1,11 @@
 |Telegram|Status|Category|
 | ------ | ------ | ------ |
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED| RED HACKERS ALLIANCE |
-|https://t.me/+8DxOrHQdrzw1ZjUy|VALID| GODELESS CLOUD Botnet Logs|
 |https://t.me/+8UWtFO9H_9dhODVk|EXPIRED| 0x_dump alternative channel|
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel|
 |https://t.me/+9P5FQ85afTc4NGNl|VALID| Goblin's Database |
 |https://t.me/+Bat9QqJcSuE0MTg1|VALID| AresLoader |
 |https://t.me/+eOtgrt4gB68wM2Qy|EXPIRED| Atlantis Cyber Army A.I.G. - backup|
-|https://t.me/+fcxhFl9JSRE3YTdi|VALID| HUBHEAD Logs|
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED| Data Leaks |
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID| Goblin's Hub (private) | 
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED| voidy - database storage|
@@ -17,15 +15,12 @@
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID| The Collective Sentinel|
 |https://t.me/+JMruw9EHhWtmYjc9|VALID| BlackDragonSec |
 |https://t.me/+nCFeH8PT-XUxZjEy|VALID| Data Leaks|
-|https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
-|https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG|
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED| Adrastea Group|
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED| Data Leaks|
 |https://t.me/+uV_Lxf2uOHhkMjAy|VALID| Killnet Store Chat |
 |https://t.me/+Uxo9r92Ho5ZkYjdi|EXPIRED| KILLNET |
 |https://t.me/+UYKtaIt6KFGlFwBJ|EXPIRED| VIP Config - configs, combos, etc |
-|https://t.me/+V_oM-vx0YnSN7nzH|VALID| Log Leaks Group|
 |https://t.me/+wlf3z9fVHqgzYzk1|EXPIRED| Darks chat|
 |https://t.me/+x9tlrn-DoOw0NmNl|EXPIRED| Team BlackDragonSec |
 |https://t.me/+xr2N5_kqYQE3ZDUy|VALID| Kingsman|
@@ -51,14 +46,12 @@
 |https://t.me/asdcloud|ONLINE|Combo List|
 |https://t.me/atlantiscyberarmy|ONLINE|Atlantis - CyberArmy - A.I.G|
 |https://t.me/atw2022|ONLINE| Against The West |
-|https://t.me/banklogplug2|OFFLINE|Bank Logs|
 |https://t.me/baphchat|ONLINE|The Jacuzzi|
 |https://t.me/base_brutesu|ONLINE| Combo List
 |https://t.me/baseleak|ONLINE| Data Leaks |
 |https://t.me/BAZU_BD|OFFLINE| Data Leaks|
 |https://t.me/bazubd|OFFLINE| Data Leaks|
 |https://t.me/BEARITARMY|OFFLINE| BEAR IT ARMY |
-|https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service|
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang |
 |https://t.me/Bl4ck_Room|ONLINE| Checkers, Hacking Tools |
@@ -68,8 +61,6 @@
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet
 |https://t.me/blueteamzone|OFFLINE|
 |https://t.me/boosty66brvte|ONLINE| Data Leaks |
-|https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
-|https://t.me/bradmax_cloud|ONLINE| Redline and Raccoon Data Logs |
 |https://t.me/R00TK1TDB|ONLINE| R00tk1t DB |
 |https://t.me/R00TK1TOFF |ONLINE| R00tk1t Cyber Team |
 |https://t.me/breachdetector|ONLINE|
@@ -83,7 +74,6 @@
 |https://t.me/c0xCee|OFFLINE| Data Leaks |
 |https://t.me/canyoupwnme|ONLINE| News |
 |https://t.me/cas_files|ONLINE| Data Leaks |
-|https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
 |https://t.me/cbanke_market|ONLINE| Data Leaks |
 |https://t.me/cbanke_market|ONLINE| Market|
 |https://t.me/cbanke|ONLINE| Data Leaks|
@@ -92,9 +82,6 @@
 |https://t.me/civiliandarkcode404|ONLINE|Civilan dark code|
 |https://t.me/clean_tools_net|ONLINE|Clean Tools|
 |https://t.me/cloudata_free_databases|ONLINE|Free Data Breaches Provider|
-|https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
-|https://t.me/cloudlogs|ONLINE| Redline LogZone
-|https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/club1337|ONLINE|
 |https://t.me/combo2021|ONLINE| Combo List|
 |https://t.me/combo_listt|OFFLINE| Combo List |
@@ -110,7 +97,6 @@
 |https://t.me/CrackerConfigs|ONLINE| Configs, Combos |
 |https://t.me/Crackers_Club|OFFLINE| Configs, Combos |
 |https://t.me/Craxpro_Channel|ONLINE|Cracking, spamming, carding|
-|https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
 |https://t.me/crewcomboteams|OFFLINE| Crew Combo Teams|
 |https://t.me/crewcomboteam|ONLINE| Combo List|
 |https://t.me/CryptoGinzo|OFFLINE| Crypt_0x00 |
@@ -118,7 +104,6 @@
 |https://t.me/cyb3rtr0nian|ONLINE|
 |https://t.me/cybdetective|ONLINE| News & Info Sharing |
 |https://t.me/cyberactiveXXII|ONLINE| CA XXII Hacktivist Gang |
-|https://t.me/CyberSecurityTechnologies|ONLINE|CyberSecurityTechnologies|
 |https://t.me/D3atr0y3d|OFFLINE| Data Leaks|
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos |
 |https://t.me/DailyCombos1|ONLINE| Combo List|
@@ -134,7 +119,6 @@
 |https://t.me/darxe_base|OFFLINE| Data Leaks |
 |https://t.me/data1eaks|ONLINE| |
 |https://t.me/Database_breached|OFFLINE| Data Leaks |
-|https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
 |https://t.me/databasemarkett|ONLINE|Database Market|
 |https://t.me/databreach|ONLINE| |
 |https://t.me/datacloudspace|OFFLINE| Combo List|
@@ -155,21 +139,16 @@
 |https://t.me/eaglecyberwashere|ONLINE|Eaglecyber|
 |https://t.me/ehdanstock|ONLINE| Selling Accounts |
 |https://t.me/eightbase|ONLINE| 8BASE |
-|https://t.me/eliteband|OFFLINE| Logs |
 |https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware |
 |https://t.me/EVILEAKSU|ONLINE| UNLISTEDLEAKS|
-|https://t.me/expertsa11m|ONLINE| Logs Market |
-|https://t.me/expertsa11m|ONLINE| Logs|
 |https://t.me/exploit_db_com|OFFLINE| Exploits |
 |https://t.me/exposedannouncements|OFFLINE|Exposed Forum|
-|https://t.me/fatecloud|ONLINE| Fatecloud Logs|
 |https://t.me/flannels|ONLINE| Market |
 |https://t.me/fr33d4t4|ONLINE| Fr33 d4t4 - stolen redline from other channels|
 |https://t.me/freeDEFAULFcloud|ONLINE| Defaulf Cloud (Redline Stealer)|
 |https://t.me/freedomf0x|ONLINE| |
 |https://t.me/freshtoolsnet|ONLINE|Freshtools Market|
 |https://t.me/friendastrokal|ONLINE| Combo List|
-|https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/fuckeddb|OFFLINE| |
 |https://t.me/GhostSecc|ONLINE| Data Leaks & Hacktivism group |
 |https://t.me/GitTools|ONLINE| |
@@ -193,7 +172,6 @@
 |https://t.me/HQ_COMBO|ONLINE|Data Breaches Provider|
 |https://t.me/HQCracking|ONLINE|Data Breaches Provider|
 |https://t.me/HQPROX|ONLINE|Proxy service|
-|https://t.me/HUBLOGS|OFFLINE| Redline Malware Logs |
 |https://t.me/hudyhstock|ONLINE| Selling Accounts |
 |https://t.me/hydramarketrebuild|ONLINE|Hydra Market Rebuild|
 |https://t.me/icrewhackers|ONLINE| |
@@ -213,13 +191,10 @@
 |https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|VALID|Large Hacking Group|
 |https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED| |
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig|VALID| Forum |
-|https://t.me/joinchat/aLzjwn_93JtkMDA8|VALID| Logs Market|
-|https://t.me/joinchat/Cyv2m5zFE6JmMjVi|VALID| Logs |
 |https://t.me/joinchat/VBAj4Hc6Xki5lG_H|EXPIRED| Data Leaks |
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|VALID| |
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0|EXPIRED| Data Leaks |
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|VALID| |
-|https://t.me/joinchat/ZST8YodAuzo2NGVk|VALID|Logs Market|
 |https://t.me/joker_reborn|ONLINE| Joker Reborn Redline Stealer |
 |https://t.me/JustAn0x|OFFLINE| Data Leaks |
 |https://t.me/karakurt_news|ONLINE| Karakurt|
@@ -248,7 +223,6 @@
 |https://t.me/leakes4|ONLINE| Data Leaks, Combo List|
 |https://t.me/leakinformation|OFFLINE|Data Leaks|
 |https://t.me/leaklicks|ONLINE| Data Leaks|
-|https://t.me/leaklogs_official|ONLINE|LeakLogs Official|
 |https://t.me/leaksdatabase|OFFLINE| Data Leaks|
 |https://t.me/LeaksData|ONLINE| Data Leaks|
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory|
@@ -260,17 +234,11 @@
 |https://t.me/Legion_Russia|OFFLINE| Legion Russia |
 |https://t.me/LEGIONLEAKER|ONLINE|Legion Leaker|
 |https://t.me/LockBit_APT|ONLINE| LockBit APT |
-|https://t.me/Log_Market_Place|ONLINE| Data Leaks|
-|https://t.me/logsgang2|ONLINE|Logs Market|
-|https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
 |https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider|
 |https://t.me/MaillAccessTop|OFFLINE| Data Leaks |
 |https://t.me/mailpassclub|OFFLINE| |
 |https://t.me/mailpasword|OFFLINE| |
-|https://t.me/MalwareLogs|ONLINE| Logs |
 |https://t.me/marketo_leaks|ONLINE| Data Leaks|
-|https://t.me/MarkLogsBot|OFFLINE| Logs Market |
-|https://t.me/marvelcloudRB|ONLINE| Marvel Logs|
 |https://t.me/MBCRANSOMWARE|OFFLINE| Ransomware Gang|
 |https://t.me/meganzshare|OFFLINE| |
 |https://t.me/membersofxaknet|ONLINE| |
@@ -278,7 +246,6 @@
 |https://t.me/MiladLeaks|ONLINE|Milad Leaks|
 |https://t.me/milkdude|ONLINE| Data Leaks|
 |https://t.me/minsaudebr|OFFLINE| Lapsus$ channel |
-|https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
 |https://t.me/MysteriousTeam0|ONLINE|Mysterious team bangladesh|
 |https://t.me/naosbase|ONLINE|DB / Data Leak Search Engine|
 |https://t.me/NetSurvivalist|ONLINE| General Hacking, Privacy |
@@ -292,7 +259,6 @@
 |https://t.me/O1chat|ONLINE| Market |
 |https://t.me/ObserverCloud|OFFLINE| Observer Cloud Redline Stealer (Harvests other channels) |
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial|
-|https://t.me/OneLogs|ONLINE| Redline Logs
 |https://t.me/OnePlusChat|ONLINE| |
 |https://t.me/opendataleaks|OFFLINE| Data Leaks |
 |https://t.me/openleak|ONLINE| Data Leaks |
@@ -303,7 +269,6 @@
 |https://t.me/+k56KDQRn8FplN2Qy|ONLINE|PHOENIX|
 |https://t.me/poenamarket|ONLINE|Poena Market|
 |https://t.me/privatecombos|OFFLINE| Data Leaks |
-|https://t.me/Privatedata77new|OFFLINE| Logs Market |
 |https://t.me/procoder_base|OFFLINE| Data Leaks |
 |https://t.me/proxy_bar|ONLINE| Exploits, Hacking and Leaks |
 |https://t.me/ProxyMTProto|ONLINE| |
@@ -311,12 +276,10 @@
 |https://t.me/pwnwiki_zhchannel|ONLINE| |
 |https://t.me/qZann|ONLINE| Data Leaks |
 |https://t.me/raidsecretforums|OFFLINE| Claims to be the backup channel of RaidForums |
-|https://t.me/raincloudlogs|ONLINE|Logs Market|
 |https://t.me/ransom_house|OFFLINE| RansomHouse official channel |
 |https://t.me/RansomTeam|ONLINE|RansomTeam  Chat|
 |https://t.me/RansomwareTeam|ONLINE| Ransomware Team|
 |https://t.me/ransomwatcher|ONLINE| Data Leaks |
-|https://t.me/redlogscloud|ONLINE| Redline Leaks |
 |https://t.me/reveng3rs|OFFLINE| Data Leaks |
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks|
 |https://t.me/sanaski|ONLINE| Configs, combos |
@@ -326,14 +289,11 @@
 |https://t.me/ShizoPrivacy|ONLINE| 0% Privacy|
 |https://t.me/SiegedSec|OFFLINE| Sieged Sec|
 |https://t.me/silentplug666|ONLINE| Market |
-|https://t.me/Sl1ddifree|ONLINE|Sl1ddi CLOUD FREE LOGS|
 |https://t.me/slivaidlocker|ONLINE| AiDLocker Group Data Leaks Channel|
 |https://t.me/slivnoviy123|ONLINE| Erernity Team Redline Stealer|
-|https://t.me/snatch_cloud|ONLINE| Redline Malware Logs |
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) |
 |https://t.me/SolomonUpdates|OFFLINE|Solomon market place updates|
 |https://t.me/spamsmtpcombo|ONLINE| Combo List |
-|https://t.me/Stealers_Logs_Group|OFFLINE| Stealer Logs |
 |https://t.me/StealerStore|ONLINE| Stealer Store|
 |https://t.me/StealerStore|ONLINE|Stealer Store|
 |https://t.me/stkdatabase|ONLINE| Mapper (former STK Database)|
@@ -359,10 +319,8 @@
 |https://t.me/weareaig|ONLINE| Atlas Intelligence Group |
 |https://t.me/webpwn|ONLINE| Hacking, Privacy |
 |https://t.me/weleakdatabase|OFFLINE| Data Leaks |
-|https://t.me/WillieCloudFreeLogs|OFFLINE| Willie Cloud Redline Leaks |
 |https://t.me/windmarketo|ONLINE| Data Leaks |
 |https://t.me/WLDBackup|OFFLINE| Data Leaks |
-|https://t.me/worldwidelogs|ONLINE| Data Leaks |
 |https://t.me/wwhsmi|ONLINE| WWH Forum |
 |https://t.me/x7seller|ONLINE|X7Root Seller|
 |https://t.me/xaknet_team|ONLINE| Killnet |
@@ -372,8 +330,6 @@
 |https://t.me/zer0daylab|ONLINE| Hacking, Leaks and News |
 |https://t.me/ZeroDay_TM|ONLINE| Original  ZeroDay  Community |
 |https://t.me/zerodayforums|ONLINE| ZeroDay Forums |
-|https://t.me/StarLinkCloud|ONLINE| STARLINK[CLOUD] Logs |
-|https://t.me/ArenaCloudFree|ONLINE| Arena Cloud Free Logs |
 |https://t.me/+7VXL5Gy9NUc1YzFl|VALID| Darknet chat|
 |https://t.me/TigerElectronicUnit|ONLINE|Electronic Tigers Unit |
 |https://t.me/ndtgroup_kh|OFFLINE| |
@@ -423,7 +379,6 @@
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team|
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive|
-|https://t.me/OBSERVERINFO|ONLINE|Logs aggregator|
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory|
 |https://t.me/+RxMyTFg9NYllZmU5|VALID|Waus Leaks|
 |https://t.me/SiegedSecc|OFFLINE|SiegedSec|
@@ -493,60 +448,8 @@
 |https://t.me/InfraShutdown|ONLINE|InfraShutdown - DDoS|
 |https://t.me/meris_botnet|ONLINE|Meris botnet|
 |https://t.me/redstresserorg|ONLINE|Meris botnet main channel|
-|https://t.me/+lOX1jn9YKS03ZTcy|ONLINE|Emirates&Team І (Stealer Logs)|
-|https://t.me/typicaltemshchik|ONLINE|WLFR Project (Stealer Logs)|
-|https://t.me/dnftm_cloud|ONLINE|DNFTM Cloud (Stealer Logs)|
-|https://t.me/CloudLeaksBR|ONLINE|Cloud Leaks BR (Stealer Logs)|
-|https://t.me/clouddvd|ONLINE|DVD Cloud (Stealer Logs)|
-|https://t.me/segacloud|ONLINE|Sega Cloud (Stealer Logs)|
-|https://t.me/realcloud0|ONLINE|RealCloud (Stealer Logs)|
-|https://t.me/+IqEnwfj7CLU1Yjcy|ONLINE|Invite Link - OMEGA Cloud (Stealer Logs)|
-|https://t.me/DarkSideCloud|ONLINE|DarkSide Cloud (Stealer Logs)|
-|https://t.me/+FnHchisk1aU0ODVi|ONLINE|Invite Link - Harmony Cloud (Stealer Logs)|
-|https://t.me/chrono_logs|ONLINE|Chrono Logs (Stealer Logs)|
-|https://t.me/+lGosRlDC-UJhMDYy|ONLINE|Invite Link - Luffich Cloud (Stealer Logs)|
-|https://t.me/logs_cloud_free_true|ONLINE|БЕСПЛАТНЫЕ ЛОГИ (Stealer Logs)|
-|https://t.me/stormcloudlogs|ONLINE|Storm Cloud (Stealer Logs)|
 |https://t.me/SNAKEDBS|ONLINE|Nuttela Combo's (Repackaged Combo Lists)|
-|https://t.me/tichancloud|ONLINE|Tichan Cloud (Stealer Logs)|
-|https://t.me/BHF_CLOUD|ONLINE|BHF Cloud (Stealer Logs)|
-|https://t.me/HelloKittyCloud|ONLINE|HelloKitty Log Cloud (Stealer Logs)|
-|https://t.me/Skyl1neCloud|ONLINE|Skyline Cloud (Stealer Logs)|
-|https://t.me/solariscloud|ONLINE|Solaris Cloud (Stealer Logs)|
-|https://t.me/dragoncloud1|ONLINE|Dragon Cloud (Stealer Logs)|
-|https://t.me/OCTOPUSCLOUDLOGS|ONLINE|Octopus Logs (Combo Lists)|
-|https://t.me/TinyLogs|ONLINE|Tiny Cloud Logs (Stealer Logs)|
-|https://t.me/powercloudlogs|ONLINE|Power Cloud Logs (Stealer Logs)|
-|https://t.me/darknescloud|ONLINE|Darkness Cloud (Stealer Logs)|
-|https://t.me/gameslogscloud|ONLINE|Game Logs (Stealer Logs)|
-|https://t.me/Mariarticloud|ONLINE|Mariatri Cloud (Repackaged Stealer Logs)|
-|https://t.me/wlfrcloud|ONLINE|WLFR Project Cloud (Stealer Logs)|
-|https://t.me/LulzsecCloudLogs|ONLINE|Lulzsec Cloud Logs (Filtered Stealer Logs/Cookies)|
-|https://t.me/+-ol2dIgjU3YwYzAy|ONLINE|Invite Link - Stone Island Cloud Logs (Stealer Logs)|
-|https://t.me/werd1kcloud|ONLINE|Werd Cloud Logs (Repackaged Stealer Logs)|
-|https://t.me/BurnCloudLogs|ONLINE|Burn Cloud Logs (Stealer Logs)|
-|https://t.me/mercedesbenzcloud|ONLINE|Arcane Logs (Stealer Logs)|
-|https://t.me/PegasusCloud|ONLINE|Pegasus Cloud (Stealer Logs)|
-|https://t.me/SamuraiCloud|ONLINE|Samurai Cloud (Stealer Logs)|
-|https://t.me/EuropeCloud|ONLINE|Europe Cloud (Stealer Logs)|
-|https://t.me/free_logs_cloud_ArtHouse|ONLINE|Arthouse Cloud (Stealer Logs)|
-|https://t.me/ganjacloud|ONLINE|Ganja Cloud (Stealer Logs)|
-|https://t.me/enigmaLogS|ONLINE|Enigma Reborn (Stealer Logs)|
-|https://t.me/Redscritp|ONLINE|Redscript Logs (Stealer Logs)|
 |https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
-|https://t.me/stonecloudtg|ONLINE|StoneCloud Logs (Stealer Logs)|
-|https://t.me/CLOUDCASPERLINK|ONLINE|Casper Cloud (Stealer Logs)|
-|https://t.me/mooncloudfree|ONLINE|Moon Cloud (Stealer Logs)|
-|https://t.me/ManticoreCloud|ONLINE|Manticore (Stealer Logs)|
-|https://t.me/Trident_Cloud|ONLINE|Trident Cloud (Stealer Logs)|
-|https://t.me/+2ofZFLh--cdhYzJh|ONLINE|Invite Link - Neverhode Logs (Stealer Logs)|
-|https://t.me/ATM_LOGS|ONLINE|ATM Cloud (Stealer Logs)|
-|https://t.me/Logs_Tizix|ONLINE|Tizix Cloud (Stealer Logs)|
-|https://t.me/+uuz8-qLUNeU2ZmI0|ONLINE|Invite Link - DaisyCloud New (Stealer Logs)|
-|https://t.me/MaisonMarjelaCloud|ONLINE|M.M Cloud (Stealer Logs)|
-|https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud (Stealer Logs)|
-|https://t.me/miragelogscloud|ONLINE|Mirage Cloud (Stealer Logs)|
-|https://t.me/FehuCloud|ONLINE|Fehu Cloud (Stealer Logs)|
 |https://t.me/Arab_Hackers_Union|ONLINE|Arab Hackers Union|
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team|
-|https://t.me/garudasec4|Garuda Security|
+|https://t.me/garudasec4|ONLINE|Garuda Security|

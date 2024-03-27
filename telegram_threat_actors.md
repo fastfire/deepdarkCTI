@@ -452,3 +452,4 @@
 |https://t.me/Arab_Hackers_Union|ONLINE|Arab Hackers Union|
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team|
 |https://t.me/garudasec4|ONLINE|Garuda Security|
+|https://t.me/GroupLapsus|ONLINE|Group Lapsus|

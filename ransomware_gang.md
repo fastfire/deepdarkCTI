@@ -269,6 +269,7 @@
 |[RANZY/AKO](http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion)|OFFLINE|||
 |[REDALERT](http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion)|OFFLINE|||
 |[REDALERT (Victims page)](http://je2yizds7r4uidk6uixfxwjj5w7or2agit4aj66l4lrhdbrvr3lsymid.onion)|OFFLINE|||
+|[RED RANSOMWARE GROUP](http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion)|ONLINE|||
 |[RELIC](https://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion)|OFFLINE|||
 |[REVIL (Old)](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)|OFFLINE|||
 |[REVIL (New)](http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/Blog)|OFFLINE|||

@@ -82,6 +82,7 @@
 |[ODIN](https://odinshop.io)| ONLINE | |
 |[ODIN](https://odinshop.se)| ONLINE | |
 |[ODIN](https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion)| ONLINE | |
+|[ONI.GG](https://oni.gg) ONLINE | https://t.me/oniforum - https://t.me/onichatter |
 |[ONLYONE](https://only-one.cc)| OFFLINE | |
 |[ORVX SHOP](https://orvx.pw/)| ONLINE | |
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |

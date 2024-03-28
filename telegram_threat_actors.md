@@ -453,3 +453,4 @@
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team|
 |https://t.me/garudasec4|ONLINE|Garuda Security|
 |https://t.me/GroupLapsus|ONLINE|Group Lapsus|
+|https://t.me/zerodaymarkets|ONLINE|Zeroday Market|Exploit sell|

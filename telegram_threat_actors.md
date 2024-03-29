@@ -454,3 +454,4 @@
 |https://t.me/garudasec4|ONLINE|Garuda Security|
 |https://t.me/GroupLapsus|ONLINE|Group Lapsus|
 |https://t.me/zerodaymarkets|ONLINE|Zeroday Market|Exploit sell|
+|https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|

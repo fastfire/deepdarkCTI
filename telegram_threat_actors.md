@@ -417,7 +417,7 @@
 |https://t.me/+ykoIXVJBirI0NzU0|ONLINE|Leaks & Breaches||
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
 |https://t.me/+lYYyb3exPNFjNmRi|ONLINE|Cyber Dragon||
-|https://t.me/ANONM0S_RU|ONLINE|Anonymous Russia||
+|https://t.me/ANONM0S_RU|OFFLINE|Anonymous Russia||
 |https://t.me/BEARSPAW_RESERVS|ONLINE|BearSpaw (now they are Digital Revolt)||
 |https://t.me/Digital_Revolt_hack|ONLINE|Digital Revolt||
 |https://t.me/BEARITARMY|ONLINE|BearITArmy||

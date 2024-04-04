@@ -117,6 +117,7 @@
 |[WAUS LEAKS](https://wausleaks.com)| OFFLINE | |
 |[WAUS LEAKS(new)](https://waus.io)| OFFLINE | |
 |[WAUS LEAKS(new)](http://waus.ninja)| ONLINE | |
+|[WAUS LEAKS(new)](http://waus.me)| ONLINE | |
 |[WHM market (1)](http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion)| OFFLINE | |
 |[WHM market (2)](http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion)| OFFLINE | |
 |[WINXXX (Dark)](http://cvvamoggrcopaeehscyic6xu3q5lbameo3kv3q3ptpfa5bsq2vrbjsad.onion)| ONLINE | |

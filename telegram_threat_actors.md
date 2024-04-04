@@ -433,7 +433,7 @@
 |https://t.me/CyberArmyofRussia_Reborn|ONLINE|Народная CyberАрмия||
 |https://t.me/hackberegini|ONLINE|Beregini||
 |https://t.me/ServerKillers|ONLINE|Server Killers||
-|https://t.me/+SrY0b7MukCVmNDk1|ONLINE|22C||
+|https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/CoupTeam|ONLINE|Coup Team||
 |https://t.me/lulzsecmuslimsworld|ONLINE|Lulzsec Muslims||
 |https://t.me/SylhetGangSgOfficial|ONLINE|Sylhet Gang-SG||

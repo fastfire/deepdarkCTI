@@ -1,6 +1,7 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
 |[0-DAY](https://0-day.shop)| ONLINE | |
+|[Darth maul shop](https://1977.ws/)| ONLINE | |
 |[2EASY](https://2easy.shop)| OFFLINE | |
 |[2EASY](https://2easy.cc)| ONLINE | |
 |[ALLWORLDCARDS](https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
@@ -87,8 +88,10 @@
 |[ODIN](https://odinshop.se)| ONLINE | |
 |[ODIN](https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion)| ONLINE | |
 |[OMG!OMG!OMG!](https://omgomgdarknetmarketefl4onion.top)| ONLINE | |
+|[ONI.GG](https://oni.gg) ONLINE | https://t.me/oniforum - https://t.me/onichatter |
 |[OMG!OMG!OMG! (dark)](http://omgomghirvo6cfqssx7g65ncri26cljvgvcdbtdmlvnpur4palytqhyd.onion)| ONLINE | |
 |[ONLYONE](https://only-one.cc)| OFFLINE | |
+|[ORVX SHOP](https://orvx.pw/)| ONLINE | |
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |
 |[RESCATOR](https://rescator.cn)| ONLINE | |
@@ -121,6 +124,7 @@
 |[WAUS LEAKS](https://wausleaks.com)| OFFLINE | |
 |[WAUS LEAKS(new)](https://waus.io)| OFFLINE | |
 |[WAUS LEAKS(new)](http://waus.ninja)| ONLINE | |
+|[WAUS LEAKS(new)](http://waus.me)| ONLINE | |
 |[WHM market (1)](http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion)| OFFLINE | |
 |[WHM market (2)](http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion)| OFFLINE | |
 |[WINXXX (Dark)](http://cvvamoggrcopaeehscyic6xu3q5lbameo3kv3q3ptpfa5bsq2vrbjsad.onion)| ONLINE | |
@@ -128,3 +132,12 @@
 |[XLEET (Dark)](http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion)| ONLINE | |
 |[XLEET (Deep)](https://xleet.is)| ONLINE | |
 |[ZISMO](https://zismo.biz)| ONLINE | |
+|[FIREARMS 72 (Deep)](http://fa72ibhl677j77dq4rt6bmiplwhpfymq2glwl5e2i563vkrcg4elfkyd.onion)| ONLINE | |
+|[CAREBBAEN (Deep)](http://cardpl74ltmwe4o7pgpefljcng6qr36cnn7gzer2wermedxz3volxkqd.onion)| ONLINE | |
+|[VORON MARKET (Deep)](http://vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion)| ONLINE | |
+|[WOLF BANK HACKER (Deep)](http://wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion)| ONLINE | |
+|[DARK TOOLS (Deep)](http://darkhuo35yiohrsdlbdhhrtl5ds7jtv5x2cjusqqebalj5vtrdqgqoid.onion)| ONLINE | |
+|[UNDERGROUND MARKET (Deep)](http://undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion)| ONLINE | |
+|[CC SALE (Deep)](http://csalryx3xenotyljyttsju6jfthrjyt6ijwd3zzykhkpyfoeao2nxaqd.onion)| ONLINE | |
+|[CREDIT CARD DUMPS (Deep)](http://cdumhlyjn3q6rzed5jtqzramrtznaahics5d2zhpspstw5stfkew3qqd.onion)| ONLINE | |
+|[PREPAID CARD STORE (Deep)](http://preplyqxgvapegf44xvv3c2kgccyi7enmcbqpck63j54c6av4fj2e2qd.onion)| ONLINE | |

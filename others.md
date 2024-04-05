@@ -10,6 +10,7 @@
 |[BLACKVAULT](https://blackvault.cc)| ONLINE| |
 |[CVE Trends - crowdsourced CVE intel](https://cvetrends.com/)| OFFLINE | Offline due changes in Twitter API |
 |[DARK LEAK MARKET](http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion)| OFFLINE | |
+|[DARK ARMY](http://darkarmy5dhdw5jbml2mitgpaorzdiubxxiq5tdzsqidz55kygsrz7id.onion)| ONLINE | |
 |[DARK FAIL](https://dark.fail)| ONLINE | |
 |[DARKFEED LIVE RANSOMWARE MONITOR](https://darkfeed.io/indexransomware)| OFFLINE | |
 |[DARKFEED RANSOMWIKI](https://darkfeed.io/ransomwiki)| OFFLINE | |

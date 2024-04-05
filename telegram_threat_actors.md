@@ -457,3 +457,4 @@
 |https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
 |https://t.me/cybercourt_io|ONLINE|Cyber Court||
 |https://t.me/NetHunt3r|ONLINE|NET Hunter||
+|https://t.me/russiagoodbuy_rgb_team|ONLINE|RGB Team (https://rgb-team.com)|Data Leak|

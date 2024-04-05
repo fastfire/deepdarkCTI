@@ -45,6 +45,7 @@
 |[CRDPRO](https://crdpro.cc)| ONLINE | |
 |[CRIMENETWORK (Dark)](http://cnw4acab23przeum6ios6pw63ivxxbrvpclz5yssflkos6ano6oq4fqd.onion)| ONLINE | |
 |[CRIMENETWORK (Deep)](http://crime.to)| ONLINE | |
+|[CRIMENOW](http://crimenow.is)| ONLINE | |
 |[CRYPTBB](http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion)| ONLINE | |
 |[CRYPTOCURRENCY.TECH](https://forum.cryptocurrency.tech)| ONLINE | |
 |[CRYPTOFF](https://forum.cryptoff.org)| ONLINE | |
@@ -61,6 +62,7 @@
 |[DARKMARKET.CX](https://darkmarket.cx)| OFFLINE | |
 |[DARKMONEY](https://darkmoney.lc)| ONLINE | |
 |[DARKNET](https://darknet.ug)| ONLINE | |
+|[DARKNET ARMY](http://dna777ucpo4unwxrzw5mzs4iqm5qz3uepw3k5mvwbt7tnufryvsgy5yd.onion)| ONLINE | |
 |[DARKNETWORLD](https://www.darknetworld.com)| OFFLINE | |
 |[DARKSIDE](https://www.dark-side.black)| OFFLINE | |
 |[DATACLOUD](https://datacloud.space)| ONLINE | |
@@ -68,7 +70,8 @@
 |[DEFCON](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion)| OFFLINE | |
 |[DEMONFORUMS](https://demonforums.net)| ONLINE | |
 |[DRDARK](https://drdark.ru)| ONLINE | |
-|[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| ONLINE | |
+|[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| OFFLINE | |
+|[DREAD](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion)| ONLINE | |
 |[DUBLIKAT.CLUB](https://at.dublikat.club)| ONLINE | |
 |[DUBLIKAT.PRO](https://my.dublikat.pro)| OFFLINE | |
 |[DUMPED](https://dumped.to)| ONLINE| |

@@ -497,3 +497,7 @@
 |https://t.me/StmXGhostLocker|ONLINE|Stm.X GhostLocker V2.0 Service|
 |https://t.me/+shM7Oo9tGklhYWE6|ONLINE|Federal Legion|
 |https://t.me/six62ix|ONLINE|62IX GROUP|
+|https://t.me/Handala_hack|ONLINE|Handala Hack|
+|https://t.me/InfraShutdown|ONLINE|InfraShutdown - DDoS|
+|https://t.me/meris_botnet|ONLINE|Meris botnet|
+|https://t.me/redstresserorg|ONLINE|Meris botnet main channel|

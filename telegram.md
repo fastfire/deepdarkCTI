@@ -413,6 +413,7 @@
 |https://t.me/APTIRAN|ONLINE|APT Iran|
 |https://t.me/rdpstealer|ONLINE|Rdp Stealer|
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup|
+|https://t.me/ZulikGroupRU|ONLINE|ZulikGroup|
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat|
 |https://t.me/jambicyberteam|OFFLINE|Jambi Cyber Team|
 |https://t.me/FiveFamilies|ONLINE|FiveFamilies|
@@ -494,3 +495,5 @@
 |https://t.me/powerproof_r3fusal|ONLINE| DDoS Powerproof|
 |https://t.me/nightmare_hacker|ONLINE|NIGHTMARE|
 |https://t.me/StmXGhostLocker|ONLINE|Stm.X GhostLocker V2.0 Service|
+|https://t.me/+shM7Oo9tGklhYWE6|ONLINE|Federal Legion|
+|https://t.me/six62ix|ONLINE|62IX GROUP|

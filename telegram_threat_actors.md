@@ -343,7 +343,7 @@
 |https://t.me/awsleaks|OFFLINE|AWS Leaks||
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|Ransomware, Exfiltration|
 |https://t.me/GhostSecS|ONLINE|GhostSec Service|Ransomware, Exfiltration|
-|https://t.me/CyberCatChat|ONLINE|Cyber Cat chat||
+|https://t.me/CyberCatChat|OFFLINE|Cyber Cat chat||
 |https://t.me/KryptonNetworks|ONLINE|Krypton||
 |https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat||
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel||
@@ -439,7 +439,7 @@
 |https://t.me/SylhetGangSgOfficial|ONLINE|Sylhet Gang-SG||
 |https://t.me/AnonCollective|ONLINE|Anonymous Collective||
 |https://t.me/WeJustEvil|ONLINE|Just Evil||
-|https://t.me/horusteam_official|ONLINE|Horus Evolution||
+|https://t.me/horusteam_official|OFFLINE|Horus Evolution||
 |https://t.me/HorusForumRus|ONLINE|Horus Forum||
 |https://t.me/killmilk_rus|ONLINE|DARKNET||
 |https://t.me/informZarya|ONLINE|Zarya||

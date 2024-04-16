@@ -25,7 +25,8 @@
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.cx)| ONLINE | |
+|[BREACH FORUMS](https://breachforums.cx)| OFFLINE | |
+|[BREACH FORUMS](https://breachforums.st)| ONLINE | |
 |[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| ONLINE | |
 |[BREACHED (Dark)](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion)| OFFLINE | |
 |[BREACHED (Deep)](https://breached.co)| OFFLINE | |

@@ -426,7 +426,7 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/+WbDFfZ2OOvdjY2M0|ONLINE|Deanon ClubV7||
 |https://t.me/LulzSecOff|OFFLINE|LulzSec||
-|https://t.me/lapsusfr|ONLINE|LAPSUS$ France||
+|https://t.me/lapsusfr|OFFLINE|LAPSUS$ France||
 |https://t.me/R00TK1TOFF|ONLINE||
 |https://t.me/HackForceAll|ONLINE|HackForce|R00TK1T ISC CYBER TEAM||
 |https://t.me/GroupLapsus|ONLINE|Lapsus$ Group||

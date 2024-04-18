@@ -458,3 +458,6 @@
 |https://t.me/cybercourt_io|ONLINE|Cyber Court||
 |https://t.me/NetHunt3r|ONLINE|NET Hunter||
 |https://t.me/russiagoodbuy_rgb_team|ONLINE|RGB Team (https://rgb-team.com)|Data Leak|
+|http://t.me/CyberArmyofRussia_Reborn|ONLINE|||
+|https://t.me/solntsepekZ|ONLINE|||
+|https://t.me/xaknet_team|ONLINE|||

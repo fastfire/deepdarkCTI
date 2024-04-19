@@ -183,16 +183,19 @@
 |[RANSOMED](http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion) | ONLINE | |
 |[REVERSING](https://reversing.center) | ONLINE | |
 |[RF-CHEAT](https://www.rf-cheats.ru) | ONLINE | |
-|[RUTOR (Dark)](http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion)| ONLINE | |
+|[RUTOR (Dark)](http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion)| OFFLINE | |
+|[RUTOR (Dark)](http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion)| ONLINE | |
+|[RUTOR (Dark)](http://rutorclubwiypaf63caqzlqwtcxqu5w6req6h7bjnvdlm4m7tddiwoyd.onion)| ONLINE | |
+|[RUTOR (Dark)](http://rutordark63xripv2a3skfrgjonvr3rqawcdpj2zcbw3sigkn6l3xpad.onion)| ONLINE | |
 |[RUTOR (Deep)](https://darknet.rutor.nl) | ONLINE | |
-|[RUTOR (Surface)](http://rutor.ac) | ONLINE ||
-|[RUTOR (Surface)](http://rutor.fr) | ONLINE ||
-|[RUTOR (Surface)](http://rutor.gs) | ONLINE ||
-|[RUTOR (Surface)](http://rutor.info) | ONLINE ||
-|[RUTOR (Surface)](http://rutor.is) | ONLINE ||
-|[RUTOR (Surface)](http://rutor.la) | ONLINE ||
-|[RUTOR (Surface)](http://rutor.li) | ONLINE ||
-|[RUTOR (Surface)](http://rutor.live) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.ac) | OFFLINE ||
+|[RUTOR (Surface)](http://rutor.fr) | OFFLINE ||
+|[RUTOR (Surface)](http://rutor.gs) | OFFLINE ||
+|[RUTOR (Surface - torrent)](http://rutor.info) | ONLINE ||
+|[RUTOR (Surface - torrent)](http://rutor.is) | ONLINE ||
+|[RUTOR (Surface)](http://rutor.la) | OFFLINE ||
+|[RUTOR (Surface)](http://rutor.li) | OFFLINE ||
+|[RUTOR (Surface)](http://rutor.live) | OFFLINE ||
 |[SECRET FORUM PROPAGANDA](http://qvwje7edtrfby6pfnm3q7o3lju22mfx3xsjyl3y33l66sbq3qcnlmvad.onion) | ONLINE | |
 |[SEOPIRAT](https://seopirat.club) | ONLINE ||
 |[SINFUL](https://sinfulsite.com)| ONLINE | |

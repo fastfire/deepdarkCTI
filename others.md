@@ -10,6 +10,7 @@
 |[BLACKVAULT](https://blackvault.cc)| ONLINE| |
 |[CVE Trends - crowdsourced CVE intel](https://cvetrends.com/)| OFFLINE | Offline due changes in Twitter API |
 |[DARK LEAK MARKET](http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion)| OFFLINE | |
+|[DARK ARMY](http://darkarmy5dhdw5jbml2mitgpaorzdiubxxiq5tdzsqidz55kygsrz7id.onion)| ONLINE | |
 |[DARK FAIL](https://dark.fail)| ONLINE | |
 |[DARKFEED LIVE RANSOMWARE MONITOR](https://darkfeed.io/indexransomware)| OFFLINE | |
 |[DARKFEED RANSOMWIKI](https://darkfeed.io/ransomwiki)| OFFLINE | |
@@ -44,5 +45,5 @@
 |[UKRAINE LEAK](http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion)| ONLINE | |
 |[VISITOR SEARCH ENGINE](http://visitorfi5kl7q7i.onion)| OFFLINE | |
 |[VXVAULT](http://vxvault.net/ViriList.php)| ONLINE | |
-|[ZONE-H](https://www.zone-h.org)| ONLINE | |
 |[VX-Underground](https://www.vx-underground.org/#E:/root)| ONLINE | |
+|[TELEGRAM FRAUDSTER GLOSSARY](https://docs.google.com/spreadsheets/d/1-ICFqnnm0DryaVfCdp7NwleGG03pJorT63bEMPBmji8/htmlview)| ONLINE | |

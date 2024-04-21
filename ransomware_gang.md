@@ -112,6 +112,7 @@
 |[ECH0RAIX](http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion)|OFFLINE|||
 |[ENDURANCE](http://h44jyyfomcbnnw5dha7zgwgkvpzbzbdyx2onu4fxaa5smxrgbjgq7had.onion/)|OFFLINE|||
 |[EGREGOR](https://egregornews.com)|OFFLINE|||
+|[EMBARGO](http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion)|ONLINE|||
 |[ENTROPY](http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion)|OFFLINE||
 |[EP918](http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion)|OFFLINE|||
 |[EVEREST](http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion)|ONLINE|||

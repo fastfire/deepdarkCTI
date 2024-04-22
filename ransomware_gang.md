@@ -114,6 +114,7 @@
 |[EGREGOR](https://egregornews.com)|OFFLINE|||
 |[EMBARGO](http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion)|ONLINE|||
 |[ENTROPY](http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion)|OFFLINE||
+|[ERALEIGN](http://eraleignews.com)|ONLINE|||
 |[EP918](http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion)|OFFLINE|||
 |[EVEREST](http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion)|ONLINE|||
 |[EVILCORP](http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion)|OFFLINE|||
@@ -248,7 +249,7 @@
 |[PYSA](http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html)|OFFLINE|||
 |[QILIN (Victims page)](http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion)|OFFLINE|||
 |[QILIN](http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/)|ONLINE||https://t.me/+OVXlbwml5bE5YWQ0|
-|[QIULONG](http://62brsjf2w77ihz5paods33cdgqnon54gjns5nmag3hmqv6fcwamtkmad.onion(|ONLINE|||
+|[QIULONG](http://62brsjf2w77ihz5paods33cdgqnon54gjns5nmag3hmqv6fcwamtkmad.onion)|ONLINE|||
 |[QLOCKER](http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion)|OFFLINE|||
 |[QUANTUM](http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion)|ONLINE|||
 |[QUANTUM (clearnet)](http://quantumleap.quest)|OFFLINE|||

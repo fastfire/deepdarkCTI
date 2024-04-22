@@ -61,7 +61,7 @@
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet|
 |https://t.me/blueteamzone|OFFLINE||
 |https://t.me/boosty66brvte|ONLINE| Data Leaks ||
-|https://t.me/R00TK1TDB|ONLINE| R00tk1t DB ||
+|https://t.me/R00TK1TDB|OFFLINE| R00tk1t DB ||
 |https://t.me/R00TK1TOFF |ONLINE| R00tk1t Cyber Team ||
 |https://t.me/breachdetector|ONLINE||
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor||

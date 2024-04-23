@@ -461,3 +461,5 @@
 |http://t.me/CyberArmyofRussia_Reborn|ONLINE|Sandworm||
 |https://t.me/solntsepekZ|ONLINE|Sandworm||
 |https://t.me/xaknet_team|ONLINE|Sandworm||
+|https://t.me/NetHunt3r|ONLINE|NetHunt3r Group (pro Palestine)|Data Leak|
+|https://t.me/cybercourt_io|ONLINE|CyberCourt Group (pro Palestine) - https://cybercourt.io|Data Leak|

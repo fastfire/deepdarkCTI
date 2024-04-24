@@ -335,7 +335,7 @@
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| ||
 |https://t.me/anoncambodia|OFFLINE| ||
 |https://t.me/INDIAN_CYBER_FORCE|ONLINE| ||
-|https://t.me/vulzsec_official|ONLINE| ||
+|https://t.me/vulzsec_official|OFFLINE| ||
 |https://t.me/dontleakmydata|OFFLINE|DontLeakMyData||
 |https://t.me/blackvaultcc|ONLINE|Blackvault||
 |https://t.me/ExploitService|ONLINE|Exploit Service||

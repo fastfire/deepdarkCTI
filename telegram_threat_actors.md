@@ -205,7 +205,7 @@
 |https://t.me/KillnetChatLATAM|ONLINE|KillnetLATAM chat||
 |https://t.me/KILLNETddos|ONLINE| Killnet DDoS |DDoS|
 |https://t.me/KillnetLATAM|OFFLINE|KillneLATAM channel||
-|https://t.me/Killneto|ONLINE|Killnet Officiale (with invites for closed channel)|
+|https://t.me/Killneto|OFFLINE|Killnet Officiale (with invites for closed channel)|
 |https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider||
 |https://t.me/Kristina_Pass_RF|OFFLINE| Data Leaks, Passport Scans||
 |https://t.me/Lapsussaudechat|OFFLINE| Lapsus$ channel (new) ||

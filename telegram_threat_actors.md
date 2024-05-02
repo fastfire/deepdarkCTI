@@ -110,7 +110,7 @@
 |https://t.me/DailyCombos|ONLINE| Combo List||
 |https://t.me/dailydarkweb|ONLINE| Data Leaks ||
 |https://t.me/DarkBitChannel|ONLINE|Darkbit Channel||
-|https://t.me/darkclubpw|ONLINE| Dark Club Market ||
+|https://t.me/darkclubpw|OFFLINE| Dark Club Market ||
 |https://t.me/DarkfeedNews|ONLINE| News ||
 |https://t.me/DarkForums|ONLINE|Dark Forums||
 |https://t.me/darknet_br|ONLINE| ||
@@ -404,7 +404,7 @@
 |https://t.me/user_sec|OFFLINE|UserSec||
 |https://t.me/justice_homeland|ONLINE|Homeland Justice||
 |https://t.me/QuartzSec|OFFLINE|QuartzSec||
-|https://t.me/APTANALYSIS|ONLINE|Exploits||
+|https://t.me/APTANALYSIS|OFFLINE|Exploits||
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database||
 |https://t.me/kiborg_leak|OFFLINE|Kiborg Leak (Alphabank)||
 |https://t.me/xxShad0dexx|ONLINE|Shad0de||

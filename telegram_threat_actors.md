@@ -467,3 +467,4 @@
 |https://t.me/DarkForumsME|ONLINE|Dark Forums|Cyber crime forum|
 |https://t.me/AnonymousEgypt|ONLINE|Anonymous Egypt|Data Leak|
 |https://t.me/Matryoshka424|ONLINE|Matryoshka424|DDoS|
+|https://t.me/highs0c1ety|ONLINE|High Society|DDoS|

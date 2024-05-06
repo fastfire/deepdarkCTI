@@ -414,7 +414,7 @@
 |https://t.me/leak_db1|ONLINE|d3ltaboys group 1 (DB Leaks) - Backup||
 |https://t.me/leak_db3|ONLINE|d3ltaboys group 3 (DB Leaks) - Backup||
 |https://t.me/LCdatabase|ONLINE|Low-Cost-Database||
-|https://t.me/+ykoIXVJBirI0NzU0|ONLINE|Leaks & Breaches||
+|https://t.me/+ykoIXVJBirI0NzU0|OFFLINE|Leaks & Breaches||
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
 |https://t.me/+lYYyb3exPNFjNmRi|ONLINE|Cyber Dragon||
 |https://t.me/ANONM0S_RU|OFFLINE|Anonymous Russia||

@@ -469,3 +469,5 @@
 |https://t.me/Matryoshka424|ONLINE|Matryoshka424|DDoS|
 |https://t.me/highs0c1ety|ONLINE|High Society|DDoS|
 |https://t.me/user1_pycc|ONLINE|user1|DDoS and Data Leak|
+|https://t.me/shadowseekers5|ONLINE|Shadow Seekers|Data Leak|
+|https://t.me/anon_sec_Official|Anon Sec|Data Leak|

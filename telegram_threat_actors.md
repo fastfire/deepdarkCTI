@@ -473,3 +473,4 @@
 |https://t.me/anon_sec_Official|ONLINE|Anon Sec|Data Leak|
 |https://t.me/breachedannouncements|ONLINE|Breach Forum Announcements||
 |https://t.me/SparrowCorp|ONLINE|SparrowCorp||
+|https://t.me/breachchat|ONLINE|Jacuzzi 2.0||

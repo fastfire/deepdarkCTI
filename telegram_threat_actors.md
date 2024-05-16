@@ -472,3 +472,4 @@
 |https://t.me/shadowseekers5|ONLINE|Shadow Seekers|Data Leak|
 |https://t.me/anon_sec_Official|ONLINE|Anon Sec|Data Leak|
 |https://t.me/breachedannouncements|ONLINE|Breach Forum Announcements||
+|https://t.me/SparrowCorp|ONLINE|SparrowCorp||

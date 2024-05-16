@@ -258,7 +258,7 @@
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|ONLINE| Market ||
 |https://t.me/ObserverCloud|OFFLINE| Observer Cloud Redline Stealer (Harvests other channels) |Infostealer|
-|https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial||
+|https://t.me/OfficialBaphomet|Seized by FBI|BaphometOfficial||
 |https://t.me/OnePlusChat|ONLINE| ||
 |https://t.me/opendataleaks|OFFLINE| Data Leaks ||
 |https://t.me/openleak|ONLINE| Data Leaks ||

@@ -474,3 +474,4 @@
 |https://t.me/breachedannouncements|ONLINE|Breach Forum Announcements||
 |https://t.me/SparrowCorp|ONLINE|SparrowCorp||
 |https://t.me/breachchat|ONLINE|Jacuzzi 2.0||
+|https://t.me/LockBitSuppRaaS|ONLINE|LockBitSupp|Ransomware gang|

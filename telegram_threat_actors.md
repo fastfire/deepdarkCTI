@@ -475,3 +475,4 @@
 |https://t.me/SparrowCorp|ONLINE|SparrowCorp||
 |https://t.me/breachchat|ONLINE|Jacuzzi 2.0||
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
+|https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|

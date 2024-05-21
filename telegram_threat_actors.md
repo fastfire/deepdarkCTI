@@ -373,7 +373,7 @@
 |https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches||
 |https://t.me/MalwareForums|ONLINE|Malware Forums||
 |https://t.me/anzu_team|ONLINE|Anzu Team||
-|https://t.me/+eRl4m-fdPl8yZTUx|VALID|Snatch channel||
+|https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
 |https://t.me/turkhckteam|ONLINE|Turk Hack Team||
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|DDoS|
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||

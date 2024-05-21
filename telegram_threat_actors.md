@@ -477,4 +477,4 @@
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
 |https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/SkidbinSITE|ONLINE|Skidbin|Doxing|
-|https://t.me/sixtysixdata|ONLINE|66SLAVS Datagroup|Data breach|
+|https://t.me/sixtysixdata|ONLINE|66SLAVS Datagroup|Data Leak|

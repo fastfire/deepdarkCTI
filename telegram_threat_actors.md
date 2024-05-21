@@ -379,7 +379,7 @@
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive||
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory||
-|https://t.me/+RxMyTFg9NYllZmU5|VALID|Waus Leaks||
+|https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
 |https://t.me/SiegedSecc|OFFLINE|SiegedSec||
 |https://t.me/CyberAveng3rs|ONLINE|Cyber Aveng3rs||
 |https://t.me/AC3HCYBER|ONLINE|ACEH||

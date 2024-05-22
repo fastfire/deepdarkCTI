@@ -500,3 +500,5 @@
 |https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs||
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
 |https://t.me/glorysec|ONLINE|GlorySec||
+|https://t.me/hack_n3t|ONLINE|HackNeT||
+|https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||

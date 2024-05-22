@@ -182,6 +182,7 @@
 |https://t.me/illsvc|ONLINE|Illicit Service||
 |https://t.me/Industrial_Spy|ONLINE| Industrial Spy ||
 |https://t.me/infinity_hackers_group|ONLINE|Infinity Hackers By||
+|https://t.me/INFINITY_HACKERSS|ONLINE|Infinity Forum||
 |https://t.me/intelrepo|OFFLINE|Spectre's Intel Repository||
 |https://t.me/intelx_io|OFFLINE| intelx - infosec||
 |https://t.me/itarmyofukraine2022|ONLINE| ||
@@ -440,6 +441,8 @@
 |https://t.me/AnonCollective|ONLINE|Anonymous Collective||
 |https://t.me/WeJustEvil|ONLINE|Just Evil||
 |https://t.me/horusteam_official|OFFLINE|Horus Evolution||
+|https://t.me/horusteam_officiall|ONLINE|Horus Evolution||
+|https://t.me/horus_reservs|ONLINE|Horus Evolution reserve||
 |https://t.me/HorusForumRus|ONLINE|Horus Forum||
 |https://t.me/killmilk_rus|ONLINE|DARKNET||
 |https://t.me/informZarya|ONLINE|Zarya||

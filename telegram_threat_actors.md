@@ -61,7 +61,7 @@
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet|
 |https://t.me/blueteamzone|OFFLINE||
 |https://t.me/boosty66brvte|ONLINE| Data Leaks ||
-|https://t.me/R00TK1TDB|ONLINE| R00tk1t DB ||
+|https://t.me/R00TK1TDB|OFFLINE| R00tk1t DB ||
 |https://t.me/R00TK1TOFF |ONLINE| R00tk1t Cyber Team ||
 |https://t.me/breachdetector|ONLINE||
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor||
@@ -110,7 +110,7 @@
 |https://t.me/DailyCombos|ONLINE| Combo List||
 |https://t.me/dailydarkweb|ONLINE| Data Leaks ||
 |https://t.me/DarkBitChannel|ONLINE|Darkbit Channel||
-|https://t.me/darkclubpw|ONLINE| Dark Club Market ||
+|https://t.me/darkclubpw|OFFLINE| Dark Club Market ||
 |https://t.me/DarkfeedNews|ONLINE| News ||
 |https://t.me/DarkForums|ONLINE|Dark Forums||
 |https://t.me/darknet_br|ONLINE| ||
@@ -205,7 +205,7 @@
 |https://t.me/KillnetChatLATAM|ONLINE|KillnetLATAM chat||
 |https://t.me/KILLNETddos|ONLINE| Killnet DDoS |DDoS|
 |https://t.me/KillnetLATAM|OFFLINE|KillneLATAM channel||
-|https://t.me/Killneto|ONLINE|Killnet Officiale (with invites for closed channel)|
+|https://t.me/Killneto|OFFLINE|Killnet Officiale (with invites for closed channel)|
 |https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider||
 |https://t.me/Kristina_Pass_RF|OFFLINE| Data Leaks, Passport Scans||
 |https://t.me/Lapsussaudechat|OFFLINE| Lapsus$ channel (new) ||
@@ -335,7 +335,7 @@
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| ||
 |https://t.me/anoncambodia|OFFLINE| ||
 |https://t.me/INDIAN_CYBER_FORCE|ONLINE| ||
-|https://t.me/vulzsec_official|ONLINE| ||
+|https://t.me/vulzsec_official|OFFLINE| ||
 |https://t.me/dontleakmydata|OFFLINE|DontLeakMyData||
 |https://t.me/blackvaultcc|ONLINE|Blackvault||
 |https://t.me/ExploitService|ONLINE|Exploit Service||
@@ -343,7 +343,7 @@
 |https://t.me/awsleaks|OFFLINE|AWS Leaks||
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|Ransomware, Exfiltration|
 |https://t.me/GhostSecS|ONLINE|GhostSec Service|Ransomware, Exfiltration|
-|https://t.me/CyberCatChat|ONLINE|Cyber Cat chat||
+|https://t.me/CyberCatChat|OFFLINE|Cyber Cat chat||
 |https://t.me/KryptonNetworks|ONLINE|Krypton||
 |https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat||
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel||
@@ -373,13 +373,13 @@
 |https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches||
 |https://t.me/MalwareForums|ONLINE|Malware Forums||
 |https://t.me/anzu_team|ONLINE|Anzu Team||
-|https://t.me/+eRl4m-fdPl8yZTUx|VALID|Snatch channel||
+|https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
 |https://t.me/turkhckteam|ONLINE|Turk Hack Team||
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|DDoS|
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive||
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory||
-|https://t.me/+RxMyTFg9NYllZmU5|VALID|Waus Leaks||
+|https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
 |https://t.me/SiegedSecc|OFFLINE|SiegedSec||
 |https://t.me/CyberAveng3rs|ONLINE|Cyber Aveng3rs||
 |https://t.me/AC3HCYBER|ONLINE|ACEH||
@@ -404,7 +404,7 @@
 |https://t.me/user_sec|OFFLINE|UserSec||
 |https://t.me/justice_homeland|ONLINE|Homeland Justice||
 |https://t.me/QuartzSec|OFFLINE|QuartzSec||
-|https://t.me/APTANALYSIS|ONLINE|Exploits||
+|https://t.me/APTANALYSIS|OFFLINE|Exploits||
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database||
 |https://t.me/kiborg_leak|OFFLINE|Kiborg Leak (Alphabank)||
 |https://t.me/xxShad0dexx|ONLINE|Shad0de||
@@ -414,7 +414,7 @@
 |https://t.me/leak_db1|ONLINE|d3ltaboys group 1 (DB Leaks) - Backup||
 |https://t.me/leak_db3|ONLINE|d3ltaboys group 3 (DB Leaks) - Backup||
 |https://t.me/LCdatabase|ONLINE|Low-Cost-Database||
-|https://t.me/+ykoIXVJBirI0NzU0|ONLINE|Leaks & Breaches||
+|https://t.me/+ykoIXVJBirI0NzU0|OFFLINE|Leaks & Breaches||
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
 |https://t.me/+lYYyb3exPNFjNmRi|ONLINE|Cyber Dragon||
 |https://t.me/ANONM0S_RU|OFFLINE|Anonymous Russia||
@@ -426,7 +426,7 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/+WbDFfZ2OOvdjY2M0|ONLINE|Deanon ClubV7||
 |https://t.me/LulzSecOff|OFFLINE|LulzSec||
-|https://t.me/lapsusfr|ONLINE|LAPSUS$ France||
+|https://t.me/lapsusfr|OFFLINE|LAPSUS$ France||
 |https://t.me/R00TK1TOFF|ONLINE||
 |https://t.me/HackForceAll|ONLINE|HackForce|R00TK1T ISC CYBER TEAM||
 |https://t.me/GroupLapsus|ONLINE|Lapsus$ Group||
@@ -439,7 +439,7 @@
 |https://t.me/SylhetGangSgOfficial|ONLINE|Sylhet Gang-SG||
 |https://t.me/AnonCollective|ONLINE|Anonymous Collective||
 |https://t.me/WeJustEvil|ONLINE|Just Evil||
-|https://t.me/horusteam_official|ONLINE|Horus Evolution||
+|https://t.me/horusteam_official|OFFLINE|Horus Evolution||
 |https://t.me/HorusForumRus|ONLINE|Horus Forum||
 |https://t.me/killmilk_rus|ONLINE|DARKNET||
 |https://t.me/informZarya|ONLINE|Zarya||
@@ -457,8 +457,28 @@
 |https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
 |https://t.me/cybercourt_io|ONLINE|Cyber Court||
 |https://t.me/NetHunt3r|ONLINE|NET Hunter||
+|https://t.me/russiagoodbuy_rgb_team|ONLINE|RGB Team (https://rgb-team.com)|Data Leak|
+|http://t.me/CyberArmyofRussia_Reborn|ONLINE|Sandworm||
+|https://t.me/solntsepekZ|ONLINE|Sandworm||
+|https://t.me/xaknet_team|ONLINE|Sandworm||
+|https://t.me/NetHunt3r|ONLINE|NetHunt3r Group (pro Palestine)|Data Leak|
+|https://t.me/cybercourt_io|ONLINE|CyberCourt Group (pro Palestine) - https://cybercourt.io|Data Leak|
+|https://t.me/anonymous_south_africa|ONLINE|Anonymous South Africa|Data Leak|
+|https://t.me/DarkForumsME|ONLINE|Dark Forums|Cyber crime forum|
+|https://t.me/AnonymousEgypt|ONLINE|Anonymous Egypt|Data Leak|
+|https://t.me/Matryoshka424|ONLINE|Matryoshka424|DDoS|
+|https://t.me/highs0c1ety|ONLINE|High Society|DDoS|
+|https://t.me/user1_pycc|ONLINE|user1|DDoS and Data Leak|
+|https://t.me/shadowseekers5|ONLINE|Shadow Seekers|Data Leak|
+|https://t.me/anon_sec_Official|ONLINE|Anon Sec|Data Leak|
+|https://t.me/breachedannouncements|ONLINE|Breach Forum Announcements||
+|https://t.me/SparrowCorp|ONLINE|SparrowCorp||
+|https://t.me/breachchat|ONLINE|Jacuzzi 2.0||
+|https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
+|https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
+|https://t.me/SkidbinSITE|ONLINE|Skidbin|Doxing|
+|https://t.me/sixtysixdata|ONLINE|66SLAVS Datagroup|Data Leak|
 |https://t.me/LionheartHACK|ONLINE|Lionheart||
 |https://t.me/HiveNETT|ONLINE|HiveNET||
 |https://t.me/AnonimLegion|ONLINE|KaliHunt/Russia||
-|https://t.me/divergent_group|ONLINE| Divergent Group
-
+|https://t.me/divergent_group|ONLINE| Divergent Group||

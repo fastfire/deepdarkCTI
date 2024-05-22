@@ -337,6 +337,7 @@
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| ||
 |https://t.me/anoncambodia|OFFLINE| ||
 |https://t.me/INDIAN_CYBER_FORCE|ONLINE| ||
+|https://t.me/TeamIndianCyberForce|ONLINE|Indian Cyber Force||
 |https://t.me/vulzsec_official|OFFLINE| ||
 |https://t.me/dontleakmydata|OFFLINE|DontLeakMyData||
 |https://t.me/blackvaultcc|ONLINE|Blackvault||
@@ -491,3 +492,11 @@
 |https://t.me/team1916|ONLINE|TEAM1916||
 |https://t.me/jokmajd|ONLINE|TEAM1910||
 |https://t.me/azzasec|ONLINE|AzzaSec||
+|https://t.me/+uIojmLMIJz0yNzIy|ONLINE|Hunting for Data|Data leaks|
+|https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data leaks|
+|https://t.me/revolusigbanon17|ONLINE|GB Anon 17||
+|https://t.me/Anonymous_revengers|ONLINE|UnderWorld Hacking Group||
+|https://t.me/freepalestine_PPHM|ONLINE|Pro-Palestine Hackers Movement||
+|https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs||
+|https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
+|https://t.me/glorysec|ONLINE|GlorySec||

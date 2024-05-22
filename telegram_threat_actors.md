@@ -33,6 +33,7 @@
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
 |https://t.me/altenens|ONLINE||
 |https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]||
+|https://t.me/cyber_anarchy_squad|ONLINE| [ Cyber.Anarchy.Squad ]||
 |https://t.me/anon_by|ONLINE| Anonymous Russia channel||
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan||
@@ -485,3 +486,8 @@
 |https://t.me/HiveNETT|ONLINE|HiveNET||
 |https://t.me/AnonimLegion|ONLINE|KaliHunt/Russia||
 |https://t.me/divergent_group|ONLINE| Divergent Group||
+|https://t.me/jsonc2|ONLINE|jsonC2||
+|https://t.me/GLORIAMISTS|ONLINE|GLORIAMIST||
+|https://t.me/team1916|ONLINE|TEAM1916||
+|https://t.me/jokmajd|ONLINE|TEAM1910||
+|https://t.me/azzasec|ONLINE|AzzaSec||

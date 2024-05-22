@@ -457,3 +457,8 @@
 |https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
 |https://t.me/cybercourt_io|ONLINE|Cyber Court||
 |https://t.me/NetHunt3r|ONLINE|NET Hunter||
+|https://t.me/LionheartHACK|ONLINE|Lionheart||
+|https://t.me/HiveNETT|ONLINE|HiveNET||
+|https://t.me/AnonimLegion|ONLINE|KaliHunt/Russia||
+|https://t.me/divergent_group|ONLINE| Divergent Group
+

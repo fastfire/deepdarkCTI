@@ -478,3 +478,4 @@
 |https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/SkidbinSITE|ONLINE|Skidbin|Doxing|
 |https://t.me/sixtysixdata|ONLINE|66SLAVS Datagroup|Data Leak|
+|https://t.me/MexicanMafiaTheShit|ONLINE|MexicanMafia Announcement|Data Leak|

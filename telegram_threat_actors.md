@@ -478,4 +478,23 @@
 |https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/SkidbinSITE|ONLINE|Skidbin|Doxing|
 |https://t.me/sixtysixdata|ONLINE|66SLAVS Datagroup|Data Leak|
+|https://t.me/LionheartHACK|ONLINE|Lionheart||
+|https://t.me/HiveNETT|ONLINE|HiveNET||
+|https://t.me/AnonimLegion|ONLINE|KaliHunt/Russia||
+|https://t.me/divergent_group|ONLINE| Divergent Group||
+|https://t.me/jsonc2|ONLINE|jsonC2||
+|https://t.me/GLORIAMISTS|ONLINE|GLORIAMIST||
+|https://t.me/team1916|ONLINE|TEAM1916||
+|https://t.me/jokmajd|ONLINE|TEAM1910||
+|https://t.me/azzasec|ONLINE|AzzaSec||
+|https://t.me/+uIojmLMIJz0yNzIy|ONLINE|Hunting for Data|Data Leak|
+|https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data Leak|
+|https://t.me/revolusigbanon17|ONLINE|GB Anon 17||
+|https://t.me/Anonymous_revengers|ONLINE|UnderWorld Hacking Group||
+|https://t.me/freepalestine_PPHM|ONLINE|Pro-Palestine Hackers Movement||
+|https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs||
+|https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
+|https://t.me/glorysec|ONLINE|GlorySec||
+|https://t.me/hack_n3t|ONLINE|HackNeT||
+|https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
 |https://t.me/MexicanMafiaTheShit|ONLINE|MexicanMafia Announcement|Data Leak|

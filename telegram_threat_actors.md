@@ -373,13 +373,13 @@
 |https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches||
 |https://t.me/MalwareForums|ONLINE|Malware Forums||
 |https://t.me/anzu_team|ONLINE|Anzu Team||
-|https://t.me/+eRl4m-fdPl8yZTUx|VALID|Snatch channel||
+|https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
 |https://t.me/turkhckteam|ONLINE|Turk Hack Team||
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|DDoS|
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive||
 |https://t.me/leaksdirectory|ONLINE|Leaks Directory||
-|https://t.me/+RxMyTFg9NYllZmU5|VALID|Waus Leaks||
+|https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
 |https://t.me/SiegedSecc|OFFLINE|SiegedSec||
 |https://t.me/CyberAveng3rs|ONLINE|Cyber Aveng3rs||
 |https://t.me/AC3HCYBER|ONLINE|ACEH||
@@ -451,7 +451,7 @@
 |https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/Arab_Hackers_Union|ONLINE|Arab Hackers Union||
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
-|https://t.me/garudasec4|ONLINE|Garuda Security||
+|https://t.me/garudasec4|OFFLINE|Garuda Security||
 |https://t.me/GroupLapsus|ONLINE|Group Lapsus||
 |https://t.me/zerodaymarkets|ONLINE|Zeroday Market|Exploit sell|
 |https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
@@ -477,3 +477,5 @@
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
 |https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/SkidbinSITE|ONLINE|Skidbin|Doxing|
+|https://t.me/sixtysixdata|ONLINE|66SLAVS Datagroup|Data Leak|
+|https://t.me/MexicanMafiaTheShit|ONLINE|MexicanMafia Announcement|Data Leak|

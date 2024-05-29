@@ -97,3 +97,6 @@
 |https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud|
 |https://t.me/miragelogscloud|ONLINE|Mirage Cloud|
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
+|https://t.me/risestealer|ONLINE|RisePro Stealer|
+|https://t.me/LummaC2Stealer|ONLINE|LummaC2|
+|https://t.me/vidarchatopen|ONLINE|Vidar Stealer|

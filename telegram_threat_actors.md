@@ -498,3 +498,5 @@
 |https://t.me/hack_n3t|ONLINE|HackNeT||
 |https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
 |https://t.me/MexicanMafiaTheShit|ONLINE|MexicanMafia Announcement|Data Leak|
+|https://t.me/SN_Darkmeta|ONLINE|DarkMeta||
+|https://t.me/tengkorakcybercrewz|ONLINE|DarkMeta|TengkorakCyberCrew Official|

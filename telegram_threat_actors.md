@@ -33,6 +33,7 @@
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
 |https://t.me/altenens|ONLINE||
 |https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]||
+|https://t.me/cyber_anarchy_squad|ONLINE| [ Cyber.Anarchy.Squad ]||
 |https://t.me/anon_by|ONLINE| Anonymous Russia channel||
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan||
@@ -182,6 +183,7 @@
 |https://t.me/illsvc|ONLINE|Illicit Service||
 |https://t.me/Industrial_Spy|ONLINE| Industrial Spy ||
 |https://t.me/infinity_hackers_group|ONLINE|Infinity Hackers By||
+|https://t.me/INFINITY_HACKERSS|ONLINE|Infinity Forum||
 |https://t.me/intelrepo|OFFLINE|Spectre's Intel Repository||
 |https://t.me/intelx_io|OFFLINE| intelx - infosec||
 |https://t.me/itarmyofukraine2022|ONLINE| ||
@@ -335,6 +337,7 @@
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| ||
 |https://t.me/anoncambodia|OFFLINE| ||
 |https://t.me/INDIAN_CYBER_FORCE|ONLINE| ||
+|https://t.me/TeamIndianCyberForce|ONLINE|Indian Cyber Force||
 |https://t.me/vulzsec_official|OFFLINE| ||
 |https://t.me/dontleakmydata|OFFLINE|DontLeakMyData||
 |https://t.me/blackvaultcc|ONLINE|Blackvault||
@@ -422,7 +425,7 @@
 |https://t.me/Digital_Revolt_hack|ONLINE|Digital Revolt||
 |https://t.me/BEARITARMY|ONLINE|BearITArmy||
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
-|https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix||
+|https://t.me/Patriot_Black_x|ONLINE|Patriot Black Matrix||
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/+WbDFfZ2OOvdjY2M0|ONLINE|Deanon ClubV7||
 |https://t.me/LulzSecOff|OFFLINE|LulzSec||
@@ -440,6 +443,8 @@
 |https://t.me/AnonCollective|ONLINE|Anonymous Collective||
 |https://t.me/WeJustEvil|ONLINE|Just Evil||
 |https://t.me/horusteam_official|OFFLINE|Horus Evolution||
+|https://t.me/horusteam_officiall|ONLINE|Horus Evolution||
+|https://t.me/horus_reservs|ONLINE|Horus Evolution reserve||
 |https://t.me/HorusForumRus|ONLINE|Horus Forum||
 |https://t.me/killmilk_rus|ONLINE|DARKNET||
 |https://t.me/informZarya|ONLINE|Zarya||

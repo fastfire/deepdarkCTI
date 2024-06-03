@@ -425,7 +425,7 @@
 |https://t.me/Digital_Revolt_hack|ONLINE|Digital Revolt||
 |https://t.me/BEARITARMY|ONLINE|BearITArmy||
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
-|https://t.me/Patriot_Black_x|ONLINE|Patriot Black Matrix||
+|https://t.me/Patriot_Black_x|OFFLINE|Patriot Black Matrix||
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/+WbDFfZ2OOvdjY2M0|ONLINE|Deanon ClubV7||
 |https://t.me/LulzSecOff|OFFLINE|LulzSec||

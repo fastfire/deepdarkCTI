@@ -426,6 +426,7 @@
 |https://t.me/BEARITARMY|ONLINE|BearITArmy||
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
 |https://t.me/Patriot_Black_x|OFFLINE|Patriot Black Matrix||
+|https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix||
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/+WbDFfZ2OOvdjY2M0|ONLINE|Deanon ClubV7||
 |https://t.me/LulzSecOff|OFFLINE|LulzSec||
@@ -505,3 +506,4 @@
 |https://t.me/MexicanMafiaTheShit|ONLINE|MexicanMafia Announcement|Data Leak|
 |https://t.me/SN_Darkmeta|ONLINE|DarkMeta||
 |https://t.me/tengkorakcybercrewz|ONLINE|TengkorakCyberCrew Official||
+|https://t.me/nightmare_hacker|ONLINE|NIGHTMARE||

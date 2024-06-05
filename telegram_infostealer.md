@@ -97,3 +97,7 @@
 |https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud|
 |https://t.me/miragelogscloud|ONLINE|Mirage Cloud|
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
+|https://t.me/URLPASSCLOUD|
+|https://t.me/baseleak|
+|https://t.me/FreeLogPassForAll|
+|https://t.me/cookieslog|

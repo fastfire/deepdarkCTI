@@ -507,3 +507,5 @@
 |https://t.me/SN_Darkmeta|ONLINE|DarkMeta||
 |https://t.me/tengkorakcybercrewz|ONLINE|TengkorakCyberCrew Official||
 |https://t.me/nightmare_hacker|ONLINE|NIGHTMARE||
+|https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs chat||
+|https://t.me/+Wr6WoTXzjk0zMWI0|ONLINE|Hunt3r Kill3rs private group||

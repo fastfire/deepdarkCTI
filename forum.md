@@ -30,7 +30,7 @@
 |[BREACHED (Deep)](https://breached.co)| OFFLINE | |
 |[BREACHED (Deep)](https://breached.to)| OFFLINE | |
 |[BREACHED (Deep)](https://breached.vc)| OFFLINE | |
-|[BreachForums (Dark)](http://breached4w3qphorxg2fwqkhpfnsyf65je72d2shli3fcfgorwdeymad.onion)| ONLINE | |
+|[BreachForums (Dark)](http://breached4w3qphorxg2fwqkhpfnsyf65je72d2shli3fcfgorwdeymad.onion)| OFFLINE | |
 |[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.cx)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
@@ -124,6 +124,7 @@
 |[INFECTED ZONE](https://infected-zone.com)| ONLINE | |
 |[INFINITY](https://infinity.ink)| ONLINE | |
 |[ITALIAN DARKNET COMMUNITY 3.0 (Dark)](http://dhri7ogvfpnflpkj3sc5x7umjl4gd26bkukzotbwdy76yjp5qvhjzmqd.onion)| OFFLINE | |
+|[KCC](http://kcc.cat)| ONLINE | |
 |[KICKASS](http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion)| ONLINE | |
 |[KKKSecForum](https://forum.kkksec.com)| ONLINE | |
 |[KOROVKA](http://korovka.cc)| ONLINE | |
@@ -146,6 +147,7 @@
 |[MMGP](https://mmgp.com)| ONLINE | |
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
 |[NEFARIUM](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
+|[NEXTGEN FORUMS](https://NextGenForums.cc)| ONLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.me)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.net)| ONLINE | |

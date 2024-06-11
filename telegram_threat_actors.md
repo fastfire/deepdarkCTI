@@ -33,6 +33,7 @@
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
 |https://t.me/altenens|ONLINE||
 |https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]||
+|https://t.me/cyber_anarchy_squad|ONLINE| [ Cyber.Anarchy.Squad ]||
 |https://t.me/anon_by|ONLINE| Anonymous Russia channel||
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan||
@@ -182,6 +183,7 @@
 |https://t.me/illsvc|ONLINE|Illicit Service||
 |https://t.me/Industrial_Spy|ONLINE| Industrial Spy ||
 |https://t.me/infinity_hackers_group|ONLINE|Infinity Hackers By||
+|https://t.me/INFINITY_HACKERSS|ONLINE|Infinity Forum||
 |https://t.me/intelrepo|OFFLINE|Spectre's Intel Repository||
 |https://t.me/intelx_io|OFFLINE| intelx - infosec||
 |https://t.me/itarmyofukraine2022|ONLINE| ||
@@ -335,6 +337,7 @@
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| ||
 |https://t.me/anoncambodia|OFFLINE| ||
 |https://t.me/INDIAN_CYBER_FORCE|ONLINE| ||
+|https://t.me/TeamIndianCyberForce|ONLINE|Indian Cyber Force||
 |https://t.me/vulzsec_official|OFFLINE| ||
 |https://t.me/dontleakmydata|OFFLINE|DontLeakMyData||
 |https://t.me/blackvaultcc|ONLINE|Blackvault||
@@ -422,6 +425,7 @@
 |https://t.me/Digital_Revolt_hack|ONLINE|Digital Revolt||
 |https://t.me/BEARITARMY|ONLINE|BearITArmy||
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
+|https://t.me/Patriot_Black_x|OFFLINE|Patriot Black Matrix||
 |https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix||
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/+WbDFfZ2OOvdjY2M0|ONLINE|Deanon ClubV7||
@@ -440,6 +444,8 @@
 |https://t.me/AnonCollective|ONLINE|Anonymous Collective||
 |https://t.me/WeJustEvil|ONLINE|Just Evil||
 |https://t.me/horusteam_official|OFFLINE|Horus Evolution||
+|https://t.me/horusteam_officiall|ONLINE|Horus Evolution||
+|https://t.me/horus_reservs|ONLINE|Horus Evolution reserve||
 |https://t.me/HorusForumRus|ONLINE|Horus Forum||
 |https://t.me/killmilk_rus|ONLINE|DARKNET||
 |https://t.me/informZarya|ONLINE|Zarya||
@@ -451,7 +457,7 @@
 |https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/Arab_Hackers_Union|ONLINE|Arab Hackers Union||
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
-|https://t.me/garudasec4|ONLINE|Garuda Security||
+|https://t.me/garudasec4|OFFLINE|Garuda Security||
 |https://t.me/GroupLapsus|ONLINE|Group Lapsus||
 |https://t.me/zerodaymarkets|ONLINE|Zeroday Market|Exploit sell|
 |https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
@@ -471,10 +477,36 @@
 |https://t.me/user1_pycc|ONLINE|user1|DDoS and Data Leak|
 |https://t.me/shadowseekers5|ONLINE|Shadow Seekers|Data Leak|
 |https://t.me/anon_sec_Official|ONLINE|Anon Sec|Data Leak|
-|https://t.me/breachedannouncements|ONLINE|Breach Forum Announcements||
+|https://t.me/breachedannouncements|OFFLINE|Breach Forum Announcements||
 |https://t.me/SparrowCorp|ONLINE|SparrowCorp||
 |https://t.me/breachchat|ONLINE|Jacuzzi 2.0||
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
 |https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/SkidbinSITE|ONLINE|Skidbin|Doxing|
 |https://t.me/sixtysixdata|ONLINE|66SLAVS Datagroup|Data Leak|
+|https://t.me/LionheartHACK|ONLINE|Lionheart||
+|https://t.me/HiveNETT|ONLINE|HiveNET||
+|https://t.me/AnonimLegion|ONLINE|KaliHunt/Russia||
+|https://t.me/divergent_group|ONLINE| Divergent Group||
+|https://t.me/jsonc2|ONLINE|jsonC2||
+|https://t.me/GLORIAMISTS|ONLINE|GLORIAMIST||
+|https://t.me/team1916|ONLINE|TEAM1916||
+|https://t.me/jokmajd|ONLINE|TEAM1910||
+|https://t.me/azzasec|ONLINE|AzzaSec||
+|https://t.me/+uIojmLMIJz0yNzIy|ONLINE|Hunting for Data|Data Leak|
+|https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data Leak|
+|https://t.me/revolusigbanon17|ONLINE|GB Anon 17||
+|https://t.me/Anonymous_revengers|ONLINE|UnderWorld Hacking Group||
+|https://t.me/freepalestine_PPHM|ONLINE|Pro-Palestine Hackers Movement||
+|https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs||
+|https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
+|https://t.me/glorysec|ONLINE|GlorySec||
+|https://t.me/hack_n3t|ONLINE|HackNeT||
+|https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
+|https://t.me/MexicanMafiaTheShit|ONLINE|MexicanMafia Announcement|Data Leak|
+|https://t.me/SN_Darkmeta|ONLINE|DarkMeta||
+|https://t.me/tengkorakcybercrewz|ONLINE|TengkorakCyberCrew Official||
+|https://t.me/nightmare_hacker|ONLINE|NIGHTMARE||
+|https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs chat||
+|https://t.me/+Wr6WoTXzjk0zMWI0|ONLINE|Hunt3r Kill3rs private group||
+|https://t.me/SN_Darkmeta|ONLINE|SN_ Blackmeta|DDoS|

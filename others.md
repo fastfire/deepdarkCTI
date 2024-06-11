@@ -21,6 +21,7 @@
 |[DOXBIN](https://doxbin.org)| ONLINE | |
 |[HAPPY BLOG](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)| OFFLINE | |
 |[HAYSTACK SEARCH ENGINE](http://haystakvxad7wbk5.onion)| OFFLINE | |
+|[HUDSON ROCK](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)| ONLINE | Free Cybercrime Intelligence Tools |
 |[HIDDEN LINKS](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion)| ONLINE | |
 |[I2P SEARCH ENGINE](http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion)| ONLINE | |
 |[Zero Trust LTD leak search](https://search.0t.rocks/)| ONLINE | For JSON API Access contact miyako@miyako.rocks (rebrand of search.illicit.services) |

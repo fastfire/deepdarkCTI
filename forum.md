@@ -147,6 +147,7 @@
 |[MMGP](https://mmgp.com)| ONLINE | |
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
 |[NEFARIUM](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
+|[NEXTGEN FORUMS](https://NextGenForums.cc)| ONLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.me)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.net)| ONLINE | |

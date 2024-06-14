@@ -19,7 +19,7 @@
 |https://t.me/eliteband|OFFLINE| Logs |
 |https://t.me/expertsa11m|ONLINE| Logs Market |
 |https://t.me/expertsa11m|ONLINE| Logs|
-|https://t.me/fatecloud|ONLINE| Fatecloud Logs|
+|https://t.me/fatecloud|OFFLINE| Fatecloud Logs|
 |https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/HUBLOGS|OFFLINE| Redline Malware Logs |
 |https://t.me/joinchat/aLzjwn_93JtkMDA8|VALID| Logs Market|
@@ -69,7 +69,7 @@
 |https://t.me/TinyLogs|ONLINE|Tiny Cloud Logs|
 |https://t.me/powercloudlogs|ONLINE|Power Cloud Logs|
 |https://t.me/darknescloud|ONLINE|Darkness Cloud|
-|https://t.me/gameslogscloud|ONLINE|Game Logs|
+|https://t.me/gameslogscloud|OFFLINE|Game Logs|
 |https://t.me/Mariarticloud|ONLINE|Mariatri Cloud (Repackaged Stealer Logs)|
 |https://t.me/wlfrcloud|ONLINE|WLFR Project Cloud|
 |https://t.me/LulzsecCloudLogs|ONLINE|Lulzsec Cloud Logs (Filtered Stealer Logs/Cookies)|
@@ -97,3 +97,4 @@
 |https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud|
 |https://t.me/miragelogscloud|ONLINE|Mirage Cloud|
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
+|https://t.me/skiff_cloud|ONLINE|Skiff Cloud|

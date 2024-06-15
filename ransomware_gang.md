@@ -282,7 +282,8 @@
 |[RANSOM HOUSE](http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion)|OFFLINE||https://t.me/ransom_house|
 |[RANSOM HOUSE](http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion)|ONLINE|||
 |[RANSOM HUB](http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion)|ONLINE|||
-|[RANSOM HUB Archives](http://ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion/)|ONLINE|||
+|[RANSOM HUB Archives](http://fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion/)|ONLINE|||
+|[RANSOM HUB Archives](http://ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion/)|OFFLINE|||
 |[RANSOMED (Dark Web)](http://k63fo4qmdnl4cbt54sso3g6s5ycw7gf7i6nvxl3wcf3u6la2mlawt5qd.onion)|OFFLINE||https://twitter.com/RansomedVC|
 |[RANSOMED (Dark Web)](http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion)|ONLINE||https://twitter.com/RansomedVC|
 |[RANSOMED (Deep Web)](https://ransomed.vc)|ONLINE||https://twitter.com/RansomedVC|

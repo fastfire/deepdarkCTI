@@ -487,7 +487,7 @@
 |https://t.me/LionheartHACK|ONLINE|Lionheart||
 |https://t.me/HiveNETT|ONLINE|HiveNET||
 |https://t.me/AnonimLegion|ONLINE|KaliHunt/Russia||
-|https://t.me/divergent_group|ONLINE| Divergent Group||
+|https://t.me/divergent_group|OFFLINE| Divergent Group||
 |https://t.me/jsonc2|ONLINE|jsonC2||
 |https://t.me/GLORIAMISTS|ONLINE|GLORIAMIST||
 |https://t.me/team1916|ONLINE|TEAM1916||

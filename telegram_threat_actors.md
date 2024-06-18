@@ -119,7 +119,7 @@
 |https://t.me/CyberToufanBackup|ONLINE|CyberToufan||
 |https://t.me/D3atr0y3d|OFFLINE| Data Leaks||
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos ||
-|https://t.me/D7BBUK|ONLINE|D7BBUK||
+|https://t.me/D7BBUK|OFFLINE|D7BBUK||
 |https://t.me/DailyCombos1|ONLINE| Combo List||
 |https://t.me/DailyCombos|ONLINE| Combo List||
 |https://t.me/dailydarkweb|ONLINE| Data Leaks ||

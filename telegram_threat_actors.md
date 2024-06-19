@@ -373,7 +373,7 @@
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat||
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED| Adrastea Group||
-|https://t.me/Patriot_Black_Matrix|ONLINE|Patriot Black Matrix||
+|https://t.me/Patriot_Black_Matrix|OFFLINE|Patriot Black Matrix||
 |https://t.me/Patriot_Black_x|OFFLINE|Patriot Black Matrix||
 |https://t.me/peass|ONLINE| ||
 |https://t.me/phantom_tg|ONLINE| PHANTOM DEV ||

@@ -165,6 +165,7 @@
 |https://t.me/eaglecyberwashere|ONLINE|Eaglecyber||
 |https://t.me/ehdanstock|ONLINE| Selling Accounts ||
 |https://t.me/eightbase|ONLINE| 8BASE ||
+|https://t.me/emailistsdatabase|ONLINE|Combo List||
 |https://t.me/+eOtgrt4gB68wM2Qy|EXPIRED| Atlantis Cyber Army A.I.G. - backup||
 |https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
 |https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware ||
@@ -329,6 +330,7 @@
 |https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider||
 |https://t.me/mailaccesscrack|ONLINE|Combo Lists||
 |https://t.me/MaillAccessTop|OFFLINE| Data Leaks ||
+|https://t.me/mailpasschanel|ONLINE|Combo List||
 |https://t.me/mailpassclub|OFFLINE| ||
 |https://t.me/mailpasword|OFFLINE| ||
 |https://t.me/malek_team1|OFFLINE|MalekTeam||
@@ -365,6 +367,7 @@
 |https://t.me/O1chat|ONLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
 |https://t.me/ObserverCloud|OFFLINE| Observer Cloud Redline Stealer (Harvests other channels) |Infostealer|
+|https://t.me/OBSERVERCLOUDCOMBO|ONLINE|Combo List||
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial||
 |https://t.me/OnePlusChat|ONLINE| ||
 |https://t.me/opendataleaks|OFFLINE| Data Leaks ||

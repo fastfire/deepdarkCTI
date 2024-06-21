@@ -514,3 +514,4 @@
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
 |https://t.me/D1rkSec|ONLINE|D1rkSec|Leaks & Breaches|
+|https://t.me/logs_databases|ONLINE|R.E.D. H.A.S.H.|Leaks & Breaches|

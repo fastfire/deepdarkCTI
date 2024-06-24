@@ -81,6 +81,7 @@
 |[darkpro](https://darkpro.net/)| ONLINE | |
 |[DARKSIDE](https://www.dark-side.black)| OFFLINE | |
 |[DARKWEB](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
+|[DARKZONE](https://darkzone.uk)| ONLINE | |
 |[DATACLOUD](https://datacloud.space)| ONLINE | |
 |[DataForums](https://dataforums.co)| ONLINE | |
 |[DEDICATET](https://dedicatet.com)| ONLINE | |
@@ -138,6 +139,7 @@
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
+|[LEECH](https://leech.is)| ONLINE | |
 |[LeVeL23HackTools](https://level23hacktools.com/hackers)| ONLINE | |
 |[LOLZ](https://lolz.guru)| ONLINE | |
 |[LOWENDTALK](http://lowendtalk.com)| ONLINE | |

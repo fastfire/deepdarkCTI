@@ -98,3 +98,4 @@
 |https://t.me/miragelogscloud|ONLINE|Mirage Cloud|
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
 |https://t.me/skiff_cloud|ONLINE|Skiff Cloud|
+|https://t.me/wingsdailyurl|ONLINE|Wings|

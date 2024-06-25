@@ -515,7 +515,7 @@
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
 |https://t.me/D1rkSec|ONLINE|D1rkSec|Leaks & Breaches|
 |https://t.me/logs_databases|ONLINE|R.E.D. H.A.S.H.|Leaks & Breaches|
-|https://t.me/DAEKLIKS|ONLINE|Dark_leaks|Leaks & Breaches|
+|https://t.me/DAEKLIKS|OFFLINE|Dark_leaks|Leaks & Breaches|
 |https://t.me/combodatabasee|ONLINE|COMBO DATABASE|combos|
 |https://t.me/mailpass|ONLINE|MAIL:PASS HQ Combos & Bases|combos|
 |https://t.me/combosgrupoplex|ONLINE|Combos grupo plex|combos|

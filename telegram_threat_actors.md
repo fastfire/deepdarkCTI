@@ -543,3 +543,4 @@
 |https://t.me/logsgang2|ONLINE|Logs|combos|
 |https://t.me/COMBO_SOURCE|ONLINE|COMBO PRIVATE|combos|
 |https://t.me/emp_name|ONLINE|EMP Group (EMailPass)|combos|
+|https://t.me/azzasec|ONLINE|AzzaSec||

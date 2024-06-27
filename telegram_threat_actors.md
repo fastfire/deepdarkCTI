@@ -546,3 +546,4 @@
 |https://t.me/azzasec|ONLINE|AzzaSec||
 |https://t.me/lulzchat|ONLINE|LulzSec chat||
 |https://t.me/realLulzSec|ONLINE|VSec||
+|https://t.me/CyberVolk_K|ONLINE|CyberVolk|dataleak|

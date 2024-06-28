@@ -504,9 +504,9 @@
 |https://t.me/+YhH_DjYUyYpmNDRi|EXPIRED| Backup @HackGit channel||
 |https://t.me/+ykoIXVJBirI0NzU0|OFFLINE|Leaks & Breaches||
 |https://t.me/+YRLqvlnUI84zNzZl|VALID|BF Repo V3 Files||
-|https://t.me/+yXOcSjVjI9tjM2E0|VALID|Medusa||
+|https://t.me/+yXOcSjVjI9tjM2E0|VALID|Medusa|| 
 |https://t.me/zendatamarket|OFFLINE|ZenData Database Market||
-|https://t.me/zer0daylab|ONLINE| Hacking, Leaks and News ||
+|https://t.me/zer0daylab|OFFLINE| Hacking, Leaks and News ||
 |https://t.me/zerodayforums|ONLINE| ZeroDay Forums ||
 |https://t.me/zerodaymarkets|ONLINE|Zeroday Market|Exploit sell|
 |https://t.me/ZeroDay_TM|ONLINE| Original  ZeroDay  Community ||

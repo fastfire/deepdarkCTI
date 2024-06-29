@@ -102,6 +102,7 @@
 |[ENDWAY](https://endway.su)| ONLINE | |
 |[ETERNIA](https://eternia.to)| ONLINE | |
 |[EVILARMY](https://evilarmy.in)| ONLINE | |
+|[EVILZONE](https://evil-zone.org)| ONLINE | |
 |[evilx](https://evilx.su/forum/)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |

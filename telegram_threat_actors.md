@@ -547,3 +547,4 @@
 |https://t.me/lulzchat|ONLINE|LulzSec chat||
 |https://t.me/realLulzSec|ONLINE|VSec||
 |https://t.me/CyberVolk_K|ONLINE|CyberVolk|dataleak|
+|https://t.me/evilzoneforum|ONLINE|Evil Zone|Forum|

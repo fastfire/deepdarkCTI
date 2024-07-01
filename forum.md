@@ -31,12 +31,13 @@
 |[BREACHED (Deep)](https://breached.to)| OFFLINE | |
 |[BREACHED (Deep)](https://breached.vc)| OFFLINE | |
 |[BreachForums (Dark)](http://breached4w3qphorxg2fwqkhpfnsyf65je72d2shli3fcfgorwdeymad.onion)| OFFLINE | |
-|[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| ONLINE | |
+|[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| OFFLINE (seized) | |
+|[BREACH FORUMS (Dark)](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.cx)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.st)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
-|[BreachForums](https://breachforums.vc/) | ONLINE | |
+|[BREACH FORUMS](https://breachforums.vc/) | ONLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
@@ -80,6 +81,7 @@
 |[darkpro](https://darkpro.net/)| ONLINE | |
 |[DARKSIDE](https://www.dark-side.black)| OFFLINE | |
 |[DARKWEB](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
+|[DARKZONE](https://darkzone.uk)| ONLINE | |
 |[DATACLOUD](https://datacloud.space)| ONLINE | |
 |[DataForums](https://dataforums.co)| ONLINE | |
 |[DEDICATET](https://dedicatet.com)| ONLINE | |
@@ -100,6 +102,7 @@
 |[ENDWAY](https://endway.su)| ONLINE | |
 |[ETERNIA](https://eternia.to)| ONLINE | |
 |[EVILARMY](https://evilarmy.in)| ONLINE | |
+|[EVILZONE](https://evil-zone.org)| ONLINE | |
 |[evilx](https://evilx.su/forum/)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
@@ -137,6 +140,7 @@
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
+|[LEECH](https://leech.is)| ONLINE | |
 |[LeVeL23HackTools](https://level23hacktools.com/hackers)| ONLINE | |
 |[LOLZ](https://lolz.guru)| ONLINE | |
 |[LOWENDTALK](http://lowendtalk.com)| ONLINE | |
@@ -186,6 +190,7 @@
 |[RANSOMED](http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion) | ONLINE | |
 |[REVERSING](https://reversing.center) | ONLINE | |
 |[RF-CHEAT](https://www.rf-cheats.ru) | ONLINE | |
+|[ROOTSPLOIT](https://rootsploit.org)| ONLINE | |
 |[RUTOR (Dark)](http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion)| OFFLINE | |
 |[RUTOR (Dark)](http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion)| ONLINE | |
 |[RUTOR (Dark)](http://rutorclubwiypaf63caqzlqwtcxqu5w6req6h7bjnvdlm4m7tddiwoyd.onion)| ONLINE | |

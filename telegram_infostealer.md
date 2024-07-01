@@ -78,7 +78,7 @@
 |https://t.me/BurnCloudLogs|ONLINE|Burn Cloud Logs|
 |https://t.me/mercedesbenzcloud|ONLINE|Arcane Logs|
 |https://t.me/PegasusCloud|ONLINE|Pegasus Cloud|
-|https://t.me/SamuraiCloud|ONLINE|Samurai Cloud|
+|https://t.me/SamuraiCloud|OFFLINE|Samurai Cloud|
 |https://t.me/EuropeCloud|ONLINE|Europe Cloud|
 |https://t.me/free_logs_cloud_ArtHouse|ONLINE|Arthouse Cloud|
 |https://t.me/ganjacloud|ONLINE|Ganja Cloud|
@@ -97,3 +97,4 @@
 |https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud|
 |https://t.me/miragelogscloud|ONLINE|Mirage Cloud|
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
+|https://t.me/wingsdailyurl|Wings|

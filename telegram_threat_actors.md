@@ -129,7 +129,7 @@
 |https://t.me/DarkForumsME|ONLINE|Dark Forums|Cyber crime forum|
 |https://t.me/DarkForums|ONLINE|Dark Forums||
 |https://t.me/darknet_br|ONLINE| ||
-|https://t.me/DarknetNewsEng|ONLINE| Darknet News(English Version)||
+|https://t.me/DarknetNewsEng|OFFLINE| Darknet News(English Version)||
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||

@@ -264,6 +264,8 @@
 |[PLAY](http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion)|ONLINE|||
 |[PROLOCK](http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion)|OFFLINE|||
 |[PROMETHEUS](http://promethw27cbrcot.onion/blog)|OFFLINE|||
+|[PRYX (deep web)](http://pryx.cc)|ONLINE||141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C|
+|[PRYX (dark web)](http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion)|ONLINE||141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C|
 |[PYSA](http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html)|OFFLINE|||
 |[QILIN (Victims page)](http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion)|OFFLINE|||
 |[QILIN](http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/)|ONLINE||https://t.me/+OVXlbwml5bE5YWQ0|

@@ -425,7 +425,7 @@
 |https://t.me/SkidbinSITE|ONLINE|Skidbin|Doxing|
 |https://t.me/slivaidlocker|ONLINE| AiDLocker Group Data Leaks Channel||
 |https://t.me/slivnoviy123|ONLINE| Erernity Team Redline Stealer|Infostealer|
-|https://t.me/SNAKEDBS|ONLINE|Nuttela Combo's (Repackaged Combo Lists)||
+|https://t.me/SNAKEDBS|OFFLINE|Nuttela Combo's (Repackaged Combo Lists)||
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|Ransomware, Exfiltration|
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) ||
 |https://t.me/SN_Darkmeta|ONLINE|DarkMeta||

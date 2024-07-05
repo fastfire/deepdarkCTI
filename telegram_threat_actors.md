@@ -60,7 +60,7 @@
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet|
 |https://t.me/blueteamzone|OFFLINE||
 |https://t.me/boosty66brvte|ONLINE| Data Leaks ||
-|https://t.me/breachchat|ONLINE|Jacuzzi 2.0||
+|https://t.me/breachchat|ONLINE|Jacuzzi 5.0||
 |https://t.me/breachdetector|ONLINE||
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor||
 |https://t.me/breachedannouncements|OFFLINE|Breach Forum Announcements||

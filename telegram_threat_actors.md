@@ -8,7 +8,7 @@
 |https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
 |https://t.me/AC3HCYBER|ONLINE|ACEH||
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group||
-|https://t.me/ACCOUNTSQUAD|ONLINE|Illicit Service Channel||
+|https://t.me/ACCOUNTSQUAD|OFFLINE|Illicit Service Channel||
 |https://t.me/aidlock/|ONLINE| AiDLocker group channel||
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
 |https://t.me/altenens|ONLINE||

@@ -186,7 +186,7 @@
 |https://t.me/fuckeddb|OFFLINE| ||
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID| Goblin's Hub (private) | |
 |https://t.me/garudasec4|OFFLINE|Garuda Security||
-|https://t.me/GhostSecc|ONLINE| Data Leaks & Hacktivism group ||
+|https://t.me/GhostSecc|OFFLINE| Data Leaks & Hacktivism group ||
 |https://t.me/GhostSecS|ONLINE|GhostSec Service|Ransomware, Exfiltration|
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED| voidy - database storage||
 |https://t.me/GitTools|ONLINE| ||

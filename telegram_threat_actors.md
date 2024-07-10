@@ -556,3 +556,4 @@
 |https://t.me/sultengblackhat|ONLINE|INDONESIAN CYBER OF SULAWESI TENGAH BLACKHAT|Leaks & Breaches|
 |https://t.me/OPRATIONSALIGATOR|ONLINE|ALIGATOR BLACK HAT|Leaks & Breaches|
 |https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|
+|https://t.me/LulzSec_Off|ONLINE|PhantomGroup|Threat Actor|

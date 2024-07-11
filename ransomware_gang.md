@@ -277,6 +277,7 @@
 |[QUANTUM (clearnet)](http://quantumleap.quest)|OFFLINE|||
 |[RA GROUP](http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion)|ONLINE|||
 |[RA GROUP (Storage Server)](http://hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion)|ONLINE|||
+|[RANSOMCORTEX](http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion)|ONLINE|||
 |[RAWORLD](http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion)|ONLINE|||
 |[RABBIT HOLE](http://z5jixbfejdu5wtxd2baliu6hwzgcitlspnttr7c2eopl5ccfcjrhkqid.onion)|ONLINE|||
 |[RAGNAR LOCKER](http://p6o7m73ujalhgkiv.onion)|OFFLINE|||

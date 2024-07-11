@@ -227,7 +227,6 @@
 |https://t.me/HQPROX|ONLINE|Proxy service||
 |https://t.me/hudyhstock|ONLINE| Selling Accounts ||
 |https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs||
-|https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs chat||
 |https://t.me/hydramarketrebuild|ONLINE|Hydra Market Rebuild||
 |https://t.me/icrewhackers|ONLINE| ||
 |https://t.me/illsvcchat|ONLINE|Illicit Service chat||
@@ -283,7 +282,8 @@
 |https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider||
 |https://t.me/kittensec|ONLINE|KittenSec||
 |https://t.me/Kristina_Pass_RF|OFFLINE| Data Leaks, Passport Scans||
-|https://t.me/KryptonNetworks|ONLINE|Krypton||
+|https://t.me/KryptonSolutions|ONLINE|Krypton|DDoS|
+|https://t.me/KryptonNetworks|OFFLINE|Krypton||
 |https://t.me/lapsusfr|OFFLINE|LAPSUS$ France||
 |https://t.me/Lapsussaudechat|OFFLINE| Lapsus$ channel (new) ||
 |https://t.me/latestbin|ONLINE|Hacking Group||
@@ -428,7 +428,6 @@
 |https://t.me/SNAKEDBS|OFFLINE|Nuttela Combo's (Repackaged Combo Lists)||
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|Ransomware, Exfiltration|
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) ||
-|https://t.me/SN_Darkmeta|ONLINE|DarkMeta||
 |https://t.me/SN_Darkmeta|ONLINE|SN_ Blackmeta|DDoS|
 |https://t.me/solntsepekZ|ONLINE|Sandworm||
 |https://t.me/SolomonUpdates|OFFLINE|Solomon market place updates||
@@ -557,3 +556,5 @@
 |https://t.me/OPRATIONSALIGATOR|ONLINE|ALIGATOR BLACK HAT|Leaks & Breaches|
 |https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|
 |https://t.me/LulzSec_Off|ONLINE|PhantomGroup|Threat Actor|
+|https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
+|https://t.me/dedsecc_official|ONLINE|DedSec|DDoS|

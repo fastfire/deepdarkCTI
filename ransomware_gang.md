@@ -288,7 +288,6 @@
 |[RANCOZ](http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/)|OFFLINE|||
 |[RANSOM CARTEL (1)](http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion)|OFFLINE|||
 |[RANSOM CARTEL (Victims page)](http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion)|OFFLINE|||
-|[RANSOMCORTEX](http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion)|ONLINE|||
 |[RANSOMEXX](http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)|ONLINE||Leaks Domain: http://zubllg7o774lgc4rdxmfcfpjewfkqa7ml7gxwl5fetogc7hbkvaprhid.onion|
 |[RANSOM HOUSE](http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion)|OFFLINE||https://t.me/ransom_house|
 |[RANSOM HOUSE](http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion)|ONLINE|||

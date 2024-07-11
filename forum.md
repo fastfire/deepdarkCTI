@@ -135,7 +135,7 @@
 |[Korovka](https://korovka.cc) | ONLINE | |
 |[Lampeduza](https://lampeduza.la) | ONLINE | |
 |[LEAD LAB](https://leadlab.top)| ONLINE | |
-|[LEAKBASE](https://leakbase.cc)| ONLINE | |
+|[LEAKBASE](https://leakbase.cc)| OFFLINE | |
 |[LEAKBASE](https://leakbase.io/)| ONLINE | |
 |[LEAKBASE](https://leakbase.org)| ONLINE | |
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |

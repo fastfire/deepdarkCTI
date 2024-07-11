@@ -558,3 +558,4 @@
 |https://t.me/LulzSec_Off|ONLINE|PhantomGroup|Threat Actor|
 |https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
 |https://t.me/dedsecc_official|ONLINE|DedSec|DDoS|
+|https://t.me/hackerforse|ONLINE|7 October Union|DDoS|

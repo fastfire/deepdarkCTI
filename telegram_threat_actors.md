@@ -73,14 +73,13 @@
 |https://t.me/c/1228309110/7662|PRIVATE| Ddosia project chat|DDoS|
 |https://t.me/canyoupwnme|ONLINE| News ||
 |https://t.me/cas_files|ONLINE| Data Leaks ||
-|https://t.me/cbanke_market|ONLINE| Data Leaks ||
-|https://t.me/cbanke_market|ONLINE| Market||
+|https://t.me/cbanke_market|OFFLINE| Data Leaks ||
 |https://t.me/cbanke|ONLINE| Data Leaks||
 |https://t.me/CHO1CHO1|ONLINE|CH01 group||
 |https://t.me/cityofleaker|ONLINE| Leaks ||
 |https://t.me/civiliandarkcode404|ONLINE|Civilan dark code||
 |https://t.me/clean_tools_net|ONLINE|Clean Tools||
-|https://t.me/cloudata_free_databases|ONLINE|Free Data Breaches Provider||
+|https://t.me/cloudata_free_databases|OFFLINE|Free Data Breaches Provider||
 |https://t.me/club1337|ONLINE||
 |https://t.me/combo2021|ONLINE| Combo List||
 |https://t.me/Combolistfresh|ONLINE| Combo List||

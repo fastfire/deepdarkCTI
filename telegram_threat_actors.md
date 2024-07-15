@@ -442,7 +442,7 @@
 |https://t.me/tbotlist|ONLINE| Bots ||
 |https://t.me/t_darknet|ONLINE|Illicit Service||
 |https://t.me/TE1915|ONLINE|1915 team||
-|https://t.me/team1916|ONLINE|TEAM1916||
+|https://t.me/team1916|OFFLINE|TEAM1916||
 |https://t.me/TeamDemon|ONLINE|Illicit Service||
 |https://t.me/teamimm0rtal|ONLINE| Team Imm0rtal channel ||
 |https://t.me/TeamIndianCyberForce|ONLINE|Indian Cyber Force||

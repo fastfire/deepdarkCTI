@@ -354,7 +354,7 @@
 |https://t.me/NetSurvivalist|ONLINE| General Hacking, Privacy ||
 |https://t.me/net_worker_alliance|OFFLINE|Net Worker Alliance||
 |https://t.me/NewBlood_Project|ONLINE|New Blood Project||
-|https://t.me/nightmare_hacker|ONLINE|NIGHTMARE||
+|https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
 |https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng||
 |https://t.me/nohidespace|ONLINE| ||

@@ -206,6 +206,15 @@
 |[LOCKBIT 3.0 (New Dark mirror 6)](http://lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |[LOCKBIT 3.0 (New Dark mirror 7)](http://lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |[LOCKBIT 3.0 (from June 2024)](http://ofj3oaltwaf67qtd7oafk5r44upm6wkc2jurpsdyih2c7mbrbshuwayd.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|[LOCKBIT 3.0 (from July 2024)](http://lockbitcuo23q7qrymbk6dsp2sadltspjvjxgcyp4elbnbr6tcnwq7qd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (from July 2024)](http://lockbitw2ygzasbt35ffpdb46r4vkej6flm3siyabaxzdodwpiatfgqd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbit23xxhej7swdop24cru7ks2w66pw7zgdkydqo6f7wfyfqo7oqd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbit7ixelt7gn3ynrs3dgqtsom6x6sd2ope4di7bu6e6exyhazeyd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbitck6escin3p33v3f5uef3mr5fx335oyqon2uqoyxuraieuhiqd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbitfhzimjqx2v7p2vfu57fpdm5zh2vsbfk5jkjod3k5pszbek7ad.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbiti7ss2wzyizvyr2x46krnezl4xjeianvupnvazhbqtz32auqqd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbitkwkmhfb2zr3ngduaa6sd6munslzkbtqhn5ifmwqml4sl7znad.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbitqfj7mmhrfa7lznj47ogknqanskj7hyk2vistn2ju5ufrhbpyd.onion)|ONLINE|||
 |[LOCKBIT](http://lockbitkodidilol.onion)|OFFLINE|||
 |[LOCKFILE (Victims request ID page)](http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion)|OFFLINE||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB|
 |[LORENZ](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion)|ONLINE|||

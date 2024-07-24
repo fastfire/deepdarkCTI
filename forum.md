@@ -59,6 +59,7 @@
 |[CRIMENETWORK (Dark)](http://cnw4acab23przeum6ios6pw63ivxxbrvpclz5yssflkos6ano6oq4fqd.onion)| ONLINE | |
 |[CRIMENETWORK (Deep)](http://crime.to)| ONLINE | |
 |[CRIMENOW](http://crimenow.is)| ONLINE | |
+|[CRIMESTATE](https://crimestate.cc)| ONLINE | |
 |[CRYPTBB](http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion)| ONLINE | |
 |[CRYPTOCURRENCY.TECH](https://forum.cryptocurrency.tech)| ONLINE | |
 |[CRYPTOFF](https://forum.cryptoff.org)| ONLINE | |
@@ -216,6 +217,7 @@
 |[SOFTXAKER](http://forum.softxaker.ru)| ONLINE | |
 |[SPYHACKERZ](https://spyhackerz.org)| ONLINE | |
 |[SQLI](https://sqli.cloud)| ONLINE | |
+|[STRESSED FORUM](https://stressedforums.pw)| ONLINE | |
 |[SUPERBAY](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)| ONLINE | |
 |[THE GOOD LIFE](https://thegoodlife.to)| ONLINE | |
 |[THE HUB](http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion)| ONLINE | |

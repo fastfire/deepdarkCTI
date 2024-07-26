@@ -6,7 +6,7 @@
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
 |https://t.me/+9P5FQ85afTc4NGNl|VALID| Goblin's Database ||
 |https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
-|https://t.me/AC3HCYBER|ONLINE|ACEH||
+|https://t.me/AC3HCYBER|OFFLINE|ACEH||
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group||
 |https://t.me/ACCOUNTSQUAD|OFFLINE|Illicit Service Channel||
 |https://t.me/aidlock/|ONLINE| AiDLocker group channel||

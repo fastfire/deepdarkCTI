@@ -563,3 +563,4 @@
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
 |https://t.me/h0lyleague|ONLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|ONLINE|Handala Hack|Leaks & Breaches|
+|https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|

@@ -209,7 +209,7 @@
 |https://t.me/hackingtoolsprvi8|ONLINE| Leaks ||
 |https://t.me/hack_n3t|ONLINE|HackNeT||
 |https://t.me/hadesh0p|ONLINE| ||
-|https://t.me/Handala_hack|ONLINE|Handala Hack||
+|https://t.me/Handala_hack|ONLINE|Handala Hack|Leaks & Breaches|
 |https://t.me/hellokittyleaks|OFFLINE| Data Leaks ||
 |https://t.me/hgn01_ru|ONLINE| Data Leaks ||
 |https://t.me/hidden_links|ONLINE| Hidden Links ||
@@ -562,3 +562,4 @@
 |https://t.me/StressedForums|ONLINE|Stessed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
 |https://t.me/h0lyleague|ONLINE|Holy League|DDoS|
+|https://t.me/+kcr0MVem9OA3MTk6|ONLINE|Handala Hack|Leaks & Breaches|

@@ -138,6 +138,8 @@
 |[GROOVE](http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion)|OFFLINE|||
 |[HADES](http://ixltdyumdlthrtgx.onion)|OFFLINE|||
 |[HANDALA](https://handala.to)|ONLINE|||
+|[HANDALA](https://handala-hack.to)|ONLINE|||
+|[HANDALA](http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion)|ONLINE|||
 |[HARON](http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php)|OFFLINE|Chaddadgroup:Chaddadgroup||
 |[HELLO GOOKIE](http://gookie256cvccntvenyxrvn7ht73bs6ss3oj2ocfkjt5y6vq6gfi2tad.onion)|ONLINE|||
 |[HELLO KITTY](http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion)|OFFLINE|||

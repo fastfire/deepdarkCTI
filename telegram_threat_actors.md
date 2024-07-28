@@ -561,3 +561,4 @@
 |https://t.me/whoisAlixan|ONLINE|AlixSec|Leaks & Breaches|
 |https://t.me/StressedForums|ONLINE|Stessed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
+|https://t.me/h0lyleague|ONLINE|Holy League|DDoS|

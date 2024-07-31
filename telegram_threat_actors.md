@@ -38,7 +38,7 @@
 |https://t.me/atw2022|ONLINE| Against The West ||
 |https://t.me/AutoLookup|ONLINE|AutoLookup||
 |https://t.me/awsleaks|OFFLINE|AWS Leaks||
-|https://t.me/azzasec|ONLINE|AzzaSec||
+|https://t.me/azzasec|OFFLINE|AzzaSec||
 |https://t.me/baphchat|ONLINE|The Jacuzzi||
 |https://t.me/base_brutesu|ONLINE| Combo List|
 |https://t.me/baseleak|ONLINE| Data Leaks ||

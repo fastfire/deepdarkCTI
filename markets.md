@@ -15,6 +15,7 @@
 |[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| ONLINE | |
 |[BIDEN CASH](https://bidencash.cards)| OFFLINE | |
+|[B1ND.NET](https://b1nd.net)| ONLINE | |
 |[BLACKBONES](https://blackbones.net)| ONLINE | |
 |[BLACKPASS](http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion)| ONLINE | |
 |[BOHEMIA](http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion)| ONLINE | |

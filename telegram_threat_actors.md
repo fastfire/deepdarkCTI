@@ -316,7 +316,7 @@
 |https://t.me/LEGIONLEAKER|ONLINE|Legion Leaker||
 |https://t.me/Legion_Russia|OFFLINE| Legion Russia ||
 |https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data Leak|
-|https://t.me/LionheartHACK|ONLINE|Lionheart||
+|https://t.me/LionheartHACK|OFFLINE|Lionheart||
 |https://t.me/LockBit_APT|ONLINE| LockBit APT ||
 |https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|

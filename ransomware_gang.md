@@ -100,6 +100,7 @@
 |[DAIXIN](http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion)|ONLINE|||
 |[DAN0N](http://2c7nd54guzi6xhjyqrj5kdkrq2ngm2u3e6oy4nfhn3wm3r54ul2utiqd.onion)|ONLINE|||
 |[DARK ANGELS](https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion)|OFFLINE|||
+|[DARK ANGELS](http://nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion)|ONLINE|||
 |[DARKBIT01(Victims request ID Page)](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion/support)|OFFLINE|||
 |[DARKBIT01](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion)|OFFLINE|||
 |[DARKRYPT](https://darkrypt.io)|OFFLINE|||

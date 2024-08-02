@@ -565,4 +565,6 @@
 |https://t.me/+kcr0MVem9OA3MTk6|ONLINE|Handala Hack|Leaks & Breaches|
 |https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
 |https://t.me/azzasecurity|ONLINE|Azzasec|DDoS|
-|https://t.me/KozSec|ONLINE|KozSec|DDoS|
+|https://t.me/KozSec|ONLINE|KozSec|DDoS
+|https://t.me/KozSec1|ONLINE|KozSec backup|DDoS|
+|https://t.me/KozSecChat|ONLINE|KozSec chat|DDoS|

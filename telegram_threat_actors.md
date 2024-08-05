@@ -133,7 +133,7 @@
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
 |https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
-|https://t.me/darkwebdarknetmarketplace|ONLINE|Illicit Service||
+|https://t.me/darkwebdarknetmarketplace|OFFLINE|Illicit Service||
 |https://t.me/darxe_base|OFFLINE| Data Leaks ||
 |https://t.me/data1eaks|ONLINE| ||
 |https://t.me/Database_breached|OFFLINE| Data Leaks ||
@@ -370,7 +370,7 @@
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial||
 |https://t.me/OnePlusChat|ONLINE| ||
 |https://t.me/opendataleaks|OFFLINE| Data Leaks ||
-|https://t.me/openleak|ONLINE| Data Leaks ||
+|https://t.me/openleak|OFFLINE| Data Leaks ||
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat||
@@ -556,7 +556,7 @@
 |https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|
 |https://t.me/LulzSec_Off|ONLINE|PhantomGroup|Threat Actor|
 |https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
-|https://t.me/dedsecc_official|ONLINE|DedSec|DDoS|
+|https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
 |https://t.me/hackerforse|ONLINE|7 October Union|DDoS|
 |https://t.me/whoisAlixan|ONLINE|AlixSec|Leaks & Breaches|
 |https://t.me/StressedForums|OFFLINE|Stessed Forum|Forum|

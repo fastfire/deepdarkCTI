@@ -6,9 +6,9 @@
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
 |https://t.me/+9P5FQ85afTc4NGNl|VALID| Goblin's Database ||
 |https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
-|https://t.me/AC3HCYBER|ONLINE|ACEH||
+|https://t.me/AC3HCYBER|OFFLINE|ACEH||
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group||
-|https://t.me/ACCOUNTSQUAD|ONLINE|Illicit Service Channel||
+|https://t.me/ACCOUNTSQUAD|OFFLINE|Illicit Service Channel||
 |https://t.me/aidlock/|ONLINE| AiDLocker group channel||
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
 |https://t.me/altenens|ONLINE||
@@ -38,7 +38,7 @@
 |https://t.me/atw2022|ONLINE| Against The West ||
 |https://t.me/AutoLookup|ONLINE|AutoLookup||
 |https://t.me/awsleaks|OFFLINE|AWS Leaks||
-|https://t.me/azzasec|ONLINE|AzzaSec||
+|https://t.me/azzasec|OFFLINE|AzzaSec||
 |https://t.me/baphchat|ONLINE|The Jacuzzi||
 |https://t.me/base_brutesu|ONLINE| Combo List|
 |https://t.me/baseleak|ONLINE| Data Leaks ||
@@ -60,7 +60,7 @@
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet|
 |https://t.me/blueteamzone|OFFLINE||
 |https://t.me/boosty66brvte|ONLINE| Data Leaks ||
-|https://t.me/breachchat|ONLINE|Jacuzzi 2.0||
+|https://t.me/breachchat|ONLINE|Jacuzzi 5.0||
 |https://t.me/breachdetector|ONLINE||
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor||
 |https://t.me/breachedannouncements|OFFLINE|Breach Forum Announcements||
@@ -73,14 +73,13 @@
 |https://t.me/c/1228309110/7662|PRIVATE| Ddosia project chat|DDoS|
 |https://t.me/canyoupwnme|ONLINE| News ||
 |https://t.me/cas_files|ONLINE| Data Leaks ||
-|https://t.me/cbanke_market|ONLINE| Data Leaks ||
-|https://t.me/cbanke_market|ONLINE| Market||
+|https://t.me/cbanke_market|OFFLINE| Data Leaks ||
 |https://t.me/cbanke|ONLINE| Data Leaks||
 |https://t.me/CHO1CHO1|ONLINE|CH01 group||
 |https://t.me/cityofleaker|ONLINE| Leaks ||
 |https://t.me/civiliandarkcode404|ONLINE|Civilan dark code||
 |https://t.me/clean_tools_net|ONLINE|Clean Tools||
-|https://t.me/cloudata_free_databases|ONLINE|Free Data Breaches Provider||
+|https://t.me/cloudata_free_databases|OFFLINE|Free Data Breaches Provider||
 |https://t.me/club1337|ONLINE||
 |https://t.me/combo2021|ONLINE| Combo List||
 |https://t.me/Combolistfresh|ONLINE| Combo List||
@@ -134,7 +133,7 @@
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
 |https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
-|https://t.me/darkwebdarknetmarketplace|ONLINE|Illicit Service||
+|https://t.me/darkwebdarknetmarketplace|OFFLINE|Illicit Service||
 |https://t.me/darxe_base|OFFLINE| Data Leaks ||
 |https://t.me/data1eaks|ONLINE| ||
 |https://t.me/Database_breached|OFFLINE| Data Leaks ||
@@ -176,7 +175,7 @@
 |https://t.me/FiveFamilies|ONLINE|FiveFamilies||
 |https://t.me/flannels|ONLINE| Market ||
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED| Data Leaks ||
-|https://t.me/fr33d4t4|ONLINE| Fr33 d4t4 - stolen redline from other channels||
+|https://t.me/fr33d4t4|OFFLINE| Fr33 d4t4 - stolen redline from other channels||
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| ||
 |https://t.me/freeDEFAULFcloud|ONLINE| Defaulf Cloud (Redline Stealer)|Infostealer|
 |https://t.me/freedomf0x|ONLINE| ||
@@ -186,7 +185,7 @@
 |https://t.me/fuckeddb|OFFLINE| ||
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID| Goblin's Hub (private) | |
 |https://t.me/garudasec4|OFFLINE|Garuda Security||
-|https://t.me/GhostSecc|ONLINE| Data Leaks & Hacktivism group ||
+|https://t.me/GhostSecc|OFFLINE| Data Leaks & Hacktivism group ||
 |https://t.me/GhostSecS|ONLINE|GhostSec Service|Ransomware, Exfiltration|
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED| voidy - database storage||
 |https://t.me/GitTools|ONLINE| ||
@@ -210,7 +209,7 @@
 |https://t.me/hackingtoolsprvi8|ONLINE| Leaks ||
 |https://t.me/hack_n3t|ONLINE|HackNeT||
 |https://t.me/hadesh0p|ONLINE| ||
-|https://t.me/Handala_hack|ONLINE|Handala Hack||
+|https://t.me/Handala_hack|OFFLINE|Handala Hack|Leaks & Breaches|
 |https://t.me/hellokittyleaks|OFFLINE| Data Leaks ||
 |https://t.me/hgn01_ru|ONLINE| Data Leaks ||
 |https://t.me/hidden_links|ONLINE| Hidden Links ||
@@ -227,7 +226,6 @@
 |https://t.me/HQPROX|ONLINE|Proxy service||
 |https://t.me/hudyhstock|ONLINE| Selling Accounts ||
 |https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs||
-|https://t.me/Hunt3rkill3rs1|ONLINE|Hunt3r Kill3rs chat||
 |https://t.me/hydramarketrebuild|ONLINE|Hydra Market Rebuild||
 |https://t.me/icrewhackers|ONLINE| ||
 |https://t.me/illsvcchat|ONLINE|Illicit Service chat||
@@ -283,7 +281,8 @@
 |https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider||
 |https://t.me/kittensec|ONLINE|KittenSec||
 |https://t.me/Kristina_Pass_RF|OFFLINE| Data Leaks, Passport Scans||
-|https://t.me/KryptonNetworks|ONLINE|Krypton||
+|https://t.me/KryptonSolutions|ONLINE|Krypton|DDoS|
+|https://t.me/KryptonNetworks|OFFLINE|Krypton||
 |https://t.me/lapsusfr|OFFLINE|LAPSUS$ France||
 |https://t.me/Lapsussaudechat|OFFLINE| Lapsus$ channel (new) ||
 |https://t.me/latestbin|ONLINE|Hacking Group||
@@ -317,7 +316,7 @@
 |https://t.me/LEGIONLEAKER|ONLINE|Legion Leaker||
 |https://t.me/Legion_Russia|OFFLINE| Legion Russia ||
 |https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data Leak|
-|https://t.me/LionheartHACK|ONLINE|Lionheart||
+|https://t.me/LionheartHACK|OFFLINE|Lionheart||
 |https://t.me/LockBit_APT|ONLINE| LockBit APT ||
 |https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
@@ -355,7 +354,7 @@
 |https://t.me/NetSurvivalist|ONLINE| General Hacking, Privacy ||
 |https://t.me/net_worker_alliance|OFFLINE|Net Worker Alliance||
 |https://t.me/NewBlood_Project|ONLINE|New Blood Project||
-|https://t.me/nightmare_hacker|ONLINE|NIGHTMARE||
+|https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
 |https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng||
 |https://t.me/nohidespace|ONLINE| ||
@@ -371,7 +370,7 @@
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial||
 |https://t.me/OnePlusChat|ONLINE| ||
 |https://t.me/opendataleaks|OFFLINE| Data Leaks ||
-|https://t.me/openleak|ONLINE| Data Leaks ||
+|https://t.me/openleak|OFFLINE| Data Leaks ||
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat||
@@ -425,10 +424,9 @@
 |https://t.me/SkidbinSITE|ONLINE|Skidbin|Doxing|
 |https://t.me/slivaidlocker|ONLINE| AiDLocker Group Data Leaks Channel||
 |https://t.me/slivnoviy123|ONLINE| Erernity Team Redline Stealer|Infostealer|
-|https://t.me/SNAKEDBS|ONLINE|Nuttela Combo's (Repackaged Combo Lists)||
+|https://t.me/SNAKEDBS|OFFLINE|Nuttela Combo's (Repackaged Combo Lists)||
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|Ransomware, Exfiltration|
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) ||
-|https://t.me/SN_Darkmeta|ONLINE|DarkMeta||
 |https://t.me/SN_Darkmeta|ONLINE|SN_ Blackmeta|DDoS|
 |https://t.me/solntsepekZ|ONLINE|Sandworm||
 |https://t.me/SolomonUpdates|OFFLINE|Solomon market place updates||
@@ -444,7 +442,7 @@
 |https://t.me/tbotlist|ONLINE| Bots ||
 |https://t.me/t_darknet|ONLINE|Illicit Service||
 |https://t.me/TE1915|ONLINE|1915 team||
-|https://t.me/team1916|ONLINE|TEAM1916||
+|https://t.me/team1916|OFFLINE|TEAM1916||
 |https://t.me/TeamDemon|ONLINE|Illicit Service||
 |https://t.me/teamimm0rtal|ONLINE| Team Imm0rtal channel ||
 |https://t.me/TeamIndianCyberForce|ONLINE|Indian Cyber Force||
@@ -551,3 +549,23 @@
 |https://t.me/justice_homeland_original|ONLINE|HomeLand Justice||
 |https://t.me/JusticeHomeland1|ONLINE|HomeLand Justice||
 |https://t.me/Team1722|ONLINE|Team1722||
+|https://t.me/hack_n3t|ONLINE|HackNeT|DDoS|
+|https://t.me/Alien_UFO_LEAKS|ONLINE|UFO LEAK MARKET|Leaks & Breaches|
+|https://t.me/sultengblackhat|ONLINE|INDONESIAN CYBER OF SULAWESI TENGAH BLACKHAT|Leaks & Breaches|
+|https://t.me/OPRATIONSALIGATOR|ONLINE|ALIGATOR BLACK HAT|Leaks & Breaches|
+|https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|
+|https://t.me/LulzSec_Off|ONLINE|PhantomGroup|Threat Actor|
+|https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
+|https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
+|https://t.me/hackerforse|ONLINE|7 October Union|DDoS|
+|https://t.me/whoisAlixan|ONLINE|AlixSec|Leaks & Breaches|
+|https://t.me/StressedForums|OFFLINE|Stessed Forum|Forum|
+|https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
+|https://t.me/h0lyleague|ONLINE|Holy League|DDoS|
+|https://t.me/+kcr0MVem9OA3MTk6|ONLINE|Handala Hack|Leaks & Breaches|
+|https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
+|https://t.me/azzasecurity|ONLINE|Azzasec|DDoS|
+|https://t.me/KozSec|ONLINE|KozSec|DDoS
+|https://t.me/KozSec1|ONLINE|KozSec backup|DDoS|
+|https://t.me/KozSecChat|ONLINE|KozSec chat|DDoS|
+|https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|

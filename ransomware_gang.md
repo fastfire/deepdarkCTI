@@ -101,6 +101,7 @@
 |[DAIXIN](http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion)|ONLINE|||
 |[DAN0N](http://2c7nd54guzi6xhjyqrj5kdkrq2ngm2u3e6oy4nfhn3wm3r54ul2utiqd.onion)|ONLINE|||
 |[DARK ANGELS](https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion)|OFFLINE|||
+|[DARK ANGELS](http://nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion)|ONLINE|||
 |[DARKBIT01(Victims request ID Page)](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion/support)|OFFLINE|||
 |[DARKBIT01](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion)|OFFLINE|||
 |[DARKRYPT](https://darkrypt.io)|OFFLINE|||
@@ -110,6 +111,8 @@
 |[DARK VAULT (mirror 1)](http://5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion)|ONLINE|||
 |[DARK VAULT (mirror 2)](http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion)|ONLINE|||
 |[DARK VAULT (blog)](http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion)|ONLINE|||
+|[DISPOSSESSOR (Dark)](http://e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion/)|ONLINE|||
+|[DISPOSSESSOR (Deep)](https://radar.ltd/)|ONLINE|||
 |[DONEX](http://g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion)|ONLINE|||
 |[DONUT BLOG](http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion)|ONLINE|||
 |[DONUT DLS](https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion)|OFFLINE|||
@@ -128,6 +131,7 @@
 |[EVEREST](http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion)|ONLINE|||
 |[EVILCORP](http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion)|OFFLINE|||
 |[EXORCIST](http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion)|OFFLINE|||
+|[FOG](http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/)|ONLINE|||
 |[FREE CIVILIAN (Attacks Ukrainian Government Agencies)](http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion)|OFFLINE||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
 |[FSOCIETY](http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion)|ONLINE|||
 |[FS-TEAM](http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion)|ONLINE|||
@@ -136,6 +140,8 @@
 |[GROOVE](http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion)|OFFLINE|||
 |[HADES](http://ixltdyumdlthrtgx.onion)|OFFLINE|||
 |[HANDALA](https://handala.to)|ONLINE|||
+|[HANDALA](https://handala-hack.to)|ONLINE|||
+|[HANDALA](http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion)|ONLINE|||
 |[HARON](http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php)|OFFLINE|Chaddadgroup:Chaddadgroup||
 |[HELLO GOOKIE](http://gookie256cvccntvenyxrvn7ht73bs6ss3oj2ocfkjt5y6vq6gfi2tad.onion)|ONLINE|||
 |[HELLO KITTY](http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion)|OFFLINE|||
@@ -204,12 +210,24 @@
 |[LOCKBIT 3.0 (New Dark mirror 6)](http://lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |[LOCKBIT 3.0 (New Dark mirror 7)](http://lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
 |[LOCKBIT 3.0 (from June 2024)](http://ofj3oaltwaf67qtd7oafk5r44upm6wkc2jurpsdyih2c7mbrbshuwayd.onion)|ONLINE||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7|
+|[LOCKBIT 3.0 (from July 2024)](http://lockbitcuo23q7qrymbk6dsp2sadltspjvjxgcyp4elbnbr6tcnwq7qd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (from July 2024)](http://lockbitw2ygzasbt35ffpdb46r4vkej6flm3siyabaxzdodwpiatfgqd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbit23xxhej7swdop24cru7ks2w66pw7zgdkydqo6f7wfyfqo7oqd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbit7ixelt7gn3ynrs3dgqtsom6x6sd2ope4di7bu6e6exyhazeyd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbitck6escin3p33v3f5uef3mr5fx335oyqon2uqoyxuraieuhiqd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbitfhzimjqx2v7p2vfu57fpdm5zh2vsbfk5jkjod3k5pszbek7ad.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbiti7ss2wzyizvyr2x46krnezl4xjeianvupnvazhbqtz32auqqd.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbitkwkmhfb2zr3ngduaa6sd6munslzkbtqhn5ifmwqml4sl7znad.onion)|ONLINE|||
+|[LOCKBIT 3.0 (chat)](http://lockbitqfj7mmhrfa7lznj47ogknqanskj7hyk2vistn2ju5ufrhbpyd.onion)|ONLINE|||
 |[LOCKBIT](http://lockbitkodidilol.onion)|OFFLINE|||
 |[LOCKFILE (Victims request ID page)](http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion)|OFFLINE||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB|
 |[LORENZ](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion)|ONLINE|||
 |[LOST TRUST](http://hscr6cjzhgoybibuzn2xud7u4crehuoo4ykw3swut7m7irde74hdfzyd.onion)|ONLINE|||
 |[LV (1)](http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion)|OFFLINE|||
 |[LV (2)](http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion)|OFFLINE|||
+|[LYNX](http://lynxbllrfr5262yvbgtqoyq76s7mpztcqkv6tjjxgpilpma7nyoeohyd.onion/disclosures)|ONLINE|||
+|[LYNX](http://lynxblog.net/leaks)|ONLINE|||
+|[MAD LIBERATOR](http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion)|ONLINE|||
 |[MADCAT RANSOM](http://i2gc52bwm2vu2wnohwi3cli7t7hj3y2q7qj3th2bs64h2eej7z5jcgqd.onion) |OFFLINE||@MadCatRansom|
 |[MALAS](http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion)|ONLINE|||
 |[MALEKTEAM](https://malekteam.ac)|ONLINE||https://twitter.com/malekteam2|
@@ -257,6 +275,7 @@
 |[NOKOYAWA](http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion)|OFFLINE|||
 |[NOKOYAWA](http://nokoleakb76znymx443veg4n6fytx6spck6pc7nkr4dvfuygpub6jsid.onion)|ONLINE|||
 |[NONAME](http://noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion)|ONLINE|||
+|[NULLBULGE](https://nullbulge.co/blog.html)|ONLINE|||
 |[ONEPERCENT](http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion)|OFFLINE|||
 |[PANDORA](http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion)|OFFLINE|||
 |[PAY2KEY](http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion)|OFFLINE|||
@@ -265,6 +284,8 @@
 |[PLAY](http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion)|ONLINE|||
 |[PROLOCK](http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion)|OFFLINE|||
 |[PROMETHEUS](http://promethw27cbrcot.onion/blog)|OFFLINE|||
+|[PRYX (deep web)](http://pryx.cc)|ONLINE||141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C|
+|[PRYX (dark web)](http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion)|ONLINE||141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C|
 |[PYSA](http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html)|OFFLINE|||
 |[QILIN (Victims page)](http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion)|OFFLINE|||
 |[QILIN](http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/)|ONLINE||https://t.me/+OVXlbwml5bE5YWQ0|
@@ -274,6 +295,7 @@
 |[QUANTUM (clearnet)](http://quantumleap.quest)|OFFLINE|||
 |[RA GROUP](http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion)|ONLINE|||
 |[RA GROUP (Storage Server)](http://hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion)|ONLINE|||
+|[RANSOMCORTEX](http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion)|ONLINE|||
 |[RAWORLD](http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion)|ONLINE|||
 |[RABBIT HOLE](http://z5jixbfejdu5wtxd2baliu6hwzgcitlspnttr7c2eopl5ccfcjrhkqid.onion)|ONLINE|||
 |[RAGNAR LOCKER](http://p6o7m73ujalhgkiv.onion)|OFFLINE|||
@@ -347,6 +369,7 @@
 |[TRISEC](http://orfc3joknhrzscdbuxajypgrvlcawtuagbj7f44ugbosuvavg3dc3zid.onion)|ONLINE||https://t.me/Trise_vision|
 |[UNSAFE](http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion)|ONLINE|||
 |[V IS VENDETTA](http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion)|ONLINE|||
+|[VANIR](http://6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion)|ONLINE|||
 |[VFOKX (1)](http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion)|OFFLINE|||
 |[VFOKX (2)](http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion)|OFFLINE|||
 |[VICE SOCIETY](http://4hzyuotli6maqa4u.onion)|OFFLINE|||

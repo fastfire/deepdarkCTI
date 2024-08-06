@@ -14,6 +14,7 @@
 |[BDF CLUB](https://bdfclub.com)| ONLINE | |
 |[BEST CARDING WORLD](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion) | ONLINE | |
 |[BHC Forums](https://bhcforums.cc) | ONLINE | |
+|[BHF](https://bhf.ee)| ONLINE | |
 |[BHF](https://bhf.im)| ONLINE | |
 |[BHF](https://bhf.io)| OFFLINE | |
 |[BITCOINFO.RU](http://bitcoinfor.ru)|ONLINE||
@@ -58,6 +59,7 @@
 |[CRIMENETWORK (Dark)](http://cnw4acab23przeum6ios6pw63ivxxbrvpclz5yssflkos6ano6oq4fqd.onion)| ONLINE | |
 |[CRIMENETWORK (Deep)](http://crime.to)| ONLINE | |
 |[CRIMENOW](http://crimenow.is)| ONLINE | |
+|[CRIMESTATE](https://crimestate.cc)| ONLINE | |
 |[CRYPTBB](http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion)| ONLINE | |
 |[CRYPTOCURRENCY.TECH](https://forum.cryptocurrency.tech)| ONLINE | |
 |[CRYPTOFF](https://forum.cryptoff.org)| ONLINE | |
@@ -70,7 +72,8 @@
 |[DARKCLUB](https://darkclub.pw)| ONLINE | |
 |[DarkForum](https://darkforum.in)| ONLINE | |
 |[DARKFORUM](https://darkforum.net)| ONLINE | |
-|[DARKFORUMS](https://darkforums.me)| ONLINE | |
+|[DARKFORUMS](https://darkforums.me)| OFFLINE | |
+|[DARKFORUMS](https://darkforums.st)| ONLINE | |
 |[DARKMARKET.AT](https://darkmarket.at)| OFFLINE | |
 |[DARKMARKET.CX](https://darkmarket.cx)| OFFLINE | |
 |[DARKMONEY](https://darkmoney.lc)| ONLINE | |
@@ -134,7 +137,7 @@
 |[Korovka](https://korovka.cc) | ONLINE | |
 |[Lampeduza](https://lampeduza.la) | ONLINE | |
 |[LEAD LAB](https://leadlab.top)| ONLINE | |
-|[LEAKBASE](https://leakbase.cc)| ONLINE | |
+|[LEAKBASE](https://leakbase.cc)| OFFLINE | |
 |[LEAKBASE](https://leakbase.io/)| ONLINE | |
 |[LEAKBASE](https://leakbase.org)| ONLINE | |
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
@@ -214,6 +217,7 @@
 |[SOFTXAKER](http://forum.softxaker.ru)| ONLINE | |
 |[SPYHACKERZ](https://spyhackerz.org)| ONLINE | |
 |[SQLI](https://sqli.cloud)| ONLINE | |
+|[STRESSED FORUM](https://stressedforums.pw)| ONLINE | |
 |[SUPERBAY](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)| ONLINE | |
 |[THE GOOD LIFE](https://thegoodlife.to)| ONLINE | |
 |[THE HUB](http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion)| ONLINE | |

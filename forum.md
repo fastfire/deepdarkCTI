@@ -104,7 +104,7 @@
 |[ENCLAVE](https://www.enclave.cc)| ONLINE | |
 |[ENDWAY](https://endway.su)| ONLINE | |
 |[ETERNIA](https://eternia.to)| ONLINE | |
-|[EVILARMY](https://evilarmy.in)| ONLINE | |
+|[EVILARMY](https://evilarmy.in)| OFFLINE | |
 |[EVILZONE](https://evil-zone.org)| ONLINE | |
 |[evilx](https://evilx.su/forum/)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |

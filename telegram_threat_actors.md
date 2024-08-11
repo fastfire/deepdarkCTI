@@ -569,3 +569,4 @@
 |https://t.me/KozSec1|ONLINE|KozSec backup|DDoS|
 |https://t.me/KozSecChat|ONLINE|KozSec chat|DDoS|
 |https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|
+|https://t.me/RipperSec|ONLINE|RipperSec|DDoS|

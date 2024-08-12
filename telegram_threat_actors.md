@@ -570,3 +570,4 @@
 |https://t.me/KozSecChat|ONLINE|KozSec chat|DDoS|
 |https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|
 |https://t.me/RipperSec|ONLINE|RipperSec|DDoS|
+|https://t.me/goripoolcodes|ONLINE|Goripool Codes|Phishing pages,panels|

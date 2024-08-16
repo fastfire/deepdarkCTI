@@ -318,7 +318,7 @@
 |https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data Leak|
 |https://t.me/LionheartHACK|OFFLINE|Lionheart||
 |https://t.me/LockBit_APT|ONLINE| LockBit APT ||
-|https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
+|https://t.me/lockbit_offical|OFFLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
 |https://t.me/lulzsecmuslimsworld|ONLINE|Lulzsec Muslims||
 |https://t.me/LulzSecOff|OFFLINE|LulzSec||
@@ -567,7 +567,7 @@
 |https://t.me/azzasecurity|ONLINE|Azzasec|DDoS|
 |https://t.me/KozSec|OFFLINE|KozSec|DDoS
 |https://t.me/KozSec1|ONLINE|KozSec backup|DDoS|
-|https://t.me/KozSecChat|ONLINE|KozSec chat|DDoS|
+|https://t.me/KozSecChat|OFFLINE|KozSec chat|DDoS|
 |https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|
 |https://t.me/RipperSec|ONLINE|RipperSec|DDoS|
 |https://t.me/goripoolcodes|ONLINE|Goripool Codes|Phishing pages,panels|

@@ -48,3 +48,4 @@
 |[VXVAULT](http://vxvault.net/ViriList.php)| ONLINE | |
 |[VX-Underground](https://www.vx-underground.org/#E:/root)| ONLINE | |
 |[TELEGRAM FRAUDSTER GLOSSARY](https://docs.google.com/spreadsheets/d/1-ICFqnnm0DryaVfCdp7NwleGG03pJorT63bEMPBmji8/htmlview)| ONLINE | |
+|[OFFSHORE.CAT - offshore hosting list](https://offshore.cat) | ONLINE | |

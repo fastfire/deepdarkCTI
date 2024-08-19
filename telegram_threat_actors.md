@@ -495,7 +495,6 @@
 |https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|DDoS|
 |https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat||
 |https://t.me/xinject_official|ONLINE| (Dead)XInject Information Channel ||
-|https://t.me/+xr2N5_kqYQE3ZDUy|VALID| Kingsman||
 |https://t.me/xxShad0dexx|ONLINE|Shad0de||
 |https://t.me/+y8c51prOz20wNWU0|EXPIRED|Solomon market place support||
 |https://t.me/Yad2Leaks|OFFLINE| Data Leaks ||

@@ -256,7 +256,7 @@
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig|VALID| Forum ||
 |https://t.me/joinchat/VBAj4Hc6Xki5lG_H|EXPIRED| Data Leaks ||
 |https://t.me/joinchat/WCSE2vgon6IYGLgz|VALID| ||
-|https://t.me/joinchat/xr2N5_kqYQE3ZDUy|VALID|Kingsman||
+|https://t.me/joinchat/xr2N5_kqYQE3ZDUy|EXPIRED|Kingsman||
 |https://t.me/joinchat/YHUDj7dEmNE1NWQ0|EXPIRED| Data Leaks ||
 |https://t.me/joinchat/YR89p_rg8Oo0Y2Ux|VALID| ||
 |https://t.me/joker_reborn|ONLINE| Joker Reborn Redline Stealer |Infostealer|

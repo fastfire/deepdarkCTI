@@ -571,3 +571,4 @@
 |https://t.me/RipperSec|ONLINE|RipperSec|DDoS|
 |https://t.me/goripoolcodes|ONLINE|Goripool Codes|Phishing pages,panels|
 |https://t.me/Anonymous_Guys_313|ONLINE|Anonymous Guys|DDoS|
+|https://t.me/+DZRa-yXaHZ81MmNk|ONLINE|Handala Hack|Leaks & Breaches|

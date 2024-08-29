@@ -505,7 +505,7 @@
 |https://t.me/zendatamarket|OFFLINE|ZenData Database Market||
 |https://t.me/zer0daylab|OFFLINE| Hacking, Leaks and News ||
 |https://t.me/zerodayforums|ONLINE| ZeroDay Forums ||
-|https://t.me/zerodaymarkets|ONLINE|Zeroday Market|Exploit sell|
+|https://t.me/zerodaymarkets|OFFLINE|Zeroday Market|Exploit sell|
 |https://t.me/ZeroDay_TM|ONLINE| Original  ZeroDay  Community ||
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||

@@ -427,7 +427,7 @@
 |https://t.me/SNAKEDBS|OFFLINE|Nuttela Combo's (Repackaged Combo Lists)||
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|Ransomware, Exfiltration|
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) ||
-|https://t.me/SN_Darkmeta|ONLINE|SN_ Blackmeta|DDoS|
+|https://t.me/SN_Darkmeta|OFFLINE|SN_ Blackmeta|DDoS|
 |https://t.me/solntsepekZ|ONLINE|Sandworm||
 |https://t.me/SolomonUpdates|OFFLINE|Solomon market place updates||
 |https://t.me/spamsmtpcombo|ONLINE| Combo List ||
@@ -553,7 +553,7 @@
 |https://t.me/sultengblackhat|ONLINE|INDONESIAN CYBER OF SULAWESI TENGAH BLACKHAT|Leaks & Breaches|
 |https://t.me/OPRATIONSALIGATOR|ONLINE|ALIGATOR BLACK HAT|Leaks & Breaches|
 |https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|
-|https://t.me/LulzSec_Off|ONLINE|PhantomGroup|Threat Actor|
+|https://t.me/LulzSec_Off|OFFLINE|PhantomGroup|Threat Actor|
 |https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
 |https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
 |https://t.me/hackerforse|ONLINE|7 October Union|DDoS|
@@ -561,7 +561,7 @@
 |https://t.me/StressedForums|OFFLINE|Stessed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
 |https://t.me/h0lyleague|ONLINE|Holy League|DDoS|
-|https://t.me/+kcr0MVem9OA3MTk6|ONLINE|Handala Hack|Leaks & Breaches|
+|https://t.me/+kcr0MVem9OA3MTk6|OFFLINE|Handala Hack|Leaks & Breaches|
 |https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
 |https://t.me/azzasecurity|ONLINE|Azzasec|DDoS|
 |https://t.me/KozSec|OFFLINE|KozSec|DDoS

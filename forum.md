@@ -23,6 +23,7 @@
 |[BLACKBONES](https://blackbones.net)|ONLINE||
 |[BLACKFORUMS](https://blackforums.me)| ONLINE | |
 |[BLACKFORUMS](https://blackforums.net)| ONLINE | |
+|[BLACKFORUMS](https://blackforums.ru)| ONLINE | |
 |[BLACKHACKER](https://blackhacker.pw)|ONLINE||
 |[blackhatpakistan](https://blackhatpakistan.net)| ONLINE | |
 |[blackhatprotools](https://www.blackhatprotools.info/)| ONLINE | |

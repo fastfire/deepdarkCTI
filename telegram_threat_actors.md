@@ -249,7 +249,7 @@
 |https://t.me/jambicyberteam|OFFLINE|Jambi Cyber Team||
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID| The Collective Sentinel||
 |https://t.me/jester_stealer_channel|ONLINE| Jester Stealer Channel |Infostealer|
-|https://t.me/+JMruw9EHhWtmYjc9|VALID| BlackDragonSec ||
+|https://t.me/+JMruw9EHhWtmYjc9|EXPIRED| BlackDragonSec ||
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|VALID| ||
 |https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|VALID|Large Hacking Group||
 |https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED| ||
@@ -341,7 +341,7 @@
 |https://t.me/membersofxaknet|ONLINE| ||
 |https://t.me/meris_botnet|ONLINE|Meris botnet|DDoS|
 |https://t.me/metastealer_official|ONLINE| Metastealer Officiale |Infostealer|
-|https://t.me/MexicanMafiaTheShit|ONLINE|MexicanMafia Announcement|Data Leak|
+|https://t.me/MexicanMafiaTheShit|OFFLINE|MexicanMafia Announcement|Data Leak|
 |https://t.me/MiladLeaks|ONLINE|Milad Leaks||
 |https://t.me/milkdude|ONLINE| Data Leaks||
 |https://t.me/minsaudebr|OFFLINE| Lapsus$ channel ||

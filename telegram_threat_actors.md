@@ -544,7 +544,7 @@
 |https://t.me/lulzchat|ONLINE|LulzSec chat||
 |https://t.me/realLulzSec|ONLINE|VSec||
 |https://t.me/CyberVolk_K|ONLINE|CyberVolk|dataleak|
-|https://t.me/evilzoneforum|ONLINE|Evil Zone|Forum|
+|https://t.me/evilzoneforum|OFFLINE|Evil Zone|Forum|
 |https://t.me/justice_homeland_original|ONLINE|HomeLand Justice||
 |https://t.me/JusticeHomeland1|ONLINE|HomeLand Justice||
 |https://t.me/Team1722|ONLINE|Team1722||

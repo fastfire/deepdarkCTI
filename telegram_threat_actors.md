@@ -198,8 +198,7 @@
 |https://t.me/GonjeshkeDarand|ONLINE| Gonjeshke Darande||
 |https://t.me/grandgive|ONLINE| ||
 |https://t.me/groupcracked|ONLINE|Group Ctacked||
-|https://t.me/GroupLapsus|ONLINE|Group Lapsus||
-|https://t.me/GroupLapsus|ONLINE|Lapsus$ Group||
+|https://t.me/GroupLapsus|OFFLINE|Group Lapsus||
 |https://t.me/gulfdocs|ONLINE| Data Leaks (Gulf Region), Middle East Document Dumps||
 |https://t.me/+GxHjaDP0bOphZjNh|VALID| 8BASE Chat Group ||
 |https://t.me/hackberegini|ONLINE|Beregini||

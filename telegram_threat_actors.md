@@ -198,8 +198,7 @@
 |https://t.me/GonjeshkeDarand|ONLINE| Gonjeshke Darande||
 |https://t.me/grandgive|ONLINE| ||
 |https://t.me/groupcracked|ONLINE|Group Ctacked||
-|https://t.me/GroupLapsus|ONLINE|Group Lapsus||
-|https://t.me/GroupLapsus|ONLINE|Lapsus$ Group||
+|https://t.me/GroupLapsus|OFFLINE|Group Lapsus||
 |https://t.me/gulfdocs|ONLINE| Data Leaks (Gulf Region), Middle East Document Dumps||
 |https://t.me/+GxHjaDP0bOphZjNh|VALID| 8BASE Chat Group ||
 |https://t.me/hackberegini|ONLINE|Beregini||
@@ -249,7 +248,7 @@
 |https://t.me/jambicyberteam|OFFLINE|Jambi Cyber Team||
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID| The Collective Sentinel||
 |https://t.me/jester_stealer_channel|ONLINE| Jester Stealer Channel |Infostealer|
-|https://t.me/+JMruw9EHhWtmYjc9|VALID| BlackDragonSec ||
+|https://t.me/+JMruw9EHhWtmYjc9|EXPIRED| BlackDragonSec ||
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|VALID| ||
 |https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|VALID|Large Hacking Group||
 |https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED| ||
@@ -341,7 +340,7 @@
 |https://t.me/membersofxaknet|ONLINE| ||
 |https://t.me/meris_botnet|ONLINE|Meris botnet|DDoS|
 |https://t.me/metastealer_official|ONLINE| Metastealer Officiale |Infostealer|
-|https://t.me/MexicanMafiaTheShit|ONLINE|MexicanMafia Announcement|Data Leak|
+|https://t.me/MexicanMafiaTheShit|OFFLINE|MexicanMafia Announcement|Data Leak|
 |https://t.me/MiladLeaks|ONLINE|Milad Leaks||
 |https://t.me/milkdude|ONLINE| Data Leaks||
 |https://t.me/minsaudebr|OFFLINE| Lapsus$ channel ||
@@ -544,7 +543,7 @@
 |https://t.me/lulzchat|ONLINE|LulzSec chat||
 |https://t.me/realLulzSec|ONLINE|VSec||
 |https://t.me/CyberVolk_K|ONLINE|CyberVolk|dataleak|
-|https://t.me/evilzoneforum|ONLINE|Evil Zone|Forum|
+|https://t.me/evilzoneforum|OFFLINE|Evil Zone|Forum|
 |https://t.me/justice_homeland_original|ONLINE|HomeLand Justice||
 |https://t.me/JusticeHomeland1|ONLINE|HomeLand Justice||
 |https://t.me/Team1722|ONLINE|Team1722||

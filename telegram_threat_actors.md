@@ -132,7 +132,7 @@
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
-|https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
+|https://t.me/darkvaultransom|OFFLINE|Dark Vault ransom|Ransomware|
 |https://t.me/darkwebdarknetmarketplace|OFFLINE|Illicit Service||
 |https://t.me/darxe_base|OFFLINE| Data Leaks ||
 |https://t.me/data1eaks|ONLINE| ||

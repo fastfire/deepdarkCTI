@@ -227,7 +227,14 @@
 |[LOST TRUST](http://hscr6cjzhgoybibuzn2xud7u4crehuoo4ykw3swut7m7irde74hdfzyd.onion)|ONLINE|||
 |[LV (1)](http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion)|OFFLINE|||
 |[LV (2)](http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion)|OFFLINE|||
-|[LYNX](http://lynxbllrfr5262yvbgtqoyq76s7mpztcqkv6tjjxgpilpma7nyoeohyd.onion/disclosures)|ONLINE|||
+|[LYNX](http://lynxblogxstgzsarfyk2pvhdv45igghb4zmthnzmsipzeoduruz3xwqd.onion)|ONLINE|||
+|[LYNX](http://lynxblogco7r37jt7p5wrmfxzqze7ghxw6rihzkqc455qluacwotciyd.onion)|ONLINE|||
+|[LYNX](http://lynxblogijy4jfoblgix2klxmkbgee4leoeuge7qt4fpfkj4zbi2sjyd.onion)|ONLINE|||
+|[LYNX](http://lynxblogmx3rbiwg3rpj4nds25hjsnrwkpxt5gaznetfikz4gz2csyad.onion)|ONLINE|||
+|[LYNX](http://lynxblogoxllth4b46cfwlop5pfj4s7dyv37yuy7qn2ftan6gd72hsad.onion)|ONLINE|||
+|[LYNX](http://lynxblogtwatfsrwj3oatpejwxk5bngqcd5f7s26iskagfu7ouaomjad.onion)|ONLINE|||
+|[LYNX](http://lynxblogxutufossaeawlij3j3uikaloll5ko6grzhkwdclrjngrfoid.onion)|ONLINE|||
+|[LYNX](http://lynxbllrfr5262yvbgtqoyq76s7mpztcqkv6tjjxgpilpma7nyoeohyd.onion/disclosures)|OFFLINE|||
 |[LYNX](http://lynxblog.net/leaks)|ONLINE|||
 |[MAD LIBERATOR](http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion)|ONLINE|||
 |[MADCAT RANSOM](http://i2gc52bwm2vu2wnohwi3cli7t7hj3y2q7qj3th2bs64h2eej7z5jcgqd.onion) |OFFLINE||@MadCatRansom|

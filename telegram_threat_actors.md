@@ -555,7 +555,7 @@
 |https://t.me/LulzSec_Off|OFFLINE|PhantomGroup|Threat Actor|
 |https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
 |https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
-|https://t.me/hackerforse|ONLINE|7 October Union|DDoS|
+|https://t.me/hackerforse|OFFLINE|7 October Union|DDoS|
 |https://t.me/whoisAlixan|ONLINE|AlixSec|Leaks & Breaches|
 |https://t.me/StressedForums|OFFLINE|Stessed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
@@ -569,5 +569,5 @@
 |https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|
 |https://t.me/RipperSec|ONLINE|RipperSec|DDoS|
 |https://t.me/goripoolcodes|ONLINE|Goripool Codes|Phishing pages,panels|
-|https://t.me/Anonymous_Guys_313|ONLINE|Anonymous Guys|DDoS|
+|https://t.me/Anonymous_Guys_313|OFFLINE|Anonymous Guys|DDoS|
 |https://t.me/+DZRa-yXaHZ81MmNk|ONLINE|Handala Hack|Leaks & Breaches|

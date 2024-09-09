@@ -115,7 +115,7 @@
 |https://t.me/cybercourt_io|ONLINE|Cyber Court||
 |https://t.me/cybercourt_io|ONLINE|CyberCourt Group (pro Palestine) - https://cybercourt.io|Data Leak|
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
-|https://t.me/CyberToufanBackup|ONLINE|CyberToufan||
+|https://t.me/CyberToufanBackup|ONLINE|CyberToufan|Data Leaks||
 |https://t.me/D3atr0y3d|OFFLINE| Data Leaks||
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos ||
 |https://t.me/D7BBUK|OFFLINE|D7BBUK||
@@ -571,3 +571,4 @@
 |https://t.me/goripoolcodes|ONLINE|Goripool Codes|Phishing pages,panels|
 |https://t.me/Anonymous_Guys_313|OFFLINE|Anonymous Guys|DDoS|
 |https://t.me/+DZRa-yXaHZ81MmNk|ONLINE|Handala Hack|Leaks & Breaches|
+|https://t.me/CyberToufan|ONLINE|CyberToufan|Data Leaks||

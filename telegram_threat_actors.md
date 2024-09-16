@@ -576,3 +576,5 @@
 |https://t.me/ridgedforums|ONLINE|BlackForums|Forum|
 |https://t.me/thebrotherhoodcorp|ONLINE|The Brotherhood|Ransomware Gang|
 |https://t.me/bloodforgex|ONLINE|BloodForge|RaaS|
+|https://t.me/RedEagleCrew|ONLINE|Red Eagle Crew|DDoS & Data Breach|
+|https://t.me/NetGhostSecurity|ONLINE|DDoS & Data Breach|

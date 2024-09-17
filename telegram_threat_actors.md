@@ -32,7 +32,7 @@
 |https://t.me/aresmainchannel|OFFLINE| Data Leaks ||
 |https://t.me/arvinclub1|ONLINE|Arvin||
 |https://t.me/Arvin_club2|OFFLINE| Data Leaks ||
-|https://t.me/arvin_club|ONLINE||
+|https://t.me/arvin_club|OFFLINE||
 |https://t.me/asdcloud|ONLINE|Combo List||
 |https://t.me/atlantiscyberarmy|ONLINE|Atlantis - CyberArmy - A.I.G||
 |https://t.me/atw2022|ONLINE| Against The West ||
@@ -109,7 +109,7 @@
 |https://t.me/CyberArmyofRussia_Reborn|ONLINE|Sandworm||
 |https://t.me/CyberArmyofRussia_Reborn|ONLINE|Народная CyberАрмия||
 |https://t.me/CyberAv3ngers|ONLINE|Cyber Av3ngers||
-|https://t.me/CyberAveng3rs|ONLINE|Cyber Aveng3rs||
+|https://t.me/CyberAveng3rs|OFFLINE|Cyber Aveng3rs||
 |https://t.me/CyberCatChat|OFFLINE|Cyber Cat chat||
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel||
 |https://t.me/cybercourt_io|ONLINE|Cyber Court||
@@ -127,7 +127,7 @@
 |https://t.me/DarkfeedNews|ONLINE| News ||
 |https://t.me/DarkForumsME|ONLINE|Dark Forums|Cyber crime forum|
 |https://t.me/DarkForums|ONLINE|Dark Forums||
-|https://t.me/darknet_br|ONLINE| ||
+|https://t.me/darknet_br|OFFLINE| ||
 |https://t.me/DarknetNewsEng|OFFLINE| Darknet News(English Version)||
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
@@ -145,7 +145,7 @@
 |https://t.me/DataLeakHome|ONLINE| Data Leaks ||
 |https://t.me/dataleaksua|OFFLINE| Data Dumps; ESP Russian ||
 |https://t.me/+_d-aW--RLXszYmU0|VALID|Openbullet Config Service||
-|https://t.me/dbforall|ONLINE| ||
+|https://t.me/dbforall|OFFLINE| ||
 |https://t.me/DBleak|ONLINE| Data Leaks ||
 |https://t.me/DB_MARKEETS|ONLINE| Data Leaks ||
 |https://t.me/db_rf_rb|OFFLINE| Data Leaks ||
@@ -190,7 +190,7 @@
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED| voidy - database storage||
 |https://t.me/GitTools|ONLINE| ||
 |https://t.me/gladdos69_official|ONLINE| DDoS |DDoS|
-|https://t.me/GLORIAMISTS|ONLINE|GLORIAMIST||
+|https://t.me/GLORIAMISTS|OFFLINE|GLORIAMIST||
 |https://t.me/glorysec|ONLINE|GlorySec||
 |https://t.me/goblins_gang|ONLINE| chat ||
 |https://t.me/goblins_hub|ONLINE| hub links ||
@@ -237,7 +237,7 @@
 |https://t.me/infinity_hackers_group|ONLINE|Infinity Hackers By||
 |https://t.me/INFINITY_HACKERSS|ONLINE|Infinity Forum||
 |https://t.me/informZarya|ONLINE|Zarya||
-|https://t.me/InfraShutdown|ONLINE|InfraShutdown - DDoS|DDoS|
+|https://t.me/InfraShutdown|OFFLINE|InfraShutdown - DDoS|DDoS|
 |https://t.me/inj3ct0rs|ONLINE|Exploits Market and 0day Exploits Database||
 |https://t.me/intelrepo|OFFLINE|Spectre's Intel Repository||
 |https://t.me/intelx_io|OFFLINE| intelx - infosec||
@@ -490,9 +490,8 @@
 |https://t.me/+x9tlrn-DoOw0NmNl|EXPIRED| Team BlackDragonSec ||
 |https://t.me/xaknet_team|ONLINE| Killnet ||
 |https://t.me/xaknet_team|ONLINE|Sandworm||
-|https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan||
-|https://t.me/xAnonymousSudan|ONLINE|Anonymous Sudan (new channel)|DDoS|
-|https://t.me/xGodzillAxChat|ONLINE|Godzilla Botnet chat||
+|https://t.me/xAnonymousSudan|OFFLINE|Anonymous Sudan||
+|https://t.me/xGodzillAxChat|OFFLINE|Godzilla Botnet chat||
 |https://t.me/xinject_official|ONLINE| (Dead)XInject Information Channel ||
 |https://t.me/xxShad0dexx|ONLINE|Shad0de||
 |https://t.me/+y8c51prOz20wNWU0|EXPIRED|Solomon market place support||

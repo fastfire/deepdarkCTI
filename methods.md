@@ -42,7 +42,7 @@ In an [article](https://www.neteye-blog.com/2021/07/analysis-of-a-dark-web-site/
 ## How to download large files from Tor or anonymize yourself while downloading files
 - Install torsocks `sudo apt install torsocks`
 - Use torsocks chained with wget `torsocks wget --tries=0 --retry-connrefused --retry-on-host-error -retry-on-http-error=500,502 --continue --timeout=90 --progress=bar --show-progress --random-wait --append-output=/tmp/wget_background <YOUR DOWNLOAD LINK>`
-
+  - If you get a message that states _"PERROR torsocks[6770]: socks5 libc connect: Connection refused (in socks5_connect() at socks5.c:202"_, check your `/etc/tor/torsocks.conf` and make sure that the `TorPort` is set correctly. By default it is set to `9050`, but may need to be changed to `9150`.  
 ## How to download large and numerous files from Tor at high speed trough multi-threading and downloads fragmentation
 Aria2-onion-downloader docker image is composed by an aria2ng webinterface as well as an downloader, which creates up to 99 tor-services and allows to load-balance downloads between these via an local nginx instance. This means you can download at an really high speed, since Aria2 fragments the downloads by default to 10 connections, which get load-balanced to Tor-Services.
 https://github.com/sn0b4ll/aria2-onion-downloader

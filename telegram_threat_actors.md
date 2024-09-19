@@ -19,7 +19,7 @@
 |https://t.me/AnonimLegion|ONLINE|KaliHunt/Russia||
 |https://t.me/ANONM0S_RU|OFFLINE|Anonymous Russia||
 |https://t.me/anon_sec_Official|ONLINE|Anon Sec|Data Leak|
-|https://t.me/AnonymousEgypt|ONLINE|Anonymous Egypt|Data Leak|
+|https://t.me/AnonymousEgypt|OFFLINE|Anonymous Egypt|Data Leak|
 |https://t.me/Anonymous_revengers|ONLINE|UnderWorld Hacking Group||
 |https://t.me/anonymous_south_africa|ONLINE|Anonymous South Africa|Data Leak|
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
@@ -524,7 +524,7 @@
 |https://t.me/freecombosmails|ONLINE|FREE COMBOS MAILS|combos|
 |https://t.me/URLPASSCLOUD|ONLINE|URL:USER:PASS CLOUD|combos|
 |https://t.me/voltspammer|ONLINE|VOLT CRACKS|combos|
-|https://t.me/TEST123ND|ONLINE|TEST|combos|
+|https://t.me/TEST123ND|OFFLINE|TEST|combos|
 |https://t.me/logsgang2|ONLINE|Logs|combos|
 |https://t.me/MailPassPrivates|ONLINE|Mail Pass Privates|combos|
 |https://t.me/mailaccessmegacloud|ONLINE|MailAccess Mega Cloud|combos|
@@ -547,7 +547,7 @@
 |https://t.me/JusticeHomeland1|ONLINE|HomeLand Justice||
 |https://t.me/Team1722|ONLINE|Team1722||
 |https://t.me/hack_n3t|ONLINE|HackNeT|DDoS|
-|https://t.me/Alien_UFO_LEAKS|ONLINE|UFO LEAK MARKET|Leaks & Breaches|
+|https://t.me/Alien_UFO_LEAKS|OFFLINE|UFO LEAK MARKET|Leaks & Breaches|
 |https://t.me/sultengblackhat|ONLINE|INDONESIAN CYBER OF SULAWESI TENGAH BLACKHAT|Leaks & Breaches|
 |https://t.me/OPRATIONSALIGATOR|ONLINE|ALIGATOR BLACK HAT|Leaks & Breaches|
 |https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|

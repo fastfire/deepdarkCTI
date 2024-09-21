@@ -11,6 +11,8 @@
 |[Archetyp](http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion)| ONLINE | |
 |[ARES](http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion)| ONLINE | |
 |[ASEAN](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion)| ONLINE | |
+|[AUTHORIZE CVV](https://authorizecvv.io)| ONLINE | |
+|[AUTHORIZE CVV](https://authorizecvv.cc)| ONLINE | |
 |[BIDEN CASH (Dark Tor)](http://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| ONLINE | |

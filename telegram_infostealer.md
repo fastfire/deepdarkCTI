@@ -97,4 +97,5 @@
 |https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud|
 |https://t.me/miragelogscloud|ONLINE|Mirage Cloud|
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
-|https://t.me/wingsdailyurl|Wings|
+|https://t.me/wingsdailyurl|ONLINE|Wings|
+|https://t.me/godeless_cloud|ONLINE|Godeless Cloud Reborn|

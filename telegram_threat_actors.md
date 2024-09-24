@@ -249,7 +249,7 @@
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID| The Collective Sentinel||
 |https://t.me/jester_stealer_channel|ONLINE| Jester Stealer Channel |Infostealer|
 |https://t.me/+JMruw9EHhWtmYjc9|EXPIRED| BlackDragonSec ||
-|https://t.me/joinchat/8yMjCnT06ytjNzQx|VALID| ||
+|https://t.me/joinchat/8yMjCnT06ytjNzQx|EXPIRED| ||
 |https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|VALID|Large Hacking Group||
 |https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED| ||
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig|VALID| Forum ||
@@ -289,7 +289,7 @@
 |https://t.me/lazarus_apt18|ONLINE| Lazarus channel||
 |https://t.me/LCdatabase|ONLINE|Low-Cost-Database||
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database||
-|https://t.me/leakbaseforum|ONLINE|LeakBaseForum||
+|https://t.me/leakbaseforum|OFFLINE|LeakBaseForum||
 |https://t.me/leakbase_official|ONLINE|LeakBase Official||
 |https://t.me/leakdataprivate|ONLINE| Data Leaks ||
 |https://t.me/leak_db1|ONLINE|d3ltaboys group 1 (DB Leaks) - Backup||
@@ -323,8 +323,8 @@
 |https://t.me/LulzSecOff|OFFLINE|LulzSec||
 |https://t.me/LummaC2Stealer|ONLINE|LummaC2 Stealer|Infostealer|
 |https://t.me/LummaC2Team|ONLINE|LummaC2 Stealer Chat|Infostealer|
-|https://t.me/+lYYyb3exPNFjNmRi|ONLINE|Cyber Dragon||
-|https://t.me/+LZQBX9ml0Qk3YWFl|VALID|BF Repo V3 Chat||
+|https://t.me/+lYYyb3exPNFjNmRi|VALID|Cyber Dragon||
+|https://t.me/+LZQBX9ml0Qk3YWFl|EXPIRED|BF Repo V3 Chat||
 |https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider||
 |https://t.me/mailaccesscrack|ONLINE|Combo Lists||
 |https://t.me/MaillAccessTop|OFFLINE| Data Leaks ||
@@ -359,13 +359,13 @@
 |https://t.me/nohidespace|ONLINE| ||
 |https://t.me/nohidespace|ONLINE| Combo List ||
 |https://t.me/noname05716engchat|ONLINE| NoName057(16) chat||
-|https://t.me/noname05716eng|ONLINE| NoName057(16) Eng||
+|https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng||
 |https://t.me/noname05716|ONLINE|NoName057(16) RUS||
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|ONLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
 |https://t.me/ObserverCloud|OFFLINE| Observer Cloud Redline Stealer (Harvests other channels) |Infostealer|
-|https://t.me/OBSERVERCLOUDCOMBO|ONLINE|Combo List||
+|https://t.me/OBSERVERCLOUDCOMBO|OFFLINE|Combo List||
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial||
 |https://t.me/OnePlusChat|ONLINE| ||
 |https://t.me/opendataleaks|OFFLINE| Data Leaks ||
@@ -498,7 +498,7 @@
 |https://t.me/Yad2Leaks|OFFLINE| Data Leaks ||
 |https://t.me/+YhH_DjYUyYpmNDRi|EXPIRED| Backup @HackGit channel||
 |https://t.me/+ykoIXVJBirI0NzU0|OFFLINE|Leaks & Breaches||
-|https://t.me/+YRLqvlnUI84zNzZl|VALID|BF Repo V3 Files||
+|https://t.me/+YRLqvlnUI84zNzZl|EXPIRED|BF Repo V3 Files||
 |https://t.me/+yXOcSjVjI9tjM2E0|VALID|Medusa|| 
 |https://t.me/zendatamarket|OFFLINE|ZenData Database Market||
 |https://t.me/zer0daylab|OFFLINE| Hacking, Leaks and News ||
@@ -569,7 +569,7 @@
 |https://t.me/RipperSec|ONLINE|RipperSec|DDoS|
 |https://t.me/goripoolcodes|ONLINE|Goripool Codes|Phishing pages,panels|
 |https://t.me/Anonymous_Guys_313|OFFLINE|Anonymous Guys|DDoS|
-|https://t.me/+DZRa-yXaHZ81MmNk|ONLINE|Handala Hack|Leaks & Breaches|
+|https://t.me/+DZRa-yXaHZ81MmNk|EXPIRED|Handala Hack|Leaks & Breaches|
 |https://t.me/CyberToufan|ONLINE|CyberToufan|Data Leaks|
 |https://t.me/AlAhadSecurity|ONLINE|Al Ahad|DDoS|
 |https://t.me/ridgedforums|ONLINE|BlackForums|Forum|

@@ -290,7 +290,7 @@
 |https://t.me/LCdatabase|ONLINE|Low-Cost-Database||
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database||
 |https://t.me/leakbaseforum|OFFLINE|LeakBaseForum||
-|https://t.me/leakbase_official|ONLINE|LeakBase Official||
+|https://t.me/leakbase_official|OFFLINE|LeakBase Official||
 |https://t.me/leakdataprivate|ONLINE| Data Leaks ||
 |https://t.me/leak_db1|ONLINE|d3ltaboys group 1 (DB Leaks) - Backup||
 |https://t.me/leak_db2|ONLINE|d3ltaboys group 2 (DB Leaks)||
@@ -466,7 +466,7 @@
 |https://t.me/user_secc|ONLINE|UserSec||
 |https://t.me/user_sec|OFFLINE|UserSec||
 |https://t.me/user_sec|OFFLINE|UserSec Killnet Affiliated||
-|https://t.me/usersec_reservs|ONLINE|UserSec Reserve||
+|https://t.me/usersec_reservs|OFFLINE|UserSec Reserve||
 |https://t.me/+uV_Lxf2uOHhkMjAy|VALID| Killnet Store Chat ||
 |https://t.me/+Uxo9r92Ho5ZkYjdi|EXPIRED| KILLNET ||
 |https://t.me/+UYKtaIt6KFGlFwBJ|EXPIRED| VIP Config - configs, combos, etc ||

@@ -578,3 +578,4 @@
 |https://t.me/RedEagleCrew|ONLINE|Red Eagle Crew|DDoS & Data Breach|
 |https://t.me/NetGhostSecurity|ONLINE|DDoS & Data Breach|
 |https://t.me/Liquid_Blood|ONLINE|Liquid Blood|DDoS|
+|https://t.me/AisData|ONLINE|AisData|Data Breach|

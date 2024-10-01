@@ -33,6 +33,7 @@
 |https://t.me/MarkLogsBot|OFFLINE| Logs Market |
 |https://t.me/marvelcloudRB|ONLINE| Marvel Logs|
 |https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
+|https://t.me/+5IFts3LVJmhmMzZi|ONLINE| Moon Cloud |
 |https://t.me/OneLogs|ONLINE| Redline Logs
 |https://t.me/Privatedata77new|OFFLINE| Logs Market |
 |https://t.me/raincloudlogs|ONLINE|Logs Market|

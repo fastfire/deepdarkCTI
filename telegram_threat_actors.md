@@ -579,4 +579,4 @@
 |https://t.me/NetGhostSecurity|ONLINE|DDoS & Data Breach|
 |https://t.me/Liquid_Blood|ONLINE|Liquid Blood|DDoS|
 |https://t.me/AisData|ONLINE|AisData|Data Breach|
-|https://t.me/+NO_mK4lapd0yY2Vk|ONLINE|NoName057 EN|DDoS|
+|https://t.me/+NO_mK4lapd0yY2Vk|EXPIRED|NoName057 EN|DDoS|

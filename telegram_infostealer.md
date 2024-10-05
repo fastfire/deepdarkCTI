@@ -16,8 +16,6 @@
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
 |https://t.me/eliteband|OFFLINE| Logs |
-|https://t.me/expertsa11m|ONLINE| Logs Market |
-|https://t.me/expertsa11m|ONLINE| Logs|
 |https://t.me/fatecloud|ONLINE| Fatecloud Logs|
 |https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/HUBLOGS|OFFLINE| Redline Malware Logs |

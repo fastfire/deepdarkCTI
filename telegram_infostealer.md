@@ -14,7 +14,6 @@
 |https://t.me/cloudlogs|ONLINE| Redline LogZone
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
-|https://t.me/CyberSecurityTechnologies|ONLINE|CyberSecurityTechnologies|
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
 |https://t.me/eliteband|OFFLINE| Logs |
 |https://t.me/expertsa11m|ONLINE| Logs Market |

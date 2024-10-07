@@ -580,3 +580,4 @@
 |https://t.me/Liquid_Blood|ONLINE|Liquid Blood|DDoS|
 |https://t.me/AisData|OFFLINE|AisData|Data Breach|
 |https://t.me/+NO_mK4lapd0yY2Vk|EXPIRED|NoName057 EN|DDoS|
+|https://t.me/exodusmarketchannel|ONLINE|Exodus Logs Market|

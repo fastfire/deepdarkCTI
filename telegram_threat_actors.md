@@ -426,6 +426,7 @@
 |https://t.me/SNAKEDBS|OFFLINE|Nuttela Combo's (Repackaged Combo Lists)||
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|Ransomware, Exfiltration|
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) ||
+|https://t.me/Sn_blackmeta|ONLINE|SN_ Blackmeta|DDoS|
 |https://t.me/SN_Darkmeta|OFFLINE|SN_ Blackmeta|DDoS|
 |https://t.me/solntsepekZ|ONLINE|Sandworm||
 |https://t.me/SolomonUpdates|OFFLINE|Solomon market place updates||

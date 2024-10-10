@@ -345,7 +345,7 @@
 |[ROYAL (Victims Page)](http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion)|ONLINE|||
 |[ROYAL](http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion)|OFFLINE|||
 |[RRANSOM (Victims page)](http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion/check_payment_form)|OFFLINE|||
-|[SARCOMA](hxxp://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion)|ONLINE||SarcomaGroup@onionmail.org - D7A5E0027572764BE600925712D079472FF950F954553FF07E823FF1D068C31292E5E5F31AE4|
+|[SARCOMA](http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion)|ONLINE||SarcomaGroup@onionmail.org - D7A5E0027572764BE600925712D079472FF950F954553FF07E823FF1D068C31292E5E5F31AE4|
 |[SEKHMET](http://sekhmet.top)|OFFLINE|||
 |[SENSAYQ (deep](http://159.69.60.54)|ONLINE|||
 [SENSAYQ (dark)](http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion)|ONLINE|||

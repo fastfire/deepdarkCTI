@@ -582,3 +582,4 @@
 |https://t.me/AisData|OFFLINE|AisData|Data Breach|
 |https://t.me/+NO_mK4lapd0yY2Vk|EXPIRED|NoName057 EN|DDoS|
 |https://t.me/exodusmarketchannel|ONLINE|Exodus Logs Market|
+|https://t.me/breachwatchers|ONLINE|Breach Watchers|Data Breach|

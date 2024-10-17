@@ -321,8 +321,8 @@
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
 |https://t.me/lulzsecmuslimsworld|ONLINE|Lulzsec Muslims||
 |https://t.me/LulzSecOff|OFFLINE|LulzSec||
-|https://t.me/LummaC2Stealer|ONLINE|LummaC2 Stealer|Infostealer|
-|https://t.me/LummaC2Team|ONLINE|LummaC2 Stealer Chat|Infostealer|
+|https://t.me/LummaC2Stealer|OFFLINE|LummaC2 Stealer|Infostealer|
+|https://t.me/LummaC2Team|OFFLINE|LummaC2 Stealer Chat|Infostealer|
 |https://t.me/+lYYyb3exPNFjNmRi|VALID|Cyber Dragon||
 |https://t.me/+LZQBX9ml0Qk3YWFl|EXPIRED|BF Repo V3 Chat||
 |https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider||

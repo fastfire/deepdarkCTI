@@ -2,6 +2,7 @@
 | ------ | ------ | ------ |
 |https://t.me/+8DxOrHQdrzw1ZjUy|VALID| GODELESS CLOUD Botnet Logs|
 |https://t.me/+fcxhFl9JSRE3YTdi|VALID| HUBHEAD Logs|
+|https://t.me/+lTv-USNAHHIwODE6|ONLINE|.boxed.pw|
 |https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
 |https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
 |https://t.me/+V_oM-vx0YnSN7nzH|VALID| Log Leaks Group|
@@ -14,11 +15,8 @@
 |https://t.me/cloudlogs|ONLINE| Redline LogZone
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
-|https://t.me/CyberSecurityTechnologies|ONLINE|CyberSecurityTechnologies|
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
 |https://t.me/eliteband|OFFLINE| Logs |
-|https://t.me/expertsa11m|ONLINE| Logs Market |
-|https://t.me/expertsa11m|ONLINE| Logs|
 |https://t.me/fatecloud|ONLINE| Fatecloud Logs|
 |https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/HUBLOGS|OFFLINE| Redline Malware Logs |
@@ -33,6 +31,7 @@
 |https://t.me/MarkLogsBot|OFFLINE| Logs Market |
 |https://t.me/marvelcloudRB|ONLINE| Marvel Logs|
 |https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
+|https://t.me/+5IFts3LVJmhmMzZi|ONLINE| Moon Cloud |
 |https://t.me/OneLogs|ONLINE| Redline Logs
 |https://t.me/Privatedata77new|OFFLINE| Logs Market |
 |https://t.me/raincloudlogs|ONLINE|Logs Market|
@@ -97,4 +96,5 @@
 |https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud|
 |https://t.me/miragelogscloud|ONLINE|Mirage Cloud|
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
-|https://t.me/wingsdailyurl|Wings|
+|https://t.me/wingsdailyurl|ONLINE|Wings|
+|https://t.me/godeless_cloud|ONLINE|Godeless Cloud Reborn|

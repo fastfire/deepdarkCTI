@@ -1,6 +1,6 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
-|[0x00sec](https://0x00sec.org/)|ONLINE|
+|[0x00sec](https://0x00sec.org/)|OFFLINE|
 |[4CHEAT](https://4cheat.ru/)|ONLINE||
 |[589forum](https://589forum.org/)|ONLINE|
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
@@ -23,6 +23,7 @@
 |[BLACKBONES](https://blackbones.net)|ONLINE||
 |[BLACKFORUMS](https://blackforums.me)| ONLINE | |
 |[BLACKFORUMS](https://blackforums.net)| ONLINE | |
+|[BLACKFORUMS](https://blackforums.ru)| ONLINE | |
 |[BLACKHACKER](https://blackhacker.pw)|ONLINE||
 |[blackhatpakistan](https://blackhatpakistan.net)| ONLINE | |
 |[blackhatprotools](https://www.blackhatprotools.info/)| ONLINE | |
@@ -38,7 +39,7 @@
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.st)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.vc/) | ONLINE | |
+|[BREACH FORUMS](https://breachforums.vc/) | OFFLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |

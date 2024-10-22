@@ -135,7 +135,7 @@
 |https://t.me/darkvaultransom|OFFLINE|Dark Vault ransom|Ransomware|
 |https://t.me/darkwebdarknetmarketplace|OFFLINE|Illicit Service||
 |https://t.me/darxe_base|OFFLINE| Data Leaks ||
-|https://t.me/data1eaks|ONLINE| ||
+|https://t.me/data1eaks|OFFLINE| ||
 |https://t.me/Database_breached|OFFLINE| Data Leaks ||
 |https://t.me/databasemarkett|ONLINE|Database Market||
 |https://t.me/databreach|ONLINE| ||

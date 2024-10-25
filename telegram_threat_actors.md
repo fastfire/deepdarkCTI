@@ -403,7 +403,7 @@
 |https://t.me/RansomwareTeam|ONLINE| Ransomware Team||
 |https://t.me/ransomwatcher|ONLINE| Data Leaks ||
 |https://t.me/rdpstealer|ONLINE|Rdp Stealer|Infostealer|
-|https://t.me/redstresserorg|ONLINE|Meris botnet main channel|DDoS|
+|https://t.me/redstresserorg|OFFLINE|Meris botnet main channel|DDoS|
 |https://t.me/reveng3rs|OFFLINE| Data Leaks ||
 |https://t.me/revolusigbanon17|ONLINE|GB Anon 17||
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks||

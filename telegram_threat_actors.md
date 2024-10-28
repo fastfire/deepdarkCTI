@@ -261,7 +261,7 @@
 |https://t.me/joker_reborn|ONLINE| Joker Reborn Redline Stealer |Infostealer|
 |https://t.me/jokersworlds|OFFLINE|Joker's world of Free Database||
 |https://t.me/jokmajd|ONLINE|TEAM1910||
-|https://t.me/jsonc2|ONLINE|jsonC2||
+|https://t.me/jsonc2|OFFLINE|jsonC2||
 |https://t.me/JustAn0x|OFFLINE| Data Leaks ||
 |https://t.me/justice_homeland|ONLINE|Homeland Justice||
 |https://t.me/+k56KDQRn8FplN2Qy|ONLINE|PHOENIX||
@@ -276,7 +276,7 @@
 |https://t.me/killnet_mirror|ONLINE|Killnet mirror||
 |https://t.me/Killneto|OFFLINE|Killnet Officiale (with invites for closed channel)|
 |https://t.me/Killnet_Palestine|OFFLINE|Killnet Palestina||
-|https://t.me/killnet_reservs|ONLINE|Killnet reservs||
+|https://t.me/killnet_reservs|OFFLINE|Killnet reservs||
 |https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider||
 |https://t.me/kittensec|ONLINE|KittenSec||
 |https://t.me/Kristina_Pass_RF|OFFLINE| Data Leaks, Passport Scans||
@@ -330,11 +330,11 @@
 |https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider||
 |https://t.me/mailaccesscrack|OFFLINE|Combo Lists||
 |https://t.me/MaillAccessTop|OFFLINE| Data Leaks ||
-|https://t.me/mailpasschanel|ONLINE|Combo List||
+|https://t.me/mailpasschanel|OFFLINE|Combo List||
 |https://t.me/mailpassclub|OFFLINE| ||
 |https://t.me/mailpasword|OFFLINE| ||
 |https://t.me/malek_team1|OFFLINE|MalekTeam||
-|https://t.me/MalwareForums|ONLINE|Malware Forums||
+|https://t.me/MalwareForums|OFFLINE|Malware Forums||
 |https://t.me/marketo_leaks|ONLINE| Data Leaks||
 |https://t.me/Matryoshka424|ONLINE|Matryoshka424|DDoS|
 |https://t.me/MBCRANSOMWARE|OFFLINE| Ransomware Gang||

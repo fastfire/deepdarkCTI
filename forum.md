@@ -34,7 +34,7 @@
 |[BREACHED (Deep)](https://breached.vc)| OFFLINE | |
 |[BreachForums (Dark)](http://breached4w3qphorxg2fwqkhpfnsyf65je72d2shli3fcfgorwdeymad.onion)| OFFLINE | |
 |[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| OFFLINE (seized) | |
-|[BREACH FORUMS (Dark)](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion)| ONLINE | |
+|[BREACH FORUMS (Dark)](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.cx)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.st)| ONLINE | |
@@ -92,7 +92,7 @@
 |[DEFCON](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion)| OFFLINE | |
 |[DEMONFORUMS](https://demonforums.net)| ONLINE | |
 |[DRDARK](https://drdark.ru)| ONLINE | |
-|[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| OFFLINE | |
+|[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| ONLINE | |
 |[DREAD](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion)| ONLINE | |
 |[DUBLIKAT.CLUB](https://at.dublikat.club)| ONLINE | |
 |[DUBLIKAT.PRO](https://my.dublikat.pro)| OFFLINE | |

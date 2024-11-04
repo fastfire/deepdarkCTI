@@ -20,8 +20,8 @@
 |[B1ND.NET](https://b1nd.net)| ONLINE | |
 |[BLACKBONES](https://blackbones.net)| ONLINE | |
 |[BLACKPASS](http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion)| ONLINE | |
-|[BOHEMIA](http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion)| ONLINE | |
-|[BOHEMIA](http://bohemia65jifi6rj3dcvu23tks5teidk6wllndg62vb37f57e6ymtgid.onion)| ONLINE | |
+|[BOHEMIA](http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion)| OFFLINE | SEIZED |
+|[BOHEMIA](http://bohemia65jifi6rj3dcvu23tks5teidk6wllndg62vb37f57e6ymtgid.onion)| OFFLINE | |
 |[BRAINSCLUB](https://brainsclub.to)| ONLINE | |
 |[BRIAN'S CLUB](https://briansclub.cm)| ONLINE | |
 |[BR0K3R](http://brok3r7bhcblynwpoymgarr6zwcy4ttfbhkhcmotz4lw2gcsuojgaeqd.onion/)| ONLINE | |

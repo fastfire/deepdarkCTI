@@ -13,6 +13,7 @@
 |[ASEAN](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion)| ONLINE | |
 |[AUTHORIZE CVV](https://authorizecvv.io)| ONLINE | |
 |[AUTHORIZE CVV](https://authorizecvv.cc)| ONLINE | |
+|[Abacus](http://abacusall6l52n5gp357vpv4yjjvh6ewg65pjbfvacyqcldux66btlqd.onion)| ONLINE | |
 |[BIDEN CASH (Dark Tor)](http://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| ONLINE | |

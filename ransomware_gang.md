@@ -178,6 +178,7 @@
 |[JUSTICE BLADE](https://justice-blade.io)|OFFLINE||https://t.me/justiceblade3 - https://t.me/+UbB2H5vTBJJkYTRl||
 |[INSANE](http://nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion/Insane.html)|ONLINE||||
 |[INTERLOCK](http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion)|ONLINE||||
+|[KAIROS](http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion/)|ONLINE||||
 |[KARAKURT (Deep)](https://karakurt.tech)|OFFLINE||||
 |[KARAKURT (Deep)](https://karakurt.co)|OFFLINE||||
 |[KARAKURT (Deep)](https://karanews.live)|OFFLINE||||

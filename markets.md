@@ -54,6 +54,9 @@
 |[DARKFOX MARKET](http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion)| ONLINE | |
 |[DATABASE](http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion)| ONLINE | |
 |[Delta Marketplace](https://delta-marketplace.sellix.io/)| ONLINE | |
+|[Dark Matter](http://darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion)| ONLINE | |
+|[Dark Matter](http://darkmmk3owyft4zzg3j3t25ri4z5bw7klapq6q3l762kxra72sli4mid.onion)| ONLINE | |
+|[Dark Matter](http://darkmmro6j5xekpe7jje74maidkkkkw265nngjqxrv4ik7v3aiwdbtad.onion)| ONLINE | |
 |[DOCSHOP](https://doc-shop.ws)| OFFLINE | |
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |

@@ -591,3 +591,4 @@
 |https://t.me/DragonRansom|ONLINE|Dragone RaaS|Ransomware Gang|
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat|Data Leaks|
 |https://t.me/INDOHAXSEC|ONLINE|INDOHAXSEC|DDoS, Defacement & Data Breach|
+|https://t.me/FreshAccess|ONLINE|Venom Access Token|Initial Access|

@@ -559,7 +559,7 @@
 |https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
 |https://t.me/hackerforse|OFFLINE|7 October Union|DDoS|
 |https://t.me/whoisAlixan|ONLINE|AlixSec|Leaks & Breaches|
-|https://t.me/StressedForums|OFFLINE|Stessed Forum|Forum|
+|https://t.me/StressedForums|OFFLINE|Stressed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|OFFLINE|Handala Hack|Leaks & Breaches|
@@ -592,3 +592,4 @@
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat|Data Leaks|
 |https://t.me/INDOHAXSEC|ONLINE|INDOHAXSEC|DDoS, Defacement & Data Breach|
 |https://t.me/FreshAccess|ONLINE|Venom Access Token|Initial Access|
+|https://t.me/DangerZoneForum|ONLINE|Danger Zone Forum|Forum|

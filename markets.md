@@ -1,14 +1,16 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
-|[0-DAY](https://0-day.shop)| ONLINE | |
+|[0-DAY](https://0-day.shop)| OFFLINE | |
 |[Stealer credential leaks](https://whiteintel.io)| ONLINE | |
 |[Darth maul shop](https://1977.ws/)| ONLINE | |
 |[2EASY](https://2easy.shop)| OFFLINE | |
 |[2EASY](https://2easy.cc)| ONLINE | |
 |[ALLWORLDCARDS](https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
 |[AlphaBay (Dark i2p)](tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p)| ONLINE | |
-|[AlphaBay (Dark Tor)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion)| ONLINE | |
+|[AlphaBay (Dark Tor)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion)| OFFLINE | |
 |[Archetyp](http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion)| ONLINE | |
+|[Archetyp](http://zjfsopfrwpvqrhiy73vxb6zq7ksyffkzfyow2gmhgvjsseogy65uguyd.onion)| ONLINE | |
+|[Archetyp](http://s4wq4oz66bbyvsv2rg3ixwuwzvoxv226bg3563ptchx7xknelhfu3rqd.onion)| ONLINE | |
 |[ARES](http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion)| ONLINE | |
 |[ASEAN](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion)| ONLINE | |
 |[AUTHORIZE CVV](https://authorizecvv.io)| ONLINE | |
@@ -41,9 +43,9 @@
 |[CRIMEMARKET (Dark)](http://crimemosjicmij6jqtwww7wm2rmor5ymrs6wha6tzyiisxhy34go5sid.onion/)| ONLINE | |
 |[CVV SHOP DUMPS](http://masterc2oss6cmeiwd6hzz44ghjdvkw2og6zv5iczcrssrbkrbuhn3qd.onion)| ONLINE | |
 |[CVVUNION](https://cvv-union.at)| OFFLINE | |
-|[CYPHER](http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion)| ONLINE | |
+|[CYPHER](http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion)| OFFLINE | |
 |[DAKC0DE](http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion)| OFFLINE | |
-|[DARKCLUB](https://darkclub.pw/)| ONLINE| |
+|[DARKCLUB](https://darkclub.pw/)| OFFLINE| |
 |[DARKCLUB (Onion Site)](http://darkclubolst4fiquh7eodn3gffa4jr3y6nrfdxxii3hboulgotjj4ad.onion)| ONLINE |
 |[DARKCLUB (Onion Site 2](http://darkclub7swbzf2ndqowmijp735urtfv6vp5z327vdga5iltlwzyapid.onion//)| ONLINE |
 |[DARK LEAK MARKET](http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion)| ONLINE | |
@@ -62,6 +64,11 @@
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
 |[EXODUS MARKET](https://exodusmarket.io)| ONLINE| |
 |[EXODUS MARKET](https://exodusmarket.vc)| ONLINE | |
+|[Elysium Market](http://elysiumyeudtha62s4oaowwm7ifmnunz3khs4sllhvinphfm4nirfcqd.onion)| ONLINE | |
+|[Elysium Market](http://urdbxhn5ie2bgxaaa7by43mv35s22srkrhbo3df6otaquxphljm4jtad.onion)| ONLINE | |
+|[Elysium Market](http://viekyfckw44nhx6fwdvlgndf3iqo6bnsiv6tajymrhfdmvzofn2263qd.onion)| ONLINE | |
+|[Elysium Market](http://viekyfckw44nhx6fwdvlgndf3iqo6bnsiv6tajymrhfdmvzofn2263qd.onion)| ONLINE | |
+|[Elysium Market](http://46oqn4lbjglrxsw2zp5mwarr6mnzcklq4wlcjry5yfrrl3yymiuo2cad.onion)| ONLINE | |
 |[FREDDY](freddy.atshop.io)| ONLINE | |
 |[FreshTools](https://freshtools.net)| ONLINE | |
 |[Genesis Market](https://genesis.market)| OFFLINE | | Put offline by FBI.
@@ -119,14 +126,14 @@
 |[TOOREZ](http://lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion)| OFFLINE | |
 |[TOR2DOOR](http://orn3olemwhrsqbpz7iv34mjzare6sns5z75rea3qzwqlle76wxsdzeqd.onion)| OFFLINE | |
 |[UAS RDP SHOP](http://2x4tmsirlqvqmwdz.onion)| ONLINE | |
-|[UniCC](https://unicvv.ru)| ONLINE | |
+|[UniCC](https://unicvv.ru)| OFFLINE | |
 |[VICE CITY](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion)| ONLINE | |
 |[VICE CITY](http://viceagrs476vms3hlgotcimao4lwnpz2ffpvgbdnbeqwu74g47z4usyd.onion)| ONLINE | |
 |[VICE CITY](http://vice3nwnin46cmmvg4j3wd3xguaaiwlwzxt2mxkd5ng6ougfcu4rdfid.onion)| ONLINE | |
 |[Wannabuy RDP](http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion)| ONLINE | |
 |[WAUS LEAKS](https://wausleaks.com)| OFFLINE | |
 |[WAUS LEAKS(new)](https://waus.io)| OFFLINE | |
-|[WAUS LEAKS(new)](http://waus.ninja)| ONLINE | |
+|[WAUS LEAKS(new)](http://waus.ninja)| OFFLINE | |
 |[WAUS LEAKS(new)](http://waus.me)| ONLINE | |
 |[WHM market (1)](http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion)| OFFLINE | |
 |[WHM market (2)](http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion)| OFFLINE | |

@@ -594,3 +594,4 @@
 |https://t.me/FreshAccess|ONLINE|Venom Access Token|Initial Access|
 |https://t.me/DangerZoneForum|ONLINE|Danger Zone Forum|Forum|
 |https://t.me/fredensofsecurity1|ONLINE|Fredens of Security|DDoS, Defacement & Data Breach|
+|https://t.me/filehaus|ONLINE|Filehaus||

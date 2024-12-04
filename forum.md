@@ -115,6 +115,7 @@
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |
 |[FORUMTEAM.TOP](https://forumteam.top)| ONLINE | |
 |[FSSQUAD](https://fssquad.com)| ONLINE | |
+|[Funksec Ransomware](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)| ONLINE | |
 |[G0D.ONE MARKET](https://www.g0d.one)| OFFLINE | |
 |[GERKI](http://gerkipwhfuqeeizl.onion)| OFFLINE | |
 |[GETREKT](https://getrekt.io)| ONLINE | https://t.me/getrektio |

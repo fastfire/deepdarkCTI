@@ -598,3 +598,4 @@
 |https://t.me/esteemrestorationeagle|ONLINE|Esteem Restoration Eagle|Defacement & DDoS|
 |https://t.me/nnm057_16|ONLINE|NoName057(16)|DDoS|
 |https://t.me/bratvacorp|ONLINE|Bratva||
+|https://t.me/+NcyNWGFil7plYzNi|ONLINE|x0x0ba$e|Data Leaks|

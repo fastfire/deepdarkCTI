@@ -147,6 +147,7 @@
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
 |[LEECH](https://leech.is)| ONLINE | |
 |[LeVeL23HackTools](https://level23hacktools.com/hackers)| ONLINE | |
+|[LinkPass](https://linkpass.info)| ONLINE | |
 |[LOLZ](https://lolz.guru)| ONLINE | |
 |[LOWENDTALK](http://lowendtalk.com)| ONLINE | |
 |[MAILPASS](https://mailpass.club)| OFFLINE | |

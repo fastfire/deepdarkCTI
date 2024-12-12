@@ -80,7 +80,7 @@
 |https://t.me/civiliandarkcode404|ONLINE|Civilan dark code||
 |https://t.me/clean_tools_net|ONLINE|Clean Tools||
 |https://t.me/cloudata_free_databases|OFFLINE|Free Data Breaches Provider||
-|https://t.me/club1337|ONLINE||
+|https://t.me/club1337|OFFLINE||
 |https://t.me/combo2021|ONLINE| Combo List||
 |https://t.me/Combolistfresh|ONLINE| Combo List||
 |https://t.me/combo_listt|OFFLINE| Combo List ||
@@ -358,8 +358,7 @@
 |https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
 |https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng||
-|https://t.me/nohidespace|ONLINE| ||
-|https://t.me/nohidespace|ONLINE| Combo List ||
+|https://t.me/nohidespace|OFFLINE| Combo List ||
 |https://t.me/noname05716engchat|ONLINE| NoName057(16) chat||
 |https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng||
 |https://t.me/noname05716|ONLINE|NoName057(16) RUS||

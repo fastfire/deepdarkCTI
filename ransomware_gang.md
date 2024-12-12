@@ -162,6 +162,7 @@
 |[HELLDOWN](http://onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion)|OFFLINE||19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E||
 |[HELLDOWN](http://onyxcym4mjilrsptk5uo2dhesbwntuban55mvww2olk5ygqafhu3i3yd.onion/)|ONLINE||19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E||
 |[HELLCAT](http://hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion)|ONLINE||898923FE0699CFE1EFD17773425DECB080840877C29F883D389D6880B2B961737FACE98E82E4 - Telegram: @HCSupp - hcsupp@firemail.cc -  XMPP: hellcat@5222.de||
+|[HELLCAT](http://hellcat.rw)|ONLINE||898923FE0699CFE1EFD17773425DECB080840877C29F883D389D6880B2B961737FACE98E82E4 - Telegram: @HCSupp - hcsupp@firemail.cc -  XMPP: hellcat@5222.de||
 |[HELLO GOOKIE](http://gookie256cvccntvenyxrvn7ht73bs6ss3oj2ocfkjt5y6vq6gfi2tad.onion)|ONLINE||||
 |[HELLO KITTY](http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion)|OFFLINE||||
 |[HITLER](http://hitleransomware.cf)|OFFLINE||||

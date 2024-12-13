@@ -597,3 +597,4 @@
 |https://t.me/nnm057_16|ONLINE|NoName057(16)|DDoS|
 |https://t.me/bratvacorp|ONLINE|Bratva||
 |https://t.me/+NcyNWGFil7plYzNi|VALID|x0x0ba$e|Data Leaks|
+|https://t.me/+lPVDPudjxSE0M2Q1|ONLINE|Data Globe|Data Breach|

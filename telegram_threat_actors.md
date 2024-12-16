@@ -114,7 +114,7 @@
 |https://t.me/cybercourt_io|ONLINE|Cyber Court||
 |https://t.me/cybercourt_io|ONLINE|CyberCourt Group (pro Palestine) - https://cybercourt.io|Data Leak|
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
-|https://t.me/CyberToufanBackup|ONLINE|CyberToufan|Data Leaks||
+|https://t.me/CyberToufanBackup|OFFLINE|CyberToufan|Data Leaks||
 |https://t.me/D3atr0y3d|OFFLINE| Data Leaks||
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos ||
 |https://t.me/D7BBUK|OFFLINE|D7BBUK||
@@ -353,7 +353,7 @@
 |https://t.me/NetHunt3r|ONLINE|NET Hunter||
 |https://t.me/NetSurvivalist|ONLINE| General Hacking, Privacy ||
 |https://t.me/net_worker_alliance|OFFLINE|Net Worker Alliance||
-|https://t.me/NewBlood_Project|ONLINE|New Blood Project||
+|https://t.me/NewBlood_Project|OFFLINE|New Blood Project||
 |https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
 |https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng||
@@ -362,7 +362,7 @@
 |https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng||
 |https://t.me/noname05716|OFFLINE|NoName057(16) RUS||
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
-|https://t.me/O1chat|ONLINE| Market ||
+|https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
 |https://t.me/ObserverCloud|OFFLINE| Observer Cloud Redline Stealer (Harvests other channels) |Infostealer|
 |https://t.me/OBSERVERCLOUDCOMBO|OFFLINE|Combo List||
@@ -391,8 +391,7 @@
 |https://t.me/QuartzSec|OFFLINE|QuartzSec||
 |https://t.me/qZann|ONLINE| Data Leaks ||
 |https://t.me/R00TK1TDB|OFFLINE| R00tk1t DB ||
-|https://t.me/R00TK1TOFF|ONLINE||
-|https://t.me/R00TK1TOFF |ONLINE| R00tk1t Cyber Team ||
+|https://t.me/R00TK1TOFF |OFFLINE| R00tk1t Cyber Team ||
 |https://t.me/+R1GELDqXo1dhMmYx|VALID|Ziburate|Data Leak|
 |https://t.me/raidsecretforums|OFFLINE| Claims to be the backup channel of RaidForums ||
 |https://t.me/ransomblackbit30|OFFLINE|Lockbit 3.0 Main.js||

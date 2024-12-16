@@ -115,6 +115,7 @@
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |
 |[FORUMTEAM.TOP](https://forumteam.top)| ONLINE | |
 |[FSSQUAD](https://fssquad.com)| ONLINE | |
+|[Funksec Ransomware](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)| ONLINE | |
 |[G0D.ONE MARKET](https://www.g0d.one)| OFFLINE | |
 |[GERKI](http://gerkipwhfuqeeizl.onion)| OFFLINE | |
 |[GETREKT](https://getrekt.io)| ONLINE | https://t.me/getrektio |
@@ -146,6 +147,7 @@
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
 |[LEECH](https://leech.is)| ONLINE | |
 |[LeVeL23HackTools](https://level23hacktools.com/hackers)| ONLINE | |
+|[LinkPass](https://linkpass.info)| ONLINE | |
 |[LOLZ](https://lolz.guru)| ONLINE | |
 |[LOWENDTALK](http://lowendtalk.com)| ONLINE | |
 |[MAILPASS](https://mailpass.club)| OFFLINE | |

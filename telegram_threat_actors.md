@@ -300,7 +300,7 @@
 |https://t.me/leaked_databases|ONLINE| Data Leaks||
 |https://t.me/leaked_detabase|ONLINE| Data Leaks ||
 |https://t.me/LeakedSource|OFFLINE| Data Leaks||
-|https://t.me/leakes4|ONLINE| Data Leaks, Combo List||
+|https://t.me/leakes4|OFFLINE| Data Leaks, Combo List||
 |https://t.me/leakinformation|OFFLINE|Data Leaks||
 |https://t.me/leaklicks|OFFLINE| Data Leaks||
 |https://t.me/leaksdatabase|OFFLINE| Data Leaks||
@@ -522,7 +522,7 @@
 |https://t.me/Crackingcombolist|ONLINE|Cracking Combo|combos|
 |https://t.me/R3dd1sh_34_E4gl3_D4t4l34ks|OFFLINE|Ŕ€đďįşħ €ąğℓę ďάťάŁэάķş|combos|
 |https://t.me/freecombosmails|OFFLINE|FREE COMBOS MAILS|combos|
-|https://t.me/URLPASSCLOUD|ONLINE|URL:USER:PASS CLOUD|combos|
+|https://t.me/URLPASSCLOUD|OFFLINE|URL:USER:PASS CLOUD|combos|
 |https://t.me/voltspammer|ONLINE|VOLT CRACKS|combos|
 |https://t.me/TEST123ND|OFFLINE|TEST|combos|
 |https://t.me/logsgang2|ONLINE|Logs|combos|

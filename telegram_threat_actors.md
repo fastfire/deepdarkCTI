@@ -600,3 +600,4 @@
 |https://t.me/hack_0xTam|ONLINE|0X_Team|DDoS, Defacement & Data Breach|
 |https://t.me/AzzaSec_Off|ONLINE|AzzaSec|DDoS|
 |https://t.me/CyperBattle|ONLINE|Cyber Battle|DDoS|
+|https://t.me/blackopmrhamza|ONLINE|Mr Hamxa|DDoS|

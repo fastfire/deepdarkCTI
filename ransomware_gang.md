@@ -154,6 +154,8 @@
 |[FUNKSEC](http://pke2vht5jdeninupk7i2thcfvxegsue6oraswpka35breuj7xxz2erid.onion)|ONLINE||||
 |[FUNKSEC](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)|ONLINE||||
 |[FUNKSEC](http://ykqjcrptcai76ru5u7jhvspkeizfsvpgovton4jmreawj4zdwe4qnlid.onion)|OFFLINE||||
+|[FUNKSEC](http://funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion)|ONLINE||||
+|[FUNKSEC](http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion)|ONLINE||||
 |[GOODWILL (Dashboard)](http://9855-13-235-50-147.ngrok.io)|OFFLINE||||
 |[GRIEF](http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion)|OFFLINE||||
 |[GROOVE](http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion)|OFFLINE||||

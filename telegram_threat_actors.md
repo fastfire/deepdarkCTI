@@ -76,7 +76,7 @@
 |https://t.me/cbanke_market|OFFLINE| Data Leaks ||
 |https://t.me/cbanke|ONLINE| Data Leaks||
 |https://t.me/CHO1CHO1|ONLINE|CH01 group||
-|https://t.me/cityofleaker|ONLINE| Leaks ||
+|https://t.me/cityofleaker|OFFLINE| Leaks ||
 |https://t.me/civiliandarkcode404|ONLINE|Civilan dark code||
 |https://t.me/clean_tools_net|OFFLINE|Clean Tools||
 |https://t.me/cloudata_free_databases|OFFLINE|Free Data Breaches Provider||
@@ -392,7 +392,7 @@
 |https://t.me/qZann|ONLINE| Data Leaks ||
 |https://t.me/R00TK1TDB|OFFLINE| R00tk1t DB ||
 |https://t.me/R00TK1TOFF |OFFLINE| R00tk1t Cyber Team ||
-|https://t.me/+R1GELDqXo1dhMmYx|VALID|Ziburate|Data Leak|
+|https://t.me/+R1GELDqXo1dhMmYx|EXPIRED|Ziburate|Data Leak|
 |https://t.me/raidsecretforums|OFFLINE| Claims to be the backup channel of RaidForums ||
 |https://t.me/ransomblackbit30|OFFLINE|Lockbit 3.0 Main.js||
 |https://t.me/ransom_house|OFFLINE| RansomHouse official channel ||
@@ -434,7 +434,7 @@
 |https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/StealerStore|ONLINE| Stealer Store|Infostealer|
 |https://t.me/stkdatabase|ONLINE| Mapper (former STK Database)||
-|https://t.me/StormFreeConfig|ONLINE| Configs, Combos ||
+|https://t.me/StormFreeConfig|OFFLINE| Configs, Combos ||
 |https://t.me/SylhetGangSgOfficial|ONLINE|Sylhet Gang-SG||
 |https://t.me/sysadminbd|ONLINE|Sysadmin||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED| Data Leaks||
@@ -486,14 +486,14 @@
 |https://t.me/+wlf3z9fVHqgzYzk1|EXPIRED| Darks chat||
 |https://t.me/+Wr6WoTXzjk0zMWI0|EXPIRED|Hunt3r Kill3rs private group||
 |https://t.me/wwhsmi|ONLINE| WWH Forum ||
-|https://t.me/x7seller|ONLINE|X7Root Seller||
+|https://t.me/x7seller|OFFLINE|X7Root Seller||
 |https://t.me/+x9tlrn-DoOw0NmNl|EXPIRED| Team BlackDragonSec ||
 |https://t.me/xaknet_team|ONLINE| Killnet ||
 |https://t.me/xaknet_team|ONLINE|Sandworm||
 |https://t.me/xAnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/xGodzillAxChat|OFFLINE|Godzilla Botnet chat||
 |https://t.me/xinject_official|ONLINE| (Dead)XInject Information Channel ||
-|https://t.me/xxShad0dexx|ONLINE|Shad0de||
+|https://t.me/xxShad0dexx|OFFLINE|Shad0de||
 |https://t.me/+y8c51prOz20wNWU0|EXPIRED|Solomon market place support||
 |https://t.me/Yad2Leaks|OFFLINE| Data Leaks ||
 |https://t.me/+YhH_DjYUyYpmNDRi|EXPIRED| Backup @HackGit channel||
@@ -512,7 +512,7 @@
 |https://t.me/logs_databases|ONLINE|R.E.D. H.A.S.H.|Leaks & Breaches|
 |https://t.me/DAEKLIKS|OFFLINE|Dark_leaks|Leaks & Breaches|
 |https://t.me/combodatabasee|ONLINE|COMBO DATABASE|combos|
-|https://t.me/mailpass|ONLINE|MAIL:PASS HQ Combos & Bases|combos|
+|https://t.me/mailpass|OFFLINE|MAIL:PASS HQ Combos & Bases|combos|
 |https://t.me/combosgrupoplex|ONLINE|Combos grupo plex|combos|
 |https://t.me/emailistsdatabase|ONLINE|Database Email Lists and Numbers Lists|combos|
 |https://t.me/www_paypal|ONLINE|Pro Team Channe|combos|
@@ -541,7 +541,7 @@
 |https://t.me/azzasec|ONLINE|AzzaSec||
 |https://t.me/lulzchat|OFFLINE|LulzSec chat||
 |https://t.me/realLulzSec|OFFLINE|VSec||
-|https://t.me/CyberVolk_K|ONLINE|CyberVolk|dataleak|
+|https://t.me/CyberVolk_K|OFFLINE|CyberVolk|dataleak|
 |https://t.me/evilzoneforum|OFFLINE|Evil Zone|Forum|
 |https://t.me/justice_homeland_original|ONLINE|HomeLand Justice||
 |https://t.me/JusticeHomeland1|ONLINE|HomeLand Justice||
@@ -561,7 +561,7 @@
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|
 |https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
-|https://t.me/azzasecurity|ONLINE|Azzasec|DDoS|
+|https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|
 |https://t.me/KozSec|OFFLINE|KozSec|DDoS
 |https://t.me/KozSec1|ONLINE|KozSec backup|DDoS|
 |https://t.me/KozSecChat|OFFLINE|KozSec chat|DDoS|
@@ -575,7 +575,7 @@
 |https://t.me/ridgedforums|OFFLINE|BlackForums|Forum|
 |https://t.me/thebrotherhoodcorp|ONLINE|The Brotherhood|Ransomware Gang|
 |https://t.me/bloodforgex|OFFLINE|BloodForge|RaaS|
-|https://t.me/RedEagleCrew|ONLINE|Red Eagle Crew|DDoS & Data Breach|
+|https://t.me/RedEagleCrew|OFFLINE|Red Eagle Crew|DDoS & Data Breach|
 |https://t.me/NetGhostSecurity|ONLINE|DDoS & Data Breach|
 |https://t.me/Liquid_Blood|ONLINE|Liquid Blood|DDoS|
 |https://t.me/AisData|OFFLINE|AisData|Data Breach|
@@ -597,8 +597,8 @@
 |https://t.me/bratvacorp|ONLINE|Bratva||
 |https://t.me/+NcyNWGFil7plYzNi|VALID|x0x0ba$e|Data Leaks|
 |https://t.me/+lPVDPudjxSE0M2Q1|ONLINE|Data Globe|Data Breach|
-|https://t.me/hack_0xTam|ONLINE|0X_Team|DDoS, Defacement & Data Breach|
-|https://t.me/AzzaSec_Off|ONLINE|AzzaSec|DDoS|
+|https://t.me/hack_0xTam|OFFLINE|0X_Team|DDoS, Defacement & Data Breach|
+|https://t.me/AzzaSec_Off|OFFLINE|AzzaSec|DDoS|
 |https://t.me/CyperBattle|ONLINE|Cyber Battle|DDoS|
 |https://t.me/blackopmrhamza|ONLINE|Mr Hamxa|DDoS|
 |https://t.me/TeamARXU|ONLINE|Team Arxu|DDoS & Data Breach|

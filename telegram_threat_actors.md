@@ -602,4 +602,5 @@
 |https://t.me/CyperBattle|ONLINE|Cyber Battle|DDoS|
 |https://t.me/blackopmrhamza|ONLINE|Mr Hamxa|DDoS|
 |https://t.me/TeamARXU|ONLINE|Team Arxu|DDoS & Data Breach|
-|https://t.me/TeamARXU|ONLINE|https://t.me/teamARXU_V2|DDoS & Data Breach|
+|https://t.me/TeamARXU|ONLINE|TeamARXU_V2|DDoS & Data Breach|
+|https://t.me/+QeVsxdEnla80NzY1|ONLINE|DXPLOIT|Defacement|

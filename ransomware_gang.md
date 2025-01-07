@@ -294,6 +294,7 @@
 |[MOGILEVICH](http://dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion)|ONLINE||||
 |[MONEYMESSAGE](http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion)|ONLINE||||
 |[MONTI](http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion)|ONLINE||||
+|[MORPHEUS](http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion)|ONLINE||||
 |[NO NAME SPECIFIED](http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion/)|OFFLINE||||
 |[MIDAS/HARON](http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion/blog.php)|OFFLINE||||
 |[MINDWARE](http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion)|OFFLINE||||

@@ -190,7 +190,7 @@
 |https://t.me/GitTools|ONLINE| ||
 |https://t.me/gladdos69_official|ONLINE| DDoS |DDoS|
 |https://t.me/GLORIAMISTS|OFFLINE|GLORIAMIST||
-|https://t.me/glorysec|ONLINE|GlorySec||
+|https://t.me/glorysec|OFFLINE|GlorySec||
 |https://t.me/goblins_gang|ONLINE| chat ||
 |https://t.me/goblins_hub|ONLINE| hub links ||
 |https://t.me/GoneTeam410|ONLINE|GoneTeam||
@@ -210,7 +210,7 @@
 |https://t.me/Handala_hack|OFFLINE|Handala Hack|Leaks & Breaches|
 |https://t.me/hellokittyleaks|OFFLINE| Data Leaks ||
 |https://t.me/hgn01_ru|ONLINE| Data Leaks ||
-|https://t.me/hidden_links|ONLINE| Hidden Links ||
+|https://t.me/hidden_links|OFFLINE| Hidden Links ||
 |https://t.me/highs0c1ety|OFFLINE|High Society|DDoS|
 |https://t.me/HiveNETT|ONLINE|HiveNET||
 |https://t.me/HK4GANG|ONLINE| ||
@@ -286,7 +286,7 @@
 |https://t.me/latestbin|ONLINE|Hacking Group||
 |https://t.me/latest_leaks|ONLINE| Data Leaks||
 |https://t.me/lazarus_apt18|ONLINE| Lazarus channel||
-|https://t.me/LCdatabase|ONLINE|Low-Cost-Database||
+|https://t.me/LCdatabase|OFFLINE|Low-Cost-Database||
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database||
 |https://t.me/leakbaseforum|OFFLINE|LeakBaseForum||
 |https://t.me/leakbase_official|OFFLINE|LeakBase Official||
@@ -513,7 +513,7 @@
 |https://t.me/DAEKLIKS|OFFLINE|Dark_leaks|Leaks & Breaches|
 |https://t.me/combodatabasee|ONLINE|COMBO DATABASE|combos|
 |https://t.me/mailpass|OFFLINE|MAIL:PASS HQ Combos & Bases|combos|
-|https://t.me/combosgrupoplex|ONLINE|Combos grupo plex|combos|
+|https://t.me/combosgrupoplex|OFFLINE|Combos grupo plex|combos|
 |https://t.me/emailistsdatabase|ONLINE|Database Email Lists and Numbers Lists|combos|
 |https://t.me/www_paypal|ONLINE|Pro Team Channe|combos|
 |https://t.me/freshcombomails|ONLINE|Fresh Combo mails|combos|

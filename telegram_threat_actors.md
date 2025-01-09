@@ -559,6 +559,7 @@
 |https://t.me/StressedForums|OFFLINE|Stressed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
+|https://t.me/Holy_League|ONLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|
 |https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
 |https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|

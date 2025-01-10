@@ -499,7 +499,7 @@
 |https://t.me/+YhH_DjYUyYpmNDRi|EXPIRED| Backup @HackGit channel||
 |https://t.me/+ykoIXVJBirI0NzU0|EXPIRED|Leaks & Breaches||
 |https://t.me/+YRLqvlnUI84zNzZl|EXPIRED|BF Repo V3 Files||
-|https://t.me/+yXOcSjVjI9tjM2E0|VALID|Medusa|| 
+|https://t.me/+yXOcSjVjI9tjM2E0|EXPIRED|Medusa|| 
 |https://t.me/zendatamarket|OFFLINE|ZenData Database Market||
 |https://t.me/zer0daylab|OFFLINE| Hacking, Leaks and News ||
 |https://t.me/zerodayforums|ONLINE| ZeroDay Forums ||

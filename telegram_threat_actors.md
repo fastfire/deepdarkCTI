@@ -124,7 +124,7 @@
 |https://t.me/DarkBitChannel|ONLINE|Darkbit Channel||
 |https://t.me/darkclubpw|OFFLINE| Dark Club Market ||
 |https://t.me/DarkfeedNews|ONLINE| News ||
-|https://t.me/DarkForumsME|ONLINE|Dark Forums|Cyber crime forum|
+|https://t.me/DarkForumsME|OFFLINE|Dark Forums|Cyber crime forum|
 |https://t.me/DarkForums|ONLINE|Dark Forums||
 |https://t.me/darknet_br|OFFLINE| ||
 |https://t.me/DarknetNewsEng|OFFLINE| Darknet News(English Version)||
@@ -249,7 +249,7 @@
 |https://t.me/jester_stealer_channel|ONLINE| Jester Stealer Channel |Infostealer|
 |https://t.me/+JMruw9EHhWtmYjc9|EXPIRED| BlackDragonSec ||
 |https://t.me/joinchat/8yMjCnT06ytjNzQx|EXPIRED| ||
-|https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|VALID|Large Hacking Group||
+|https://t.me/joinchat/AAAAAEedZM6cBNj764phgQ|EXPIRED|Large Hacking Group||
 |https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED| ||
 |https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig|VALID| Forum ||
 |https://t.me/joinchat/VBAj4Hc6Xki5lG_H|EXPIRED| Data Leaks ||
@@ -564,7 +564,7 @@
 |https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
 |https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|
 |https://t.me/KozSec|OFFLINE|KozSec|DDoS
-|https://t.me/KozSec1|ONLINE|KozSec backup|DDoS|
+|https://t.me/KozSec1|OFFLINE|KozSec backup|DDoS|
 |https://t.me/KozSecChat|OFFLINE|KozSec chat|DDoS|
 |https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|
 |https://t.me/RipperSec|ONLINE|RipperSec|DDoS|

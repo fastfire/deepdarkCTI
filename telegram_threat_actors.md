@@ -608,3 +608,5 @@
 |https://t.me/blackopmrhamza2|ONLINE|Mr Hamza||
 |https://t.me/alixsecenglish|ONLINE|Alixsec|DDoS|
 |https://t.co/L4BrdL3dyB|ONLINE|RootDoS|DDoS|
+|https://t.me/AnonSecItaChat|ONLINE|Anonymous Italia Chat||
+|http://t.me/AnonSecITA|ONLINE|Anonymous Italia Channel|

@@ -610,3 +610,4 @@
 |https://t.co/L4BrdL3dyB|ONLINE|RootDoS|DDoS|
 |https://t.me/AnonSecItaChat|ONLINE|Anonymous Italia Chat||
 |http://t.me/AnonSecITA|ONLINE|Anonymous Italia Channel|
+|https://t.me/+l2fmYlvJnTA2MTc0|ONLINE|Bucket Leaks|Data Leaks|

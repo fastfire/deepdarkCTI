@@ -171,7 +171,7 @@
 |https://t.me/exploit_db_com|OFFLINE| Exploits ||
 |https://t.me/ExploitService|ONLINE|Exploit Service||
 |https://t.me/exposedannouncements|OFFLINE|Exposed Forum||
-|https://t.me/FiveFamilies|ONLINE|FiveFamilies||
+|https://t.me/FiveFamilies|OFFLINE|FiveFamilies||
 |https://t.me/flannels|ONLINE| Market ||
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED| Data Leaks ||
 |https://t.me/fr33d4t4|OFFLINE| Fr33 d4t4 - stolen redline from other channels||
@@ -509,9 +509,9 @@
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
 |https://t.me/D1rkSec|ONLINE|D1rkSec|Leaks & Breaches|
-|https://t.me/logs_databases|ONLINE|R.E.D. H.A.S.H.|Leaks & Breaches|
+|https://t.me/logs_databases|OFFLINE|R.E.D. H.A.S.H.|Leaks & Breaches|
 |https://t.me/DAEKLIKS|OFFLINE|Dark_leaks|Leaks & Breaches|
-|https://t.me/combodatabasee|ONLINE|COMBO DATABASE|combos|
+|https://t.me/combodatabasee|OFFLINE|COMBO DATABASE|combos|
 |https://t.me/mailpass|OFFLINE|MAIL:PASS HQ Combos & Bases|combos|
 |https://t.me/combosgrupoplex|OFFLINE|Combos grupo plex|combos|
 |https://t.me/emailistsdatabase|ONLINE|Database Email Lists and Numbers Lists|combos|

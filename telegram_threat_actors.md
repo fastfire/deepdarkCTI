@@ -235,7 +235,7 @@
 |https://t.me/Industrial_Spy|ONLINE| Industrial Spy ||
 |https://t.me/infinity_hackers_group|ONLINE|Infinity Hackers By||
 |https://t.me/INFINITY_HACKERSS|ONLINE|Infinity Forum||
-|https://t.me/informZarya|ONLINE|Zarya||
+|https://t.me/informZarya|OFFLINE|Zarya||
 |https://t.me/InfraShutdown|OFFLINE|InfraShutdown - DDoS|DDoS|
 |https://t.me/inj3ct0rs|ONLINE|Exploits Market and 0day Exploits Database||
 |https://t.me/intelrepo|OFFLINE|Spectre's Intel Repository||

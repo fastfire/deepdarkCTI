@@ -28,12 +28,12 @@
 |https://t.me/APIddosMirai|ONLINE| Killnet API DDoS Mirai |DDoS|
 |https://t.me/APTANALYSIS|OFFLINE|Exploits||
 |https://t.me/APTIRAN|ONLINE|APT Iran||
-|https://t.me/Arab_Hackers_Union|ONLINE|Arab Hackers Union||
+|https://t.me/Arab_Hackers_Union|OFFLINE|Arab Hackers Union||
 |https://t.me/aresmainchannel|OFFLINE| Data Leaks ||
 |https://t.me/arvinclub1|OFFLINE|Arvin||
 |https://t.me/Arvin_club2|OFFLINE| Data Leaks ||
 |https://t.me/arvin_club|OFFLINE||
-|https://t.me/asdcloud|ONLINE|Combo List||
+|https://t.me/asdcloud|OFFLINE|Combo List||
 |https://t.me/atlantiscyberarmy|ONLINE|Atlantis - CyberArmy - A.I.G||
 |https://t.me/atw2022|ONLINE| Against The West ||
 |https://t.me/AutoLookup|ONLINE|AutoLookup||
@@ -326,7 +326,7 @@
 |https://t.me/LummaTeam_Reborn|OFFLINE|LummaC2 Stealer Chat|Infostealer|
 |https://t.me/+lYYyb3exPNFjNmRi|EXPIRED|Cyber Dragon||
 |https://t.me/+LZQBX9ml0Qk3YWFl|EXPIRED|BF Repo V3 Chat||
-|https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider||
+|https://t.me/MAilAccessCracker|OFFLINE|Free Data Breaches Provider||
 |https://t.me/mailaccesscrack|OFFLINE|Combo Lists||
 |https://t.me/MaillAccessTop|OFFLINE| Data Leaks ||
 |https://t.me/mailpasschanel|OFFLINE|Combo List||
@@ -347,7 +347,7 @@
 |https://t.me/minsaudebr|OFFLINE| Lapsus$ channel ||
 |https://t.me/MysteriousTeam0|ONLINE|Mysterious team bangladesh||
 |https://t.me/naosbase|ONLINE|DB / Data Leak Search Engine||
-|https://t.me/+nCFeH8PT-XUxZjEy|VALID| Data Leaks||
+|https://t.me/+nCFeH8PT-XUxZjEy|EXPIRED| Data Leaks||
 |https://t.me/ndtgroup_kh|OFFLINE| ||
 |https://t.me/NetHunt3r|ONLINE|NetHunt3r Group (pro Palestine)|Data Leak|
 |https://t.me/NetHunt3r|ONLINE|NET Hunter||
@@ -355,7 +355,7 @@
 |https://t.me/net_worker_alliance|OFFLINE|Net Worker Alliance||
 |https://t.me/NewBlood_Project|OFFLINE|New Blood Project||
 |https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
-|https://t.me/NinjaByte|ONLINE|Ninja Byte Combos (Combo Lists)|
+|https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng||
 |https://t.me/nohidespace|OFFLINE| Combo List ||
 |https://t.me/noname05716engchat|ONLINE| NoName057(16) chat||
@@ -516,10 +516,10 @@
 |https://t.me/combosgrupoplex|OFFLINE|Combos grupo plex|combos|
 |https://t.me/emailistsdatabase|ONLINE|Database Email Lists and Numbers Lists|combos|
 |https://t.me/www_paypal|ONLINE|Pro Team Channe|combos|
-|https://t.me/freshcombomails|ONLINE|Fresh Combo mails|combos|
+|https://t.me/freshcombomails|OFFLINE|Fresh Combo mails|combos|
 |https://t.me/GGBestCombo|OFFLINE|GGBestCombo|combos|
 |https://t.me/+f6HgnXuFRiIxMzhk|VALID|Pro Team Channel|combos|
-|https://t.me/Crackingcombolist|ONLINE|Cracking Combo|combos|
+|https://t.me/Crackingcombolist|OFFLINE|Cracking Combo|combos|
 |https://t.me/R3dd1sh_34_E4gl3_D4t4l34ks|OFFLINE|Ŕ€đďįşħ €ąğℓę ďάťάŁэάķş|combos|
 |https://t.me/freecombosmails|OFFLINE|FREE COMBOS MAILS|combos|
 |https://t.me/URLPASSCLOUD|OFFLINE|URL:USER:PASS CLOUD|combos|
@@ -536,7 +536,7 @@
 |https://t.me/easycloudlogsback0|ONLINE|Easy Cloud Logs Free|combos|
 |https://t.me/PrivateCompanyPirates|ONLINE|PrivateCompanyPirates|combos|
 |https://t.me/logsgang2|ONLINE|Logs|combos|
-|https://t.me/COMBO_SOURCE|ONLINE|COMBO PRIVATE|combos|
+|https://t.me/COMBO_SOURCE|OFFLINE|COMBO PRIVATE|combos|
 |https://t.me/emp_name|OFFLINE|EMP Group (EMailPass)|combos|
 |https://t.me/azzasec|ONLINE|AzzaSec||
 |https://t.me/lulzchat|OFFLINE|LulzSec chat||

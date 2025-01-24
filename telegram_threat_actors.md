@@ -615,3 +615,4 @@
 |https://t.me/privetOTof222|ONLINE|OverFlame|DDoS|
 |https://t.me/Laneh_dark|ONLINE|Laneh Dark||
 |https://t.me/Laneh_news|ONLINE|Laneh News||
+|https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|

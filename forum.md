@@ -145,6 +145,7 @@
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
+|[LEAKY.PRO](https://leaky.pro/)| ONLINE | |
 |[LEECH](https://leech.is)| ONLINE | |
 |[LeVeL23HackTools](https://level23hacktools.com/hackers)| ONLINE | |
 |[LinkPass](https://linkpass.info)| ONLINE | |

@@ -60,8 +60,9 @@
 |[DOCSHOP](https://doc-shop.ws)| OFFLINE | |
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
-|[EXODUS MARKET](https://exodusmarket.io)| ONLINE| |
+|[EXODUS MARKET](https://exodusmarket.io)| ONLINE | |
 |[EXODUS MARKET](https://exodusmarket.vc)| ONLINE | |
+|[EXODUS MARKET](http://exodusyzzpcnxxvpqoyyv3g4yvcy2zbfj4u7jxb56mlcfguqvehyjeqd.onion)| ONLINE | |
 |[FREDDY](freddy.atshop.io)| ONLINE | |
 |[FreshTools](https://freshtools.net)| ONLINE | |
 |[Genesis Market](https://genesis.market)| OFFLINE | | Put offline by FBI.

@@ -613,3 +613,5 @@
 |https://t.me/+l2fmYlvJnTA2MTc0|ONLINE|Bucket Leaks|Data Leaks|
 |https://t.me/SpidrXXX|ONLINE|Spider-X|DDoS|
 |https://t.me/privetOTof222|ONLINE|OverFlame|DDoS|
+|https://t.me/Laneh_dark|ONLINE|Laneh Dark||
+|https://t.me/Laneh_news|ONLINE|Laneh News||

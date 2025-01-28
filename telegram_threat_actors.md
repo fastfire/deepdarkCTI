@@ -602,8 +602,7 @@
 |https://t.me/AzzaSec_Off|OFFLINE|AzzaSec|DDoS|
 |https://t.me/CyperBattle|ONLINE|Cyber Battle|DDoS|
 |https://t.me/blackopmrhamza|OFFLINE|Mr Hamxa|DDoS|
-|https://t.me/TeamARXU|ONLINE|Team Arxu|DDoS & Data Breach|
-|https://t.me/TeamARXU|ONLINE|TeamARXU_V2|DDoS & Data Breach|
+|https://t.me/TeamARXU|OFFLINE|Team Arxu|DDoS & Data Breach|
 |https://t.me/+QeVsxdEnla80NzY1|ONLINE|DXPLOIT|Defacement|
 |https://t.me/blackopmrhamza2|ONLINE|Mr Hamza||
 |https://t.me/alixsecenglish|ONLINE|Alixsec|DDoS|

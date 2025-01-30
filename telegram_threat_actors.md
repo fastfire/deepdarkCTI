@@ -167,7 +167,7 @@
 |https://t.me/+eOtgrt4gB68wM2Qy|EXPIRED| Atlantis Cyber Army A.I.G. - backup||
 |https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
 |https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware ||
-|https://t.me/EVILEAKSU|ONLINE| UNLISTEDLEAKS||
+|https://t.me/EVILEAKSU|OFFLINE| UNLISTEDLEAKS||
 |https://t.me/exploit_db_com|OFFLINE| Exploits ||
 |https://t.me/ExploitService|ONLINE|Exploit Service||
 |https://t.me/exposedannouncements|OFFLINE|Exposed Forum||

@@ -527,7 +527,7 @@
 |https://t.me/TEST123ND|OFFLINE|TEST|combos|
 |https://t.me/logsgang2|ONLINE|Logs|combos|
 |https://t.me/MailPassPrivates|OFFLINE|Mail Pass Privates|combos|
-|https://t.me/mailaccessmegacloud|ONLINE|MailAccess Mega Cloud|combos|
+|https://t.me/mailaccessmegacloud|OFFLINE|MailAccess Mega Cloud|combos|
 |https://t.me/DMMMMMM|ONLINE|BigDmtrydata|combos|
 |https://t.me/FreeLogPassForAll|OFFLINE|FreeLog:PassForAll|combos|
 |https://t.me/private_ratlogs|ONLINE|Free CLouds|combos|
@@ -616,4 +616,3 @@
 |https://t.me/Laneh_news|ONLINE|Laneh News||
 |https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|
 |https://t.me/varundb/|ONLINE|VARUN|Data Leaks|
-|https://x.com/KeymousTeam|ONLINE|keymous+|DDoS|

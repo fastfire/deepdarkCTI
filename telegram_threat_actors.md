@@ -471,7 +471,6 @@
 |https://t.me/+Uxo9r92Ho5ZkYjdi|EXPIRED| KILLNET ||
 |https://t.me/+UYKtaIt6KFGlFwBJ|EXPIRED| VIP Config - configs, combos, etc ||
 |https://t.me/V3TerN|ONLINE| Devilzone (2) - configs, combos, etc ||
-|https://t.me/venarix|ONLINE| Venarix Intel Feed||
 |https://t.me/vulzsec_official|OFFLINE| ||
 |https://t.me/+WbDFfZ2OOvdjY2M0|EXPIRED|Deanon ClubV7||
 |https://t.me/weareaig|ONLINE| Atlas Intelligence Group ||

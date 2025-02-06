@@ -522,7 +522,7 @@
 |https://t.me/R3dd1sh_34_E4gl3_D4t4l34ks|OFFLINE|Ŕ€đďįşħ €ąğℓę ďάťάŁэάķş|combos|
 |https://t.me/freecombosmails|OFFLINE|FREE COMBOS MAILS|combos|
 |https://t.me/URLPASSCLOUD|OFFLINE|URL:USER:PASS CLOUD|combos|
-|https://t.me/voltspammer|ONLINE|VOLT CRACKS|combos|
+|https://t.me/voltspammer|OFFLINE|VOLT CRACKS|combos|
 |https://t.me/TEST123ND|OFFLINE|TEST|combos|
 |https://t.me/logsgang2|ONLINE|Logs|combos|
 |https://t.me/MailPassPrivates|OFFLINE|Mail Pass Privates|combos|

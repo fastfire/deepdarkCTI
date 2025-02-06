@@ -103,4 +103,5 @@
 |https://t.me/txtbaseslog|ONLINE|lexaurl | url:login:pass|
 |https://t.me/anuriacloud|ONLINE|anuria cloud|
 |https://t.me/txtloggg|ONLINE|TXT LOG CLOUD URL:LOGIN:PASS|
+|https://t.me/+kB8-KwFmfaQzZmUx|ONLINE|textbases|
 |https://t.me/+E9biBdpOv35iMmEy|ONLINE|SNATCH LOGS CLOUD|

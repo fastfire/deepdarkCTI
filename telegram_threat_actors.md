@@ -615,3 +615,4 @@
 |https://t.me/Laneh_news|ONLINE|Laneh News||
 |https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|
 |https://t.me/varundb/|ONLINE|VARUN|Data Leaks|
+|https://t.me/+4CffqtOZoZwxMTcx|ONLINE|Handala|Ransomware gang|

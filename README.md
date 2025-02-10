@@ -4,7 +4,7 @@
 
 Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
 
-The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
+The official website of the project is https://www.deepdarkcti.com. The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
 
 The contributors of the project (or people active in the field of Cyber Threat Intelligence) have a **Telegram group** available to propose new sources to be integrated within the project and to have a place to discuss the tactics and techniques of research and analysis that are used daily.
 It is possible to request access to the Telegram group by sending a request to https://twitter.com/fastfire or https://t.me/fastfire83 or https://bsky.app/profile/fastfire.bsky.social

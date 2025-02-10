@@ -183,6 +183,7 @@
 |[PROJECT SPHERE](http://psphere7gzibrekpbvzitrul46aol2ibvnexpfymcne3xx4uzwdwdaad.onion/)| OFFLINE | |
 |[PROLOGIC](https://prologic.su)| ONLINE | |
 |[PROTON](https://proton.sc)| ONLINE | |
+|[PSHACK](https://pshack.org)| ONLINE | |
 |[RAID FORUMS 2](https://raidforums2.com)| OFFLINE | |
 |[RAID FORUMS](https://raidforums.com)| OFFLINE | |
 |[RAID FORUMS (Mirror 1)](https://rf.ws)| OFFLINE | |

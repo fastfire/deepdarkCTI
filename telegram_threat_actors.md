@@ -560,7 +560,7 @@
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
 |https://t.me/Holy_League|ONLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|
-|https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
+|https://t.me/Handala_backup|OFFLINE|Handala Backup|Leaks & Breaches|
 |https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|
 |https://t.me/KozSec|OFFLINE|KozSec|DDoS
 |https://t.me/KozSec1|OFFLINE|KozSec backup|DDoS|
@@ -588,7 +588,7 @@
 |https://t.me/DragonRansom|ONLINE|Dragone RaaS|Ransomware Gang|
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat|Data Leaks|
 |https://t.me/INDOHAXSEC|ONLINE|INDOHAXSEC|DDoS, Defacement & Data Breach|
-|https://t.me/FreshAccess|ONLINE|Venom Access Token|Initial Access|
+|https://t.me/FreshAccess|OFFLINE|Venom Access Token|Initial Access|
 |https://t.me/DangerZoneForum|ONLINE|Danger Zone Forum|Forum|
 |https://t.me/fredensofsecurity1|OFFLINE|Fredens of Security|DDoS, Defacement & Data Breach|
 |https://t.me/filehaus|ONLINE|Filehaus||
@@ -614,5 +614,5 @@
 |https://t.me/Laneh_dark|ONLINE|Laneh Dark||
 |https://t.me/Laneh_news|ONLINE|Laneh News||
 |https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|
-|https://t.me/varundb/|ONLINE|VARUN|Data Leaks|
+|https://t.me/varundb/|OFFLINE|VARUN|Data Leaks|
 |https://t.me/+4CffqtOZoZwxMTcx|ONLINE|Handala|Ransomware gang|

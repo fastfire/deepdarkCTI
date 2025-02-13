@@ -39,7 +39,7 @@
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.st)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.vc/) | ONLINE | |
+|[BREACH FORUMS](https://breachforums.vc/) | OFFLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
@@ -115,6 +115,7 @@
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |
 |[FORUMTEAM.TOP](https://forumteam.top)| ONLINE | |
 |[FSSQUAD](https://fssquad.com)| ONLINE | |
+|[Funksec Ransomware](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)| ONLINE | |
 |[G0D.ONE MARKET](https://www.g0d.one)| OFFLINE | |
 |[GERKI](http://gerkipwhfuqeeizl.onion)| OFFLINE | |
 |[GETREKT](https://getrekt.io)| ONLINE | https://t.me/getrektio |
@@ -144,8 +145,10 @@
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
+|[LEAKY.PRO](https://leaky.pro/)| ONLINE | |
 |[LEECH](https://leech.is)| ONLINE | |
 |[LeVeL23HackTools](https://level23hacktools.com/hackers)| ONLINE | |
+|[LinkPass](https://linkpass.info)| ONLINE | |
 |[LOLZ](https://lolz.guru)| ONLINE | |
 |[LOWENDTALK](http://lowendtalk.com)| ONLINE | |
 |[MAILPASS](https://mailpass.club)| OFFLINE | |
@@ -160,6 +163,7 @@
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.me)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.net)| ONLINE | |
 |[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| OFFLINE | |
+|[NODO313](http://nodo313.net)| ONLINE | |
 |[NOHIDESPACE](https://nohide.space)| ONLINE | |
 |[NULLEDBB](https://nulledbb.com)| ONLINE | |
 |[NULLED](https://www.nulled.to)| ONLINE | |
@@ -180,6 +184,7 @@
 |[PROJECT SPHERE](http://psphere7gzibrekpbvzitrul46aol2ibvnexpfymcne3xx4uzwdwdaad.onion/)| OFFLINE | |
 |[PROLOGIC](https://prologic.su)| ONLINE | |
 |[PROTON](https://proton.sc)| ONLINE | |
+|[PSHACK](https://pshack.org)| ONLINE | |
 |[RAID FORUMS 2](https://raidforums2.com)| OFFLINE | |
 |[RAID FORUMS](https://raidforums.com)| OFFLINE | |
 |[RAID FORUMS (Mirror 1)](https://rf.ws)| OFFLINE | |
@@ -192,6 +197,7 @@
 |[RAMP (Old)](http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion) | OFFLINE | |
 |[RAMP (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion) | OFFLINE | |
 |[RANSOMED](http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion) | ONLINE | |
+|[REBREACHED](https://rebreached.vc) | ONLINE | |
 |[REVERSING](https://reversing.center) | ONLINE | |
 |[RF-CHEAT](https://www.rf-cheats.ru) | ONLINE | |
 |[ROOTSPLOIT](https://rootsploit.org)| ONLINE | |

@@ -13,6 +13,7 @@
 |[ASEAN](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion)| ONLINE | |
 |[AUTHORIZE CVV](https://authorizecvv.io)| ONLINE | |
 |[AUTHORIZE CVV](https://authorizecvv.cc)| ONLINE | |
+|[Abacus](http://abacusall6l52n5gp357vpv4yjjvh6ewg65pjbfvacyqcldux66btlqd.onion)| ONLINE | |
 |[BIDEN CASH (Dark Tor)](http://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| ONLINE | |
@@ -53,10 +54,16 @@
 |[DARKFOX MARKET](http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion)| ONLINE | |
 |[DATABASE](http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion)| ONLINE | |
 |[Delta Marketplace](https://delta-marketplace.sellix.io/)| ONLINE | |
+|[Dark Matter](http://darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion)| ONLINE | |
+|[Dark Matter](http://darkmmk3owyft4zzg3j3t25ri4z5bw7klapq6q3l762kxra72sli4mid.onion)| ONLINE | |
+|[Dark Matter](http://darkmmro6j5xekpe7jje74maidkkkkw265nngjqxrv4ik7v3aiwdbtad.onion)| ONLINE | |
 |[DOCSHOP](https://doc-shop.ws)| OFFLINE | |
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[EXODUS LOGS MARKET](https://exodusmarket.io/)| ONLINE | [mirror list](https://exodusmirrors.com/), [mirror1](https://exodusmarket.io), [mirror2](https://exodusmarket.vc) |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
+|[EXODUS MARKET](https://exodusmarket.io)| ONLINE | |
+|[EXODUS MARKET](https://exodusmarket.vc)| ONLINE | |
+|[EXODUS MARKET](http://exodusyzzpcnxxvpqoyyv3g4yvcy2zbfj4u7jxb56mlcfguqvehyjeqd.onion)| ONLINE | |
 |[FREDDY](freddy.atshop.io)| ONLINE | |
 |[FreshTools](https://freshtools.net)| ONLINE | |
 |[Genesis Market](https://genesis.market)| OFFLINE | | Put offline by FBI.
@@ -99,9 +106,11 @@
 |[RONDA STORE (Tor v3)](http://r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion)| ONLINE | |
 |[Royal Market (Tor v3)](http://royalyygxzq5fadtlgzftq3dwpdycq4gvddmvhrk3l2gjzsfqqwpvwad.onion)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.gs)| OFFLINE | |
-|[Russian Market (Deep)](https://russianmarket.to)| ONLINE | |
-|[Russian Market (Deep)](https://russianmarket.io)| ONLINE | |
+|[Russian Market (Deep)](https://russianmarket.to)| OFFLINE | |
+|[Russian Market (Deep)](https://russianmarket.io)| REDIRECT TO TOR | |
 |[Russian Market (Deep)](https://russianmarket.vc)| ONLINE | |
+|[Russian Market (Deep)](https://rm1.to)| ONLINE | |
+|[Russian Market (Deep)](https://rm1.vc)| ONLINE | |
 |[Russian Market (Tor v2)](http://rusmarkethgwhfbn.onion)| OFFLINE | |
 |[Russian Market (Tor v3)](http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion)| ONLINE | |
 |[Russian Market (Tor v3)](http://rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion)| ONLINE | |

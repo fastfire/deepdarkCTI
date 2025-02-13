@@ -98,3 +98,11 @@
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
 |https://t.me/wingsdailyurl|ONLINE|Wings|
 |https://t.me/godeless_cloud|ONLINE|Godeless Cloud Reborn|
+|https://t.me/txtlogtop|ONLINE|https://t.me/txtlogtop|
+|https://t.me/txtlogcloudd|ONLINE|TXTLOG url:login:pass CLOUD BASE|
+|https://t.me/txtbaseslog|ONLINE|lexaurl | url:login:pass|
+|https://t.me/anuriacloud|ONLINE|anuria cloud|
+|https://t.me/txtloggg|ONLINE|TXT LOG CLOUD URL:LOGIN:PASS|
+|https://t.me/+kB8-KwFmfaQzZmUx|ONLINE|textbases|
+|https://t.me/+E9biBdpOv35iMmEy|ONLINE|SNATCH LOGS CLOUD|
+|https://t.me/DataLeaks24|ONLINE|DataLeaks2025|

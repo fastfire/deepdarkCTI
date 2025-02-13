@@ -15,7 +15,7 @@
 |[0mega (Dark)](http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion)|ONLINE||||
 |[0mega (Deep)](https://0mega.cc)|OFFLINE||||
 |[54bb47h](http://54bb47h.blog)|OFFLINE|||
-|[3AM](http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion)|ONLINE||||
+|[ThreeAM](http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion)|ONLINE||||
 |[54bb47h (Victims page)](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion)|OFFLINE|||
 |[8BASE](http://92.118.36.204)|ONLINE||https://t.me/eightbase - https://twitter.com/8BASEHOME||
 |[8BASE](http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion)|ONLINE||https://t.me/eightbase - https://twitter.com/8BASEHOME||

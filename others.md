@@ -2,6 +2,7 @@
 | ------ | ------ | ------ |
 |[185.149.41.46](http://185.149.41.46/)| ONLINE | |
 |[ALL WORLD CARDS](http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
+|[ANONHOSTING](https://anonhosting.io/list.php)| ONLINE | |
 |[ANONLEAKS.LIVE](https://anonymousleaks.live)| ONLINE | |
 |[ANONLEAKS.XYZ](https://anonymousleaks.xyz)| OFFLINE | |
 |[BL4CKT0R](http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion)| ONLINE | |

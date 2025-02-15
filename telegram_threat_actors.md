@@ -618,3 +618,4 @@
 |https://t.me/+4CffqtOZoZwxMTcx|ONLINE|Handala|Ransomware gang|
 |https://t.me/+02lgyxsgsyAwYmY0|ONLINE|Ddarknot||
 |https://t.me/+tObrYXqGOetmODhl|ONLINE|AKU LAV 2||
+|https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|

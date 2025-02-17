@@ -178,7 +178,7 @@
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| ||
 |https://t.me/freeDEFAULFcloud|OFFLINE| Defaulf Cloud (Redline Stealer)|Infostealer|
 |https://t.me/freedomf0x|ONLINE| ||
-|https://t.me/freepalestine_PPHM|ONLINE|Pro-Palestine Hackers Movement||
+|https://t.me/freepalestine_PPHM|OFFLINE|Pro-Palestine Hackers Movement||
 |https://t.me/freshtoolsnet|ONLINE|Freshtools Market||
 |https://t.me/friendastrokal|ONLINE| Combo List||
 |https://t.me/fuckeddb|OFFLINE| ||
@@ -345,7 +345,7 @@
 |https://t.me/MiladLeaks|ONLINE|Milad Leaks||
 |https://t.me/milkdude|ONLINE| Data Leaks||
 |https://t.me/minsaudebr|OFFLINE| Lapsus$ channel ||
-|https://t.me/MysteriousTeam0|ONLINE|Mysterious team bangladesh||
+|https://t.me/MysteriousTeam0|OFFLINE|Mysterious team bangladesh||
 |https://t.me/naosbase|ONLINE|DB / Data Leak Search Engine||
 |https://t.me/+nCFeH8PT-XUxZjEy|EXPIRED| Data Leaks||
 |https://t.me/ndtgroup_kh|OFFLINE| ||
@@ -596,26 +596,26 @@
 |https://t.me/nnm057_16|ONLINE|NoName057(16)|DDoS|
 |https://t.me/bratvacorp|ONLINE|Bratva||
 |https://t.me/+NcyNWGFil7plYzNi|VALID|x0x0ba$e|Data Leaks|
-|https://t.me/+lPVDPudjxSE0M2Q1|ONLINE|Data Globe|Data Breach|
+|https://t.me/+lPVDPudjxSE0M2Q1|VALID|Data Globe|Data Breach|
 |https://t.me/hack_0xTam|OFFLINE|0X_Team|DDoS, Defacement & Data Breach|
 |https://t.me/AzzaSec_Off|OFFLINE|AzzaSec|DDoS|
 |https://t.me/CyperBattle|ONLINE|Cyber Battle|DDoS|
 |https://t.me/blackopmrhamza|OFFLINE|Mr Hamxa|DDoS|
 |https://t.me/TeamARXU|OFFLINE|Team Arxu|DDoS & Data Breach|
-|https://t.me/+QeVsxdEnla80NzY1|ONLINE|DXPLOIT|Defacement|
+|https://t.me/+QeVsxdEnla80NzY1|EXPIRED|DXPLOIT|Defacement|
 |https://t.me/blackopmrhamza2|ONLINE|Mr Hamza||
 |https://t.me/alixsecenglish|ONLINE|Alixsec|DDoS|
 |https://t.co/L4BrdL3dyB|ONLINE|RootDoS|DDoS|
 |https://t.me/AnonSecItaChat|ONLINE|Anonymous Italia Chat||
 |http://t.me/AnonSecITA|ONLINE|Anonymous Italia Channel|
-|https://t.me/+l2fmYlvJnTA2MTc0|ONLINE|Bucket Leaks|Data Leaks|
+|https://t.me/+l2fmYlvJnTA2MTc0|VALID|Bucket Leaks|Data Leaks|
 |https://t.me/SpidrXXX|ONLINE|Spider-X|DDoS|
 |https://t.me/privetOTof222|ONLINE|OverFlame|DDoS|
 |https://t.me/Laneh_dark|ONLINE|Laneh Dark||
 |https://t.me/Laneh_news|ONLINE|Laneh News||
 |https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|
 |https://t.me/varundb/|OFFLINE|VARUN|Data Leaks|
-|https://t.me/+4CffqtOZoZwxMTcx|ONLINE|Handala|Ransomware gang|
-|https://t.me/+02lgyxsgsyAwYmY0|ONLINE|Ddarknot||
-|https://t.me/+tObrYXqGOetmODhl|ONLINE|AKU LAV 2||
+|https://t.me/+4CffqtOZoZwxMTcx|VALID|Handala|Ransomware gang|
+|https://t.me/+02lgyxsgsyAwYmY0|VALID|Ddarknot||
+|https://t.me/+tObrYXqGOetmODhl|VALID|AKU LAV 2||
 |https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|

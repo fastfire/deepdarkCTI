@@ -360,7 +360,9 @@
 |https://t.me/nohidespace|OFFLINE| Combo List ||
 |https://t.me/noname05716engchat|ONLINE| NoName057(16) chat||
 |https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng||
+|https://t.me/noname05716engversion|ONLINE|NoName057(16) Eng|DDos|
 |https://t.me/noname05716|OFFLINE|NoName057(16) RUS||
+|https://t.me/noname05716reborn|ONLINE|NoName057(16) Rus|DDoS|
 |https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16)_Versione italiana🇮🇹||
 |https://t.me/noname05716versione_italiana|ONLINE|NoName057(16)_Versione italiana🇮🇹||
 |https://t.me/noname05716_version_espanola|ONLINE|NoName057(16)_Espanola version||
@@ -622,4 +624,3 @@
 |https://t.me/+02lgyxsgsyAwYmY0|VALID|Ddarknot||
 |https://t.me/+tObrYXqGOetmODhl|VALID|AKU LAV 2||
 |https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|
-|https://t.me/noname05716reborn|ONLINE|NoName057(16)|DDoS|

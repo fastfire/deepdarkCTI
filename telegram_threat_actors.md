@@ -361,7 +361,7 @@
 |https://t.me/noname05716engchat|ONLINE| NoName057(16) chat||
 |https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng||
 |https://t.me/noname05716|OFFLINE|NoName057(16) RUS||
-|https://t.me/NNM05716Versioneitaliana|ONLINE|NoName057(16)_Versione italiana🇮🇹||
+|https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16)_Versione italiana🇮🇹||
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
@@ -594,7 +594,7 @@
 |https://t.me/fredensofsecurity1|OFFLINE|Fredens of Security|DDoS, Defacement & Data Breach|
 |https://t.me/filehaus|ONLINE|Filehaus||
 |https://t.me/esteemrestorationeagle|ONLINE|Esteem Restoration Eagle|Defacement & DDoS|
-|https://t.me/nnm057_16|ONLINE|NoName057(16)|DDoS|
+|https://t.me/nnm057_16|OFFLINE|NoName057(16)|DDoS|
 |https://t.me/bratvacorp|ONLINE|Bratva||
 |https://t.me/+NcyNWGFil7plYzNi|VALID|x0x0ba$e|Data Leaks|
 |https://t.me/+lPVDPudjxSE0M2Q1|VALID|Data Globe|Data Breach|

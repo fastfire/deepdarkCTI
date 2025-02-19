@@ -362,6 +362,8 @@
 |https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng||
 |https://t.me/noname05716|OFFLINE|NoName057(16) RUS||
 |https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16)_Versione italiana🇮🇹||
+|https://t.me/noname05716versione_italiana|ONLINE|NoName057(16)_Versione italiana🇮🇹||
+|https://t.me/noname05716_version_espanola|ONLINE|NoName057(16)_Espanola version||
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
@@ -620,3 +622,4 @@
 |https://t.me/+02lgyxsgsyAwYmY0|VALID|Ddarknot||
 |https://t.me/+tObrYXqGOetmODhl|VALID|AKU LAV 2||
 |https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|
+|https://t.me/noname05716reborn|ONLINE|NoName057(16)|DDoS|

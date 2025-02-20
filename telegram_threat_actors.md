@@ -625,3 +625,4 @@
 |https://t.me/+tObrYXqGOetmODhl|VALID|AKU LAV 2||
 |https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|
 |https://t.me/hackrsk70|ONLINE|Team K70|DDoS|
+|https://t.me/Z_Pentest_Beograd|ONLINE|Z-PENTEST Alliance|DDoS & Data Breach|

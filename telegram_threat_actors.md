@@ -209,7 +209,7 @@
 |https://t.me/hadesh0p|ONLINE| ||
 |https://t.me/Handala_hack|OFFLINE|Handala Hack|Leaks & Breaches|
 |https://t.me/hellokittyleaks|OFFLINE| Data Leaks ||
-|https://t.me/hgn01_ru|ONLINE| Data Leaks ||
+|https://t.me/hgn01_ru|OFFLINE| Data Leaks ||
 |https://t.me/hidden_links|OFFLINE| Hidden Links ||
 |https://t.me/highs0c1ety|OFFLINE|High Society|DDoS|
 |https://t.me/HiveNETT|ONLINE|HiveNET||
@@ -358,14 +358,16 @@
 |https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng||
 |https://t.me/nohidespace|OFFLINE| Combo List ||
-|https://t.me/noname05716engchat|ONLINE| NoName057(16) chat||
-|https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng||
+|https://t.me/noname05716engchat|ONLINE| NoName057(16) chat|DDoS|
+|https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng|DDoS|
 |https://t.me/noname05716engversion|ONLINE|NoName057(16) Eng|DDos|
-|https://t.me/noname05716|OFFLINE|NoName057(16) RUS||
-|https://t.me/noname05716reborn|ONLINE|NoName057(16) Rus|DDoS|
-|https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16)_Versione italiana🇮🇹||
-|https://t.me/noname05716versione_italiana|ONLINE|NoName057(16)_Versione italiana🇮🇹||
-|https://t.me/noname05716_version_espanola|ONLINE|NoName057(16)_Espanola version||
+|https://t.me/noname05716|OFFLINE|NoName057(16) Rus|DDoS|
+|https://t.me/noname05716reborn|OFFLINE|NoName057(16) Rus|DDoS|
+|https://t.me/noname05716_reborn2|ONLINE|NoName057(16) Rus|DDoS|
+|https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16) Ita|DDoS|
+|https://t.me/noname05716versione_italiana|ONLINE|NoName057(16) Ita|DDoS|
+|https://t.me/noname05716_version_espanola|OFFLINE|NoName057(16) Esp|DDoS|
+|https://t.me/nnm05716esp|ONLINE|NoName057(16) Esp|DDoS|
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
@@ -562,6 +564,7 @@
 |https://t.me/whoisAlixan|OFFLINE|AlixSec|Leaks & Breaches|
 |https://t.me/StressedForums|OFFLINE|Stressed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
+|https://t.me/+rlyGuPTMGuU5YjE6|VALID|DDoSia Project|DDoS|
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
 |https://t.me/Holy_League|ONLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|

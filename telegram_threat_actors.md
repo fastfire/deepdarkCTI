@@ -574,7 +574,7 @@
 |https://t.me/KozSec1|OFFLINE|KozSec backup|DDoS|
 |https://t.me/KozSecChat|OFFLINE|KozSec chat|DDoS|
 |https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|
-|https://t.me/RipperSec|ONLINE|RipperSec|DDoS|
+|https://t.me/RipperSec|OFFLINE|RipperSec|DDoS|
 |https://t.me/goripoolcodes|ONLINE|Goripool Codes|Phishing pages,panels|
 |https://t.me/Anonymous_Guys_313|OFFLINE|Anonymous Guys|DDoS|
 |https://t.me/+DZRa-yXaHZ81MmNk|EXPIRED|Handala Hack|Leaks & Breaches|
@@ -624,7 +624,7 @@
 |https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|
 |https://t.me/varundb/|OFFLINE|VARUN|Data Leaks|
 |https://t.me/+4CffqtOZoZwxMTcx|VALID|Handala|Ransomware gang|
-|https://t.me/+02lgyxsgsyAwYmY0|VALID|Ddarknot||
+|https://t.me/+02lgyxsgsyAwYmY0|Expired|Ddarknot||
 |https://t.me/+tObrYXqGOetmODhl|VALID|AKU LAV 2||
 |https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|
 |https://t.me/hackrsk70|ONLINE|Team K70|DDoS|

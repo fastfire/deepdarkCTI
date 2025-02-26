@@ -331,8 +331,10 @@
 |[PANDORA](http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion)|OFFLINE||||
 |[PAY2KEY](http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion)|OFFLINE||||
 |[PAYLOAD.BIN (Ex BABUK LOCKER)](http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion)|OFFLINE||||
-|[PLAY](http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion)|ONLINE||||
-|[PLAY](http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion)|ONLINE||||
+|[PLAY](http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion)|OFFLINE||||
+|[PLAY](http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion)|OFFLINE||||
+|[PLAY](http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion)|ONLINE||||
+|[PLAY](http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion)|ONLINE||||
 |[PLAYBOY](http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion)|ONLINE||||
 |[PROLOCK](http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion)|OFFLINE||||
 |[PROMETHEUS](http://promethw27cbrcot.onion/blog)|OFFLINE||||

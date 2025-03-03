@@ -41,13 +41,13 @@
 |https://t.me/azzasec|OFFLINE|AzzaSec||
 |https://t.me/baphchat|ONLINE|The Jacuzzi||
 |https://t.me/base_brutesu|ONLINE| Combo List|
-|https://t.me/baseleak|ONLINE| Data Leaks ||
+|https://t.me/baseleak|OFFLINE| Data Leaks ||
 |https://t.me/+Bat9QqJcSuE0MTg1|VALID| AresLoader ||
 |https://t.me/bazubd|OFFLINE| Data Leaks||
 |https://t.me/BAZU_BD|OFFLINE| Data Leaks||
 |https://t.me/BEARITARMY|OFFLINE| BEAR IT ARMY ||
 |https://t.me/BEARITARMY|ONLINE|BearITArmy||
-|https://t.me/BEARSPAW_RESERVS|ONLINE|BearSpaw (now they are Digital Revolt)||
+|https://t.me/BEARSPAW_RESERVS|OFFLINE|BearSpaw (now they are Digital Revolt)||
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service||
 |https://t.me/bidencashfreecvv|ONLINE|BidenCash CVV [ANTIPUBLIC]||
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang ||
@@ -86,7 +86,7 @@
 |https://t.me/combo_listt|OFFLINE| Combo List ||
 |https://t.me/combo_offensive|ONLINE| Combo List ||
 |https://t.me/combosgrupoplex|ONLINE| Combo List ||
-|https://t.me/Comments_RHA_Russia_chat|ONLINE| Red Hackers Alliance Chat Group ||
+|https://t.me/Comments_RHA_Russia_chat|OFFLINE| Red Hackers Alliance Chat Group ||
 |https://t.me/config_combos|OFFLINE| Configs, Combos ||
 |https://t.me/Configsandcombos|OFFLINE| Configs, Combos ||
 |https://t.me/ConfigsServices|ONLINE| Configs, Combos ||
@@ -151,7 +151,7 @@
 |https://t.me/ddossatmak|ONLINE| DDoS Services |DDoS|
 |https://t.me/ddos_separ|ONLINE| DDoS Services |DDoS|
 |https://t.me/ddostm1|ONLINE| BlackObServers Channel (ddos team) |DDoS|
-|https://t.me/Digital_Revolt_hack|ONLINE|Digital Revolt||
+|https://t.me/Digital_Revolt_hack|OFFLINE|Digital Revolt||
 |https://t.me/divergent_group|OFFLINE| Divergent Group||
 |https://t.me/+DLb_tfrPeE4wNDM8|EXPIRED|Biskooit Pedar||
 |https://t.me/dontleakmydata|OFFLINE|DontLeakMyData||
@@ -335,7 +335,7 @@
 |https://t.me/malek_team1|OFFLINE|MalekTeam||
 |https://t.me/MalwareForums|OFFLINE|Malware Forums||
 |https://t.me/marketo_leaks|ONLINE| Data Leaks||
-|https://t.me/Matryoshka424|ONLINE|Matryoshka424|DDoS|
+|https://t.me/Matryoshka424|OFFLINE|Matryoshka424|DDoS|
 |https://t.me/MBCRANSOMWARE|OFFLINE| Ransomware Gang||
 |https://t.me/meganzshare|OFFLINE| ||
 |https://t.me/membersofxaknet|ONLINE| ||
@@ -356,9 +356,9 @@
 |https://t.me/NewBlood_Project|OFFLINE|New Blood Project||
 |https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
 |https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
-|https://t.me/nn05716chat|ONLINE| NoName057(16) Eng||
+|https://t.me/nn05716chat|OFFLINE| NoName057(16) Eng||
 |https://t.me/nohidespace|OFFLINE| Combo List ||
-|https://t.me/noname05716engchat|ONLINE| NoName057(16) chat|DDoS|
+|https://t.me/noname05716engchat|OFFLINE| NoName057(16) chat|DDoS|
 |https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng|DDoS|
 |https://t.me/noname05716engversion|ONLINE|NoName057(16) Eng|DDos|
 |https://t.me/noname05716|OFFLINE|NoName057(16) Rus|DDoS|
@@ -410,7 +410,7 @@
 |https://t.me/redstresserorg|OFFLINE|Meris botnet main channel|DDoS|
 |https://t.me/reveng3rs|OFFLINE| Data Leaks ||
 |https://t.me/revolusigbanon17|OFFLINE|GB Anon 17||
-|https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks||
+|https://t.me/RHA_Red_Hackers_Alliance_Russia|OFFLINE| Data Leaks||
 |https://t.me/russiagoodbuy_rgb_team|ONLINE|RGB Team (https://rgb-team.com)|Data Leak|
 |https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
 |https://t.me/sanaski|ONLINE| Configs, combos ||

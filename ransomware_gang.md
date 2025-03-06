@@ -397,9 +397,10 @@
 |[SARCOMA](http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion)|ONLINE||SarcomaGroup@onionmail.org - D7A5E0027572764BE600925712D079472FF950F954553FF07E823FF1D068C31292E5E5F31AE4||
 |[SEKHMET](http://sekhmet.top)|OFFLINE||||
 |[SENSAYQ (deep](http://159.69.60.54)|ONLINE||||
-[SENSAYQ (dark)](http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion)|ONLINE||||
+|[SENSAYQ (dark)](http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion)|ONLINE||||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE||||
 |[SIEGEDSEC](http://nv5p2mmpctvyqdyyi5zwh4gnifq2uxdx4etvnmaheqlrw6ordrjwxryd.onion)|ONLINE||||
+|[SKIRA TEAM](http://mtgc3qvyedjnfu7cen2zsupdppi5ys5g2hm6xwujvoepw25p4dy6huid.onion/news.html)|ONLINE||||
 |[SLUG](http://3ytm3d25hfzvbylkxiwyqmpvzys5of7l4pbosm7ol7czlkplgukjq6yd.onion)|ONLINE||||
 |[SNATCH (Deep)](https://snatch.press)|OFFLINE||https://t.me/snatch_info||
 |[SNATCH (Deep)](http://snatch.vip)|OFFLINE||https://t.me/snatch_info||

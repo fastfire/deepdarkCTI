@@ -9,7 +9,7 @@
 |[RANSOMWARE GROUP SITES (list)](http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion)|ONLINE|||
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomlook.io/)|ONLINE|||
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomware.live/)|ONLINE|||
-|[0X Thief](oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
+|[0X Thief](https://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
 |[54bb47h (Victims page)](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion)|OFFLINE||||
 |[54bb47h](http://54bb47h.blog)|OFFLINE||||
 |[54bb47h](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog)|OFFLINE||||

@@ -103,6 +103,7 @@
 |[COOMINGPROJECT (Tor v2)](http://teo7aj5mfgzxyeme.onion)|OFFLINE||||
 |[COOMINGPROJECT (Tor v3)](http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion)|OFFLINE||||
 |[COOMINGPROJECT (Deep)](http://coomingproject.com)|OFFLINE||||
+|[CRAZY HUNTER TEAM](http://7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion)|ONLINE||||
 |[CRIMSON WALRUS](http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion)|OFFLINE||||
 |[CROSSLOCK](http://crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion)|OFFLINE||||
 |[CRYLOCK (Victims request ID Page)](http://d57uremugxjrafyg.onion)|OFFLINE||||

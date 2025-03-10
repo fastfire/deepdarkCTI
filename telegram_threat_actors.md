@@ -630,3 +630,4 @@
 |https://t.me/hackrsk70|ONLINE|Team K70|DDoS|
 |https://t.me/Z_Pentest_Beograd|OFFLINE|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/z_pentest_reborn|ONLINE|Z-PENTEST Alliance|DDoS & Data Breach|
+|https://t.me/DARKST0RM1|ONLINE|Dark Storm Team Backup|DDoS|

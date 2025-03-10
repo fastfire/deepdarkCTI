@@ -106,3 +106,4 @@
 |https://t.me/+kB8-KwFmfaQzZmUx|ONLINE|textbases|
 |https://t.me/+E9biBdpOv35iMmEy|ONLINE|SNATCH LOGS CLOUD|
 |https://t.me/DataLeaks24|ONLINE|DataLeaks2025|
+|https://t.me/+gdrqlWjqSu5jZDc0|ONLINE|alien (txt)|

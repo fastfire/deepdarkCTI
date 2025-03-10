@@ -592,7 +592,7 @@
 |https://t.me/breachwatchers|ONLINE|Breach Watchers|Data Breach|
 |https://t.me/TheMoskovskiTimes|ONLINE|The Moskovski Times|Data Breach|
 |https://t.me/radnetbak|ONLINE|RADNET64|DDoS|
-|https://t.me/cloudata_news|ONLINE|Cloudata News|Data Leaks|
+|https://t.me/cloudata_news|OFFLINE|Cloudata News|Data Leaks|
 |https://t.me/DragonRansom|ONLINE|Dragone RaaS|Ransomware Gang|
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat|Data Leaks|
 |https://t.me/INDOHAXSEC|ONLINE|INDOHAXSEC|DDoS, Defacement & Data Breach|
@@ -624,8 +624,8 @@
 |https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|
 |https://t.me/varundb/|OFFLINE|VARUN|Data Leaks|
 |https://t.me/+4CffqtOZoZwxMTcx|VALID|Handala|Ransomware gang|
-|https://t.me/+02lgyxsgsyAwYmY0|Expired|Ddarknot||
-|https://t.me/+tObrYXqGOetmODhl|VALID|AKU LAV 2||
+|https://t.me/+02lgyxsgsyAwYmY0|EXPIRED|Ddarknot||
+|https://t.me/+tObrYXqGOetmODhl|EXPIRED|AKU LAV 2||
 |https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|
 |https://t.me/hackrsk70|ONLINE|Team K70|DDoS|
 |https://t.me/Z_Pentest_Beograd|OFFLINE|Z-PENTEST Alliance|DDoS & Data Breach|

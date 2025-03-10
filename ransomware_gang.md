@@ -56,6 +56,7 @@
 |[AVOS (Victims request ID page)](http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion)|ONLINE||||
 |[BABUK (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion)|OFFLINE||||
 |[BABUK](http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion)|ONLINE||||
+|[BABUK v2](http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion)|ONLINE||||
 |[BABYDUCK (Victims request ID page)](http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion)|OFFLINE||||
 |[BASHE](http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion)|ONLINE||||
 |[BIANLIAN](http://bianliaoxoeriowgqohcly4a6sbkpc3se2yvxgidxomxlpuhx5ehrpad.onion)|ONLINE||A8AD0FD4C931CDAA1408D5A60CBF38CEDF46B41E19A8A55E4EF1F1848AF3416AE52D278D37DF||

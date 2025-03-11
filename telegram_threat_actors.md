@@ -631,3 +631,5 @@
 |https://t.me/Z_Pentest_Beograd|OFFLINE|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/z_pentest_reborn|ONLINE|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/DARKST0RM1|ONLINE|Dark Storm Team Backup|DDoS|
+|https://t.me/darkstormteambackup3|ONLINE|Dark Storm Team Backup|DDoS|
+|https://t.me/+ZoeXssuBpNA2YzBk|Dark Storm Team Chat|DDoS|

@@ -320,6 +320,7 @@
 |[NEVADA (DLS)](http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion)|OFFLINE||||
 |[NEVADA (BACKEND)](http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion)|OFFLINE||||
 |[NEVADA (AFFILIATES)](http://nevaffcwswjosddmw55qhn4u4secw42wlppzvf26k5onrlxjevm6avad.onion/)|OFFLINE||||
+|[NIGHT SPIRE](http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion)|ONLINE||||
 |[NightSky](http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion)|OFFLINE||||
 |[NITROGEN](http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion)|ONLINE||https://x.com/NitrogenSupp/ - https://www.linkedin.com/in/nitrogen-support-0b748532a/ - 620C7A54EC212FB482A684BA74381C3623CCE4D0E27FAE348688F65E0F0F6B6A149790D1AE7D||
 |[NoEscape](http://noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion)|ONLINE||||

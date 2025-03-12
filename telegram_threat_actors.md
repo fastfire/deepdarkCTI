@@ -196,7 +196,7 @@
 |https://t.me/GoneTeam410|ONLINE|GoneTeam||
 |https://t.me/GonjeshkeDarand|ONLINE| Gonjeshke Darande||
 |https://t.me/grandgive|ONLINE| ||
-|https://t.me/groupcracked|ONLINE|Group Ctacked||
+|https://t.me/groupcracked|OFFLINE|Group Cracked||
 |https://t.me/GroupLapsus|OFFLINE|Group Lapsus||
 |https://t.me/gulfdocs|ONLINE| Data Leaks (Gulf Region), Middle East Document Dumps||
 |https://t.me/+GxHjaDP0bOphZjNh|VALID| 8BASE Chat Group ||
@@ -377,7 +377,7 @@
 |https://t.me/OnePlusChat|ONLINE| ||
 |https://t.me/opendataleaks|OFFLINE| Data Leaks ||
 |https://t.me/openleak|OFFLINE| Data Leaks ||
-|https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
+|https://t.me/OPRATIONSALIGATOR|OFFLINE|Aligator Black Hat||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat||
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED| Adrastea Group||

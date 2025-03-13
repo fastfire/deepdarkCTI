@@ -80,6 +80,7 @@
 |[BLACKMATTER](http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion)|OFFLINE||||
 |[BLACKMATTER Support](http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2)|OFFLINE||||
 |[BLACKOUT](http://black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion)|ONLINE||36A73D90C66948D9268BDC4174A40E0064C43F10A35AEAA9DD74B3A14EF5654872D5DC67FC14||
+|[Black Turtle Ransomware]|ONLINE||blackturtle@sogou.cn.com - https://www.ransomit.com.au||
 |[BLACK SHADOW (Deep)](https://blackshadow.cc)|OFFLINE||https://t.me/Blackshadow_Team_official||
 |[BLACK SHADOW](http://544corkfh5hwhtn4.onion)|OFFLINE||||
 |[BLACK SUIT](http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion)|ONLINE||||

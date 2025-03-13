@@ -7,7 +7,7 @@
 |https://t.me/+9P5FQ85afTc4NGNl|VALID| Goblin's Database ||
 |https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
 |https://t.me/AC3HCYBER|OFFLINE|ACEH||
-|https://t.me/AccountSquadChat|ONLINE|Illicit Service Group||
+|https://t.me/AccountSquadChat|OFFLINE|Illicit Service Group||
 |https://t.me/ACCOUNTSQUAD|OFFLINE|Illicit Service Channel||
 |https://t.me/aidlock/|ONLINE| AiDLocker group channel||
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
@@ -356,18 +356,20 @@
 |https://t.me/NewBlood_Project|OFFLINE|New Blood Project||
 |https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
 |https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
+|https://t.me/nnm057_16|OFFLINE|NoName057(16)|DDoS|
 |https://t.me/nn05716chat|OFFLINE| NoName057(16) Eng||
 |https://t.me/nohidespace|OFFLINE| Combo List ||
 |https://t.me/noname05716engchat|OFFLINE| NoName057(16) chat|DDoS|
 |https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng|DDoS|
-|https://t.me/noname05716engversion|ONLINE|NoName057(16) Eng|DDos|
+|https://t.me/noname05716engversion|OFFLINE|NoName057(16) Eng|DDos|
 |https://t.me/noname05716|OFFLINE|NoName057(16) Rus|DDoS|
 |https://t.me/noname05716reborn|OFFLINE|NoName057(16) Rus|DDoS|
-|https://t.me/noname05716_reborn2|ONLINE|NoName057(16) Rus|DDoS|
+|https://t.me/noname05716_reborn2|OFFLINE|NoName057(16) Rus|DDoS|
+|https://t.me/noname05716_reserv|ONLINE|NoName057(16) Rus|DDoS|
 |https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16) Ita|DDoS|
-|https://t.me/noname05716versione_italiana|ONLINE|NoName057(16) Ita|DDoS|
+|https://t.me/noname05716versione_italiana|OFFLINE|NoName057(16) Ita|DDoS|
 |https://t.me/noname05716_version_espanola|OFFLINE|NoName057(16) Esp|DDoS|
-|https://t.me/nnm05716esp|ONLINE|NoName057(16) Esp|DDoS|
+|https://t.me/nnm05716esp|OFFLINE|NoName057(16) Esp|DDoS|
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
@@ -564,7 +566,7 @@
 |https://t.me/whoisAlixan|OFFLINE|AlixSec|Leaks & Breaches|
 |https://t.me/StressedForums|OFFLINE|Stressed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
-|https://t.me/+rlyGuPTMGuU5YjE6|VALID|DDoSia Project|DDoS|
+|https://t.me/+rlyGuPTMGuU5YjE6|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
 |https://t.me/Holy_League|ONLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|
@@ -601,7 +603,6 @@
 |https://t.me/fredensofsecurity1|OFFLINE|Fredens of Security|DDoS, Defacement & Data Breach|
 |https://t.me/filehaus|ONLINE|Filehaus||
 |https://t.me/esteemrestorationeagle|ONLINE|Esteem Restoration Eagle|Defacement & DDoS|
-|https://t.me/nnm057_16|OFFLINE|NoName057(16)|DDoS|
 |https://t.me/bratvacorp|ONLINE|Bratva||
 |https://t.me/+NcyNWGFil7plYzNi|VALID|x0x0ba$e|Data Leaks|
 |https://t.me/+lPVDPudjxSE0M2Q1|VALID|Data Globe|Data Breach|
@@ -629,7 +630,7 @@
 |https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|
 |https://t.me/hackrsk70|ONLINE|Team K70|DDoS|
 |https://t.me/Z_Pentest_Beograd|OFFLINE|Z-PENTEST Alliance|DDoS & Data Breach|
-|https://t.me/z_pentest_reborn|ONLINE|Z-PENTEST Alliance|DDoS & Data Breach|
+|https://t.me/z_pentest_reborn|OFFLINE|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/DARKST0RM1|ONLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/darkstormteambackup3|ONLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/+ZoeXssuBpNA2YzBk|Dark Storm Team Chat|DDoS|

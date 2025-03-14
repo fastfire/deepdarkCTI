@@ -634,3 +634,4 @@
 |https://t.me/DARKST0RM1|ONLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/darkstormteambackup3|ONLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/+ZoeXssuBpNA2YzBk|VALID|Dark Storm Team Chat|DDoS|
+|https://t.me/Sector08/|ONLINE|SECT0R16|Lamer|

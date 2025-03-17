@@ -632,12 +632,12 @@
 |https://t.me/+4CffqtOZoZwxMTcx|VALID|Handala|Ransomware gang|
 |https://t.me/+02lgyxsgsyAwYmY0|EXPIRED|Ddarknot||
 |https://t.me/+tObrYXqGOetmODhl|EXPIRED|AKU LAV 2||
-|https://t.me/darkstormteambackup2|ONLINE|Dark Storm Team|DDoS|
+|https://t.me/darkstormteambackup2|OFFLINE|Dark Storm Team|DDoS|
 |https://t.me/hackrsk70|ONLINE|Team K70|DDoS|
 |https://t.me/Z_Pentest_Beograd|OFFLINE|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/z_pentest_reborn|OFFLINE|Z-PENTEST Alliance|DDoS & Data Breach|
-|https://t.me/DARKST0RM1|ONLINE|Dark Storm Team Backup|DDoS|
-|https://t.me/darkstormteambackup3|ONLINE|Dark Storm Team Backup|DDoS|
+|https://t.me/DARKST0RM1|OFFLINE|Dark Storm Team Backup|DDoS|
+|https://t.me/darkstormteambackup3|OFFLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/+ZoeXssuBpNA2YzBk|VALID|Dark Storm Team Chat|DDoS|
 |https://t.me/Sector08/|ONLINE|SECT0R16|Lamer|
 |https://t.me/+gNZDbhQtGw9mNDNi|ONLINE|TwoNet|DDoS|

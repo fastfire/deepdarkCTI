@@ -42,6 +42,7 @@
 |[CVV SHOP DUMPS](http://masterc2oss6cmeiwd6hzz44ghjdvkw2og6zv5iczcrssrbkrbuhn3qd.onion)| ONLINE | |
 |[CVVUNION](https://cvv-union.at)| OFFLINE | |
 |[CYPHER](http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion)| ONLINE | |
+|[CHANG’AN](http://cabyceogpsji73sske5nvo45mdrkbz4m3qd3iommf3zaaa6izg3j2cqd.onion)| ONLINE | |
 |[DAKC0DE](http://darkodemard3wjoe63ld6zebog73ncy77zb2iwjtdjam4xwvpjmjitid.onion)| OFFLINE | |
 |[DARKCLUB](https://darkclub.pw/)| ONLINE| |
 |[DARKCLUB (Onion Site)](http://darkclubolst4fiquh7eodn3gffa4jr3y6nrfdxxii3hboulgotjj4ad.onion)| ONLINE |

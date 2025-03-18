@@ -641,3 +641,4 @@
 |https://t.me/+ZoeXssuBpNA2YzBk|VALID|Dark Storm Team Chat|DDoS|
 |https://t.me/Sector08/|ONLINE|SECT0R16|Lamer|
 |https://t.me/+gNZDbhQtGw9mNDNi|ONLINE|TwoNet|DDoS|
+|https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|

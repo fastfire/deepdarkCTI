@@ -563,7 +563,7 @@
 |https://t.me/Alien_UFO_LEAKS|OFFLINE|UFO LEAK MARKET|Leaks & Breaches|
 |https://t.me/sultengblackhat|ONLINE|INDONESIAN CYBER OF SULAWESI TENGAH BLACKHAT|Leaks & Breaches|
 |https://t.me/OPRATIONSALIGATOR|ONLINE|ALIGATOR BLACK HAT|Leaks & Breaches|
-|https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|
+|https://t.me/Leak_DBMS|OFFLINE|Leak DBMS|Leaks & Breaches|
 |https://t.me/LulzSec_Off|OFFLINE|PhantomGroup|Threat Actor|
 |https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
 |https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
@@ -624,7 +624,7 @@
 |http://t.me/AnonSecITA|ONLINE|Anonymous Italia Channel|
 |https://t.me/+l2fmYlvJnTA2MTc0|VALID|Bucket Leaks|Data Leaks|
 |https://t.me/SpidrXXX|ONLINE|Spider-X|DDoS|
-|https://t.me/privetOTof222|ONLINE|OverFlame|DDoS|
+|https://t.me/privetOTof222|OFFLINE|OverFlame|DDoS|
 |https://t.me/Laneh_dark|ONLINE|Laneh Dark||
 |https://t.me/Laneh_news|ONLINE|Laneh News||
 |https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|
@@ -640,5 +640,5 @@
 |https://t.me/darkstormteambackup3|OFFLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/+ZoeXssuBpNA2YzBk|VALID|Dark Storm Team Chat|DDoS|
 |https://t.me/Sector08/|ONLINE|SECT0R16|Lamer|
-|https://t.me/+gNZDbhQtGw9mNDNi|ONLINE|TwoNet|DDoS|
+|https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|

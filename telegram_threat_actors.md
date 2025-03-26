@@ -370,11 +370,11 @@
 |https://t.me/noname05716versione_italiana|OFFLINE|NoName057(16) Ita|DDoS|
 |https://t.me/noname05716_version_espanola|OFFLINE|NoName057(16) Esp|DDoS|
 |https://t.me/nnm05716esp|OFFLINE|NoName057(16) Esp|DDoS|
-|https://t.me/+vSkSs5YnVwsxMmMy|ONLINE|NoName057(16)🇷🇺|DDoS|
-|https://t.me/+DJfpdY59V4M1NGRi|ONLINE|NoName057(16) Eng_vers|DDoS|
-|https://t.me/noname05716_spain|ONLINE|NoName057(16) Spain🇪🇦|DDoS|
-|https://t.me/noname057_16reborn_france|ONLINE|NoName057(16) France🇫🇷|DDoS|
-|https://t.me/noname05716_italy|ONLINE|NoName057(16) Italy🇮🇹|DDoS|
+|https://t.me/+vSkSs5YnVwsxMmMy|EXPIRED|NoName057(16)🇷🇺|DDoS|
+|https://t.me/+DJfpdY59V4M1NGRi|EXPIRED|NoName057(16) Eng_vers|DDoS|
+|https://t.me/noname05716_spain|OFFLINE|NoName057(16) Spain🇪🇦|DDoS|
+|https://t.me/noname057_16reborn_france|OFFLINE|NoName057(16) France🇫🇷|DDoS|
+|https://t.me/noname05716_italy|OFFLINE|NoName057(16) Italy🇮🇹|DDoS|
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||

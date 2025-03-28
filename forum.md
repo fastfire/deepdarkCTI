@@ -177,6 +177,7 @@
 |[OPENSSOURCE](https://openssource.org)| ONLINE | |
 |[PATCHED.TO](https://patched.to)| ONLINE | |
 |[PAYLOAD.SH](https://payload.sh)| ONLINE | |
+|[PHISH.PW](https://phish.pw)| ONLINE | |
 |[PHREAKER](https://phreaker.info)| ONLINE | |
 |[PIRATEBUHTA](https://s1.piratebuhta.net)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |

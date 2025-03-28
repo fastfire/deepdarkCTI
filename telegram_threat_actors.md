@@ -617,7 +617,7 @@
 |https://t.me/blackopmrhamza|OFFLINE|Mr Hamxa|DDoS|
 |https://t.me/TeamARXU|OFFLINE|Team Arxu|DDoS & Data Breach|
 |https://t.me/+QeVsxdEnla80NzY1|EXPIRED|DXPLOIT|Defacement|
-|https://t.me/blackopmrhamza2|ONLINE|Mr Hamza||
+|https://t.me/blackopmrhamza2|OFFLINE|Mr Hamza||
 |https://t.me/alixsecenglish|ONLINE|Alixsec|DDoS|
 |https://t.co/L4BrdL3dyB|ONLINE|RootDoS|DDoS|
 |https://t.me/AnonSecItaChat|ONLINE|Anonymous Italia Chat||

@@ -107,3 +107,7 @@
 |https://t.me/+E9biBdpOv35iMmEy|ONLINE|SNATCH LOGS CLOUD|
 |https://t.me/DataLeaks24|ONLINE|DataLeaks2025|
 |https://t.me/+gdrqlWjqSu5jZDc0|ONLINE|alien (txt)|
+|https://t.me/+VbZVKqzgUURlMjdi|ONLINE|Everlasting Cloud|
+|https://t.me/+IqEnwfj7CLU1Yjcy|ONLINE|Ω 𝙾𝙼𝙴𝙶𝙰 𝙲𝙻𝙾𝚄𝙳 Ω|
+|https://t.me/richasscloud|ONLINE|Richass Combo Cloud|
+|https://t.me/MagicCloudLogs|ONLINE|Magic CLoud|

@@ -374,6 +374,7 @@
 |[RANSOM HOUSE](http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion)|OFFLINE||https://t.me/ransom_house||
 |[RANSOM HOUSE](http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion)|ONLINE||||
 |[RANSOM HOUSE](http://zubllg7o774lgc4rdxmfcfpjewfkqa7ml7gxwl5fetogc7hbkvaprhid.onion)|OFFLINE||||
+|[RANSOM HUB](http://ijbw7iiyodqzpg6ooewbgn6mv2pinoer3k5pzdecoejsw5nyoe73zvad.onion/blog)|ONLINE||||
 |[RANSOM HUB](http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion)|ONLINE||||
 |[RANSOM HUB Archives](http://fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion/)|ONLINE||||
 |[RANSOM HUB Archives](http://ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion/)|OFFLINE||||

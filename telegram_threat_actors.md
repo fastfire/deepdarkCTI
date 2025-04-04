@@ -643,3 +643,4 @@
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|
 |https://t.me/ircodebreakers|IBKUBE|Codebreakers|Data Breach|
+|https://t.me/+omV3BhrY85YxMzI0|rdp cracking|RDP accesses|

@@ -133,6 +133,7 @@
 |[DARK VAULT (mirror 1)](http://5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion)|ONLINE||||
 |[DARK VAULT (mirror 2)](http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion)|ONLINE||||
 |[DARK VAULT (blog)](http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion)|ONLINE||||
+|[DEVMAN](http://qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion)|ONLINE||||
 |[DISPOSSESSOR (Dark)](http://e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion/)|ONLINE||||
 |[DISPOSSESSOR (Deep)](https://radar.ltd/)|ONLINE||||
 |[DONEX](http://g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion)|ONLINE||||

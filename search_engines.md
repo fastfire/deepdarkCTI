@@ -58,5 +58,6 @@
 |[Torgle](http://iy3544gmoeclh5de6gez2256v6pjh4omhpqdh2wpeeppjtvqmjhkfwad.onion/torgle/)|ONLINE|
 |[Tornet Global Search](http://xcprh4cjas33jnxgs3zhakof6mctilfxigwjcsevdfap7vtyj57lmjad.onion/tgs/)|ONLINE|
 |[Tornode](http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion)|OFFLINE|
+|[IACA Dark Web Investigation Tool](https://iaca-darkweb-tools.com/)|ONLINE|
 |[Venus](http://venusoseaqnafjvzfmrcpcq6g47rhd7sa6nmzvaa4bj5rp6nm5jl7gad.onion/)|ONLINE|
 |[VisiTOR](http://uzowkytjk4da724giztttfly4rugfnbqkexecotfp5wjc2uhpykrpryd.onion/search/)|ONLINE|

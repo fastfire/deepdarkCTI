@@ -644,3 +644,4 @@
 |https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|
 |https://t.me/ircodebreakers|IBKUBE|Codebreakers|Data Breach|
 |https://t.me/+omV3BhrY85YxMzI0|rdp cracking|RDP accesses|
+|https://t.me/agencyInt|AgencyInt Marketplace|Data Breach|

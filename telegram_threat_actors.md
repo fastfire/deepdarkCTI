@@ -180,7 +180,7 @@
 |https://t.me/freedomf0x|ONLINE| ||
 |https://t.me/freepalestine_PPHM|OFFLINE|Pro-Palestine Hackers Movement||
 |https://t.me/freshtoolsnet|ONLINE|Freshtools Market||
-|https://t.me/friendastrokal|ONLINE| Combo List||
+|https://t.me/friendastrokal|OFFLINE| Combo List||
 |https://t.me/fuckeddb|OFFLINE| ||
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID| Goblin's Hub (private) | |
 |https://t.me/garudasec4|OFFLINE|Garuda Security||

@@ -642,7 +642,7 @@
 |https://t.me/Sector08/|OFFLINE|SECT0R16|Lamer|
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|
-|https://t.me/ircodebreakers|IBKUBE|Codebreakers|Data Breach|
-|https://t.me/+omV3BhrY85YxMzI0|rdp cracking|RDP accesses|
-|https://t.me/agencyInt|AgencyInt Marketplace|Data Breach|
-|https://t.me/MadCapZone|MadCap|DDoS & Data Breach|
+|https://t.me/ircodebreakers|ONLINE|Codebreakers|Data Breach|
+|https://t.me/+omV3BhrY85YxMzI0|ONLINE|rdp cracking|RDP accesses|
+|https://t.me/agencyInt|ONLINE|AgencyInt Marketplace|Data Breach|
+|https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|

@@ -645,3 +645,4 @@
 |https://t.me/ircodebreakers|IBKUBE|Codebreakers|Data Breach|
 |https://t.me/+omV3BhrY85YxMzI0|rdp cracking|RDP accesses|
 |https://t.me/agencyInt|AgencyInt Marketplace|Data Breach|
+|https://t.me/MadCapZone|MadCap|DDoS & Data Breach|

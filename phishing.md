@@ -18,3 +18,4 @@
 |[urlscan.io](https://urlscan.io)| ONLINE | |
 |[urlDNA.io](https://urldna.io/)| ONLINE | |
 |[StalkPhish.io](https://www.stalkphish.io/)| ONLINE | |
+|[0xSI_f33d](https://feed.seguranca-informatica.pt/)| ONLINE | |

@@ -180,7 +180,7 @@
 |https://t.me/freedomf0x|ONLINE| ||
 |https://t.me/freepalestine_PPHM|OFFLINE|Pro-Palestine Hackers Movement||
 |https://t.me/freshtoolsnet|ONLINE|Freshtools Market||
-|https://t.me/friendastrokal|ONLINE| Combo List||
+|https://t.me/friendastrokal|OFFLINE| Combo List||
 |https://t.me/fuckeddb|OFFLINE| ||
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID| Goblin's Hub (private) | |
 |https://t.me/garudasec4|OFFLINE|Garuda Security||
@@ -199,7 +199,7 @@
 |https://t.me/groupcracked|OFFLINE|Group Cracked||
 |https://t.me/GroupLapsus|OFFLINE|Group Lapsus||
 |https://t.me/gulfdocs|ONLINE| Data Leaks (Gulf Region), Middle East Document Dumps||
-|https://t.me/+GxHjaDP0bOphZjNh|VALID| 8BASE Chat Group ||
+|https://t.me/+GxHjaDP0bOphZjNh|EXPIRED| 8BASE Chat Group ||
 |https://t.me/hackberegini|ONLINE|Beregini||
 |https://t.me/hacker_trick|ONLINE| Hack Tricks||
 |https://t.me/HackForceAll|OFFLINE|HackForce|R00TK1T ISC CYBER TEAM||
@@ -450,7 +450,7 @@
 |https://t.me/stkdatabase|ONLINE| Mapper (former STK Database)||
 |https://t.me/StormFreeConfig|OFFLINE| Configs, Combos ||
 |https://t.me/SylhetGangSgOfficial|ONLINE|Sylhet Gang-SG||
-|https://t.me/sysadminbd|ONLINE|Sysadmin||
+|https://t.me/sysadminbd|OFFLINE|Sysadmin||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED| Data Leaks||
 |https://t.me/tbotlist|ONLINE| Bots ||
 |https://t.me/t_darknet|ONLINE|Illicit Service||
@@ -460,7 +460,7 @@
 |https://t.me/teamimm0rtal|ONLINE| Team Imm0rtal channel ||
 |https://t.me/TeamIndianCyberForce|ONLINE|Indian Cyber Force||
 |https://t.me/teaminsanepk|OFFLINE|Team insane pk||
-|https://t.me/Team_r70YEMEN|ONLINE|DDoS Hactivitsts|DDoS|
+|https://t.me/Team_r70YEMEN|OFFLINE|DDoS Hactivitsts|DDoS|
 |https://t.me/techpwnews|ONLINE| News ||
 |https://t.me/tengkorakcybercrewz|OFFLINE|TengkorakCyberCrew Official||
 |https://t.me/tgcnnatgvctfenqwf|OFFLINE|Combo List||
@@ -573,7 +573,7 @@
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
 |https://t.me/+rlyGuPTMGuU5YjE6|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
-|https://t.me/Holy_League|ONLINE|Holy League|DDoS|
+|https://t.me/Holy_League|OFFLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|
 |https://t.me/Handala_backup|OFFLINE|Handala Backup|Leaks & Breaches|
 |https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|
@@ -639,8 +639,13 @@
 |https://t.me/DARKST0RM1|OFFLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/darkstormteambackup3|OFFLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/+ZoeXssuBpNA2YzBk|VALID|Dark Storm Team Chat|DDoS|
-|https://t.me/Sector08/|ONLINE|SECT0R16|Lamer|
+|https://t.me/Sector08/|OFFLINE|SECT0R16|Lamer|
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|
-|https://t.me/ircodebreakers|IBKUBE|Codebreakers|Data Breach|
-|https://t.me/+omV3BhrY85YxMzI0|rdp cracking|RDP accesses|
+|https://t.me/ircodebreakers|ONLINE|Codebreakers|Data Breach|
+|https://t.me/+omV3BhrY85YxMzI0|ONLINE|rdp cracking|RDP accesses|
+|https://t.me/agencyInt|ONLINE|AgencyInt Marketplace|Data Breach|
+|https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|
+|https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
+|https://t.me/mlcloud_hosting_news|ONLINE|mlcloud_hosting_news|Data breach MlCloud BPH|
+|https://t.me/+mk06m8H4kWk5NWM8|ONLINE|Z-PENTEST Alliance|DDoS & Data Breach|

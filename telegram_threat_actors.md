@@ -646,3 +646,5 @@
 |https://t.me/+omV3BhrY85YxMzI0|ONLINE|rdp cracking|RDP accesses|
 |https://t.me/agencyInt|ONLINE|AgencyInt Marketplace|Data Breach|
 |https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|
+|https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
+|https://t.me/mlcloud_hosting_news|ONLINE|mlcloud_hosting_news|Data breach MlCloud BPH|

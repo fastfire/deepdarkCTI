@@ -648,3 +648,4 @@
 |https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|
 |https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
 |https://t.me/mlcloud_hosting_news|ONLINE|mlcloud_hosting_news|Data breach MlCloud BPH|
+|https://t.me/+mk06m8H4kWk5NWM8|ONLINE|Z-PENTEST Alliance|DDoS & Data Breach|

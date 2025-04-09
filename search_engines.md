@@ -1,7 +1,6 @@
 |Name|Status|
 | ------ | ------ |
 |[Abiko](http://abikoifawyrftqivkhfxiwdjcdzybumpqrbowtudtwhrhpnykfonyzid.onion/)|ONLINE|
-|[Aleph Open Search](https://open-search.aleph-networks.eu)|ONLINE|
 |[Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion)|ONLINE|
 |[Amnesia](http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/)|ONLINE|
 |[Bobby](http://bobby64o755x3gsuznts6hf6agxqjcz5bop6hs7ejorekbm7omes34ad.onion/index.php)|ONLINE|

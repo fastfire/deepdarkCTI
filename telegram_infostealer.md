@@ -110,4 +110,5 @@
 |https://t.me/+VbZVKqzgUURlMjdi|ONLINE|Everlasting Cloud|
 |https://t.me/+IqEnwfj7CLU1Yjcy|ONLINE|Ω 𝙾𝙼𝙴𝙶𝙰 𝙲𝙻𝙾𝚄𝙳 Ω|
 |https://t.me/richasscloud|ONLINE|Richass Combo Cloud|
-|https://t.me/MagicCloudLogs|ONLINE|Magic CLoud|
+|https://t.me/MagicCloudLogs|ONLINE|Magic Cloud|
+|https://t.me/chatcloudcasper|ONLINE|Casper Cloud|

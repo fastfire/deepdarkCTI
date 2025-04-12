@@ -47,7 +47,8 @@
 |[CHITACHOK](https://chitachok.ru)| ONLINE | |
 |[COMFYBOX](https://comfybox.floofey.dog)| ONLINE | |
 |[COOKIEPRO](https://coockie.pro)| ONLINE | |
-|[CRACKED](https://cracked.io)| ONLINE | |
+|[CRACKED](https://cracked.io)| OFFLINE (seized) | |
+|[CRACKED](https://cracked.sh)| ONLINE | |
 |[CRACKING](https://cracking.org) | ONLINE | |
 |[CRACKING KING](https://crackingking.com)| OFFLINE | |
 |[CRACKING MAFIA](https://crackingmafia.is)| ONLINE | |

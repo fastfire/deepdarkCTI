@@ -9,7 +9,7 @@
 |https://t.me/AC3HCYBER|OFFLINE|ACEH||
 |https://t.me/AccountSquadChat|OFFLINE|Illicit Service Group||
 |https://t.me/ACCOUNTSQUAD|OFFLINE|Illicit Service Channel||
-|https://t.me/aidlock/|ONLINE| AiDLocker group channel||
+|https://t.me/aidlock/|OFFLINE| AiDLocker group channel||
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
 |https://t.me/altenens|ONLINE||
 |https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]||

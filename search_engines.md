@@ -60,3 +60,6 @@
 |[Tornode](http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion)|OFFLINE|
 |[Venus](http://venusoseaqnafjvzfmrcpcq6g47rhd7sa6nmzvaa4bj5rp6nm5jl7gad.onion/)|ONLINE|
 |[VisiTOR](http://uzowkytjk4da724giztttfly4rugfnbqkexecotfp5wjc2uhpykrpryd.onion/search/)|ONLINE|
+|[DarkwebDaily Clear Web](https://darkwebdaily.live/)|ONLINE|
+|[DarkwebDaily Onion](http://dailydwusclfsu7fzwydc5emidexnesmdlzqmz2dxnx5x4thl42vj4qd.onion/)|ONLINE|
+

@@ -358,6 +358,7 @@
 |https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nnm057_16|OFFLINE|NoName057(16)|DDoS|
 |https://t.me/nn05716chat|OFFLINE| NoName057(16) Eng||
+|https://t.me/+1wywJD2Am5NhODYy|ONLINE|NoName057(16)Eng|DDoS|
 |https://t.me/nohidespace|OFFLINE| Combo List ||
 |https://t.me/noname05716engchat|OFFLINE| NoName057(16) chat|DDoS|
 |https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng|DDoS|

@@ -652,3 +652,8 @@
 |https://t.me/mlcloud_hosting_news|ONLINE|mlcloud_hosting_news|Data breach MlCloud BPH|
 |https://t.me/+mk06m8H4kWk5NWM8|VALID|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/ARABIAN_GHOSTS|ONLINE|Arabian Ghosts|Defacement|
+|https://t.me/diplomatet|ONLINE|Diplomat|DDoS|
+|https://t.me/DIeNlt|ONLINE|DieNet|DDoS|
+|https://t.me/qayzerowns|ONLINE|Al Ahad|DDoS|
+|https://t.me/KeymousTeam|ONLINE|keymous+|DDoS|
+|https://t.me/+wP33Q9NXAURlMzNk|VALID|AnonSec|DDoS|

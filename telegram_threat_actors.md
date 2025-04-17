@@ -9,7 +9,7 @@
 |https://t.me/AC3HCYBER|OFFLINE|ACEH||
 |https://t.me/AccountSquadChat|OFFLINE|Illicit Service Group||
 |https://t.me/ACCOUNTSQUAD|OFFLINE|Illicit Service Channel||
-|https://t.me/aidlock/|ONLINE| AiDLocker group channel||
+|https://t.me/aidlock/|OFFLINE| AiDLocker group channel||
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
 |https://t.me/altenens|ONLINE||
 |https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]||
@@ -366,6 +366,8 @@
 |https://t.me/noname05716reborn|OFFLINE|NoName057(16) Rus|DDoS|
 |https://t.me/noname05716_reborn2|OFFLINE|NoName057(16) Rus|DDoS|
 |https://t.me/noname05716_reserv|ONLINE|NoName057(16) Rus|DDoS|
+|https://t.me/noname_reborn3|ONLINE|NoName057(16)RU|DDoS|
+|https://t.me/+1wywJD2Am5NhODYy|ONLINE|NoName057(16)Eng|DDoS|
 |https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16) Ita|DDoS|
 |https://t.me/noname05716versione_italiana|OFFLINE|NoName057(16) Ita|DDoS|
 |https://t.me/noname05716_version_espanola|OFFLINE|NoName057(16) Esp|DDoS|
@@ -649,3 +651,9 @@
 |https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
 |https://t.me/mlcloud_hosting_news|ONLINE|mlcloud_hosting_news|Data breach MlCloud BPH|
 |https://t.me/+mk06m8H4kWk5NWM8|VALID|Z-PENTEST Alliance|DDoS & Data Breach|
+|https://t.me/ARABIAN_GHOSTS|ONLINE|Arabian Ghosts|Defacement|
+|https://t.me/diplomatet|ONLINE|Diplomat|DDoS|
+|https://t.me/DIeNlt|ONLINE|DieNet|DDoS|
+|https://t.me/qayzerowns|ONLINE|Al Ahad|DDoS|
+|https://t.me/KeymousTeam|ONLINE|keymous+|DDoS|
+|https://t.me/+wP33Q9NXAURlMzNk|VALID|AnonSec|DDoS|

@@ -654,6 +654,6 @@
 |https://t.me/ARABIAN_GHOSTS|ONLINE|Arabian Ghosts|Defacement|
 |https://t.me/diplomatet|ONLINE|Diplomat|DDoS|
 |https://t.me/DIeNlt|ONLINE|DieNet|DDoS|
-|https://t.me/qayzerowns|ONLINE|Al Ahad|DDoS|
+|https://t.me/qayzerowns|OFFLINE|Al Ahad|DDoS|
 |https://t.me/KeymousTeam|ONLINE|keymous+|DDoS|
 |https://t.me/+wP33Q9NXAURlMzNk|VALID|AnonSec|DDoS|

@@ -657,3 +657,4 @@
 |https://t.me/qayzerowns|OFFLINE|Al Ahad|DDoS|
 |https://t.me/KeymousTeam|ONLINE|keymous+|DDoS|
 |https://t.me/+wP33Q9NXAURlMzNk|VALID|AnonSec|DDoS|
+|https://t.me/breachforumsirc|ONLINE|BreachForums|administrated by Hasan, who wants to restore the forum|

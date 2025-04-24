@@ -375,6 +375,7 @@
 |[RALord](http://ralordt7gywtkkkkq2suldao6mpibsb7cpjvdfezpzwgltyj2laiuuid.onion/)|ONLINE||||
 |[RALord (AFFILIATES)](http://novazzitmugtbjwuttc5hhsemkmvwh3iyt27oeeunu5mkw62qpfeykid.onion/)|ONLINE||||
 |[RANCOZ](http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion/)|OFFLINE||||
+|[RANSOM BAY](http://rrrbay3nf4c2wxmhprc6eotjlpqkeowfuobodic4x4nzqtosx3ebirid.onion/news)|ONLINE||||
 |[RANSOM CARTEL (1)](http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion)|OFFLINE||||
 |[RANSOM CARTEL (Victims page)](http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion)|OFFLINE||||
 |[RANSOMEXX](http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)|ONLINE||||

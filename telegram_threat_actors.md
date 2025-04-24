@@ -1,4 +1,4 @@
-|Telegram|Status|Threat Actor Name|Type of attacks|
+|Telegram|Status|Threat Actor Name|Type of attacks|Notes|
 | ------ | ------ | ------ | ------ |
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED| RED HACKERS ALLIANCE ||
 |https://t.me/+7VXL5Gy9NUc1YzFl|VALID| Darknet chat||
@@ -657,4 +657,4 @@
 |https://t.me/KeymousTeam|ONLINE|keymous+|DDoS|
 |https://t.me/+wP33Q9NXAURlMzNk|VALID|AnonSec|DDoS|
 |https://t.me/breachforumsirc|ONLINE|BreachForums|administrated by Hasan, who wants to restore the forum|
-|https://t.me/azzasec_back|ONLINE|AzzaSec|DDoS|
+|https://t.me/azzasec_back|ONLINE|AzzaSec|DDoS|@madonemerde is a team member|

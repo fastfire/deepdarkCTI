@@ -553,7 +553,6 @@
 |https://t.me/logsgang2|ONLINE|Logs|combos|
 |https://t.me/COMBO_SOURCE|OFFLINE|COMBO PRIVATE|combos|
 |https://t.me/emp_name|OFFLINE|EMP Group (EMailPass)|combos|
-|https://t.me/azzasec|ONLINE|AzzaSec||
 |https://t.me/lulzchat|OFFLINE|LulzSec chat||
 |https://t.me/realLulzSec|OFFLINE|VSec||
 |https://t.me/CyberVolk_K|OFFLINE|CyberVolk|dataleak|
@@ -658,3 +657,4 @@
 |https://t.me/KeymousTeam|ONLINE|keymous+|DDoS|
 |https://t.me/+wP33Q9NXAURlMzNk|VALID|AnonSec|DDoS|
 |https://t.me/breachforumsirc|ONLINE|BreachForums|administrated by Hasan, who wants to restore the forum|
+|https://t.me/azzasec_back|ONLINE|AzzaSec|DDoS|

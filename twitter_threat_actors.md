@@ -8,3 +8,6 @@
 |https://twitter.com/altoufanteam | Al Toufan Team |
 |https://x.com/KeymousTeam| keymous+ DDoS |
 |https://x.com/sextorts| Hasan (Breach Forums) |
+|https://x.com/RuskiNetGroup| RuskiNet |
+|https://x.com/SkBoss484479| Akatsuki Cyber Team |
+|https://x.com/DarkstormTeam1| Dark Storm DDoS |

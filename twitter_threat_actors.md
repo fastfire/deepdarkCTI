@@ -12,3 +12,4 @@
 |https://x.com/SkBoss484479| Akatsuki Cyber Team |
 |https://x.com/DarkstormTeam1| Dark Storm DDoS |
 |https://x.com/PsExec64| Conti |
+|https://x.com/reyxbf| Rey - HellCat |

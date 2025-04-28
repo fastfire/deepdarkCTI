@@ -367,7 +367,7 @@
 |https://t.me/noname05716_reborn2|OFFLINE|NoName057(16) Rus|DDoS|
 |https://t.me/noname05716_reserv|ONLINE|NoName057(16) Rus|DDoS|
 |https://t.me/noname_reborn3|ONLINE|NoName057(16)RU|DDoS|
-|https://t.me/+1wywJD2Am5NhODYy|ONLINE|NoName057(16)Eng|DDoS|
+|https://t.me/+1wywJD2Am5NhODYy|EXPIRED|NoName057(16)Eng|DDoS|
 |https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16) Ita|DDoS|
 |https://t.me/noname05716versione_italiana|OFFLINE|NoName057(16) Ita|DDoS|
 |https://t.me/noname05716_version_espanola|OFFLINE|NoName057(16) Esp|DDoS|

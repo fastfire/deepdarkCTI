@@ -13,3 +13,4 @@
 |https://x.com/DarkstormTeam1| Dark Storm DDoS |
 |https://x.com/PsExec64| Conti |
 |https://x.com/reyxbf| Rey - HellCat |
+|https://x.com/Noname05716| NoName056 |

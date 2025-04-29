@@ -663,7 +663,7 @@
 |https://t.me/+zt33CIMsXss2MGNl|VALID|BFRepoV3Files|Data Breach|
 |https://t.me/+VdfhID_ASt05OGVl|VALID|BFRepoV3Chat||
 |https://t.me/funclubnoname05716|ONLINE|NoName057(16)🇷🇺 - april 2025|DDoS|
-|https://t.me/NNM05716_En_ver|NoName057(16) Eng_vers - april 2025|DDoS|
+|https://t.me/NNM05716_En_ver|ONLINE|NoName057(16) Eng_vers🌎 - april 2025|DDoS|
 |https://t.me/+D6JQaDHEzgNiZTEy|ONLINE|NoName057(16) Spain🇪🇦 - april 2025|DDoS|
 |https://t.me/+B3LXsqUjJcs4ZGI0|ONLINE|NoName057(16) France🇫🇷 - april 2025|DDoS|
 |https://t.me/+m_kc0NgPigFjMTcy|ONLINE|NoName057(16) Italy🇮🇹 - april 2025|DDoS|

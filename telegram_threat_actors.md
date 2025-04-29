@@ -377,6 +377,8 @@
 |https://t.me/noname05716_spain|OFFLINE|NoName057(16) Spain🇪🇦|DDoS|
 |https://t.me/noname057_16reborn_france|OFFLINE|NoName057(16) France🇫🇷|DDoS|
 |https://t.me/noname05716_italy|OFFLINE|NoName057(16) Italy🇮🇹|DDoS|
+|https://t.me/+GA-V8dMoaRUxNWVl|ONLINE|Rabbit Cyber Team|DDos|
+|https://t.me/+JGt0zzKlbalhMjgx|ONLINE|PALACHPRO|DDos|
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||

@@ -667,3 +667,11 @@
 |https://t.me/+D6JQaDHEzgNiZTEy|EXPIRED|NoName057(16) Spain🇪🇦 - april 2025|DDoS|
 |https://t.me/+B3LXsqUjJcs4ZGI0|VALID|NoName057(16) France🇫🇷 - april 2025|DDoS|
 |https://t.me/+m_kc0NgPigFjMTcy|VALID|NoName057(16) Italy🇮🇹 - april 2025|DDoS|
+|https://t.me/Anonymous_VNLBN|ONLINE|Electronic_Army_Special_Forces|DDoS|
+|https://t.me/+EIcRadoe2JMzNDdk|ONLINE|AnonPioneers|DDoS|
+|https://t.me/AnonPioneers|ONLINE|AnonPioneers|DDoS|
+|https://t.me/inteid|ONLINE|Inteid|DDoS|
+|https://t.me/+ceva_DohRgphMmUy|ONLINE|Inteid|DDoS|
+|https://t.me/kedirisecteam|ONLINE|KEDIRISECTEAM|DDoS|
+|https://t.me/ArabGhostHackers|ONLINE|ArabGhost|DDoS|
+|https://t.me/+IZuCvuRdXtI0YmEx|ONLINE|WeAreRootSec|DDoS|

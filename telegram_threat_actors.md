@@ -377,8 +377,8 @@
 |https://t.me/noname05716_spain|OFFLINE|NoName057(16) Spain🇪🇦|DDoS|
 |https://t.me/noname057_16reborn_france|OFFLINE|NoName057(16) France🇫🇷|DDoS|
 |https://t.me/noname05716_italy|OFFLINE|NoName057(16) Italy🇮🇹|DDoS|
-|https://t.me/+GA-V8dMoaRUxNWVl|ONLINE|Rabbit Cyber Team|DDos|
-|https://t.me/+JGt0zzKlbalhMjgx|ONLINE|PALACHPRO|DDos|
+|https://t.me/+GA-V8dMoaRUxNWVl|VALID|Rabbit Cyber Team|DDos|
+|https://t.me/+JGt0zzKlbalhMjgx|VALID|PALACHPRO|DDos|
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
@@ -646,7 +646,7 @@
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|
 |https://t.me/ircodebreakers|ONLINE|Codebreakers|Data Breach|
-|https://t.me/+omV3BhrY85YxMzI0|ONLINE|rdp cracking|RDP accesses|
+|https://t.me/+omV3BhrY85YxMzI0|VALID|rdp cracking|RDP accesses|
 |https://t.me/agencyInt|ONLINE|AgencyInt Marketplace|Data Breach|
 |https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|
 |https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
@@ -664,6 +664,6 @@
 |https://t.me/+VdfhID_ASt05OGVl|VALID|BFRepoV3Chat||
 |https://t.me/funclubnoname05716|ONLINE|NoName057(16)🇷🇺 - april 2025|DDoS|
 |https://t.me/NNM05716_En_ver|ONLINE|NoName057(16) Eng_vers🌎 - april 2025|DDoS|
-|https://t.me/+D6JQaDHEzgNiZTEy|ONLINE|NoName057(16) Spain🇪🇦 - april 2025|DDoS|
-|https://t.me/+B3LXsqUjJcs4ZGI0|ONLINE|NoName057(16) France🇫🇷 - april 2025|DDoS|
-|https://t.me/+m_kc0NgPigFjMTcy|ONLINE|NoName057(16) Italy🇮🇹 - april 2025|DDoS|
+|https://t.me/+D6JQaDHEzgNiZTEy|EXPIRED|NoName057(16) Spain🇪🇦 - april 2025|DDoS|
+|https://t.me/+B3LXsqUjJcs4ZGI0|VALID|NoName057(16) France🇫🇷 - april 2025|DDoS|
+|https://t.me/+m_kc0NgPigFjMTcy|VALID|NoName057(16) Italy🇮🇹 - april 2025|DDoS|

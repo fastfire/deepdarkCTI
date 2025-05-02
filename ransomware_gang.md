@@ -200,6 +200,7 @@
 |[INC RANSOM (Deep)](http://incapt.su/blog/leaks)|ONLINE||||
 |[INC RANSOM (new - Deep)](http://inblog.su/blog/disclosures)|ONLINE||||
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion)|OFFLINE||||
+|[J GROUP](http://twniiyed6mydtbe64i5mdl56nihl7atfaqtpww6gqyaiohgc75apzpad.onion)|ONLINE||||
 |[JUSTICE BLADE](https://justice-blade.io)|OFFLINE||https://t.me/justiceblade3 - https://t.me/+UbB2H5vTBJJkYTRl||
 |[INSANE](http://nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion/Insane.html)|ONLINE||||
 |[INTERLOCK](http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion)|ONLINE||||

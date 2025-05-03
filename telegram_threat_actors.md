@@ -675,3 +675,7 @@
 |https://t.me/kedirisecteam|ONLINE|KEDIRISECTEAM|DDoS|
 |https://t.me/ArabGhostHackers|ONLINE|ArabGhost|DDoS|
 |https://t.me/+IZuCvuRdXtI0YmEx|ONLINE|WeAreRootSec|DDoS|
+|https://t.me/antiextchatt|ONLINE|AE Chat||
+|https://t.me/FileInclusion|ONLINE|Osint Lovers||
+|https://t.me/NekoOsintUpdates|ONLINE|NoSINT - Updates||
+|https://t.me/postexploitation|ONLINE|Osint Lovers||

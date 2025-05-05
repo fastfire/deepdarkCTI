@@ -357,27 +357,9 @@
 |https://t.me/NewBlood_Project|OFFLINE|New Blood Project||
 |https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
 |https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
-|https://t.me/nnm057_16|OFFLINE|NoName057(16)|DDoS|
-|https://t.me/nn05716chat|OFFLINE| NoName057(16) Eng||
 |https://t.me/nohidespace|OFFLINE| Combo List ||
-|https://t.me/noname05716engchat|OFFLINE| NoName057(16) chat|DDoS|
-|https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng|DDoS|
-|https://t.me/noname05716engversion|OFFLINE|NoName057(16) Eng|DDos|
-|https://t.me/noname05716|OFFLINE|NoName057(16) Rus|DDoS|
-|https://t.me/noname05716reborn|OFFLINE|NoName057(16) Rus|DDoS|
-|https://t.me/noname05716_reborn2|OFFLINE|NoName057(16) Rus|DDoS|
-|https://t.me/noname05716_reserv|ONLINE|NoName057(16) Rus|DDoS|
-|https://t.me/noname_reborn3|ONLINE|NoName057(16)RU|DDoS|
-|https://t.me/+1wywJD2Am5NhODYy|EXPIRED|NoName057(16)Eng|DDoS|
-|https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16) Ita|DDoS|
-|https://t.me/noname05716versione_italiana|OFFLINE|NoName057(16) Ita|DDoS|
-|https://t.me/noname05716_version_espanola|OFFLINE|NoName057(16) Esp|DDoS|
-|https://t.me/nnm05716esp|OFFLINE|NoName057(16) Esp|DDoS|
-|https://t.me/+vSkSs5YnVwsxMmMy|EXPIRED|NoName057(16)🇷🇺|DDoS|
-|https://t.me/+DJfpdY59V4M1NGRi|EXPIRED|NoName057(16) Eng_vers|DDoS|
-|https://t.me/noname05716_spain|OFFLINE|NoName057(16) Spain🇪🇦|DDoS|
-|https://t.me/noname057_16reborn_france|OFFLINE|NoName057(16) France🇫🇷|DDoS|
-|https://t.me/noname05716_italy|OFFLINE|NoName057(16) Italy🇮🇹|DDoS|
+|https://t.me/NoName05716_en_ver|ONLINE|NoName057(16)Eng|DDoS|
+|https://t.me/+6WHrusGqjfFmOWRi|ONLINE|NoName057(16) Rus|DDoS|
 |https://t.me/+GA-V8dMoaRUxNWVl|VALID|Rabbit Cyber Team|DDos|
 |https://t.me/+JGt0zzKlbalhMjgx|VALID|PALACHPRO|DDos|
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||

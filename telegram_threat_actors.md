@@ -366,8 +366,8 @@
 |https://t.me/noname05716|OFFLINE|NoName057(16) Rus|DDoS|
 |https://t.me/noname05716reborn|OFFLINE|NoName057(16) Rus|DDoS|
 |https://t.me/noname05716_reborn2|OFFLINE|NoName057(16) Rus|DDoS|
-|https://t.me/noname05716_reserv|ONLINE|NoName057(16) Rus|DDoS|
-|https://t.me/noname_reborn3|ONLINE|NoName057(16)RU|DDoS|
+|https://t.me/noname05716_reserv|OFFLINE|NoName057(16) Rus|DDoS|
+|https://t.me/noname_reborn3|OFFLINE|NoName057(16)RU|DDoS|
 |https://t.me/+1wywJD2Am5NhODYy|EXPIRED|NoName057(16)Eng|DDoS|
 |https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16) Ita|DDoS|
 |https://t.me/noname05716versione_italiana|OFFLINE|NoName057(16) Ita|DDoS|
@@ -378,7 +378,7 @@
 |https://t.me/noname05716_spain|OFFLINE|NoName057(16) Spain🇪🇦|DDoS|
 |https://t.me/noname057_16reborn_france|OFFLINE|NoName057(16) France🇫🇷|DDoS|
 |https://t.me/noname05716_italy|OFFLINE|NoName057(16) Italy🇮🇹|DDoS|
-|https://t.me/+GA-V8dMoaRUxNWVl|VALID|Rabbit Cyber Team|DDos|
+|https://t.me/+GA-V8dMoaRUxNWVl|EXPIRED|Rabbit Cyber Team|DDos|
 |https://t.me/+JGt0zzKlbalhMjgx|VALID|PALACHPRO|DDos|
 |https://t.me/NullLeak|OFFLINE| Data Leaks ||
 |https://t.me/O1chat|OFFLINE| Market ||
@@ -624,8 +624,8 @@
 |https://t.me/blackopmrhamza2|OFFLINE|Mr Hamza||
 |https://t.me/alixsecenglish|ONLINE|Alixsec|DDoS|
 |https://t.co/L4BrdL3dyB|ONLINE|RootDoS|DDoS|
-|https://t.me/AnonSecItaChat|ONLINE|Anonymous Italia Chat||
-|http://t.me/AnonSecITA|ONLINE|Anonymous Italia Channel|
+|https://t.me/AnonSecItaChat|OFFLINE|Anonymous Italia Chat||
+|http://t.me/AnonSecITA|OFFLINE|Anonymous Italia Channel|
 |https://t.me/+l2fmYlvJnTA2MTc0|VALID|Bucket Leaks|Data Leaks|
 |https://t.me/SpidrXXX|ONLINE|Spider-X|DDoS|
 |https://t.me/privetOTof222|OFFLINE|OverFlame|DDoS|
@@ -663,11 +663,11 @@
 |https://t.me/azzasec_back|ONLINE|AzzaSec|DDoS|
 |https://t.me/+zt33CIMsXss2MGNl|VALID|BFRepoV3Files|Data Breach|
 |https://t.me/+VdfhID_ASt05OGVl|VALID|BFRepoV3Chat||
-|https://t.me/funclubnoname05716|ONLINE|NoName057(16)🇷🇺 - april 2025|DDoS|
-|https://t.me/NNM05716_En_ver|ONLINE|NoName057(16) Eng_vers🌎 - april 2025|DDoS|
+|https://t.me/funclubnoname05716|OFFLINE|NoName057(16)🇷🇺 - april 2025|DDoS|
+|https://t.me/NNM05716_En_ver|OFFLINE|NoName057(16) Eng_vers🌎 - april 2025|DDoS|
 |https://t.me/+D6JQaDHEzgNiZTEy|EXPIRED|NoName057(16) Spain🇪🇦 - april 2025|DDoS|
-|https://t.me/+B3LXsqUjJcs4ZGI0|VALID|NoName057(16) France🇫🇷 - april 2025|DDoS|
-|https://t.me/+m_kc0NgPigFjMTcy|VALID|NoName057(16) Italy🇮🇹 - april 2025|DDoS|
+|https://t.me/+B3LXsqUjJcs4ZGI0|EXPIRED|NoName057(16) France🇫🇷 - april 2025|DDoS|
+|https://t.me/+m_kc0NgPigFjMTcy|EXPIRED|NoName057(16) Italy🇮🇹 - april 2025|DDoS|
 |https://t.me/Anonymous_VNLBN|ONLINE|Electronic_Army_Special_Forces|DDoS|
 |https://t.me/+EIcRadoe2JMzNDdk|EXPIRED|AnonPioneers|DDoS|
 |https://t.me/AnonPioneers|ONLINE|AnonPioneers|DDoS|

@@ -1,5 +1,6 @@
 |Telegram|Status|Threat Actor Name|Type of attacks|
 | ------ | ------ | ------ | ------ |
+|https://t.me/+PWwfZJHwNYNjM2E1|VALID|Rabbit Cyber Team||
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED| RED HACKERS ALLIANCE ||
 |https://t.me/+7VXL5Gy9NUc1YzFl|VALID| Darknet chat||
 |https://t.me/+8UWtFO9H_9dhODVk|EXPIRED| 0x_dump alternative channel||
@@ -456,13 +457,13 @@
 |https://t.me/SylhetGangSgOfficial|ONLINE|Sylhet Gang-SG||
 |https://t.me/sysadminbd|OFFLINE|Sysadmin||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED| Data Leaks||
-|https://t.me/tbotlist|ONLINE| Bots ||
+|https://t.me/tbotlist|OFFLINE| Bots ||
 |https://t.me/t_darknet|ONLINE|Illicit Service||
 |https://t.me/TE1915|ONLINE|1915 team||
 |https://t.me/team1916|OFFLINE|TEAM1916||
 |https://t.me/TeamDemon|ONLINE|Illicit Service||
 |https://t.me/teamimm0rtal|ONLINE| Team Imm0rtal channel ||
-|https://t.me/TeamIndianCyberForce|ONLINE|Indian Cyber Force||
+|https://t.me/TeamIndianCyberForce|OFFLINE|Indian Cyber Force||
 |https://t.me/teaminsanepk|OFFLINE|Team insane pk||
 |https://t.me/Team_r70YEMEN|OFFLINE|DDoS Hactivitsts|DDoS|
 |https://t.me/techpwnews|ONLINE| News ||
@@ -668,13 +669,14 @@
 |https://t.me/+B3LXsqUjJcs4ZGI0|VALID|NoName057(16) France🇫🇷 - april 2025|DDoS|
 |https://t.me/+m_kc0NgPigFjMTcy|VALID|NoName057(16) Italy🇮🇹 - april 2025|DDoS|
 |https://t.me/Anonymous_VNLBN|ONLINE|Electronic_Army_Special_Forces|DDoS|
-|https://t.me/+EIcRadoe2JMzNDdk|ONLINE|AnonPioneers|DDoS|
+|https://t.me/+EIcRadoe2JMzNDdk|EXPIRED|AnonPioneers|DDoS|
 |https://t.me/AnonPioneers|ONLINE|AnonPioneers|DDoS|
 |https://t.me/inteid|ONLINE|Inteid|DDoS|
-|https://t.me/+ceva_DohRgphMmUy|ONLINE|Inteid|DDoS|
+|https://t.me/+ceva_DohRgphMmUy|VALID|Inteid|DDoS|
 |https://t.me/kedirisecteam|ONLINE|KEDIRISECTEAM|DDoS|
-|https://t.me/ArabGhostHackers|ONLINE|ArabGhost|DDoS|
-|https://t.me/+IZuCvuRdXtI0YmEx|ONLINE|WeAreRootSec|DDoS|
+|https://t.me/ArabGhostHackers|OFFLINE|ArabGhost|DDoS|
+|https://t.me/arabghostschat|ONLINE|ArabGhost||
+|https://t.me/+IZuCvuRdXtI0YmEx|VALID|WeAreRootSec|DDoS|
 |https://t.me/antiextchatt|ONLINE|AE Chat||
 |https://t.me/FileInclusion|ONLINE|Osint Lovers||
 |https://t.me/NekoOsintUpdates|ONLINE|NoSINT - Updates||

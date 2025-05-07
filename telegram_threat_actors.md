@@ -265,7 +265,7 @@
 |https://t.me/jsonc2|OFFLINE|jsonC2||
 |https://t.me/JustAn0x|OFFLINE| Data Leaks ||
 |https://t.me/justice_homeland|ONLINE|Homeland Justice||
-|https://t.me/+k56KDQRn8FplN2Qy|VALID|PHOENIX||
+|https://t.me/+k56KDQRn8FplN2Qy|EXPIRED|PHOENIX||
 |https://t.me/karakurt_news|ONLINE| Karakurt||
 |https://t.me/kelvinsecuritydarkmarket|OFFLINE| Kelvin Security Dark Market||
 |https://t.me/kiborg_leak|OFFLINE|Kiborg Leak (Alphabank)||
@@ -639,7 +639,7 @@
 |https://t.me/z_pentest_reborn|OFFLINE|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/DARKST0RM1|OFFLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/darkstormteambackup3|OFFLINE|Dark Storm Team Backup|DDoS|
-|https://t.me/+ZoeXssuBpNA2YzBk|VALID|Dark Storm Team Chat|DDoS|
+|https://t.me/+ZoeXssuBpNA2YzBk|EXPIRED|Dark Storm Team Chat|DDoS|
 |https://t.me/Sector08/|OFFLINE|SECT0R16|Lamer|
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|
@@ -649,17 +649,18 @@
 |https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|
 |https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
 |https://t.me/mlcloud_hosting_news|ONLINE|mlcloud_hosting_news|Data breach MlCloud BPH|
-|https://t.me/+mk06m8H4kWk5NWM8|VALID|Z-PENTEST Alliance|DDoS & Data Breach|
+|https://t.me/+mk06m8H4kWk5NWM8|EXPIRED|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/ARABIAN_GHOSTS|ONLINE|Arabian Ghosts|Defacement|
 |https://t.me/diplomatet|ONLINE|Diplomat|DDoS|
 |https://t.me/DIeNlt|ONLINE|DieNet|DDoS|
 |https://t.me/qayzerowns|OFFLINE|Al Ahad|DDoS|
 |https://t.me/KeymousTeam|ONLINE|keymous+|DDoS|
 |https://t.me/+wP33Q9NXAURlMzNk|VALID|AnonSec|DDoS|
+|https://t.me/TeamAnonSec|ONLINE|AnonSec|DDoS|
 |https://t.me/breachforumsirc|ONLINE|BreachForums|administrated by Hasan, who wants to restore the forum|
 |https://t.me/azzasec_back|ONLINE|AzzaSec|DDoS|
-|https://t.me/+zt33CIMsXss2MGNl|VALID|BFRepoV3Files|Data Breach|
-|https://t.me/+VdfhID_ASt05OGVl|VALID|BFRepoV3Chat||
+|https://t.me/+zt33CIMsXss2MGNl|EXPIRED|BFRepoV3Files|Data Breach|
+|https://t.me/+VdfhID_ASt05OGVl|EXPIRED|BFRepoV3Chat||
 |https://t.me/funclubnoname05716|OFFLINE|NoName057(16)🇷🇺 - april 2025|DDoS|
 |https://t.me/NNM05716_En_ver|OFFLINE|NoName057(16) Eng_vers🌎 - april 2025|DDoS|
 |https://t.me/+D6JQaDHEzgNiZTEy|EXPIRED|NoName057(16) Spain🇪🇦 - april 2025|DDoS|

@@ -151,7 +151,7 @@
 |https://t.me/db_rf_rb|OFFLINE| Data Leaks ||
 |https://t.me/ddossatmak|ONLINE| DDoS Services |DDoS|
 |https://t.me/ddos_separ|ONLINE| DDoS Services |DDoS|
-|https://t.me/+63wu1QC3KM04ZTJi|Cyber ​​Cossacks||
+|https://t.me/+63wu1QC3KM04ZTJi|Cyber Cossacks||
 |https://t.me/ddostm1|ONLINE| BlackObServers Channel (ddos team) |DDoS|
 |https://t.me/Digital_Revolt_hack|OFFLINE|Digital Revolt||
 |https://t.me/divergent_group|OFFLINE| Divergent Group||

@@ -1,6 +1,6 @@
 |Telegram|Status|Threat Actor Name|Type of attacks|
 | ------ | ------ | ------ | ------ |
-|https://t.me/+PWwfZJHwNYNjM2E1|VALID|Rabbit Cyber Team||
+|https://t.me/+PWwfZJHwNYNjM2E1|EXPIRED|Rabbit Cyber Team||
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED| RED HACKERS ALLIANCE ||
 |https://t.me/+7VXL5Gy9NUc1YzFl|VALID| Darknet chat||
 |https://t.me/+8UWtFO9H_9dhODVk|EXPIRED| 0x_dump alternative channel||

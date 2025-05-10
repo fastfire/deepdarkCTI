@@ -1,6 +1,7 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
-|[0x00sec](https://0x00sec.org/)|OFFLINE|
+|[0x00sec](
+https://0x00sec.org/)|OFFLINE|
 |[4CHEAT](https://4cheat.ru/)|ONLINE||
 |[589forum](https://589forum.org/)|ONLINE|
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
@@ -141,7 +142,8 @@
 |[Lampeduza](https://lampeduza.la) | ONLINE | |
 |[LEAD LAB](https://leadlab.top)| ONLINE | |
 |[LEAKBASE](https://leakbase.cc)| OFFLINE | |
-|[LEAKBASE](https://leakbase.io/)| ONLINE | |
+|[LEAKBASE](https://leakbase.io)| OFFLINE | |
+|[LEAKBASE](https://leakbase.la)| ONLINE | |
 |[LEAKBASE](https://leakbase.org)| ONLINE | |
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |

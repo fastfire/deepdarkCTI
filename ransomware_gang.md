@@ -167,6 +167,7 @@
 |[FUNKSEC](http://funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion)|OFFLINE||||
 |[FUNKSEC](http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion)|ONLINE||||
 |[FUNKSEC](http://funksecsekgasgjqlzzkmcnutrrrafavpszijoilbd6z3dkbzvqu43id.onion)|ONLINE||||
+|[FUNKSEC](http://funksec53xh7j5t6ysgwnaidj5vkh3aqajanplix533kwxdz3qrwugid.onion)|OFFLINE||||
 |[GD LOCKERSEC](http://igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd.onion)|ONLINE||||
 |[GOODWILL (Dashboard)](http://9855-13-235-50-147.ngrok.io)|OFFLINE||||
 |[GRIEF](http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion)|OFFLINE||||

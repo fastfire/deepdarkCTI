@@ -670,3 +670,4 @@
 |https://t.me/BreachforumsOfficialV1|ONLINE|Breachforums Official V1||
 |https://t.me/foxwmapt|ONLINE|Fox William Mulder||
 |https://t.me/RansomHunter|ONLINE|GangExposed||
+|https://t.me/vulture_001|ONLINE|Vulture|DDoS|

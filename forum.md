@@ -39,6 +39,7 @@ https://0x00sec.org/)|OFFLINE|
 |[BREACH FORUMS](https://breachforums.cx)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.st)| ONLINE | |
+|[BREACH FORUMS](https://breachforums.sx)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.vc/) | OFFLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |

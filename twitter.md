@@ -1,7 +1,6 @@
 |Link| Description |
 | ------ | ------ |
 |https://github.com/0xDanielLopez/| TweetFeed |
-|https://twitter.com/altoufanteam | Al Toufan Team |
 |https://twitter.com/Arkbird_SOLG| Malware hunter & analyst |
 |https://twitter.com/crep1x | Threat Analyst |
 |https://twitter.com/Cryptolaemus1 | Threat Hunting group |
@@ -23,4 +22,3 @@
 |https://twitter.com/vuldb | APT actors & IOC |
 |https://twitter.com/vxunderground | malware samples |
 |https://tweetfeed.live | Tweet Feed |
-|https://x.com/KeymousTeam| keymous+ DDoS |

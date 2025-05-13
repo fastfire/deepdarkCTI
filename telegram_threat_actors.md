@@ -676,3 +676,7 @@
 |https://t.me/+HmRQnsNmIpQ5ZmM0|ONLINE|keymous team Main|DDoS|
 |https://t.me/+BnYEQZsweIRlZThh|ONLINE|R3An0nymous Chat|DDoS|
 |https://t.me/R3An0nymous|ONLINE|R3An0nymous Canal|DDoS|
+|https://t.me/SSSO_Official|ONLINE|KILLNET # РЕЗЕРВ||
+|https://t.me/WeAreKillnet_Official|ONLINE|WE ARE KILLNET +||
+|https://t.me/WeAreKillnet_Channel|ONLINE|WE ARE KILLNET||
+|https://t.me/KillMillk|ONLINE|KillMilk||

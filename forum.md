@@ -248,6 +248,7 @@ https://0x00sec.org/)|OFFLINE|
 |[VLMI](https://vlmi.ws)| ONLINE | |
 |[VSEMMONEY](https://vsemmoney.com)| ONLINE | |
 |[WWHCLUB](https://wwh-club.io)| ONLINE | |
+|[XFORUMS](https://xforums.st) | ONLINE | |
 |[XREACTOR](https://xreactor.org)| ONLINE | |
 |[XSS (Dark)](http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion)| ONLINE | |
 |[XSS (Deep)](https://xss.is)| ONLINE | |

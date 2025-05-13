@@ -671,3 +671,12 @@
 |https://t.me/foxwmapt|ONLINE|Fox William Mulder||
 |https://t.me/RansomHunter|ONLINE|GangExposed||
 |https://t.me/vulture_001|ONLINE|Vulture|DDoS|
+|https://t.me/GarudaHacktivis|ONLINE|Garuda Hacktivis|DDoS|
+|https://t.me/+S_ajHerTbKUwYTA0|ONLINE|keymous team BackUp|DDoS|
+|https://t.me/+HmRQnsNmIpQ5ZmM0|ONLINE|keymous team Main|DDoS|
+|https://t.me/+BnYEQZsweIRlZThh|ONLINE|R3An0nymous Chat|DDoS|
+|https://t.me/R3An0nymous|ONLINE|R3An0nymous Canal|DDoS|
+|https://t.me/SSSO_Official|ONLINE|KILLNET # РЕЗЕРВ||
+|https://t.me/WeAreKillnet_Official|ONLINE|WE ARE KILLNET +||
+|https://t.me/WeAreKillnet_Channel|ONLINE|WE ARE KILLNET||
+|https://t.me/KillMillk|ONLINE|KillMilk||

@@ -362,7 +362,7 @@
 |https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nohidespace|OFFLINE| Combo List ||
 |https://t.me/NNM05716_en_vers|ONLINE|NoName057(16) Eng|DDoS|
-|https://t.me/+Qdw2LQQQSZZhODli|ONLINE|NoName057(16) Rus|DDoS|
+|https://t.me/+Qdw2LQQQSZZhODli|VALID|NoName057(16) Rus|DDoS|
 |https://t.me/NNM05716_it_ver|ONLINE|NoName057(16) ITA|DDoS|
 |https://t.me/NNM05716_Es_ver|ONLINE|NoName057(16) Spain|DDoS|
 |https://t.me/NNM05716_fr_vers|ONLINE|NoName057(16) France|DDoS|
@@ -672,9 +672,9 @@
 |https://t.me/RansomHunter|ONLINE|GangExposed||
 |https://t.me/vulture_001|ONLINE|Vulture|DDoS|
 |https://t.me/GarudaHacktivis|ONLINE|Garuda Hacktivis|DDoS|
-|https://t.me/+S_ajHerTbKUwYTA0|ONLINE|keymous team BackUp|DDoS|
-|https://t.me/+HmRQnsNmIpQ5ZmM0|ONLINE|keymous team Main|DDoS|
-|https://t.me/+BnYEQZsweIRlZThh|ONLINE|R3An0nymous Chat|DDoS|
+|https://t.me/+S_ajHerTbKUwYTA0|VALID|keymous team BackUp|DDoS|
+|https://t.me/+HmRQnsNmIpQ5ZmM0|VALID|keymous team Main|DDoS|
+|https://t.me/+BnYEQZsweIRlZThh|EXPIRED|R3An0nymous Chat|DDoS|
 |https://t.me/R3An0nymous|ONLINE|R3An0nymous Canal|DDoS|
 |https://t.me/SSSO_Official|ONLINE|KILLNET # РЕЗЕРВ||
 |https://t.me/WeAreKillnet_Official|ONLINE|WE ARE KILLNET +||

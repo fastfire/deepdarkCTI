@@ -680,3 +680,4 @@
 |https://t.me/WeAreKillnet_Official|ONLINE|WE ARE KILLNET +||
 |https://t.me/WeAreKillnet_Channel|ONLINE|WE ARE KILLNET||
 |https://t.me/KillMillk|ONLINE|KillMilk||
+|https://t.me/baseleeak|ONLINE|BaseLeak|Data Breach|

@@ -294,7 +294,7 @@
 |https://t.me/Leak_23andme|ONLINE|23andme Leak Database||
 |https://t.me/leakbaseforum|OFFLINE|LeakBaseForum||
 |https://t.me/leakbase_official|OFFLINE|LeakBase Official||
-|https://t.me/leakdataprivate|ONLINE| Data Leaks ||
+|https://t.me/leakdataprivate|OFFLINE| Data Leaks ||
 |https://t.me/leak_db1|ONLINE|d3ltaboys group 1 (DB Leaks) - Backup||
 |https://t.me/leak_db2|ONLINE|d3ltaboys group 2 (DB Leaks)||
 |https://t.me/leak_db3|ONLINE|d3ltaboys group 3 (DB Leaks) - Backup||

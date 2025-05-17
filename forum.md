@@ -162,6 +162,7 @@ https://0x00sec.org/)|OFFLINE|
 |[MIPPED](https://mipped.com)| ONLINE | |
 |[MMGP](https://mmgp.com)| ONLINE | |
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
+|[Medusa Blog](http://s7lmmhlt3iwnwirxvgjidl6omcblvw2rg75txjfduy73kx5brlmiulad.onion/)|ONLINE|Ransomware leak site (data leak blog)|
 |[NEFARIUM](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
 |[NEXTGEN FORUMS](https://NextGenForums.cc)| ONLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |

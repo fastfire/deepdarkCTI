@@ -49,7 +49,7 @@
 |https://t.me/BEARITARMY|OFFLINE| BEAR IT ARMY ||
 |https://t.me/BEARITARMY|ONLINE|BearITArmy||
 |https://t.me/BEARSPAW_RESERVS|OFFLINE|BearSpaw (now they are Digital Revolt)||
-|https://t.me/best_cracking_soft|ONLINE|Illicit Service||
+|https://t.me/best_cracking_soft|OFFLINE|Illicit Service||
 |https://t.me/bidencashfreecvv|ONLINE|BidenCash CVV [ANTIPUBLIC]||
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang ||
 |https://t.me/Bl4ck_Room|ONLINE| Checkers, Hacking Tools ||
@@ -631,7 +631,7 @@
 |https://t.me/Sector08/|OFFLINE|SECT0R16|Lamer|
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/CrazyHuntersTeam|ONLINE|Crazy Hunters Team|Ransomware gang|
-|https://t.me/ircodebreakers|ONLINE|Codebreakers|Data Breach|
+|https://t.me/ircodebreakers|OFFLINE|Codebreakers|Data Breach|
 |https://t.me/+omV3BhrY85YxMzI0|VALID|rdp cracking|RDP accesses|
 |https://t.me/agencyInt|ONLINE|AgencyInt Marketplace|Data Breach|
 |https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|
@@ -668,7 +668,7 @@
 |https://t.me/NekoOsintUpdates|ONLINE|NoSINT - Updates||
 |https://t.me/postexploitation|ONLINE|Osint Lovers||
 |https://t.me/BreachforumsOfficialV1|ONLINE|Breachforums Official V1||
-|https://t.me/foxwmapt|ONLINE|Fox William Mulder||
+|https://t.me/foxwmapt|OFFLINE|Fox William Mulder||
 |https://t.me/RansomHunter|ONLINE|GangExposed||
 |https://t.me/vulture_001|ONLINE|Vulture|DDoS|
 |https://t.me/GarudaHacktivis|ONLINE|Garuda Hacktivis|DDoS|

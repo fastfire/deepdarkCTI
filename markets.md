@@ -14,6 +14,7 @@
 |[AUTHORIZE CVV](https://authorizecvv.io)| ONLINE | |
 |[AUTHORIZE CVV](https://authorizecvv.cc)| ONLINE | |
 |[Abacus](http://abacusall6l52n5gp357vpv4yjjvh6ewg65pjbfvacyqcldux66btlqd.onion)| ONLINE | |
+|[Anonymous Marketplace – Carded eletronics, hacked](http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion/)| ONLINE | |
 |[BIDEN CASH (Dark Tor)](http://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| ONLINE | |
 |[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| ONLINE | |

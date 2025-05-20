@@ -667,7 +667,7 @@
 |https://t.me/FileInclusion|ONLINE|Osint Lovers||
 |https://t.me/NekoOsintUpdates|ONLINE|NoSINT - Updates||
 |https://t.me/postexploitation|ONLINE|Osint Lovers||
-|https://t.me/BreachforumsOfficialV1|ONLINE|Breachforums Official V1||
+|https://t.me/BreachforumsOfficialV1|OFFLINE|Breachforums Official V1||
 |https://t.me/foxwmapt|OFFLINE|Fox William Mulder||
 |https://t.me/RansomHunter|ONLINE|GangExposed||
 |https://t.me/vulture_001|ONLINE|Vulture|DDoS|

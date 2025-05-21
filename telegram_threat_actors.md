@@ -683,3 +683,4 @@
 |https://t.me/SumatraUtaraCyberTeam|ONLINE|SumatraUtara|DDoS|
 |https://t.me/KillMillk|ONLINE|KillMilk||
 |https://t.me/baseleeak|ONLINE|BaseLeak|Data Breach|
+|https://t.me/+uEqGqAnqdwQ5ZDg1|ONLINE|Agencyint|Data Breach|

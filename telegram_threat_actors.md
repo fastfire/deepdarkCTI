@@ -606,7 +606,8 @@
 |https://t.me/blackopmrhamza|OFFLINE|Mr Hamxa|DDoS|
 |https://t.me/TeamARXU|OFFLINE|Team Arxu|DDoS & Data Breach|
 |https://t.me/+QeVsxdEnla80NzY1|EXPIRED|DXPLOIT|Defacement|
-|https://t.me/blackopmrhamza2|OFFLINE|Mr Hamza||
+|https://t.me/blackopmrhamza2|OFFLINE|Mr Hamza|DDOS|
+|https://t.me/mrhamzaofficiel|ONLINE|Mr Hamza|DDOS|
 |https://t.me/alixsecenglish|ONLINE|Alixsec|DDoS|
 |https://t.me/AnonSecItaChat|OFFLINE|Anonymous Italia Chat||
 |http://t.me/AnonSecITA|OFFLINE|Anonymous Italia Channel|
@@ -642,7 +643,7 @@
 |https://t.me/diplomatet|ONLINE|Diplomat|DDoS|
 |https://t.me/DIeNlt|ONLINE|DieNet|DDoS|
 |https://t.me/qayzerowns|OFFLINE|Al Ahad|DDoS|
-|https://t.me/KeymousTeam|ONLINE|keymous+|DDoS|
+|https://t.me/KeymousTeam|OFFLINE|keymous+|DDoS|
 |https://t.me/+wP33Q9NXAURlMzNk|ONLINE|AnonSec|DDoS|
 |https://t.me/TeamAnonSec|ONLINE|AnonSec|DDoS|
 |https://t.me/breachforumsirc|ONLINE|BreachForums|administrated by Hasan, who wants to restore the forum|

@@ -675,7 +675,7 @@
 |https://t.me/+S_ajHerTbKUwYTA0|VALID|keymous team BackUp|DDoS|
 |https://t.me/+HmRQnsNmIpQ5ZmM0|VALID|keymous team Main|DDoS|
 |https://t.me/+BnYEQZsweIRlZThh|EXPIRED|R3An0nymous Chat|DDoS|
-|https://t.me/R3An0nymous|ONLINE|R3An0nymous Canal|DDoS|
+|https://t.me/R3An0nymous|OFFLINE|R3An0nymous Canal|DDoS|
 |https://t.me/SSSO_Official|ONLINE|KILLNET # РЕЗЕРВ||
 |https://t.me/WeAreKillnet_Official|ONLINE|WE ARE KILLNET +||
 |https://t.me/WeAreKillnet_Channel|ONLINE|WE ARE KILLNET||

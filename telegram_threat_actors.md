@@ -659,7 +659,8 @@
 |https://t.me/+EIcRadoe2JMzNDdk|EXPIRED|AnonPioneers|DDoS|
 |https://t.me/AnonPioneers|ONLINE|AnonPioneers|DDoS|
 |https://t.me/inteid|ONLINE|Inteid|DDoS|
-|https://t.me/+ceva_DohRgphMmUy|VALID|Inteid|DDoS|
+|https://t.me/+ceva_DohRgphMmUy|EXPIRED|Inteid|DDoS|
+|https://t.me/+GeILA8S0Bk4wYmRi|VALID|Inteid|DDoS|
 |https://t.me/kedirisecteam|ONLINE|KEDIRISECTEAM|DDoS|
 |https://t.me/ArabGhostHackers|OFFLINE|ArabGhost|DDoS|
 |https://t.me/arabghostschat|ONLINE|ArabGhost||

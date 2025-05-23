@@ -187,7 +187,6 @@
 |https://t.me/friendastrokal|OFFLINE| Combo List||
 |https://t.me/fuckeddb|OFFLINE| ||
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID| Goblin's Hub (private) | |
-|https://t.me/garudasec4|OFFLINE|Garuda Security||
 |https://t.me/GhostSecc|OFFLINE| Data Leaks & Hacktivism group ||
 |https://t.me/GhostSecS|ONLINE|GhostSec Service|Ransomware, Exfiltration|
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED| voidy - database storage||
@@ -673,7 +672,9 @@
 |https://t.me/foxwmapt|OFFLINE|Fox William Mulder||
 |https://t.me/RansomHunter|ONLINE|GangExposed||
 |https://t.me/vulture_001|ONLINE|Vulture|DDoS|
+|https://t.me/garudasec4|OFFLINE|Garuda Security||
 |https://t.me/GarudaHacktivis|ONLINE|Garuda Hacktivis|DDoS|
+|https://t.me/+xQ7QAiDH5NMwZGY9|VALID|Garuda Hacktivis|DDoS|
 |https://t.me/+S_ajHerTbKUwYTA0|VALID|keymous team BackUp|DDoS|
 |https://t.me/+HmRQnsNmIpQ5ZmM0|VALID|keymous team Main|DDoS|
 |https://t.me/+BnYEQZsweIRlZThh|EXPIRED|R3An0nymous Chat|DDoS|

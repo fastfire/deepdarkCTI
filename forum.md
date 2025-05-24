@@ -43,6 +43,7 @@ https://0x00sec.org/)|OFFLINE|
 |[BREACH FORUMS](https://breachforums.st)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.sx)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.vc/) | OFFLINE | |
+|[BREACH FORUMS](https://breachforums.ws/) | ONLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |

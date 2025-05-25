@@ -113,3 +113,5 @@
 |https://t.me/MagicCloudLogs|ONLINE|Magic Cloud|
 |https://t.me/chatcloudcasper|ONLINE|Casper Cloud|
 |https://t.me/universecloudtxt|ONLINE|Universe Cloud|
+|https://t.me/infocloudurl|ONLINE|INFO CLOUD|
+|https://t.me/+mBXM5tDc1II2YmU0|ONLINE|Darkside Reborn|

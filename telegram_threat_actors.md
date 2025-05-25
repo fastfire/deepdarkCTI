@@ -26,7 +26,6 @@
 |https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
 |https://t.me/+f6HgnXuFRiIxMzhk|VALID|Pro Team Channel|combos|
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED|Data Leaks||
-|https://t.me/+fsuxaCDs36owYTM6||
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID|Goblin's Hub (private)||
 |https://t.me/+GA-V8dMoaRUxNWVl|EXPIRED|Rabbit Cyber Team|DDos|
 |https://t.me/+GeILA8S0Bk4wYmRi|VALID|Inteid|DDoS|
@@ -154,7 +153,7 @@
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive||
 |https://t.me/blackforumsbf|OFFLINE|Blackforum||
 |https://t.me/blackopmrhamza2|OFFLINE|Mr Hamza|DDOS|
-|https://t.me/blackopmrhamza|OFFLINE|Mr Hamxa|DDoS|
+|https://t.me/blackopmrhamza|OFFLINE|Mr Hamza|DDoS|
 |https://t.me/blackshadowhackers|OFFLINE|Blackshadow Hackers||
 |https://t.me/blackvaultcc|ONLINE|Blackvault||
 |https://t.me/Blank_Link|OFFLINE||
@@ -676,3 +675,7 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
+|https://t.me/DIeNlt|ONLINE|DieNet||
+|https://t.me/CyberforceTn|ONLINE|Tunisian Maskers Cyber Force||
+|https://t.me/Mhwear98|ONLINE|Cyber ​​Islamic resistance||
+|https://t.me/RabbitCyberTeam|ONLINE|RABBIT CYBER TEAM (فريق الأرنب السيبراني)||

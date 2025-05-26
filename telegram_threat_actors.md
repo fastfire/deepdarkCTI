@@ -676,3 +676,5 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
+|https://t.me/darkforumsofficial|ONLINE|DarkForums||
+|https://t.me/dforumscdn|ONLINE|DarkForums Threads Updates||

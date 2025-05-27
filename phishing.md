@@ -18,3 +18,4 @@
 |[urlscan.io](https://urlscan.io)| ONLINE | |
 |[urlDNA.io](https://urldna.io/)| ONLINE | |
 |[StalkPhish.io](https://www.stalkphish.io/)| ONLINE | |
+|[DomainHunter](https://domainhunter.pro/)| ONLINE | |

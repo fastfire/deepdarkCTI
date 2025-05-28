@@ -225,7 +225,7 @@
 |https://t.me/cybercourt_io|ONLINE|CyberCourt Group (pro Palestine) - https://cybercourt.io|Data Leak|
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
 |https://t.me/CyberToufanBackup|ONLINE|CyberToufan|Data Leaks||
-|https://t.me/CyberToufan|ONLINE|CyberToufan|Data Leaks|
+|https://t.me/CyberToufan|OFFLINE|CyberToufan|Data Leaks|
 |https://t.me/CyberVolk_K|OFFLINE|CyberVolk|dataleak|
 |https://t.me/CyperBattle|ONLINE|Cyber Battle|DDoS|
 |https://t.me/D1rkSec|ONLINE|D1rkSec|Leaks & Breaches|
@@ -316,7 +316,7 @@
 |https://t.me/friendastrokal|OFFLINE|Combo List||
 |https://t.me/fuckeddb|OFFLINE|||
 |https://t.me/funclubnoname05716|OFFLINE|NoName057(16)🇷🇺 - april 2025|DDoS|
-|https://t.me/GarudaHacktivis|ONLINE|Garuda Hacktivis|DDoS|
+|https://t.me/GarudaHacktivis|OFFLINE|Garuda Hacktivis|DDoS|
 |https://t.me/garudasec4|OFFLINE|Garuda Security||
 |https://t.me/GGBestCombo|OFFLINE|GGBestCombo|combos|
 |https://t.me/GhostSecc|OFFLINE|Data Leaks & Hacktivism group||

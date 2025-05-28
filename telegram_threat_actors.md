@@ -601,7 +601,7 @@
 |https://t.me/StormFreeConfig|OFFLINE|Configs, Combos||
 |https://t.me/StressedForums|OFFLINE|Stressed Forum|Forum|
 |https://t.me/sultengblackhat|ONLINE|INDONESIAN CYBER OF SULAWESI TENGAH BLACKHAT|Leaks & Breaches|
-|https://t.me/SumatraUtaraCyberTeam|ONLINE|SumatraUtara|DDoS|
+|https://t.me/SumatraUtaraCyberTeam|OFFLINE|SumatraUtara|DDoS|
 |https://t.me/SylhetGangSgOfficial|OFFLINE|Sylhet Gang-SG||
 |https://t.me/sysadminbd|OFFLINE|Sysadmin||
 |https://t.me/t_darknet|ONLINE|Illicit Service||

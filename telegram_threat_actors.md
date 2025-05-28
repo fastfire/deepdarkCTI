@@ -681,3 +681,6 @@
 |https://t.me/privetOTof223|ONLINE|Overflame|DDoS|
 |https://t.me/SECTOR16S16|ONLINE|SECTOR16(S16)|DDoS & Data Breach|
 |https://t.me/+pckgbwYRGYBlNjgy|ONLINE|Z-Pentest||
+|https://t.me/AnonymousJordan|ONLINE|Anonymous Jordan||
+|https://t.me/M0roccan_Black_CyberArmy|ONLINE|Moroccan Black Cyber Army|DDoS & Data Breach|
+|https://t.me/PhantomAtlasOfficial|ONLINE|Phantom Atlas|DDoS & Data Breach|

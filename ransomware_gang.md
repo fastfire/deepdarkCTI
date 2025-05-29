@@ -405,6 +405,8 @@
 |[RANSOM HOUSE](http://zubllg7o774lgc4rdxmfcfpjewfkqa7ml7gxwl5fetogc7hbkvaprhid.onion)|OFFLINE||||
 |[RANSOM HUB](http://ijbw7iiyodqzpg6ooewbgn6mv2pinoer3k5pzdecoejsw5nyoe73zvad.onion/blog)|ONLINE||||
 |[RANSOM HUB](http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion)|ONLINE||||
+|[RANSOM HUB](http://ijbw7iiyodqzpg6ooewbgn6mv2pinoer3k5pzdecoejsw5nyoe73zvad.onion)|ONLINE||||
+|[RANSOM HUB Victims](http://rnc6scfbqslz5aqxfg5hrjel5qomxsclltc6jvhahi6qwt7op5qc7iad.onion/login)|ONLINE||||
 |[RANSOM HUB Archives](http://fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion/)|ONLINE||||
 |[RANSOM HUB Archives](http://ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion/)|OFFLINE||||
 |[RANSOMED (Dark Web)](http://k63fo4qmdnl4cbt54sso3g6s5ycw7gf7i6nvxl3wcf3u6la2mlawt5qd.onion)|OFFLINE||https://twitter.com/RansomedVC||

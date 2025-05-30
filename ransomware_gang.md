@@ -306,7 +306,7 @@
 |[Mamona RANSOMWARE (Victims page)](http://bdhjur3agrogoxvwobbzpptkxhyewnjrhzqj4ug2dyfhf3dopyvvurid.onion)|ONLINE||||
 |[MALAS](http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion)|ONLINE||||
 |[MALEKTEAM](https://malekteam.ac)|ONLINE||https://twitter.com/malekteam2||
-|[MALLOX](http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion)|ONLINE||||
+|[MALLOX](http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion)|ONLINE||mallox.resurrection@onionmail.org||
 |[MARKETO (Deep)](https://marketo.cloud)|OFFLINE||||
 |[MARKETO (Tor v2)](http://g5sbltooh2okkcb2.onion)|OFFLINE||||
 |[MARKETO (Tor v3)](http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion)|OFFLINE||||

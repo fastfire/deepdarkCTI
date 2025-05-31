@@ -158,6 +158,7 @@ https://0x00sec.org/)|OFFLINE|
 |[LOLZ](https://lolz.guru)| ONLINE | |
 |[LOWENDTALK](http://lowendtalk.com)| ONLINE | |
 |[MAILPASS](https://mailpass.club)| OFFLINE | |
+|[MasterBin](http://rfetmd5tcg2frv5tx6v3sdbuhkfhafad67d5gutzghmgzpmwpjeihlqd.onion) ONLINE | |
 |[MASTODON](https://masthead.social/auth/sign_in)| ONLINE | |
 |[MEGATOP](https://megatop.biz)| ONLINE | |
 |[MIPPED](https://mipped.com)| ONLINE | |

@@ -248,6 +248,7 @@ https://0x00sec.org/)|OFFLINE|
 |[V-H.GURU](https://v-h.guru)| ONLINE | |
 |[VLMI](https://vlmi.ws)| ONLINE | |
 |[VSEMMONEY](https://vsemmoney.com)| ONLINE | |
+|[WorldLeaks](https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion)| ONLINE | |
 |[WWHCLUB](https://wwh-club.io)| ONLINE | |
 |[XFORUMS](https://xforums.st) | ONLINE | |
 |[XREACTOR](https://xreactor.org)| ONLINE | |

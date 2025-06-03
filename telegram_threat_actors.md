@@ -36,7 +36,7 @@
 |https://t.me/+HmRQnsNmIpQ5ZmM0|VALID|keymous team Main|DDoS|
 |https://t.me/+ipEzVrjM43NkODc0|VALID|AKATSUKI gang (Algerian Ministry breach)||
 |https://t.me/+IYBPSRVwk6k4ZTEy|EXPIRED|Atlantis Cyber Army A.I.G.||
-|https://t.me/+IZuCvuRdXtI0YmEx|VALID|WeAreRootSec|DDoS|
+|https://t.me/+IZuCvuRdXtI0YmEx|EXPIRED|WeAreRootSec|DDoS|
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID|The Collective Sentinel||
 |https://t.me/+JGt0zzKlbalhMjgx|EXPIRED|PALACHPRO|DDos|
 |https://t.me/+JMruw9EHhWtmYjc9|EXPIRED|BlackDragonSec||
@@ -52,7 +52,7 @@
 |https://t.me/+NcyNWGFil7plYzNi|VALID|x0x0ba$e|Data Leaks|
 |https://t.me/+NO_mK4lapd0yY2Vk|EXPIRED|NoName057 EN|DDoS|
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
-|https://t.me/+omV3BhrY85YxMzI0|VALID|rdp cracking|RDP accesses|
+|https://t.me/+omV3BhrY85YxMzI0|EXPIRED|rdp cracking|RDP accesses|
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED|Adrastea Group||
 |https://t.me/+PWwfZJHwNYNjM2E1|EXPIRED|Rabbit Cyber Team||
 |https://t.me/+Qdw2LQQQSZZhODli|VALID|NoName057(16) Rus|DDoS|
@@ -679,7 +679,7 @@
 |https://t.me/darkforumsofficial|ONLINE|DarkForums||
 |https://t.me/dforumscdn|ONLINE|DarkForums Threads Updates||
 |https://t.me/privetOTof223|ONLINE|Overflame|DDoS|
-|https://t.me/SECTOR16S16|ONLINE|SECTOR16(S16)|DDoS & Data Breach|
+|https://t.me/SECTOR16S16|OFFLINE|SECTOR16(S16)|DDoS & Data Breach|
 |https://t.me/+pckgbwYRGYBlNjgy|ONLINE|Z-Pentest||
 |https://t.me/AnonymousJordan|ONLINE|Anonymous Jordan||
 |https://t.me/M0roccan_Black_CyberArmy|ONLINE|Moroccan Black Cyber Army|DDoS & Data Breach|

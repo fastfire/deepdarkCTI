@@ -49,7 +49,7 @@
 |https://t.me/+m_kc0NgPigFjMTcy|EXPIRED|NoName057(16) Italy🇮🇹 - april 2025|DDoS|
 |https://t.me/+mk06m8H4kWk5NWM8|EXPIRED|Z-PENTEST Alliance|DDoS & Data Breach|
 |https://t.me/+nCFeH8PT-XUxZjEy|EXPIRED|Data Leaks||
-|https://t.me/+NcyNWGFil7plYzNi|VALID|x0x0ba$e|Data Leaks|
+|https://t.me/+NcyNWGFil7plYzNi|EXPIRED|x0x0ba$e|Data Leaks|
 |https://t.me/+NO_mK4lapd0yY2Vk|EXPIRED|NoName057 EN|DDoS|
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
 |https://t.me/+omV3BhrY85YxMzI0|EXPIRED|rdp cracking|RDP accesses|

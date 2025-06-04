@@ -42,6 +42,8 @@ https://0x00sec.org/)|OFFLINE|
 |[BREACH FORUMS](https://breachforums.cx)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.st)| OFFLINE | |
+|[BREACH-FORUMS](http://breach-forums.st)| ONLINE | |
+|[BREACH-FORUMS Darknet](http://zm57fetqi6c7t4grm3sfehdpujz7acavi4y7ubye3pugenyhktzxjqqd.onion)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.sx)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.vc/) | OFFLINE | |

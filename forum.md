@@ -114,6 +114,7 @@ https://0x00sec.org/)|OFFLINE|
 |[EVILARMY](https://evilarmy.in)| ONLINE | |
 |[EVILZONE](https://evil-zone.org)| ONLINE | |
 |[evilx](https://evilx.su/forum/)| ONLINE | |
+|[EXODUS](https://forum.exodusmarket.io)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
 |[EXPLOITS.WS](https://exploits.ws)| ONLINE | |

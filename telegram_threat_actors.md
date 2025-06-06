@@ -686,3 +686,4 @@
 |https://t.me/M0roccan_Black_CyberArmy|ONLINE|Moroccan Black Cyber Army|DDoS & Data Breach|
 |https://t.me/PhantomAtlasOfficial|ONLINE|Phantom Atlas|DDoS & Data Breach|
 |https://t.me/+jxENEiay2SRlYmQ8|ONLINE|Red Wolf Cyber|DDoS|
+|https://t.me/RalfHackerChannel|ONLINE|Ralf Hacker Channel||

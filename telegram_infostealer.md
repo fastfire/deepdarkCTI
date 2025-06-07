@@ -116,3 +116,4 @@
 |https://t.me/infocloudurl|ONLINE|INFO CLOUD|
 |https://t.me/+mBXM5tDc1II2YmU0|ONLINE|Darkside Reborn|
 |https://t.me/lOGSMARKET_PRIVATEDATA77|ONLINE|LOGS MARKET|
+|https://t.me/+V-oTBDqBJSRkYTU0|ONLINE|LOGS|

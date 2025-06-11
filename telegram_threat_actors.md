@@ -57,6 +57,7 @@
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED|Adrastea Group||
 |https://t.me/+pckgbwYRGYBlNjgy|EXPIRED|Z-Pentest||
 |https://t.me/+PWwfZJHwNYNjM2E1|EXPIRED|Rabbit Cyber Team||
+|https://t.me/+NZL_dgN7CsQ1OWEy|ONLINE|NoName057(16) Rus|DDoS|
 |https://t.me/+Qdw2LQQQSZZhODli|EXPIRED|NoName057(16) Rus|DDoS|
 |https://t.me/+QeVsxdEnla80NzY1|EXPIRED|DXPLOIT|Defacement|
 |https://t.me/+R1GELDqXo1dhMmYx|EXPIRED|Ziburate|Data Leak|
@@ -516,6 +517,7 @@
 |https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
 |https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/NNM05716_en_vers|OFFLINE|NoName057(16) Eng|DDoS|
+|https://t.co/eUNvL6JoxI|ONLINE|NoName057(16) Eng|DDoS|
 |https://t.me/NNM05716_En_ver|OFFLINE|NoName057(16) Eng_vers🌎 - april 2025|DDoS|
 |https://t.me/NNM05716_Es_ver|OFFLINE|NoName057(16) Spain|DDoS|
 |https://t.me/NNM05716_fr_vers|OFFLINE|NoName057(16) France|DDoS|

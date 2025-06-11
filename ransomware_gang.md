@@ -473,6 +473,7 @@
 |[SynACK (El_Cometa)](http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion)|OFFLINE||||
 |[TEAM UNDERGROUND (Victims page)](http://undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd[.]onion/auth/login)|ONLINE||https://t.me/UndergroundDataLeaks||
 |[TEAM UNDERGROUND](http://47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion)|ONLINE||||
+|[TEAM XXX](http://tp5cwh6d2b5hekcg6jlhoe6mawa7dlwiv47epvnfmzuaaur2dnaa3uid.onion)|ONLINE||||
 |[TERMITE](http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion)|ONLINE||||
 |[ThreatLabz ](http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion)|ONLINE||||
 |[TRIGONA](http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion)|OFFLINE||||

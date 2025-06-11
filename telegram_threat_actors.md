@@ -1,6 +1,7 @@
 |Telegram|Status|Threat Actor Name|Type of attacks|
 |------|------|------|------|
 |https://t.me/+02lgyxsgsyAwYmY0|EXPIRED|Ddarknot||
+|https://t.me/+2Rok4x62dzg1NjI6|VALID|NoName057(16) Eng version|DDoS|
 |https://t.me/+4CffqtOZoZwxMTcx|VALID|Handala|Ransomware gang|
 |https://t.me/+63wu1QC3KM04ZTJi|ONLINE|Cyber Cossacks||
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED|RED HACKERS ALLIANCE||
@@ -16,7 +17,7 @@
 |https://t.me/+B3LXsqUjJcs4ZGI0|EXPIRED|NoName057(16) France🇫🇷 - april 2025|DDoS|
 |https://t.me/+Bat9QqJcSuE0MTg1|VALID|AresLoader||
 |https://t.me/+BnYEQZsweIRlZThh|EXPIRED|R3An0nymous Chat|DDoS|
-|https://t.me/+ceva_DohRgphMmUy|EXPIRED|Inteid|DDoS|
+|https://t.me/+ceva_DohRgphMmUy|VALID|Inteid|DDoS|
 |https://t.me/+D6JQaDHEzgNiZTEy|EXPIRED|NoName057(16) Spain🇪🇦 - april 2025|DDoS|
 |https://t.me/+DLb_tfrPeE4wNDM8|EXPIRED|Biskooit Pedar||
 |https://t.me/+DZRa-yXaHZ81MmNk|EXPIRED|Handala Hack|Leaks & Breaches|
@@ -523,6 +524,7 @@
 |https://t.me/NNM05716_fr_vers|OFFLINE|NoName057(16) France|DDoS|
 |https://t.me/NNM05716_it_ver|OFFLINE|NoName057(16) ITA|DDoS|
 |https://t.me/nohidespace|OFFLINE|Combo List||
+|https://t.me/NoName05716_16|ONLINE|NoName057(16) Eng_vers|DDoS|
 |https://t.me/NullLeak|OFFLINE|Data Leaks||
 |https://t.me/O1chat|OFFLINE|Market||
 |https://t.me/OBSERVERCLOUDCOMBO|OFFLINE|Combo List||
@@ -689,4 +691,3 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
-|https://t.me/+2Rok4x62dzg1NjI6|ONLINE|NoName057(16) Eng version|DDoS|

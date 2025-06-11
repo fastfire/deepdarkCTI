@@ -40,6 +40,7 @@
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID|The Collective Sentinel||
 |https://t.me/+JGt0zzKlbalhMjgx|EXPIRED|PALACHPRO|DDos|
 |https://t.me/+JMruw9EHhWtmYjc9|EXPIRED|BlackDragonSec||
+|https://t.me/+jxENEiay2SRlYmQ8|VALID|Red Wolf Cyber|DDoS|
 |https://t.me/+k56KDQRn8FplN2Qy|EXPIRED|PHOENIX||
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|
 |https://t.me/+l2fmYlvJnTA2MTc0|VALID|Bucket Leaks|Data Leaks|
@@ -54,9 +55,10 @@
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
 |https://t.me/+omV3BhrY85YxMzI0|EXPIRED|rdp cracking|RDP accesses|
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED|Adrastea Group||
+|https://t.me/+pckgbwYRGYBlNjgy|EXPIRED|Z-Pentest||
 |https://t.me/+PWwfZJHwNYNjM2E1|EXPIRED|Rabbit Cyber Team||
-|https://t.me/+Qdw2LQQQSZZhODli|OFFLINE|NoName057(16) Rus|DDoS|
 |https://t.me/+NZL_dgN7CsQ1OWEy|ONLINE|NoName057(16) Rus|DDoS|
+|https://t.me/+Qdw2LQQQSZZhODli|EXPIRED|NoName057(16) Rus|DDoS|
 |https://t.me/+QeVsxdEnla80NzY1|EXPIRED|DXPLOIT|Defacement|
 |https://t.me/+R1GELDqXo1dhMmYx|EXPIRED|Ziburate|Data Leak|
 |https://t.me/+rlyGuPTMGuU5YjE6|EXPIRED|DDoSia Project|DDoS|
@@ -116,6 +118,7 @@
 |https://t.me/anonymous_south_africa|ONLINE|Anonymous South Africa|Data Leak|
 |https://t.me/Anonymous_VNLBN|ONLINE|Electronic_Army_Special_Forces|DDoS|
 |https://t.me/AnonymousEgypt|OFFLINE|Anonymous Egypt|Data Leak|
+|https://t.me/AnonymousJordan|ONLINE|Anonymous Jordan||
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/antiextchatt|ONLINE|AE Chat||
 |https://t.me/AntiPlumbers|ONLINE||
@@ -225,7 +228,7 @@
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel||
 |https://t.me/cybercourt_io|ONLINE|CyberCourt Group (pro Palestine) - https://cybercourt.io|Data Leak|
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
-|https://t.me/CyberToufanBackup|ONLINE|CyberToufan|Data Leaks||
+|https://t.me/CyberToufanBackup|OFFLINE|CyberToufan|Data Leaks||
 |https://t.me/CyberToufan|OFFLINE|CyberToufan|Data Leaks|
 |https://t.me/CyberVolk_K|OFFLINE|CyberVolk|dataleak|
 |https://t.me/CyperBattle|ONLINE|Cyber Battle|DDoS|
@@ -243,6 +246,7 @@
 |https://t.me/DarkfeedNews|ONLINE|News||
 |https://t.me/DarkForumsME|OFFLINE|Dark Forums|Cyber crime forum|
 |https://t.me/DarkForums|ONLINE|Dark Forums||
+|https://t.me/darkforumsofficial|ONLINE|DarkForums||
 |https://t.me/darknet_br|OFFLINE|||
 |https://t.me/DarknetNewsEng|OFFLINE|Darknet News(English Version)||
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
@@ -273,6 +277,7 @@
 |https://t.me/ddossatmak|ONLINE|DDoS Services|DDoS|
 |https://t.me/ddostm1|ONLINE|BlackObServers Channel (ddos team)|DDoS|
 |https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
+|https://t.me/dforumscdn|ONLINE|DarkForums Threads Updates||
 |https://t.me/DIeNlt|ONLINE|DieNet|DDoS|
 |https://t.me/Digital_Revolt_hack|OFFLINE|Digital Revolt||
 |https://t.me/diplomatet|ONLINE|Diplomat|DDoS|
@@ -474,6 +479,7 @@
 |https://t.me/LummaC2Team|OFFLINE|LummaC2 Stealer Chat|Infostealer|
 |https://t.me/LummaReborn|OFFLINE|LummaC2 Stealer Channel|Infostealer|
 |https://t.me/LummaTeam_Reborn|OFFLINE|LummaC2 Stealer Chat|Infostealer|
+|https://t.me/M0roccan_Black_CyberArmy|ONLINE|Moroccan Black Cyber Army|DDoS & Data Breach|
 |https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|
 |https://t.me/MAilAccessCracker|OFFLINE|Free Data Breaches Provider||
 |https://t.me/mailaccesscrack|OFFLINE|Combo Lists||
@@ -513,9 +519,9 @@
 |https://t.me/NNM05716_en_vers|OFFLINE|NoName057(16) Eng|DDoS|
 |https://t.co/eUNvL6JoxI|ONLINE|NoName057(16) Eng|DDoS|
 |https://t.me/NNM05716_En_ver|OFFLINE|NoName057(16) Eng_vers🌎 - april 2025|DDoS|
-|https://t.me/NNM05716_Es_ver|ONLINE|NoName057(16) Spain|DDoS|
-|https://t.me/NNM05716_fr_vers|ONLINE|NoName057(16) France|DDoS|
-|https://t.me/NNM05716_it_ver|ONLINE|NoName057(16) ITA|DDoS|
+|https://t.me/NNM05716_Es_ver|OFFLINE|NoName057(16) Spain|DDoS|
+|https://t.me/NNM05716_fr_vers|OFFLINE|NoName057(16) France|DDoS|
+|https://t.me/NNM05716_it_ver|OFFLINE|NoName057(16) ITA|DDoS|
 |https://t.me/nohidespace|OFFLINE|Combo List||
 |https://t.me/NullLeak|OFFLINE|Data Leaks||
 |https://t.me/O1chat|OFFLINE|Market||
@@ -531,6 +537,7 @@
 |https://t.me/Patriot_Black_x|OFFLINE|Patriot Black Matrix||
 |https://t.me/peass|ONLINE|||
 |https://t.me/phantom_tg|ONLINE|PHANTOM DEV||
+|https://t.me/PhantomAtlasOfficial|ONLINE|Phantom Atlas|DDoS & Data Breach|
 |https://t.me/phoenix_inform|ONLINE|PHOENIX||
 |https://t.me/phoenixinform|OFFLINE|Phoenix group||
 |https://t.me/Phorcy|ONLINE|Phorcy Stealer|Infostealer|
@@ -541,6 +548,7 @@
 |https://t.me/privatecombos|OFFLINE|Data Leaks||
 |https://t.me/PrivateCompanyPirates|ONLINE|PrivateCompanyPirates|combos|
 |https://t.me/privetOTof222|OFFLINE|OverFlame|DDoS|
+|https://t.me/privetOTof223|ONLINE|Overflame|DDoS|
 |https://t.me/procoder_base|OFFLINE|Data Leaks||
 |https://t.me/proxy_bar|ONLINE|Exploits, Hacking and Leaks||
 |https://t.me/ProxyMTProto|ONLINE|||
@@ -555,6 +563,7 @@
 |https://t.me/R3dd1sh_34_E4gl3_D4t4l34ks|OFFLINE|Ŕ€đďįşħ €ąğℓę ďάťάŁэάķş|combos|
 |https://t.me/radnetbak|ONLINE|RADNET64|DDoS|
 |https://t.me/raidsecretforums|OFFLINE|Claims to be the backup channel of RaidForums||
+|https://t.me/RalfHackerChannel|ONLINE|Ralf Hacker Channel||
 |https://t.me/ransom_house|OFFLINE|RansomHouse official channel||
 |https://t.me/ransomblackbit30|OFFLINE|Lockbit 3.0 Main.js||
 |https://t.me/RansomHunter|ONLINE|GangExposed||
@@ -574,6 +583,7 @@
 |https://t.me/sanaski|ONLINE|Configs, combos||
 |https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
 |https://t.me/Sector08/|OFFLINE|SECT0R16|Lamer|
+|https://t.me/SECTOR16S16|OFFLINE|SECTOR16(S16)|DDoS & Data Breach|
 |https://t.me/Sell_rdp1|OFFLINE|||
 |https://t.me/ServerKillers|OFFLINE|Server Killers||
 |https://t.me/shadowleakss|OFFLINE|ShadowHacker Leaks||
@@ -679,13 +689,3 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
-|https://t.me/darkforumsofficial|ONLINE|DarkForums||
-|https://t.me/dforumscdn|ONLINE|DarkForums Threads Updates||
-|https://t.me/privetOTof223|ONLINE|Overflame|DDoS|
-|https://t.me/SECTOR16S16|OFFLINE|SECTOR16(S16)|DDoS & Data Breach|
-|https://t.me/+pckgbwYRGYBlNjgy|ONLINE|Z-Pentest||
-|https://t.me/AnonymousJordan|ONLINE|Anonymous Jordan||
-|https://t.me/M0roccan_Black_CyberArmy|ONLINE|Moroccan Black Cyber Army|DDoS & Data Breach|
-|https://t.me/PhantomAtlasOfficial|ONLINE|Phantom Atlas|DDoS & Data Breach|
-|https://t.me/+jxENEiay2SRlYmQ8|ONLINE|Red Wolf Cyber|DDoS|
-|https://t.me/RalfHackerChannel|ONLINE|Ralf Hacker Channel||

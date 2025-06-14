@@ -257,6 +257,7 @@
 |https://t.me/darkstormteambackup3|OFFLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/DarkStormTeamd|OFFLINE|Dark Storm Team||
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
+|https://t.me/darkstormteam21|ONLINE|Dark Storm Team||
 |https://t.me/darkvaultransom|OFFLINE|Dark Vault ransom|Ransomware|
 |https://t.me/darkwebdarknetmarketplace|OFFLINE|Illicit Service||
 |https://t.me/darxe_base|OFFLINE|Data Leaks||
@@ -580,6 +581,7 @@
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|OFFLINE|Data Leaks||
 |https://t.me/ridgedforums|OFFLINE|BlackForums|Forum|
 |https://t.me/RipperSec|OFFLINE|RipperSec|DDoS|
+|https://t.me/RipperSecOfficial|ONLINE|RipperSec Official|DDoS|
 |https://t.me/russiagoodbuy_rgb_team|ONLINE|RGB Team (https://rgb-team.com)|Data Leak|
 |https://t.me/sanaski|ONLINE|Configs, combos||
 |https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
@@ -701,3 +703,5 @@
 |https://t.me/AnonymousVNLBN9|ONLINE|VNLBN9|DDoS|
 |https://t.me/+HG32VQZ93-4zMjE1|ONLINE|SUMATRA UTARA CYBER TEAM||
 |https://t.me/hanzzchannel|ONLINE|GALAXY NETWORK|DDoS|
+|https://t.me/+r4F7KwP1x35hYTY1|ONLINE|Jakarta Cyber Psychos|DDoS|
+|https://t.me/BangladeshAnonymous|ONLINE|BD Anonymous|DDoS|

@@ -700,4 +700,4 @@
 |https://t.me/apt404team|ONLINE|ApT 404 Team|DDoS & Data Breach|
 |https://t.me/AnonymousVNLBN9|ONLINE|VNLBN9|DDoS|
 |https://t.me/+HG32VQZ93-4zMjE1|ONLINE|SUMATRA UTARA CYBER TEAM||
-|https://t.me/hanzzchannelONLINE|GALAXY NETWORK|DDoS|
+|https://t.me/hanzzchannel|ONLINE|GALAXY NETWORK|DDoS|

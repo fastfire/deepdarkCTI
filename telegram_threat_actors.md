@@ -695,8 +695,9 @@
 |https://t.me/dienet2|ONLINE|DieNet Backup/News|DDoS & Data Breach|
 |https://t.me/+fl1bRIDYGAM2MGVl|ONLINE|GARUDA ERROR SYSTEM|DDoS|
 |https://t.me/+YN6xK_zkLXY4ZjJl|ONLINE|TEMA FEARLESS|DDoS|
-|https://t.me/+YN6xK_zkLXY4ZjJl|ONLINE|Team BD Cyber Ninja|DDoS|
+|https://t.me/ARABIAN_GHOSTS|ONLINE|ARABIAN GHOSTS|DDoS|
 |https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|
 |https://t.me/apt404team|ONLINE|ApT 404 Team|DDoS & Data Breach|
 |https://t.me/AnonymousVNLBN9|ONLINE|VNLBN9|DDoS|
 |https://t.me/+HG32VQZ93-4zMjE1|ONLINE|SUMATRA UTARA CYBER TEAM||
+|https://t.me/hanzzchannelONLINE|GALAXY NETWORK|DDoS|

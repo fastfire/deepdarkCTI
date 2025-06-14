@@ -692,3 +692,4 @@
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
 |https://t.me/islamic_hacker_army0|ONLINE|Islamic Hacker Army Channel||
 |https://t.me/islamic_Hacker_Army|ONLINE|Islamic Hacker Army Group||
+|https://t.me/dienet2|ONLINE|DieNet Backup/News|DDoS & Data Breach|

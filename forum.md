@@ -45,6 +45,8 @@ https://0x00sec.org/)|OFFLINE|
 |[BREACH FORUMS](https://breachforums.sx)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.vc/) | OFFLINE | |
+|[BREACH-FORUMS](http://breach-forums.st)| ONLINE | |
+|[BREACH-FORUMS Darknet](http://zm57fetqi6c7t4grm3sfehdpujz7acavi4y7ubye3pugenyhktzxjqqd.onion)| ONLINE |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |

@@ -705,3 +705,4 @@
 |https://t.me/hanzzchannel|ONLINE|GALAXY NETWORK|DDoS|
 |https://t.me/+r4F7KwP1x35hYTY1|ONLINE|Jakarta Cyber Psychos|DDoS|
 |https://t.me/BangladeshAnonymous|ONLINE|BD Anonymous|DDoS|
+|https://t.me/ANONMOUS_KASHMIR|ONLINE|ANONYMOUS KASHMIR||

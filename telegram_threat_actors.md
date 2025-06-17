@@ -1,5 +1,6 @@
 |Telegram|Status|Threat Actor Name|Type of attacks|
 |------|------|------|------|
+|https://t.me/+-Wb4k1nQphg3NDc6|VALID|NoName057(16)|DDoS|
 |https://t.me/+02lgyxsgsyAwYmY0|EXPIRED|Ddarknot||
 |https://t.me/+2Rok4x62dzg1NjI6|VALID|NoName057(16) Eng version|DDoS|
 |https://t.me/+4CffqtOZoZwxMTcx|VALID|Handala|Ransomware gang|
@@ -14,6 +15,7 @@
 |https://t.me/+AAAAAEedZM6cBNj764phgQ|EXPIRED|Large Hacking Group||
 |https://t.me/+AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED|||
 |https://t.me/+AAAAAFNLmVP0ZCy51tNOig|VALID|Forum||
+|https://t.me/+aC3mHL9kVhBhNzM1|VALID|Okto Dark Cyber Squad||
 |https://t.me/+B3LXsqUjJcs4ZGI0|EXPIRED|NoName057(16) France🇫🇷 - april 2025|DDoS|
 |https://t.me/+Bat9QqJcSuE0MTg1|VALID|AresLoader||
 |https://t.me/+BnYEQZsweIRlZThh|EXPIRED|R3An0nymous Chat|DDoS|
@@ -26,6 +28,8 @@
 |https://t.me/+eOtgrt4gB68wM2Qy|EXPIRED|Atlantis Cyber Army A.I.G. - backup||
 |https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
 |https://t.me/+f6HgnXuFRiIxMzhk|VALID|Pro Team Channel|combos|
+|https://t.me/+FbcbdaQ7lekzYzU1|VALID|TWO NET|DDoS|
+|https://t.me/+fl1bRIDYGAM2MGVl|EXPIRED|GARUDA ERROR SYSTEM|DDoS|
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED|Data Leaks||
 |https://t.me/+fsuxaCDs36owYTM6||
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID|Goblin's Hub (private)||
@@ -34,6 +38,7 @@
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED|voidy - database storage||
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/+GxHjaDP0bOphZjNh|EXPIRED|8BASE Chat Group||
+|https://t.me/+HG32VQZ93-4zMjE1|VALID|SUMATRA UTARA CYBER TEAM||
 |https://t.me/+HmRQnsNmIpQ5ZmM0|VALID|keymous team Main|DDoS|
 |https://t.me/+ipEzVrjM43NkODc0|VALID|AKATSUKI gang (Algerian Ministry breach)||
 |https://t.me/+IYBPSRVwk6k4ZTEy|EXPIRED|Atlantis Cyber Army A.I.G.||
@@ -53,15 +58,17 @@
 |https://t.me/+nCFeH8PT-XUxZjEy|EXPIRED|Data Leaks||
 |https://t.me/+NcyNWGFil7plYzNi|EXPIRED|x0x0ba$e|Data Leaks|
 |https://t.me/+NO_mK4lapd0yY2Vk|EXPIRED|NoName057 EN|DDoS|
+|https://t.me/+NZL_dgN7CsQ1OWEy|EXPIRED|NoName057(16) Rus|DDoS|
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
 |https://t.me/+omV3BhrY85YxMzI0|EXPIRED|rdp cracking|RDP accesses|
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED|Adrastea Group||
 |https://t.me/+pckgbwYRGYBlNjgy|EXPIRED|Z-Pentest||
 |https://t.me/+PWwfZJHwNYNjM2E1|EXPIRED|Rabbit Cyber Team||
-|https://t.me/+NZL_dgN7CsQ1OWEy|EXPIRED|NoName057(16) Rus|DDoS|
 |https://t.me/+Qdw2LQQQSZZhODli|EXPIRED|NoName057(16) Rus|DDoS|
 |https://t.me/+QeVsxdEnla80NzY1|EXPIRED|DXPLOIT|Defacement|
 |https://t.me/+R1GELDqXo1dhMmYx|EXPIRED|Ziburate|Data Leak|
+|https://t.me/+r4F7KwP1x35hYTY1|EXPIRED|Jakarta Cyber Psychos|DDoS|
+|https://t.me/+rAlKkQoUSH0yMDVi|VALID|DDoSia Project|DDoS|
 |https://t.me/+rlyGuPTMGuU5YjE6|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
 |https://t.me/+S_ajHerTbKUwYTA0|VALID|keymous team BackUp|DDoS|
@@ -87,6 +94,7 @@
 |https://t.me/+YhH_DjYUyYpmNDRi|EXPIRED|Backup @HackGit channel||
 |https://t.me/+YHUDj7dEmNE1NWQ0|EXPIRED|Data Leaks||
 |https://t.me/+ykoIXVJBirI0NzU0|EXPIRED|Leaks & Breaches||
+|https://t.me/+YN6xK_zkLXY4ZjJl|VALID|TEMA FEARLESS|DDoS|
 |https://t.me/+YR89p_rg8Oo0Y2Ux|VALID|||
 |https://t.me/+YRLqvlnUI84zNzZl|EXPIRED|BF Repo V3 Files||
 |https://t.me/+yXOcSjVjI9tjM2E0|EXPIRED|Medusa||
@@ -111,6 +119,7 @@
 |https://t.me/AnonCollective|OFFLINE|Anonymous Collective||
 |https://t.me/AnonimLegion|OFFLINE|KaliHunt/Russia||
 |https://t.me/ANONM0S_RU|OFFLINE|Anonymous Russia||
+|https://t.me/ANONMOUS_KASHMIR|ONLINE|ANONYMOUS KASHMIR||
 |https://t.me/AnonPioneers|ONLINE|AnonPioneers|DDoS|
 |https://t.me/AnonSecItaChat|OFFLINE|Anonymous Italia Chat||
 |https://t.me/AnonSecITA|OFFLINE|Anonymous Italia Channel|
@@ -121,15 +130,18 @@
 |https://t.me/AnonymousEgypt|OFFLINE|Anonymous Egypt|Data Leak|
 |https://t.me/AnonymousJordan|ONLINE|Anonymous Jordan||
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
+|https://t.me/AnonymousVNLBN9|ONLINE|VNLBN9|DDoS|
 |https://t.me/antiextchatt|ONLINE|AE Chat||
 |https://t.me/AntiPlumbers|ONLINE||
 |https://t.me/anzu_team|ONLINE|Anzu Team||
 |https://t.me/APIddosMirai|ONLINE|Killnet API DDoS Mirai|DDoS|
+|https://t.me/apt404team|ONLINE|ApT 404 Team|DDoS & Data Breach|
 |https://t.me/APTANALYSIS|OFFLINE|Exploits||
 |https://t.me/APTIRAN|ONLINE|APT Iran||
 |https://t.me/Arab_Hackers_Union|OFFLINE|Arab Hackers Union||
 |https://t.me/ArabGhostHackers|OFFLINE|ArabGhost|DDoS|
 |https://t.me/arabghostschat|ONLINE|ArabGhost||
+|https://t.me/ARABIAN_GHOSTS|ONLINE|ARABIAN GHOSTS|DDoS|
 |https://t.me/ARABIAN_GHOSTS|ONLINE|Arabian Ghosts|Defacement|
 |https://t.me/aresmainchannel|OFFLINE|Data Leaks||
 |https://t.me/Arvin_club2|OFFLINE|Data Leaks||
@@ -144,6 +156,7 @@
 |https://t.me/AzzaSec_Off|OFFLINE|AzzaSec|DDoS|
 |https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|
 |https://t.me/azzasec|OFFLINE|AzzaSec||
+|https://t.me/BangladeshAnonymous|ONLINE|BD Anonymous|DDoS|
 |https://t.me/baphchat|ONLINE|The Jacuzzi||
 |https://t.me/base_brutesu|ONLINE|Combo List|
 |https://t.me/baseleak|OFFLINE|Data Leaks||
@@ -229,6 +242,7 @@
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel||
 |https://t.me/cybercourt_io|ONLINE|CyberCourt Group (pro Palestine) - https://cybercourt.io|Data Leak|
 |https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
+|https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|
 |https://t.me/CyberToufanBackup|OFFLINE|CyberToufan|Data Leaks||
 |https://t.me/CyberToufan|OFFLINE|CyberToufan|Data Leaks|
 |https://t.me/CyberVolk_K|OFFLINE|CyberVolk|dataleak|
@@ -246,18 +260,18 @@
 |https://t.me/darkclubpw|OFFLINE|Dark Club Market||
 |https://t.me/DarkfeedNews|ONLINE|News||
 |https://t.me/DarkForumsME|OFFLINE|Dark Forums|Cyber crime forum|
-|https://t.me/DarkForums|ONLINE|Dark Forums||
 |https://t.me/darkforumsofficial|ONLINE|DarkForums||
+|https://t.me/DarkForums|ONLINE|Dark Forums||
 |https://t.me/darknet_br|OFFLINE|||
 |https://t.me/DarknetNewsEng|OFFLINE|Darknet News(English Version)||
 |https://t.me/DarkSeek_rus|OFFLINE|DarkSeek Hacking Group||
 |https://t.me/DARKST0RM1|OFFLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/Darkstormbackup2|ONLINE|Dark Storm Team|DDoS|
+|https://t.me/darkstormteam21|ONLINE|Dark Storm Team||
 |https://t.me/darkstormteambackup2|OFFLINE|Dark Storm Team|DDoS|
 |https://t.me/darkstormteambackup3|OFFLINE|Dark Storm Team Backup|DDoS|
 |https://t.me/DarkStormTeamd|OFFLINE|Dark Storm Team||
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
-|https://t.me/darkstormteam21|ONLINE|Dark Storm Team||
 |https://t.me/darkvaultransom|OFFLINE|Dark Vault ransom|Ransomware|
 |https://t.me/darkwebdarknetmarketplace|OFFLINE|Illicit Service||
 |https://t.me/darxe_base|OFFLINE|Data Leaks||
@@ -280,6 +294,7 @@
 |https://t.me/ddostm1|ONLINE|BlackObServers Channel (ddos team)|DDoS|
 |https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
 |https://t.me/dforumscdn|ONLINE|DarkForums Threads Updates||
+|https://t.me/dienet2|ONLINE|DieNet Backup/News|DDoS & Data Breach|
 |https://t.me/DIeNlt|ONLINE|DieNet|DDoS|
 |https://t.me/Digital_Revolt_hack|OFFLINE|Digital Revolt||
 |https://t.me/diplomatet|ONLINE|Diplomat|DDoS|
@@ -357,6 +372,7 @@
 |https://t.me/hadesh0p|ONLINE|||
 |https://t.me/Handala_backup|OFFLINE|Handala Backup|Leaks & Breaches|
 |https://t.me/Handala_hack|OFFLINE|Handala Hack|Leaks & Breaches|
+|https://t.me/hanzzchannel|ONLINE|GALAXY NETWORK|DDoS|
 |https://t.me/hellokittyleaks|OFFLINE|Data Leaks||
 |https://t.me/hgn01_ru|OFFLINE|Data Leaks||
 |https://t.me/hidden_links|OFFLINE|Hidden Links||
@@ -392,6 +408,8 @@
 |https://t.me/intelrepo|OFFLINE|Spectre's Intel Repository||
 |https://t.me/intelx_io|OFFLINE|intelx - infosec||
 |https://t.me/ircodebreakers|OFFLINE|Codebreakers|Data Breach|
+|https://t.me/islamic_hacker_army0|ONLINE|Islamic Hacker Army Channel||
+|https://t.me/islamic_Hacker_Army|ONLINE|Islamic Hacker Army Group||
 |https://t.me/itarmyofukraine2022|ONLINE|||
 |https://t.me/itsecalert|ONLINE|News||
 |https://t.me/jambicyberteam|OFFLINE|Jambi Cyber Team||
@@ -580,8 +598,8 @@
 |https://t.me/revolusigbanon17|OFFLINE|GB Anon 17||
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|OFFLINE|Data Leaks||
 |https://t.me/ridgedforums|OFFLINE|BlackForums|Forum|
+|https://t.me/RipperSecOfficial|OFFLINE|RipperSec Official|DDoS|
 |https://t.me/RipperSec|OFFLINE|RipperSec|DDoS|
-|https://t.me/RipperSecOfficial|ONLINE|RipperSec Official|DDoS|
 |https://t.me/russiagoodbuy_rgb_team|ONLINE|RGB Team (https://rgb-team.com)|Data Leak|
 |https://t.me/sanaski|ONLINE|Configs, combos||
 |https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
@@ -692,21 +710,3 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
-|https://t.me/islamic_hacker_army0|ONLINE|Islamic Hacker Army Channel||
-|https://t.me/islamic_Hacker_Army|ONLINE|Islamic Hacker Army Group||
-|https://t.me/dienet2|ONLINE|DieNet Backup/News|DDoS & Data Breach|
-|https://t.me/+fl1bRIDYGAM2MGVl|ONLINE|GARUDA ERROR SYSTEM|DDoS|
-|https://t.me/+YN6xK_zkLXY4ZjJl|ONLINE|TEMA FEARLESS|DDoS|
-|https://t.me/ARABIAN_GHOSTS|ONLINE|ARABIAN GHOSTS|DDoS|
-|https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|
-|https://t.me/apt404team|ONLINE|ApT 404 Team|DDoS & Data Breach|
-|https://t.me/AnonymousVNLBN9|ONLINE|VNLBN9|DDoS|
-|https://t.me/+HG32VQZ93-4zMjE1|ONLINE|SUMATRA UTARA CYBER TEAM||
-|https://t.me/hanzzchannel|ONLINE|GALAXY NETWORK|DDoS|
-|https://t.me/+r4F7KwP1x35hYTY1|ONLINE|Jakarta Cyber Psychos|DDoS|
-|https://t.me/BangladeshAnonymous|ONLINE|BD Anonymous|DDoS|
-|https://t.me/ANONMOUS_KASHMIR|ONLINE|ANONYMOUS KASHMIR||
-|https://t.me/+-Wb4k1nQphg3NDc6|ONLINE|NoName057(16)|DDoS|
-|https://t.me/+rAlKkQoUSH0yMDVi|ONLINE|DDoSia Project|DDoS|
-|https://t.me/+FbcbdaQ7lekzYzU1|ONLINE|TWO NET|DDoS|
-|https://t.me/+aC3mHL9kVhBhNzM1|ONLINE|Okto Dark Cyber Squad||

@@ -31,7 +31,7 @@
 |https://t.me/+FbcbdaQ7lekzYzU1|VALID|TWO NET|DDoS|
 |https://t.me/+fl1bRIDYGAM2MGVl|EXPIRED|GARUDA ERROR SYSTEM|DDoS|
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED|Data Leaks||
-|https://t.me/+fsuxaCDs36owYTM6||
+|https://t.me/+fsuxaCDs36owYTM6|EXPIRED|||
 |https://t.me/+FuLjnRtP3BhiZDNl|VALID|Goblin's Hub (private)||
 |https://t.me/+GA-V8dMoaRUxNWVl|EXPIRED|Rabbit Cyber Team|DDos|
 |https://t.me/+GeILA8S0Bk4wYmRi|VALID|Inteid|DDoS|
@@ -142,7 +142,6 @@
 |https://t.me/ArabGhostHackers|OFFLINE|ArabGhost|DDoS|
 |https://t.me/arabghostschat|ONLINE|ArabGhost||
 |https://t.me/ARABIAN_GHOSTS|ONLINE|ARABIAN GHOSTS|DDoS|
-|https://t.me/ARABIAN_GHOSTS|ONLINE|Arabian Ghosts|Defacement|
 |https://t.me/aresmainchannel|OFFLINE|Data Leaks||
 |https://t.me/Arvin_club2|OFFLINE|Data Leaks||
 |https://t.me/arvin_club|OFFLINE||
@@ -360,7 +359,6 @@
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
 |https://t.me/hack_0xTam|OFFLINE|0X_Team|DDoS, Defacement & Data Breach|
 |https://t.me/hack_n3t|OFFLINE|HackNeT|DDoS|
-|https://t.me/hack_n3t|ONLINE|HackNeT||
 |https://t.me/hackberegini|ONLINE|Beregini||
 |https://t.me/hacker_trick|ONLINE|Hack Tricks||
 |https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
@@ -693,8 +691,7 @@
 |https://t.me/wwhsmi|ONLINE|WWH Forum||
 |https://t.me/www_paypal|ONLINE|Pro Team Channe|combos|
 |https://t.me/x7seller|OFFLINE|X7Root Seller||
-|https://t.me/xaknet_team|ONLINE|Killnet||
-|https://t.me/xaknet_team|ONLINE|Sandworm||
+|https://t.me/xaknet_team|ONLINE|xaknet||
 |https://t.me/xAnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/xGodzillAxChat|OFFLINE|Godzilla Botnet chat||
 |https://t.me/xinject_official|ONLINE|(Dead)XInject Information Channel||

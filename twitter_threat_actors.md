@@ -13,6 +13,7 @@
 |https://x.com/DarkstormTeam1| Dark Storm | DDoS |
 |https://x.com/PsExec64| Conti | Ransomware |
 |https://x.com/reyxbf| Rey - HellCat | Ransomware |
-|https://x.com/Noname05716| NoName056 |DDoS |
+|https://x.com/Noname05716| NoName056 | DDoS |
 |https://x.com/IMN_Crew| IMN Crew | Ransomware |
-|https://x.com/holypryx| PRYX - HellCat | Ransomware|
+|https://x.com/holypryx| PRYX - HellCat | Ransomware |
+|https://x.com/GonjeshkeDarand| Gonjeshke Darande | Data BReaches |

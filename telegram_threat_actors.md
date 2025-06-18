@@ -710,3 +710,5 @@
 |https://t.me/+GeILA8S0Bk4wYmRi|ONLINE|INTEID|DDoS|
 |https://t.me/xX313XxTeam|ONLINE|313TEAM|DDoS|
 |https://t.me/+Lj3K9WgZFrxkNDY1|VALID|OBSCURION||
+|https://t.me/+aC3mHL9kVhBhNzM1|VALID|Okto Dark Cyber Squad|DDoS & Data Breach|
+|https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|

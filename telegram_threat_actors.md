@@ -720,3 +720,6 @@
 |https://t.me/HiddenEyesTeam|ONLINE|HiddenEyesTeam||
 |https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error System||
 |https://t.me/CoupTeam|ONLINE|Coup Team||
+|https://t.me/+XhceuAZW9QJkOWJl|VALID|Garuna Ops||
+|https://t.me/garunaops|ONLINE|Garuna Ops||
+|https://t.me/PredatorySparrowIL|ONLINE|Predatory Sparrow||

@@ -712,3 +712,11 @@
 |https://t.me/+Lj3K9WgZFrxkNDY1|VALID|OBSCURION||
 |https://t.me/+aC3mHL9kVhBhNzM1|VALID|Okto Dark Cyber Squad|DDoS & Data Breach|
 |https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|
+|https://t.me/R3V0XAn0nymou|ONLINE|Sons of Anarchy|DDoS|
+|https://t.me/CyberforceTn|ONLINE|Tunisian Maskers Cyber Force||
+|https://t.me/+XPHrAwdh_n00MjZk|VALID|Z-ALLIANCE||
+|https://t.me/Official_EvilBYTE|ONLINE|Evil Byte||
+|https://t.me/DarkfireDragon7|ONLINE|DarkNess7||
+|https://t.me/HiddenEyesTeam|ONLINE|HiddenEyesTeam||
+|https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error System||
+|https://t.me/CoupTeam|ONLINE|Coup Team||

@@ -117,6 +117,7 @@ https://0x00sec.org/)|OFFLINE|
 |[EXODUS](https://forum.exodusmarket.io)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
+|[EXPLOIT FORUMS](https://exploitforums.net)| ONLINE | |
 |[EXPLOITS.WS](https://exploits.ws)| ONLINE | |
 |[ezcarder](https://ezcarder.is/)| ONLINE | |
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |

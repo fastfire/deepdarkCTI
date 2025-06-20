@@ -28,7 +28,7 @@
 |https://t.me/+eOtgrt4gB68wM2Qy|EXPIRED|Atlantis Cyber Army A.I.G. - backup||
 |https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
 |https://t.me/+f6HgnXuFRiIxMzhk|VALID|Pro Team Channel|combos|
-|https://t.me/+FbcbdaQ7lekzYzU1|VALID|TWO NET|DDoS|
+|https://t.me/+FbcbdaQ7lekzYzU1|EXPIRED|TWO NET|DDoS|
 |https://t.me/+fl1bRIDYGAM2MGVl|EXPIRED|GARUDA ERROR SYSTEM|DDoS|
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED|Data Leaks||
 |https://t.me/+fsuxaCDs36owYTM6|EXPIRED|||
@@ -436,7 +436,7 @@
 |https://t.me/KILLNETddos|ONLINE|Killnet DDoS|DDoS|
 |https://t.me/KillnetLATAM|OFFLINE|KillneLATAM channel||
 |https://t.me/Killneto|OFFLINE|Killnet Officiale (with invites for closed channel)|
-|https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider||
+|https://t.me/king_0f_cracking|OFFLINE|Free Data Breaches, cracking tools and proxy lists Provider||
 |https://t.me/kittensec|ONLINE|KittenSec||
 |https://t.me/KozSec1|OFFLINE|KozSec backup|DDoS|
 |https://t.me/KozSecChat|OFFLINE|KozSec chat|DDoS|

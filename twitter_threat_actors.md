@@ -17,3 +17,4 @@
 |https://x.com/IMN_Crew| IMN Crew | Ransomware |
 |https://x.com/holypryx| PRYX - HellCat | Ransomware |
 |https://x.com/GonjeshkeDarand| Gonjeshke Darande | Data BReaches |
+|https://x.com/Inifintyink| DevMan | Ransomware |

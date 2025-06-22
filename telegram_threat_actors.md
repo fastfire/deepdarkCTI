@@ -727,3 +727,4 @@
 |https://t.me/Mhwear96|ONLINE|Holy League||
 |https://t.me/ru_62IX|ONLINE|62IX Group||
 |https://t.me/Assasins_Official|ONLINE|Assassins||
+|https://t.me/+bgICy4GovA0yMWU1|VALID|R-9X||

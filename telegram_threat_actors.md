@@ -729,3 +729,4 @@
 |https://t.me/Assasins_Official|ONLINE|Assassins||
 |https://t.me/+bgICy4GovA0yMWU1|VALID|R-9X||
 |https://t.me/revolusihime666|ONLINE|HIME666||
+|https://t.me/fredenscombos|ONLINE|Fredens of Security|combos|

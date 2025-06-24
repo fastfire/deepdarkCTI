@@ -18,3 +18,5 @@
 |https://x.com/holypryx| PRYX - HellCat | Ransomware |
 |https://x.com/GonjeshkeDarand| Gonjeshke Darande | Data BReaches |
 |https://x.com/Inifintyink| DevMan | Ransomware |
+|https://x.com/ransomboris| Wazawka  (Mikhail Matvee) | Ransomware |
+|https://x.com/vxshellew| QILIN | Ransomware |

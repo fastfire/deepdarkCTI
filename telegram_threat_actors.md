@@ -731,3 +731,4 @@
 |https://t.me/revolusihime666|ONLINE|HIME666||
 |https://t.me/fredenscombos|ONLINE|Fredens of Security|combos|
 |https://t.me/+HG32VQZ93-4zMjE1|VALID|Sumatra Utara Cyber Team||
+|https://t.me/ckeArsenal|ONLINE|ckeArsenal||

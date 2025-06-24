@@ -135,7 +135,7 @@
 |https://t.me/AntiPlumbers|ONLINE||
 |https://t.me/anzu_team|ONLINE|Anzu Team||
 |https://t.me/APIddosMirai|ONLINE|Killnet API DDoS Mirai|DDoS|
-|https://t.me/apt404team|ONLINE|ApT 404 Team|DDoS & Data Breach|
+|https://t.me/apt404team|OFFLINE|ApT 404 Team|DDoS & Data Breach|
 |https://t.me/APTANALYSIS|OFFLINE|Exploits||
 |https://t.me/APTIRAN|ONLINE|APT Iran||
 |https://t.me/Arab_Hackers_Union|OFFLINE|Arab Hackers Union||

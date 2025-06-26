@@ -5,6 +5,7 @@
 |https://twitter.com/crep1x | Threat Analyst |
 |https://twitter.com/Cryptolaemus1 | Threat Hunting group |
 |https://twitter.com/Cyberknow20 | Situational Awareness |
+|https://twitter.com/DarkWebInformer | CTI & Threat Alerts |
 |https://twitter.com/ecarlesi | Phishing IOC |
 |https://twitter.com/EmotetB | Emotet OSINT | 
 |https://twitter.com/executemalware | Malware hunter & analyst |

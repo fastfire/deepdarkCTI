@@ -734,3 +734,4 @@
 |https://t.me/ckeArsenal|ONLINE|ckeArsenal||
 |https://t.me/tapandegan_official|ONLINE|Tapandegan||
 |https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel||
+|https://t.me/+4zDdD8MeZCI1MWQ6|VALID|SECTOR16||

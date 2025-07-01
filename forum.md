@@ -1,7 +1,6 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
-|[0x00sec](
-https://0x00sec.org/)|OFFLINE|
+|[0x00sec](https://0x00sec.org/)|OFFLINE|
 |[4CHEAT](https://4cheat.ru/)|ONLINE||
 |[589forum](https://589forum.org/)|ONLINE|
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |

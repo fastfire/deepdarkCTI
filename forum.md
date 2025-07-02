@@ -260,3 +260,4 @@
 |[XSS (Deep)](https://xss.is)| ONLINE | |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |
+|[KittyForums](https://kittyforums.to/)| ONLINE | |

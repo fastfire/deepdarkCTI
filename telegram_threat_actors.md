@@ -735,3 +735,4 @@
 |https://t.me/tapandegan_official|ONLINE|Tapandegan||
 |https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel||
 |https://t.me/+4zDdD8MeZCI1MWQ6|VALID|SECTOR16||
+|https://t.me/+i2FG331VOjA0ODE1|VALID|AKULAv2||

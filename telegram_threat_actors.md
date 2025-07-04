@@ -761,3 +761,7 @@
 |https://t.me/OXO_News_HN|ONLINE|OXO News HN||
 |https://t.me/mrtanjirox|ONLINE|Tanjiro DDoS Botnet Service||
 |https://t.me/musicarusaesp|ONLINE|🐻Desinformador ruso👁‍🗨||
+|https://t.me/KillNetSyndicate|ONLINE|KillNet Syndicate||
+|https://t.me/usersecc|ONLINE|UserSec # KillNet||
+|https://t.me/vassal_of_the_Joker|ONLINE|Вассал Джокера||
+|https://t.me/+hSH4gfaaAOA4YzY6|ONLINE|Sector16/S16 #Killnet||

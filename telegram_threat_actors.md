@@ -470,7 +470,7 @@
 |https://t.me/leakinformation|OFFLINE|Data Leaks||
 |https://t.me/leaklicks|OFFLINE|Data Leaks||
 |https://t.me/leaksdatabase|OFFLINE|Data Leaks||
-|https://t.me/LeaksData|ONLINE|Data Leaks||
+|https://t.me/LeaksData|OFFLINE|Data Leaks||
 |https://t.me/leaksdirectory|OFFLINE|Leaks Directory||
 |https://t.me/LeakSecOfficial|ONLINE|||
 |https://t.me/leaksmarts|ONLINE|Leaks Marts||
@@ -710,7 +710,7 @@
 |https://t.me/+GeILA8S0Bk4wYmRi|ONLINE|INTEID|DDoS|
 |https://t.me/xX313XxTeam|ONLINE|313TEAM|DDoS|
 |https://t.me/+Lj3K9WgZFrxkNDY1|VALID|OBSCURION||
-|https://t.me/+aC3mHL9kVhBhNzM1|VALID|Okto Dark Cyber Squad|DDoS & Data Breach|
+|https://t.me/+aC3mHL9kVhBhNzM1|EXPIRED|Okto Dark Cyber Squad|DDoS & Data Breach|
 |https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|
 |https://t.me/R3V0XAn0nymou|ONLINE|Sons of Anarchy|DDoS|
 |https://t.me/CyberforceTn|ONLINE|Tunisian Maskers Cyber Force||

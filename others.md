@@ -36,6 +36,7 @@
 |[PWNDB](http://pwndb2am4tzkvold.onion)| OFFLINE | |
 |[QUANTUM BLOG](http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion)| ONLINE | |
 |[RAASNET](http://hplqdv5fo3vw3fjyamyer7yuc7xtvtop2j3fipc7psf3pxvhoqjoqkid.onion)| ONLINE | |
+|[RANSOMNEWS](https://ransomnews.online)| ONLINE | |
 |[RANSOMWARE PAYMENTS TRACKER](https://ransomwhe.re)| ONLINE | |
 |[RANSOMWARE VICTIMS TRACKER](https://ransom.wiki)| ONLINE | |
 |[SAUDI ARAMCO LEAK](http://662m7dfcpfsmeetqucdekz3rn4a6dxsxbdjwd6iz3rwnogjsj7i3hxad.onion)| OFFLINE | |

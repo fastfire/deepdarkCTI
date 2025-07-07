@@ -3,6 +3,7 @@
 |[Abiko](http://abikoifawyrftqivkhfxiwdjcdzybumpqrbowtudtwhrhpnykfonyzid.onion/)|ONLINE|
 |[Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion)|ONLINE|
 |[Amnesia](http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/)|ONLINE|
+|[Amnesia](http://amnesia6iuqn46eyzcgymhzpom3gkqpj6yxacdpvu4mbq7sgskn6hvid.onion)|ONLINE|
 |[Bobby](http://bobby64o755x3gsuznts6hf6agxqjcz5bop6hs7ejorekbm7omes34ad.onion/index.php)|ONLINE|
 |[DANEX](http://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/)|ONLINE|
 |[Dark Tor](http://darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion/hidden.html)|OFFLINE|

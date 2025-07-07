@@ -600,7 +600,7 @@
 |https://t.me/RipperSec|OFFLINE|RipperSec|DDoS|
 |https://t.me/russiagoodbuy_rgb_team|ONLINE|RGB Team (https://rgb-team.com)|Data Leak|
 |https://t.me/sanaski|ONLINE|Configs, combos||
-|https://t.me/Satanlock|ONLINE|Satanlock|Ransomware gang|
+|https://t.me/Satanlock|OFFLINE|Satanlock|Ransomware gang|
 |https://t.me/Sector08/|OFFLINE|SECT0R16|Lamer|
 |https://t.me/SECTOR16S16|OFFLINE|SECTOR16(S16)|DDoS & Data Breach|
 |https://t.me/Sell_rdp1|OFFLINE|||
@@ -716,7 +716,7 @@
 |https://t.me/CyberforceTn|ONLINE|Tunisian Maskers Cyber Force||
 |https://t.me/+XPHrAwdh_n00MjZk|VALID|Z-ALLIANCE||
 |https://t.me/Z_alliance_ru|VALID|Z-ALLIANCE||
-|https://t.me/Official_EvilBYTE|ONLINE|Evil Byte||
+|https://t.me/Official_EvilBYTE|OFFLINE|Evil Byte||
 |https://t.me/DarkfireDragon7|ONLINE|DarkNess7||
 |https://t.me/HiddenEyesTeam|ONLINE|HiddenEyesTeam||
 |https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error System||
@@ -740,21 +740,21 @@
 |https://t.me/kittyforums|ONLINE|KittyForums||
 |https://t.me/Team1956Official|ONLINE|TEAM1956||
 |https://t.me/APTIRGC|ONLINE|APT IRGC||
-|https://t.me/+Pdu3VJRGSuYzOTc0|ONLINE|Keymous+||
+|https://t.me/+Pdu3VJRGSuYzOTc0|EXPIRED|Keymous+||
 |https://t.me/CyberBabayoEror|ONLINE|Babayo eror system||
-|https://t.me/+diE7kOtAhOQwYTU1|ONLINE|CLOBELSECTEAM||
+|https://t.me/+diE7kOtAhOQwYTU1|VALID|CLOBELSECTEAM||
 |https://t.me/Atlas_Flood|ONLINE|Atlas Flood||
 |https://t.me/T34M_F34RL3SS|ONLINE|team fearless 🇵🇸||
 |https://t.me/Golden_falcon_team|ONLINE|Golden Falcon||
-|https://t.me/+nlZbu05n4aEwOGZl|ONLINE|TwoNet||
+|https://t.me/+nlZbu05n4aEwOGZl|VALID|TwoNet||
 |https://t.me/AnonymousVNLBN99|ONLINE|Lực Lượng Đặc Biệt Quân Đội Điện Tử||
-|https://t.me/+ZMoidrbayTgyMzQ9|ONLINE|Garuda Error system||
+|https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error system||
 |https://t.me/AnonymousGuys0|ONLINE|Anonymous Guys||
 |https://t.me/bl4ck_cyb3r|ONLINE|BL4CK CYB3R||
 |https://t.me/nxbbsec|ONLINE|NXBB SEC||
 |https://t.me/D3X73RMa|ONLINE|D3X73R||
 |https://t.me/unitninee|ONLINE|UNIT NINE||
-|https://t.me/+AZ5c6o5gtlU5MDM0|ONLINE|Wraith C2/API||
+|https://t.me/+AZ5c6o5gtlU5MDM0|VALID|Wraith C2/API||
 |https://t.me/blankc2|ONLINE|BlankC2||
 |https://t.me/mrhamza_antiporn|ONLINE|Mr Hamza-Anti-Porn||
 |https://t.me/xstuxnet|ONLINE|STUXNET - ستوكسنت||
@@ -764,4 +764,4 @@
 |https://t.me/KillNetSyndicate|ONLINE|KillNet Syndicate||
 |https://t.me/usersecc|ONLINE|UserSec # KillNet||
 |https://t.me/vassal_of_the_Joker|ONLINE|Вассал Джокера||
-|https://t.me/+hSH4gfaaAOA4YzY6|ONLINE|Sector16/S16 #Killnet||
+|https://t.me/+hSH4gfaaAOA4YzY6|VALID|Sector16/S16 #Killnet||

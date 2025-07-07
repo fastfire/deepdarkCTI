@@ -144,6 +144,7 @@
 |[DARK VAULT (blog)](http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion)|ONLINE||||
 |[DATA CARRY](http://dcarryhaih5oldidg3tbqwnde4lxljytnpvberrwgj2vlvunopd46dad.onion)|ONLINE||||
 |[DEVMAN](http://qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion)|ONLINE||||
+|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|ONLINE||||
 |[DIRE WOLF](http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion)|ONLINE||B344BECDC01A1282F69CB82979F40439E15E1FD1EF1FE9748EE467F5869E2148E6F1E55959E2||
 |[DISPOSSESSOR (Dark)](http://e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion/)|ONLINE||||
 |[DISPOSSESSOR (Deep)](https://radar.ltd/)|ONLINE||||
@@ -365,7 +366,7 @@
 |[PANDORA](http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion)|OFFLINE||||
 |[PAY2KEY](http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion)|OFFLINE||||
 |[PAYLOAD.BIN (Ex BABUK LOCKER)](http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion)|OFFLINE||||
-|[Payouts King](https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/)|ONLINE||||
+|[Payouts King](https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/)|ONLINE||535F403A2EA2DC71A392E18D7DB77FEF70845C0B7E5B9114CD30D301870304379C3547E324E2||
 |[PLAY](http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion)|OFFLINE||||
 |[PLAY](http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion)|OFFLINE||||
 |[PLAY](http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion)|ONLINE||||

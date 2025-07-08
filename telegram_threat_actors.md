@@ -3,7 +3,7 @@
 |https://t.me/+-Wb4k1nQphg3NDc6|VALID|NoName057(16)|DDoS|
 |https://t.me/+02lgyxsgsyAwYmY0|EXPIRED|Ddarknot||
 |https://t.me/+2Rok4x62dzg1NjI6|VALID|NoName057(16) Eng version|DDoS|
-|https://t.me/+4CffqtOZoZwxMTcx|VALID|Handala|Ransomware gang|
+|https://t.me/+4CffqtOZoZwxMTcx|EXPIRED|Handala|Ransomware gang|
 |https://t.me/+63wu1QC3KM04ZTJi|ONLINE|Cyber Cossacks||
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED|RED HACKERS ALLIANCE||
 |https://t.me/+7VXL5Gy9NUc1YzFl|VALID|Darknet chat||
@@ -767,3 +767,4 @@
 |https://t.me/+hSH4gfaaAOA4YzY6|VALID|Sector16/S16 #Killnet||
 |https://t.me/CyberToufan01|ONLINE|CyberToufan|Data Leaks||
 |https://t.me/+1R9pU3u-9ac0ZmZl|VALID|DataLeaky|Data Leaks||
+|https://t.me/handala_team|VALID|Handala|Ransomware gang|

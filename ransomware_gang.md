@@ -523,3 +523,4 @@
 |[YANLUOWANG](http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion)|OFFLINE||||
 |[ZEON (Victims page)](http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion)|OFFLINE||||
 |[Zero Tolerance](http://zhuobnfsddn2myfxxdqtpxk367dqnntjf3kq7mrzdgienfxjyllq4rqd.onion)|ONLINE||||
+|[RansomedVC or RebornVC](https://ransomed.biz/)|ONLINE||||

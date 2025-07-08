@@ -419,7 +419,8 @@
 |[RANSOM HUB Archives](http://ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion/)|OFFLINE||||
 |[RANSOMED (Dark Web)](http://k63fo4qmdnl4cbt54sso3g6s5ycw7gf7i6nvxl3wcf3u6la2mlawt5qd.onion)|OFFLINE||https://twitter.com/RansomedVC||
 |[RANSOMED (Dark Web)](http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion)|ONLINE||https://twitter.com/RansomedVC||
-|[RANSOMED (Deep Web)](https://ransomed.vc)|ONLINE||https://twitter.com/RansomedVC||
+|[RANSOMED (Deep Web)](https://ransomed.vc)|ONLINE||FF59E28C08A4D0D9BA95EC6D72A15F7677D58E48EC5EE0D7CADEE0E7A1B3E37BFBD4996B41DD - https://twitter.com/RansomedVC||
+|[RANSOMEDVC or REBORNVC](https://ransomed.biz)|ONLINE||FF59E28C08A4D0D9BA95EC6D72A15F7677D58E48EC5EE0D7CADEE0E7A1B3E37BFBD4996B41DD||
 |[RANSOM CORP](http://sewo2yliwvgca3abz565nsnnx3khi6x7t5ccpbvvg6wgce4bk2jagiad.onion)|OFFILINE||||
 |[RANZY/AKO](http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion)|OFFLINE||||
 |[REDALERT](http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion)|OFFLINE||||
@@ -523,4 +524,3 @@
 |[YANLUOWANG](http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion)|OFFLINE||||
 |[ZEON (Victims page)](http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion)|OFFLINE||||
 |[Zero Tolerance](http://zhuobnfsddn2myfxxdqtpxk367dqnntjf3kq7mrzdgienfxjyllq4rqd.onion)|ONLINE||||
-|[RansomedVC or RebornVC](https://ransomed.biz/)|ONLINE||||

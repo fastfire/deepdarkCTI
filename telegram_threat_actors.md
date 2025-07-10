@@ -768,3 +768,4 @@
 |https://t.me/CyberToufan01|ONLINE|CyberToufan|Data Leaks||
 |https://t.me/+1R9pU3u-9ac0ZmZl|VALID|DataLeaky|Data Leaks||
 |https://t.me/handala_team|VALID|Handala|Ransomware gang|
+|https://t.me/T34M_CYB3R|ONLINE|𝙏𝙀𝘼𝙈 𝘾𝙔𝘽𝙀𝙍 𝙕𝙐𝙇𝙁𝙄𝙌𝘼𝙍 🇵🇸|DDoS||

@@ -128,7 +128,7 @@
 |https://t.me/anonymous_south_africa|ONLINE|Anonymous South Africa|Data Leak|
 |https://t.me/Anonymous_VNLBN|ONLINE|Electronic_Army_Special_Forces|DDoS|
 |https://t.me/AnonymousEgypt|OFFLINE|Anonymous Egypt|Data Leak|
-|https://t.me/AnonymousJordan|ONLINE|Anonymous Jordan||
+|https://t.me/AnonymousJordan|OFFLINE|Anonymous Jordan||
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/AnonymousVNLBN9|ONLINE|VNLBN9|DDoS|
 |https://t.me/antiextchatt|ONLINE|AE Chat||
@@ -657,7 +657,7 @@
 |https://t.me/thebrotherhoodcorp|ONLINE|The Brotherhood|Ransomware Gang|
 |https://t.me/TheMoskovskiTimes|ONLINE|The Moskovski Times|Data Breach|
 |https://t.me/ThreatSec|ONLINE|ThreatSec||
-|https://t.me/TigerElectronicUnit|ONLINE|Electronic Tigers Unit||
+|https://t.me/TigerElectronicUnit|OFFLINE|Electronic Tigers Unit||
 |https://t.me/torlinks|OFFLINE|||
 |https://t.me/Turbotelproxy|ONLINE|The fastest Telegram proxies||
 |https://t.me/turkhckteam|ONLINE|Turk Hack Team||

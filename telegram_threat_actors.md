@@ -771,3 +771,7 @@
 |https://t.me/T34M_CYB3R|ONLINE|𝙏𝙀𝘼𝙈 𝘾𝙔𝘽𝙀𝙍 𝙕𝙐𝙇𝙁𝙄𝙌𝘼𝙍 🇵🇸|DDoS|
 |https://t.me/perunswaroga|ONLINE|Перун Сварога|Data Leaks|
 |https://t.me/ruskinet|ONLINE|RuskiNet|DDoS & Data Breach|
+|https://t.me/vulture_001|ONLINE|Vulture||
+|https://t.me/unknowns_cyberteam|ONLINE|Unknowns Cyber Team||
+|https://t.me/WeAreUst|ONLINE|USTINT||
+|https://t.me/AnonymousVNLBN99|Electronic Army Special Forces||

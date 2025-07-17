@@ -775,3 +775,5 @@
 |https://t.me/unknowns_cyberteam|ONLINE|Unknowns Cyber Team||
 |https://t.me/WeAreUst|ONLINE|USTINT||
 |https://t.me/AnonymousVNLBN99|ONLINE|Electronic Army Special Forces||
+|https://t.me/BabayoScteam|ONLINE|Babayo Eror System|DDoS|
+|https://t.me/+yMqboej1CikxNGZl|VALID|Team Bd Hyp3r 71|DDoS|

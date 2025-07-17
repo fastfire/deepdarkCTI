@@ -774,4 +774,4 @@
 |https://t.me/vulture_001|ONLINE|Vulture||
 |https://t.me/unknowns_cyberteam|ONLINE|Unknowns Cyber Team||
 |https://t.me/WeAreUst|ONLINE|USTINT||
-|https://t.me/AnonymousVNLBN99|Electronic Army Special Forces||
+|https://t.me/AnonymousVNLBN99|ONLINE|Electronic Army Special Forces||

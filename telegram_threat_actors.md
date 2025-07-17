@@ -88,7 +88,7 @@
 |https://t.me/+wP33Q9NXAURlMzNk|ONLINE|AnonSec|DDoS|
 |https://t.me/+Wr6WoTXzjk0zMWI0|EXPIRED|Hunt3r Kill3rs private group||
 |https://t.me/+x9tlrn-DoOw0NmNl|EXPIRED|Team BlackDragonSec||
-|https://t.me/+xQ7QAiDH5NMwZGY9|VALID|Garuda Hacktivis|DDoS|
+|https://t.me/+xQ7QAiDH5NMwZGY9|EXPIRED|Garuda Hacktivis|DDoS|
 |https://t.me/+xr2N5_kqYQE3ZDUy|EXPIRED|Kingsman||
 |https://t.me/+y8c51prOz20wNWU0|EXPIRED|Solomon market place support||
 |https://t.me/+YhH_DjYUyYpmNDRi|EXPIRED|Backup @HackGit channel||
@@ -288,7 +288,7 @@
 |https://t.me/dbforall|OFFLINE|||
 |https://t.me/DBleak|ONLINE|Data Leaks||
 |https://t.me/ddos_separ|ONLINE|DDoS Services|DDoS|
-|https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
+|https://t.me/ddosiamonitor|OFFLINE|DDoSia Target Monitor|DDoS|
 |https://t.me/ddossatmak|ONLINE|DDoS Services|DDoS|
 |https://t.me/ddostm1|ONLINE|BlackObServers Channel (ddos team)|DDoS|
 |https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
@@ -728,7 +728,7 @@
 |https://t.me/Mhwear96|ONLINE|Holy League||
 |https://t.me/ru_62IX|ONLINE|62IX Group||
 |https://t.me/Assasins_Official|ONLINE|Assassins||
-|https://t.me/+bgICy4GovA0yMWU1|VALID|R-9X||
+|https://t.me/+bgICy4GovA0yMWU1|EXPIRED|R-9X||
 |https://t.me/revolusihime666|ONLINE|HIME666||
 |https://t.me/fredenscombos|ONLINE|Fredens of Security|combos|
 |https://t.me/+HG32VQZ93-4zMjE1|VALID|Sumatra Utara Cyber Team||
@@ -742,11 +742,11 @@
 |https://t.me/APTIRGC|ONLINE|APT IRGC||
 |https://t.me/+Pdu3VJRGSuYzOTc0|EXPIRED|Keymous+||
 |https://t.me/CyberBabayoEror|ONLINE|Babayo eror system||
-|https://t.me/+diE7kOtAhOQwYTU1|VALID|CLOBELSECTEAM||
+|https://t.me/+diE7kOtAhOQwYTU1|EXPIRED|CLOBELSECTEAM||
 |https://t.me/Atlas_Flood|ONLINE|Atlas Flood||
 |https://t.me/T34M_F34RL3SS|ONLINE|team fearless 🇵🇸||
 |https://t.me/Golden_falcon_team|ONLINE|Golden Falcon||
-|https://t.me/+nlZbu05n4aEwOGZl|VALID|TwoNet||
+|https://t.me/+nlZbu05n4aEwOGZl|EXPIRED|TwoNet||
 |https://t.me/AnonymousVNLBN99|ONLINE|Lực Lượng Đặc Biệt Quân Đội Điện Tử||
 |https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error system||
 |https://t.me/AnonymousGuys0|ONLINE|Anonymous Guys||
@@ -767,7 +767,7 @@
 |https://t.me/+hSH4gfaaAOA4YzY6|VALID|Sector16/S16 #Killnet||
 |https://t.me/CyberToufan01|ONLINE|CyberToufan|Data Leaks|
 |https://t.me/+1R9pU3u-9ac0ZmZl|VALID|DataLeaky|Data Leaks|
-|https://t.me/handala_team|VALID|Handala|Ransomware gang|
+|https://t.me/handala_team|OFFLINE|Handala|Ransomware gang|
 |https://t.me/T34M_CYB3R|ONLINE|𝙏𝙀𝘼𝙈 𝘾𝙔𝘽𝙀𝙍 𝙕𝙐𝙇𝙁𝙄𝙌𝘼𝙍 🇵🇸|DDoS|
 |https://t.me/perunswaroga|ONLINE|Перун Сварога|Data Leaks|
 |https://t.me/ruskinet|ONLINE|RuskiNet|DDoS & Data Breach|

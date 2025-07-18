@@ -88,7 +88,6 @@
 |[BLACK SHADOW](http://544corkfh5hwhtn4.onion)|OFFLINE||||
 |[BLACK SUIT](http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion)|ONLINE||||
 |[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE||||
-|[Bl00dy Ransomware]()|||https://t.me/bl00dy_Ransomware_Gang||
 |[BLUEBOX](http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion)|ONLINE||||
 |[BONACI GROUP](http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion)|OFFLINE||||
 |[BRAIN CIPHER](http://77nrxelcwh47yikvpaz2rvtsten4sen2elybo5r5st6wlxsbitv255qd.onion)|ONLINE||||

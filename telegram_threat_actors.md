@@ -780,3 +780,4 @@
 |https://t.me/islamic_hacker_army1|ONLINE|Islamic Hacker Army|Data Leaks|
 |https://t.me/bl00dy_ransomware_Gang_channel|ONLINE|bl🩸🩸dy Ransomware Gang ☠️|Ransomware gang|
 |https://t.me/+JgKWbM4Zn8I1ODRl|VALID|CLOBESECTEAM BACKUP|Data Leaks|
+|https://t.me/raidf0rumss|ONLINE|Raidforums Office|Forum|

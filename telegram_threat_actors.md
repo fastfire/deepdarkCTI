@@ -777,5 +777,6 @@
 |https://t.me/AnonymousVNLBN99|ONLINE|Electronic Army Special Forces||
 |https://t.me/BabayoScteam|ONLINE|Babayo Eror System|DDoS|
 |https://t.me/+yMqboej1CikxNGZl|VALID|Team Bd Hyp3r 71|DDoS|
-|https://t.me/islamic_hacker_army1|ONLINE|Islamic Hacker Army|Data Leaks||
+|https://t.me/islamic_hacker_army1|ONLINE|Islamic Hacker Army|Data Leaks|
 |https://t.me/bl00dy_ransomware_Gang_channel|ONLINE|bl🩸🩸dy Ransomware Gang ☠️|Ransomware gang|
+|https://t.me/+JgKWbM4Zn8I1ODRl|VALID|CLOBESECTEAM BACKUP|Data Leaks|

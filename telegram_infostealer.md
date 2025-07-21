@@ -9,7 +9,7 @@
 |https://t.me/banklogplug2|OFFLINE|Bank Logs|
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
-|https://t.me/bradmax_cloud|ONLINE| Redline and Raccoon Data Logs |
+|https://t.me/bradmax_cloud|OFFLINE| Redline and Raccoon Data Logs |
 |https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
 |https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
 |https://t.me/cloudlogs|ONLINE| Redline LogZone
@@ -117,3 +117,4 @@
 |https://t.me/+mBXM5tDc1II2YmU0|ONLINE|Darkside Reborn|
 |https://t.me/lOGSMARKET_PRIVATEDATA77|ONLINE|LOGS MARKET|
 |https://t.me/+V-oTBDqBJSRkYTU0|ONLINE|LOGS|
+|https://t.me/+0IAf5VIrl_EzNWRi|ONLINE| BradMax Cloud Malware Data Logs |

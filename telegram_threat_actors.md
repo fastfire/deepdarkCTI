@@ -155,7 +155,7 @@
 |https://t.me/AzzaSec_Off|OFFLINE|AzzaSec|DDoS|
 |https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|
 |https://t.me/azzasec|OFFLINE|AzzaSec||
-|https://t.me/BangladeshAnonymous|ONLINE|BD Anonymous|DDoS|
+|https://t.me/BangladeshAnonymous|OFFLINE|BD Anonymous|DDoS|
 |https://t.me/baphchat|ONLINE|The Jacuzzi||
 |https://t.me/base_brutesu|ONLINE|Combo List|
 |https://t.me/baseleak|OFFLINE|Data Leaks||
@@ -186,7 +186,7 @@
 |https://t.me/BreachedData|OFFLINE|Data Leaks||
 |https://t.me/BreachedDB|OFFLINE|Data Leaks||
 |https://t.me/BreachedDiscussion|OFFLINE|Data Leaks||
-|https://t.me/breachforumsirc|ONLINE|BreachForums|administrated by Hasan, who wants to restore the forum|
+|https://t.me/breachforumsirc|OFFLINE|BreachForums|administrated by Hasan, who wants to restore the forum|
 |https://t.me/BreachforumsOfficialV1|OFFLINE|Breachforums Official V1||
 |https://t.me/breachwatchers|ONLINE|Breach Watchers|Data Breach|
 |https://t.me/bugatti_cloud|OFFLINE|Bugatti Cloud Redline Stealer|Infostealer|

@@ -6,10 +6,6 @@
 |https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
 |https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
 |https://t.me/+V_oM-vx0YnSN7nzH|VALID| Log Leaks Group|
-|https://t.me/banklogplug2|OFFLINE|Bank Logs|
-|https://t.me/berserklogs|ONLINE| Redline Stealer |
-|https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
-|https://t.me/bradmax_cloud|ONLINE| Redline and Raccoon Data Logs |
 |https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
 |https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
 |https://t.me/cloudlogs|ONLINE| Redline LogZone

@@ -258,6 +258,7 @@
 |[XFORUMS](https://xforums.st) | ONLINE | |
 |[XREACTOR](https://xreactor.org)| ONLINE | |
 |[XSS (Dark)](http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion)| ONLINE | |
+|[XSS (Dark)](http://xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion)| ONLINE | |
 |[XSS (Deep)](https://xss.is)| ONLINE | |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |

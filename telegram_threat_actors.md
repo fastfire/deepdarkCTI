@@ -94,7 +94,7 @@
 |https://t.me/+YhH_DjYUyYpmNDRi|EXPIRED|Backup @HackGit channel||
 |https://t.me/+YHUDj7dEmNE1NWQ0|EXPIRED|Data Leaks||
 |https://t.me/+ykoIXVJBirI0NzU0|EXPIRED|Leaks & Breaches||
-|https://t.me/+YN6xK_zkLXY4ZjJl|VALID|TEMA FEARLESS|DDoS|
+|https://t.me/+YN6xK_zkLXY4ZjJl|EXPIRED|TEMA FEARLESS|DDoS|
 |https://t.me/+YR89p_rg8Oo0Y2Ux|VALID|||
 |https://t.me/+YRLqvlnUI84zNzZl|EXPIRED|BF Repo V3 Files||
 |https://t.me/+yXOcSjVjI9tjM2E0|EXPIRED|Medusa||

@@ -91,6 +91,7 @@
 |[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE||||
 |[BLUEBOX](http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion)|ONLINE||||
 |[BONACI GROUP](http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion)|OFFLINE||||
+|[BQTLOCK](http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion)|ONLINE||https://t.me/BQTLock - https://t.me/liwaamohammad - https://t.me/Fuch0u||
 |[BRAIN CIPHER](http://77nrxelcwh47yikvpaz2rvtsten4sen2elybo5r5st6wlxsbitv255qd.onion)|ONLINE||||
 |[BRAIN CIPHER](http://p6wmotxzvg34tdmpwm4beqgrcyp5iys43snkccsahnw74la3k3xx6pad.onion)|ONLINE||||
 |[BRAIN CIPHER](http://brain4zoadgr6clxecixffvxjsw43cflyprnpfeak72nfh664kqqriyd.onion)|ONLINE||||

@@ -750,7 +750,7 @@
 |https://t.me/AnonymousVNLBN99|ONLINE|Lực Lượng Đặc Biệt Quân Đội Điện Tử||
 |https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error system||
 |https://t.me/AnonymousGuys0|ONLINE|Anonymous Guys||
-|https://t.me/bl4ck_cyb3r|ONLINE|BL4CK CYB3R||
+|https://t.me/bl4ck_cyb3r|OFFLINE|BL4CK CYB3R||
 |https://t.me/nxbbsec|ONLINE|NXBB SEC||
 |https://t.me/D3X73RMa|ONLINE|D3X73R||
 |https://t.me/unitninee|ONLINE|UNIT NINE||

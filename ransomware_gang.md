@@ -224,7 +224,7 @@
 |[J GROUP](http://twniiyed6mydtbe64i5mdl56nihl7atfaqtpww6gqyaiohgc75apzpad.onion)|ONLINE||||
 |[J GROUP](http://w4d5aqmdxkcsc2xwcz7w7jo6wdmvmakgy3y6mfmdtzmyvxe77cjkfbad.onion)|ONLINE||||
 |[JUSTICE BLADE](https://justice-blade.io)|OFFLINE||https://t.me/justiceblade3 - https://t.me/+UbB2H5vTBJJkYTRl||
-|[KAIROS](http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion/)|ONLINE||||
+|[KAIROS](http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion)|ONLINE||kairossup@onionmail.com||
 |[KARAKURT (Deep)](https://karakurt.tech)|OFFLINE||||
 |[KARAKURT (Deep)](https://karakurt.co)|OFFLINE||||
 |[KARAKURT (Deep)](https://karanews.live)|OFFLINE||||

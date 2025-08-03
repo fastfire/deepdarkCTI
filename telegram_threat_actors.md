@@ -786,3 +786,4 @@
 |https://t.me/ANONXF34RL3SS|ONLINE| ANON X FEARLESS||
 |https://t.me/xServerKillers|ONLINE|Server Killers|DDoS|
 |https://t.me/threadsbreach|ONLINE|Threads Breachforum|Data Leaks|
+|https://t.me/GhilanLegion|ONLINE|Ghilan Legion||

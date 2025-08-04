@@ -788,3 +788,4 @@
 |https://t.me/threadsbreach|ONLINE|Threads Breachforum|Data Leaks|
 |https://t.me/GhilanLegion|ONLINE|Ghilan Legion||
 |https://t.me/darkstormteamoff|ONLINE|Dark Storm|DDoS|
+|https://t.me/ruskinet|ONLINE|RuskiNet Group Cyber Mujahid Of Allah|Data Leaks|

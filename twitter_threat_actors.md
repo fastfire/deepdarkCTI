@@ -20,3 +20,4 @@
 |https://x.com/Inifintyink| DevMan | Ransomware |
 |https://x.com/ransomboris| Wazawka  (Mikhail Matvee) | Ransomware |
 |https://x.com/BLOODY48139604| BL🩸🩸DY | Ransomware |
+|https://x.com/RuskiNetGroup| RuskiNet Group Cyber Mujahid Of Allah | |

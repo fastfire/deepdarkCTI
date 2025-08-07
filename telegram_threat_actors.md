@@ -790,3 +790,4 @@
 |https://t.me/darkstormteamoff|ONLINE|Dark Storm|DDoS|
 |https://t.me/ruskinet|ONLINE|RuskiNet Group Cyber Mujahid Of Allah|Data Leaks|
 |https://t.me/AKATSUKI4492|ONLINE|AKATSUKY CYBER TEAM|DDoS|
+|https://t.me/hezirash|ONLINE|Hezi Rash|DDoS|

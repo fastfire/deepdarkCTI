@@ -792,3 +792,4 @@
 |https://t.me/AKATSUKI4492|ONLINE|AKATSUKY CYBER TEAM|DDoS|
 |https://t.me/hezirash|ONLINE|Hezi Rash|DDoS|
 |https://t.me/cyberlami|ONLINE|Cyber Lami||
+|https://t.me/databasecyberlami|ONLINE|Database Cyber Lami|Data Leaks|

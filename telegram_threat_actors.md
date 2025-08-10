@@ -794,3 +794,4 @@
 |https://t.me/cyberlami|ONLINE|Cyber Lami||
 |https://t.me/databasecyberlami|ONLINE|Database Cyber Lami|Data Leaks|
 |https://t.me/digitalsghost|ONLINE|Digital Ghost||
+|https://t.me/scatteredlapsusp1d3rhunters|ONLINE|The Com HQ Scattered  Sp1d3r Hunters|Data Leaks|

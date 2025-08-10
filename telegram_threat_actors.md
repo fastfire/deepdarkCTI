@@ -793,3 +793,4 @@
 |https://t.me/hezirash|ONLINE|Hezi Rash|DDoS|
 |https://t.me/cyberlami|ONLINE|Cyber Lami||
 |https://t.me/databasecyberlami|ONLINE|Database Cyber Lami|Data Leaks|
+|https://t.me/digitalsghost|ONLINE|Digital Ghost||

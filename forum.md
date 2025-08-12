@@ -50,7 +50,7 @@
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](http://breached.ws) | ONLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](http://breachy72uc3rgraqpvfnb6dglhbcy7niqpmjdlseewzgpq4vifmmuyd.onion/) | ONLINE | |
 |[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/index.php) | ONLINE | |
-|[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](https://breachforums.hn) | ONLINE | |
+|[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](https://breachforums.hn) | OFFLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
@@ -264,7 +264,8 @@
 |[XREACTOR](https://xreactor.org)| ONLINE | |
 |[XSS (Dark)](http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion)| ONLINE | |
 |[XSS (Dark)](http://xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion)| ONLINE | |
-|[XSS (Deep)](https://xss.is)| ONLINE | |
+|[XSS (Deep)](https://xss.is)| OFFLINE Seized | |
+|[XSS (Deep)](https://xss.pro)| ONLINE | |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |
 |[KittyForums](https://kittyforums.to/)| ONLINE | |

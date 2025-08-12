@@ -796,3 +796,4 @@
 |https://t.me/digitalsghost|ONLINE|Digital Ghost||
 |https://t.me/scatteredlapsusp1d3rhunters|ONLINE|The Com HQ Scattered  Sp1d3r Hunters|Data Leaks|
 |https://t.me/+Urm9oSCMH9hmNTI1|ONLINE|Breach Forums||
+|https://t.me/+xaAIZrkJgKkyZTM1|VALID|Aegis Staff (related to Breach Forum)||

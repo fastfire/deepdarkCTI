@@ -794,6 +794,8 @@
 |https://t.me/cyberlami|ONLINE|Cyber Lami||
 |https://t.me/databasecyberlami|ONLINE|Database Cyber Lami|Data Leaks|
 |https://t.me/digitalsghost|ONLINE|Digital Ghost||
-|https://t.me/scatteredlapsusp1d3rhunters|ONLINE|The Com HQ Scattered  Sp1d3r Hunters|Data Leaks|
+|https://t.me/scatteredlapsusp1d3rhunters|ONLINE|The Com HQ Scattered Sp1d3r Hunters|Data Leaks|
+|https://t.me/scatteredsp1d3rhunters|ONLINE|scattered lapsus$ hunters|Data Leaks|
+|https://t.me/leavemealonefbi|scattered lapsu$ hunters - Chat|Data Leaks|
 |https://t.me/+Urm9oSCMH9hmNTI1|ONLINE|Breach Forums||
 |https://t.me/+xaAIZrkJgKkyZTM1|VALID|Aegis Staff (related to Breach Forum)||

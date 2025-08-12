@@ -799,3 +799,4 @@
 |https://t.me/leavemealonefbi|scattered lapsu$ hunters - Chat|Data Leaks|
 |https://t.me/+Urm9oSCMH9hmNTI1|ONLINE|Breach Forums||
 |https://t.me/+xaAIZrkJgKkyZTM1|VALID|Aegis Staff (related to Breach Forum)||
+|https://t.me/BQTlock_raas|ONLINE|BAQIYATLock RaaS|Ransomware Gang|

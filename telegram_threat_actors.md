@@ -386,7 +386,7 @@
 |https://t.me/HQ_COMBO|OFFLINE|Data Breaches Provider||
 |https://t.me/HQCracking|ONLINE|Data Breaches Provider||
 |https://t.me/HQPROX|ONLINE|Proxy service||
-|https://t.me/hudyhstock|ONLINE|Selling Accounts||
+|https://t.me/hudyhstock|OFFLINE|Selling Accounts||
 |https://t.me/Hunt3rkill3rs1|OFFLINE|Hunt3r Kill3rs||
 |https://t.me/hydramarketrebuild|OFFLINE|Hydra Market Rebuild||
 |https://t.me/icrewhackers|ONLINE|||
@@ -737,7 +737,7 @@
 |https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel||
 |https://t.me/+4zDdD8MeZCI1MWQ6|EXPIRED|SECTOR16||
 |https://t.me/+i2FG331VOjA0ODE1|VALID|AKULAv2||
-|https://t.me/kittyforums|ONLINE|KittyForums||
+|https://t.me/kittyforums|OFFLINE|KittyForums||
 |https://t.me/Team1956Official|ONLINE|TEAM1956||
 |https://t.me/APTIRGC|ONLINE|APT IRGC||
 |https://t.me/+Pdu3VJRGSuYzOTc0|EXPIRED|Keymous+||
@@ -794,7 +794,7 @@
 |https://t.me/cyberlami|ONLINE|Cyber Lami||
 |https://t.me/databasecyberlami|ONLINE|Database Cyber Lami|Data Leaks|
 |https://t.me/digitalsghost|ONLINE|Digital Ghost||
-|https://t.me/scatteredlapsusp1d3rhunters|ONLINE|The Com HQ Scattered Sp1d3r Hunters|Data Leaks|
+|https://t.me/scatteredlapsusp1d3rhunters|OFFLINE|The Com HQ Scattered Sp1d3r Hunters|Data Leaks|
 |https://t.me/scatteredsp1d3rhunters|ONLINE|scattered lapsus$ hunters|Data Leaks|
 |https://t.me/sp1d3rlapsushunters|OFFLINE|scattered lapsus$ hunters|Data Leaks|
 |https://t.me/leavemealonefbi|ONLINE|scattered lapsu$ hunters - Chat|Data Leaks|

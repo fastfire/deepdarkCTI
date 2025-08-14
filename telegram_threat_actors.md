@@ -792,7 +792,7 @@
 |https://t.me/AKATSUKI4492|ONLINE|AKATSUKY CYBER TEAM|DDoS|
 |https://t.me/hezirash|ONLINE|Hezi Rash|DDoS|
 |https://t.me/cyberlami|ONLINE|Cyber Lami||
-|https://t.me/databasecyberlami|ONLINE|Database Cyber Lami|Data Leaks|
+|https://t.me/databasecyberlami|OFFLINE|Database Cyber Lami|Data Leaks|
 |https://t.me/digitalsghost|ONLINE|Digital Ghost||
 |https://t.me/scatteredlapsusp1d3rhunters|OFFLINE|The Com HQ Scattered Sp1d3r Hunters|Data Leaks|
 |https://t.me/scatteredsp1d3rhunters|ONLINE|scattered lapsus$ hunters|Data Leaks|

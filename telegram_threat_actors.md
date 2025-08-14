@@ -46,7 +46,7 @@
 |https://t.me/+jCjbvdsUSJIzN2Vl|VALID|The Collective Sentinel||
 |https://t.me/+JGt0zzKlbalhMjgx|EXPIRED|PALACHPRO|DDos|
 |https://t.me/+JMruw9EHhWtmYjc9|EXPIRED|BlackDragonSec||
-|https://t.me/+jxENEiay2SRlYmQ8|VALID|Red Wolf Cyber|DDoS|
+|https://t.me/+jxENEiay2SRlYmQ8|EXPIRED|Red Wolf Cyber|DDoS|
 |https://t.me/+k56KDQRn8FplN2Qy|EXPIRED|PHOENIX||
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|
 |https://t.me/+l2fmYlvJnTA2MTc0|VALID|Bucket Leaks|Data Leaks|
@@ -714,7 +714,7 @@
 |https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|
 |https://t.me/R3V0XAn0nymou|ONLINE|Sons of Anarchy|DDoS|
 |https://t.me/CyberforceTn|ONLINE|Tunisian Maskers Cyber Force||
-|https://t.me/+XPHrAwdh_n00MjZk|VALID|Z-ALLIANCE||
+|https://t.me/+XPHrAwdh_n00MjZk|EXPIRED|Z-ALLIANCE||
 |https://t.me/Z_alliance_ru|VALID|Z-ALLIANCE||
 |https://t.me/Official_EvilBYTE|OFFLINE|Evil Byte||
 |https://t.me/DarkfireDragon7|ONLINE|DarkNess7||

@@ -806,3 +806,4 @@
 |https://t.me/leavemealoneBL2C|ONLINE|||
 |https://t.me/leavemealonefeds|ONLINE|||
 |https://t.me/Ktama_Official|Online|Ktama Official|RATs|
+|https://t.me/hazardouscyberteam|ONLINE|Hazardous Cyber Team|Defacements|

@@ -805,3 +805,4 @@
 |https://t.me/leavemealonecybernigger|ONLINE|||
 |https://t.me/leavemealoneBL2C|ONLINE|||
 |https://t.me/leavemealonefeds|ONLINE|||
+|https://t.me/Ktama_Official|Online|Ktama Official|RATs|

@@ -269,3 +269,5 @@
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |
 |[KittyForums](https://kittyforums.to/)| ONLINE | |
+|[ReHubCom (Dark)](http://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd(.)onion/)| ONLINE | |
+|[ReHubCom (Deep)](rehubcom.pro/)| ONLINE | |

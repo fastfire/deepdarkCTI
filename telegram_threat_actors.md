@@ -15,7 +15,6 @@
 |https://t.me/+AAAAAEedZM6cBNj764phgQ|EXPIRED|Large Hacking Group||
 |https://t.me/+AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED|||
 |https://t.me/+AAAAAFNLmVP0ZCy51tNOig|VALID|Forum||
-|https://t.me/+aC3mHL9kVhBhNzM1|VALID|Okto Dark Cyber Squad||
 |https://t.me/+B3LXsqUjJcs4ZGI0|EXPIRED|NoName057(16) France🇫🇷 - april 2025|DDoS|
 |https://t.me/+Bat9QqJcSuE0MTg1|VALID|AresLoader||
 |https://t.me/+BnYEQZsweIRlZThh|EXPIRED|R3An0nymous Chat|DDoS|

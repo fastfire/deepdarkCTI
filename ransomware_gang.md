@@ -520,6 +520,7 @@
 |[VSOP (ex ONIX)](http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion)|OFFLINE||||
 |[WALocker](http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion/)|ONLINE||||
 |[WARLOCK](http://elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion)|ONLINE||||
+|[WARLOCK](http://zfytizegsze6uiswodhbaalyy5rawaytv2nzyzdkt3susbewviqqh7yd.onion)|ONLINE||||
 |[WEREWOLVES GROUP](https://werewolves.pro/en/)|ONLINE||||
 |[WEYHRO](http://xtxtpqpyaaek4p4525ksepyyy75gfvi47fptm2gftw7cn656rnfhzdqd.onion/leaks)|ONLINE||||
 |[WIPER LEAK (only on Discord)](https://discord.com/invite/jjZQdDNnGh)|ONLINE||||

@@ -2,7 +2,7 @@
 |------|------|------|------|
 |https://t.me/+-Wb4k1nQphg3NDc6|VALID|NoName057(16)|DDoS|
 |https://t.me/+02lgyxsgsyAwYmY0|EXPIRED|Ddarknot||
-|https://t.me/+2Rok4x62dzg1NjI6|VALID|NoName057(16) Eng version|DDoS|
+|https://t.me/+2Rok4x62dzg1NjI6|EXPIRED|NoName057(16) Eng version|DDoS|
 |https://t.me/+4CffqtOZoZwxMTcx|EXPIRED|Handala|Ransomware gang|
 |https://t.me/+63wu1QC3KM04ZTJi|ONLINE|Cyber Cossacks||
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED|RED HACKERS ALLIANCE||
@@ -369,7 +369,7 @@
 |https://t.me/hadesh0p|ONLINE|||
 |https://t.me/Handala_backup|OFFLINE|Handala Backup|Leaks & Breaches|
 |https://t.me/Handala_hack|OFFLINE|Handala Hack|Leaks & Breaches|
-|https://t.me/hanzzchannel|ONLINE|GALAXY NETWORK|DDoS|
+|https://t.me/hanzzchannel|OFFLINE|GALAXY NETWORK|DDoS|
 |https://t.me/hellokittyleaks|OFFLINE|Data Leaks||
 |https://t.me/hgn01_ru|OFFLINE|Data Leaks||
 |https://t.me/hidden_links|OFFLINE|Hidden Links||
@@ -525,7 +525,7 @@
 |https://t.me/MysteriousTeam0|OFFLINE|Mysterious team bangladesh||
 |https://t.me/naosbase|ONLINE|DB / Data Leak Search Engine||
 |https://t.me/ndtgroup_kh|OFFLINE|||
-|https://t.me/NekoOsintUpdates|ONLINE|NoSINT - Updates||
+|https://t.me/NekoOsintUpdates|OFFLINE|NoSINT - Updates||
 |https://t.me/net_worker_alliance|OFFLINE|Net Worker Alliance||
 |https://t.me/NetGhostSecurity|ONLINE|DDoS & Data Breach|
 |https://t.me/NetHunt3r|ONLINE|NetHunt3r Group (pro Palestine)|Data Leak|
@@ -539,7 +539,7 @@
 |https://t.me/NNM05716_fr_vers|OFFLINE|NoName057(16) France|DDoS|
 |https://t.me/NNM05716_it_ver|OFFLINE|NoName057(16) ITA|DDoS|
 |https://t.me/nohidespace|OFFLINE|Combo List||
-|https://t.me/NoName05716_16|ONLINE|NoName057(16) Eng_vers|DDoS|
+|https://t.me/NoName05716_16|OFFLINE|NoName057(16) Eng_vers|DDoS|
 |https://t.me/NullLeak|OFFLINE|Data Leaks||
 |https://t.me/O1chat|OFFLINE|Market||
 |https://t.me/OBSERVERCLOUDCOMBO|OFFLINE|Combo List||
@@ -560,7 +560,7 @@
 |https://t.me/Phorcy|ONLINE|Phorcy Stealer|Infostealer|
 |https://t.me/plumdatabases|OFFLINE|Plum data bases|combos|
 |https://t.me/poenamarket|ONLINE|Poena Market||
-|https://t.me/postexploitation|ONLINE|Osint Lovers||
+|https://t.me/postexploitation|OFFLINE|Osint Lovers||
 |https://t.me/private_ratlogs|ONLINE|Free CLouds|combos|
 |https://t.me/privatecombos|OFFLINE|Data Leaks||
 |https://t.me/PrivateCompanyPirates|ONLINE|PrivateCompanyPirates|combos|
@@ -754,7 +754,7 @@
 |https://t.me/D3X73RMa|ONLINE|D3X73R||
 |https://t.me/unitninee|ONLINE|UNIT NINE||
 |https://t.me/+AZ5c6o5gtlU5MDM0|VALID|Wraith C2/API||
-|https://t.me/blankc2|ONLINE|BlankC2||
+|https://t.me/blankc2|OFFLINE|BlankC2||
 |https://t.me/mrhamza_antiporn|ONLINE|Mr Hamza-Anti-Porn||
 |https://t.me/xstuxnet|ONLINE|STUXNET - ستوكسنت||
 |https://t.me/OXO_News_HN|ONLINE|OXO News HN||
@@ -778,7 +778,7 @@
 |https://t.me/+yMqboej1CikxNGZl|VALID|Team Bd Hyp3r 71|DDoS|
 |https://t.me/islamic_hacker_army1|ONLINE|Islamic Hacker Army|Data Leaks|
 |https://t.me/bl00dy_ransomware_Gang_channel|ONLINE|bl🩸🩸dy Ransomware Gang ☠️|Ransomware gang|
-|https://t.me/+JgKWbM4Zn8I1ODRl|VALID|CLOBESECTEAM BACKUP|Data Leaks|
+|https://t.me/+JgKWbM4Zn8I1ODRl|EXPIRED|CLOBESECTEAM BACKUP|Data Leaks|
 |https://t.me/raidf0rumss|ONLINE|Raidforums Office|Forum|
 |https://t.me/leakslist|ONLINE|Leak List|Data Leaks|
 |https://t.me/JokeirR07x|ONLINE|JoKeiR 07x||
@@ -790,7 +790,7 @@
 |https://t.me/ruskinet|ONLINE|RuskiNet Group Cyber Mujahid Of Allah|Data Leaks|
 |https://t.me/AKATSUKI4492|ONLINE|AKATSUKY CYBER TEAM|DDoS|
 |https://t.me/hezirash|ONLINE|Hezi Rash|DDoS|
-|https://t.me/cyberlami|ONLINE|Cyber Lami||
+|https://t.me/cyberlami|OFFLINE|Cyber Lami||
 |https://t.me/databasecyberlami|OFFLINE|Database Cyber Lami|Data Leaks|
 |https://t.me/digitalsghost|ONLINE|Digital Ghost||
 |https://t.me/scatteredlapsusp1d3rhunters|OFFLINE|The Com HQ Scattered Sp1d3r Hunters|Data Leaks|

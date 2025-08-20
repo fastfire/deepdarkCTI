@@ -10,7 +10,7 @@
 |https://t.me/+8UWtFO9H_9dhODVk|EXPIRED|0x_dump alternative channel||
 |https://t.me/+8yMjCnT06ytjNzQx|EXPIRED|||
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
-|https://t.me/+9P5FQ85afTc4NGNl|VALID|Goblin's Database||
+|https://t.me/+9P5FQ85afTc4NGNl|EXPIRED|Goblin's Database||
 |https://t.me/+_d-aW--RLXszYmU0|VALID|Openbullet Config Service||
 |https://t.me/+AAAAAEedZM6cBNj764phgQ|EXPIRED|Large Hacking Group||
 |https://t.me/+AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED|||
@@ -18,7 +18,7 @@
 |https://t.me/+B3LXsqUjJcs4ZGI0|EXPIRED|NoName057(16) France🇫🇷 - april 2025|DDoS|
 |https://t.me/+Bat9QqJcSuE0MTg1|VALID|AresLoader||
 |https://t.me/+BnYEQZsweIRlZThh|EXPIRED|R3An0nymous Chat|DDoS|
-|https://t.me/+ceva_DohRgphMmUy|VALID|Inteid|DDoS|
+|https://t.me/+ceva_DohRgphMmUy|EXPIRED|Inteid|DDoS|
 |https://t.me/+D6JQaDHEzgNiZTEy|EXPIRED|NoName057(16) Spain🇪🇦 - april 2025|DDoS|
 |https://t.me/+DLb_tfrPeE4wNDM8|EXPIRED|Biskooit Pedar||
 |https://t.me/+DZRa-yXaHZ81MmNk|EXPIRED|Handala Hack|Leaks & Breaches|
@@ -718,7 +718,7 @@
 |https://t.me/Official_EvilBYTE|OFFLINE|Evil Byte||
 |https://t.me/DarkfireDragon7|ONLINE|DarkNess7||
 |https://t.me/HiddenEyesTeam|ONLINE|HiddenEyesTeam||
-|https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error System||
+|https://t.me/+ZMoidrbayTgyMzQ9|EXPIRED|Garuda Error System||
 |https://t.me/CoupTeam|ONLINE|Coup Team||
 |https://t.me/+XhceuAZW9QJkOWJl|VALID|Garuna Ops||
 |https://t.me/garunaops|ONLINE|Garuna Ops||

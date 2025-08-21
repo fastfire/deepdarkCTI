@@ -804,8 +804,8 @@
 |https://t.me/leavemealonecybernigger|ONLINE|||
 |https://t.me/leavemealoneBL2C|ONLINE|||
 |https://t.me/leavemealonefeds|ONLINE|||
-|https://t.me/fuckmandiantunit221bcr0wdshart|ONLINE|||
-|https://t.me/sc4ttered|ONLINE|||
+|https://t.me/fuckmandiantunit221bcr0wdshart|OFFLINE|||
+|https://t.me/sc4ttered|OFFLINE|||
 |https://t.me/leavemealonemandiant|ONLINE|||
 |https://t.me/Ktama_Official|Online|Ktama Official|RATs|
 |https://t.me/hazardouscyberteam|ONLINE|Hazardous Cyber Team|Defacements|

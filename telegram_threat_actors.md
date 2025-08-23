@@ -811,3 +811,4 @@
 |https://t.me/Ktama_Official|Online|Ktama Official|RATs|
 |https://t.me/hazardouscyberteam|ONLINE|Hazardous Cyber Team|Defacements|
 |https://t.me/shinobiraas|ONLINE|Sinobi RaaS|RaaS|
+|https://t.me/CyberToufan02|ONLINE|Cyber Toufan||

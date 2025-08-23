@@ -807,6 +807,7 @@
 |https://t.me/fuckmandiantunit221bcr0wdshart|OFFLINE|||
 |https://t.me/sc4ttered|OFFLINE|||
 |https://t.me/leavemealonemandiant|ONLINE|||
+|https://t.me/+79uRVmeaXwJmZWNl|VALID|Scattered Lapsus$||
 |https://t.me/Ktama_Official|Online|Ktama Official|RATs|
 |https://t.me/hazardouscyberteam|ONLINE|Hazardous Cyber Team|Defacements|
 |https://t.me/shinobiraas|ONLINE|Sinobi RaaS|RaaS|

@@ -6,7 +6,7 @@
 |https://t.me/+4CffqtOZoZwxMTcx|EXPIRED|Handala|Ransomware gang|
 |https://t.me/+63wu1QC3KM04ZTJi|ONLINE|Cyber Cossacks||
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED|RED HACKERS ALLIANCE||
-|https://t.me/+7VXL5Gy9NUc1YzFl|VALID|Darknet chat||
+|https://t.me/+7VXL5Gy9NUc1YzFl|EXPIRED|Darknet chat||
 |https://t.me/+8UWtFO9H_9dhODVk|EXPIRED|0x_dump alternative channel||
 |https://t.me/+8yMjCnT06ytjNzQx|EXPIRED|||
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
@@ -714,7 +714,7 @@
 |https://t.me/R3V0XAn0nymou|ONLINE|Sons of Anarchy|DDoS|
 |https://t.me/CyberforceTn|ONLINE|Tunisian Maskers Cyber Force||
 |https://t.me/+XPHrAwdh_n00MjZk|EXPIRED|Z-ALLIANCE||
-|https://t.me/Z_alliance_ru|VALID|Z-ALLIANCE||
+|https://t.me/Z_alliance_ru|OFFLINE|Z-ALLIANCE||
 |https://t.me/Official_EvilBYTE|OFFLINE|Evil Byte||
 |https://t.me/DarkfireDragon7|ONLINE|DarkNess7||
 |https://t.me/HiddenEyesTeam|ONLINE|HiddenEyesTeam||
@@ -769,7 +769,7 @@
 |https://t.me/handala_team|OFFLINE|Handala|Ransomware gang|
 |https://t.me/T34M_CYB3R|OFFLINE|𝙏𝙀𝘼𝙈 𝘾𝙔𝘽𝙀𝙍 𝙕𝙐𝙇𝙁𝙄𝙌𝘼𝙍 🇵🇸|DDoS|
 |https://t.me/perunswaroga|ONLINE|Перун Сварога|Data Leaks|
-|https://t.me/ruskinet|ONLINE|RuskiNet|DDoS & Data Breach|
+|https://t.me/ruskinet|OFFLINE|RuskiNet|DDoS & Data Breach|
 |https://t.me/vulture_001|ONLINE|Vulture||
 |https://t.me/unknowns_cyberteam|ONLINE|Unknowns Cyber Team||
 |https://t.me/WeAreUst|ONLINE|USTINT||
@@ -787,23 +787,22 @@
 |https://t.me/threadsbreach|ONLINE|Threads Breachforum|Data Leaks|
 |https://t.me/GhilanLegion|ONLINE|Ghilan Legion||
 |https://t.me/darkstormteamoff|ONLINE|Dark Storm|DDoS|
-|https://t.me/ruskinet|ONLINE|RuskiNet Group Cyber Mujahid Of Allah|Data Leaks|
 |https://t.me/AKATSUKI4492|ONLINE|AKATSUKY CYBER TEAM|DDoS|
 |https://t.me/hezirash|ONLINE|Hezi Rash|DDoS|
 |https://t.me/cyberlami|OFFLINE|Cyber Lami||
 |https://t.me/databasecyberlami|OFFLINE|Database Cyber Lami|Data Leaks|
 |https://t.me/digitalsghost|ONLINE|Digital Ghost||
 |https://t.me/scatteredlapsusp1d3rhunters|OFFLINE|The Com HQ Scattered Sp1d3r Hunters|Data Leaks|
-|https://t.me/scatteredsp1d3rhunters|ONLINE|scattered lapsus$ hunters|Data Leaks|
+|https://t.me/scatteredsp1d3rhunters|OFFLINE|scattered lapsus$ hunters|Data Leaks|
 |https://t.me/sp1d3rlapsushunters|OFFLINE|scattered lapsus$ hunters|Data Leaks|
-|https://t.me/leavemealonefbi|ONLINE|scattered lapsu$ hunters - Chat|Data Leaks|
+|https://t.me/leavemealonefbi|OFFLINE|scattered lapsu$ hunters - Chat|Data Leaks|
 |https://t.me/+Urm9oSCMH9hmNTI1|ONLINE|Breach Forums||
 |https://t.me/+xaAIZrkJgKkyZTM1|VALID|Aegis Staff (related to Breach Forum)||
 |https://t.me/BQTlock_raas|ONLINE|BAQIYATLock RaaS|Ransomware Gang|
 |https://t.me/nullsechackers|ONLINE|Nullsec Philippines|DDoS|
-|https://t.me/leavemealonecybernigger|ONLINE|||
-|https://t.me/leavemealoneBL2C|ONLINE|||
-|https://t.me/leavemealonefeds|ONLINE|||
+|https://t.me/leavemealonecybernigger|OFFLINE|||
+|https://t.me/leavemealoneBL2C|OFFLINE|||
+|https://t.me/leavemealonefeds|OFFLINE|||
 |https://t.me/fuckmandiantunit221bcr0wdshart|OFFLINE|||
 |https://t.me/sc4ttered|OFFLINE|||
 |https://t.me/leavemealonemandiant|ONLINE|||

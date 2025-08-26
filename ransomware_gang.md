@@ -101,6 +101,7 @@
 |[BRAIN CIPHER (File Server)](http://zktnif5vckhmz5tyrukp5bamatbfhkxjnb23rspsanyzywcrx3bvtqad.onion)|ONLINE||||
 |[BRAIN CIPHER (Victims page)](http://mybmtbgd7aprdnw2ekxht5qap5daam2wch25coqerrq2zdioanob34ad.onion)|OFFLINE||||
 |[CACTUS](https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion)|ONLINE||||
+|[CEPHALUS](http://cephalus6oiypuwumqlwurvbmwsfglg424zjdmywfgqm4iehkqivsjyd.onion)|ONLINE||||
 |[CHAOS](http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion)|ONLINE||BFC836EBAE06450FDD36B63170F121F44ADADFF2DAFAAFA41314B6778F6003501B0799F013FA - EC99BD5A36DE69144F5402C832B5413295323FC7C12259C53E4AA6D5BC2D4E6DA44C537F9FEC||
 |[CHEERS](http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion)|OFFLINE||||
 |[CHILE LOCKER (Victim request ID Page)](http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion/login)|OFFLINE||||

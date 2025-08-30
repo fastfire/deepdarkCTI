@@ -817,3 +817,4 @@
 |https://t.me/Keymous_main|ONLINE|Keymous+|DDoS|
 |https://t.me/+S_ajHerTbKUwYTA0|VALID|Keymous+ (backup)|DDoS|
 |https://t.me/FireWireMaroc|ONLINE|Fire Wire Maroc|DDoS & Data Leaks|
+|https://t.me/gangexposed_eng|ONLINE|Gang Exposed Chat||

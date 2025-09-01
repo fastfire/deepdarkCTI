@@ -157,7 +157,7 @@
 |[LEAKBASE](https://leakbase.cc)| OFFLINE | |
 |[LEAKBASE](https://leakbase.io)| OFFLINE | |
 |[LEAKBASE](https://leakbase.la)| ONLINE | |
-|[LEAKBASE](https://leakbase.org)| ONLINE | |
+|[LEAKBASE](https://leakbase.org)| OFFLINE | |
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
@@ -269,5 +269,5 @@
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |
 |[KittyForums](https://kittyforums.to/)| ONLINE | |
-|[ReHubCom (Dark)](http://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd(.)onion/)| ONLINE | |
-|[ReHubCom (Deep)](rehubcom.pro/)| ONLINE | |
+|[ReHubCom (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
+|[ReHubCom (Deep)](https://rehubcom.pro)| ONLINE | |

@@ -583,7 +583,7 @@
 |https://t.me/RalfHackerChannel|ONLINE|Ralf Hacker Channel||
 |https://t.me/ransom_house|OFFLINE|RansomHouse official channel||
 |https://t.me/ransomblackbit30|OFFLINE|Lockbit 3.0 Main.js||
-|https://t.me/RansomHunter|ONLINE|GangExposed||
+|https://t.me/RansomHunter|OFFLINE|GangExposed||
 |https://t.me/RansomTeam|ONLINE|RansomTeam  Chat||
 |https://t.me/RansomwareTeam|ONLINE|Ransomware Team||
 |https://t.me/ransomwatcher|ONLINE|Data Leaks||
@@ -764,7 +764,7 @@
 |https://t.me/usersecc|ONLINE|UserSec # KillNet||
 |https://t.me/vassal_of_the_Joker|ONLINE|Вассал Джокера||
 |https://t.me/+hSH4gfaaAOA4YzY6|VALID|Sector16/S16 #Killnet||
-|https://t.me/CyberToufan01|ONLINE|CyberToufan|Data Leaks|
+|https://t.me/CyberToufan01|OFFLINE|CyberToufan|Data Leaks|
 |https://t.me/+1R9pU3u-9ac0ZmZl|VALID|DataLeaky|Data Leaks|
 |https://t.me/handala_team|OFFLINE|Handala|Ransomware gang|
 |https://t.me/T34M_CYB3R|OFFLINE|𝙏𝙀𝘼𝙈 𝘾𝙔𝘽𝙀𝙍 𝙕𝙐𝙇𝙁𝙄𝙌𝘼𝙍 🇵🇸|DDoS|

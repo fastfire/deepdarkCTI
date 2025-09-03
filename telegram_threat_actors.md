@@ -401,7 +401,7 @@
 |https://t.me/informZarya|OFFLINE|Zarya||
 |https://t.me/InfraShutdown|OFFLINE|InfraShutdown - DDoS|DDoS|
 |https://t.me/inj3ct0rs|ONLINE|Exploits Market and 0day Exploits Database||
-|https://t.me/inteid|ONLINE|Inteid|DDoS|
+|https://t.me/inteid|OFFLINE|Inteid|DDoS|
 |https://t.me/intelrepo|OFFLINE|Spectre's Intel Repository||
 |https://t.me/intelx_io|OFFLINE|intelx - infosec||
 |https://t.me/ircodebreakers|OFFLINE|Codebreakers|Data Breach|

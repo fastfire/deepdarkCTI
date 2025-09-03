@@ -814,6 +814,8 @@
 |https://t.me/CyberToufan00|ONLINE|Cyber Toufan (reference channel)||
 |https://t.me/dropleak|ONLINE|Database Catalog|Data leaks and Combo lists|
 |https://t.me/noname05716_eng_vers|ONLINE|NoName057_eng_version|DDoS|
+|https://t.me/+WO3nKwBvJRM2NGMy|ONLINE|NoName057 RU|DDoS|
+|https://t.me/joinchat/mexyxU88FCswM2Yy|ONLINE|NoName057 DDoSia Project|DDoS|
 |https://t.me/Keymous_main|ONLINE|Keymous+|DDoS|
 |https://t.me/+S_ajHerTbKUwYTA0|VALID|Keymous+ (backup)|DDoS|
 |https://t.me/FireWireMaroc|ONLINE|Fire Wire Maroc|DDoS & Data Leaks|

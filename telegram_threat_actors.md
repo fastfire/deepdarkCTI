@@ -824,3 +824,4 @@
 |https://t.me/+DdTJZYISZSs0MzRk|Hyder_N3x Buckup Channel|DDoS|
 |https://t.me/T34M_F34RL3SSS|ONLINE|Team Fearless|DDoS|
 |https://t.me/Himenisme666|ONLINE|Hime666||
+|https://t.me/KirovEliteGroupPublic|ONLINE|Kirov Elite Group||

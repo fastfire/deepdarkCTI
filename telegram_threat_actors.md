@@ -155,7 +155,7 @@
 |https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|
 |https://t.me/azzasec|OFFLINE|AzzaSec||
 |https://t.me/BangladeshAnonymous|OFFLINE|BD Anonymous|DDoS|
-|https://t.me/baphchat|ONLINE|The Jacuzzi||
+|https://t.me/baphchat|OFFLINE|The Jacuzzi||
 |https://t.me/base_brutesu|ONLINE|Combo List|
 |https://t.me/baseleak|OFFLINE|Data Leaks||
 |https://t.me/baseleeak|ONLINE|BaseLeak|Data Breach|
@@ -753,7 +753,7 @@
 |https://t.me/nxbbsec|ONLINE|NXBB SEC||
 |https://t.me/D3X73RMa|ONLINE|D3X73R||
 |https://t.me/unitninee|ONLINE|UNIT NINE||
-|https://t.me/+AZ5c6o5gtlU5MDM0|VALID|Wraith C2/API||
+|https://t.me/+AZ5c6o5gtlU5MDM0|EXPIRED|Wraith C2/API||
 |https://t.me/blankc2|OFFLINE|BlankC2||
 |https://t.me/mrhamza_antiporn|ONLINE|Mr Hamza-Anti-Porn||
 |https://t.me/xstuxnet|ONLINE|STUXNET - ستوكسنت||

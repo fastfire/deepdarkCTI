@@ -825,3 +825,4 @@
 |https://t.me/T34M_F34RL3SSS|ONLINE|Team Fearless|DDoS|
 |https://t.me/Himenisme666|ONLINE|Hime666||
 |https://t.me/KirovEliteGroupPublic|ONLINE|Kirov Elite Group||
+|https://t.me/breachstars|ONLINE|BreachStars|Data Leak (related to Scattered Spider/$Lapsus)|

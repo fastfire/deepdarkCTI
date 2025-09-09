@@ -807,6 +807,9 @@
 |https://t.me/sc4ttered|OFFLINE|||
 |https://t.me/leavemealonemandiant|ONLINE|||
 |https://t.me/+79uRVmeaXwJmZWNl|VALID|Scattered Lapsus$||
+|https://t.me/+xDpCtwPtlGBmYmU1|VALID|ShinyHunters $Lapsus||
+|https://t.me/sctt3rd|ONLINE|scattered $lapsus hunters 4.0||
+|https://t.me/leaksdatabreach|ONLINE|Data Breach (related to ShinyHunters)||
 |https://t.me/Ktama_Official|Online|Ktama Official|RATs|
 |https://t.me/hazardouscyberteam|ONLINE|Hazardous Cyber Team|Defacements|
 |https://t.me/shinobiraas|ONLINE|Sinobi RaaS|RaaS|

@@ -399,6 +399,7 @@
 |[RANSOMCORTEX](http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion)|ONLINE||||
 |[RAWORLD](http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion)|ONLINE||||
 |[RABBIT HOLE](http://z5jixbfejdu5wtxd2baliu6hwzgcitlspnttr7c2eopl5ccfcjrhkqid.onion)|ONLINE||||
+|[RADAR](http://3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid.onion/leaked-data)|ONLINE||||
 |[RAGNAR LOCKER](http://p6o7m73ujalhgkiv.onion)|OFFLINE||||
 |[RAGNAR LOCKER](http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion)|ONLINE||||
 |[RAGNAR LOCKER (Old)](http://ragnarleaks.top)|OFFLINE||||

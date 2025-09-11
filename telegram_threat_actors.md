@@ -830,3 +830,5 @@
 |https://t.me/KirovEliteGroupPublic|ONLINE|Kirov Elite Group||
 |https://t.me/breachstars|ONLINE|BreachStars|Data Leak (related to Scattered Spider/$Lapsus)|
 |https://t.me/TorZireael1|ONLINE|Tor Zireael||
+|https://t.me/scatteredLapsus|ONLINE|Scattered Lapsus$ Hunter 6.0||
+|https://t.me/biorkanisms|ONLINE|Bjorkanism||

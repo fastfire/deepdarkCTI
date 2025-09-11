@@ -832,3 +832,4 @@
 |https://t.me/TorZireael1|ONLINE|Tor Zireael||
 |https://t.me/scatteredLapsus|ONLINE|Scattered Lapsus$ Hunter 6.0||
 |https://t.me/biorkanisms|ONLINE|Bjorkanism||
+|https://t.me/BF_files|ONLINE|BF Files|Data Leaks|

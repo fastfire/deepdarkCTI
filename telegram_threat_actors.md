@@ -676,7 +676,7 @@
 |https://t.me/vulture_001|ONLINE|Vulture|DDoS|
 |https://t.me/vulzsec_official|OFFLINE|||
 |https://t.me/We_are_not_eternal|ONLINE|||
-|https://t.me/weareaig|ONLINE|Atlas Intelligence Group||
+|https://t.me/weareaig|OFFLINE|Atlas Intelligence Group||
 |https://t.me/WeAreKillnet_Channel|ONLINE|WE ARE KILLNET||
 |https://t.me/WeAreKillnet_Official|ONLINE|WE ARE KILLNET +||
 |https://t.me/webpwn|ONLINE|Hacking, Privacy||
@@ -796,7 +796,7 @@
 |https://t.me/scatteredsp1d3rhunters|OFFLINE|scattered lapsus$ hunters|Data Leaks|
 |https://t.me/sp1d3rlapsushunters|OFFLINE|scattered lapsus$ hunters|Data Leaks|
 |https://t.me/leavemealonefbi|OFFLINE|scattered lapsu$ hunters - Chat|Data Leaks|
-|https://t.me/+Urm9oSCMH9hmNTI1|ONLINE|Breach Forums||
+|https://t.me/+Urm9oSCMH9hmNTI1|EXPIRED|Breach Forums||
 |https://t.me/+xaAIZrkJgKkyZTM1|EXPIRED|Aegis Staff (related to Breach Forum)||
 |https://t.me/BQTlock_raas|ONLINE|BAQIYATLock RaaS|Ransomware Gang|
 |https://t.me/nullsechackers|ONLINE|Nullsec Philippines|DDoS|
@@ -830,7 +830,7 @@
 |https://t.me/KirovEliteGroupPublic|ONLINE|Kirov Elite Group||
 |https://t.me/breachstars|ONLINE|BreachStars|Data Leak (related to Scattered Spider/$Lapsus)|
 |https://t.me/TorZireael1|ONLINE|Tor Zireael||
-|https://t.me/scatteredLapsus|ONLINE|Scattered Lapsus$ Hunter 6.0||
+|https://t.me/scatteredLapsus|OFFLINE|Scattered Lapsus$ Hunter 6.0||
 |https://t.me/biorkanisms|ONLINE|Bjorkanism||
 |https://t.me/BF_files|ONLINE|BF Files|Data Leaks|
 |https://t.me/networker_apt|ONLINE|NET-WORKER||

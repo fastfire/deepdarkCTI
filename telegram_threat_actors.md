@@ -521,7 +521,7 @@
 |https://t.me/milkdude|ONLINE|Data Leaks||
 |https://t.me/minsaudebr|OFFLINE|Lapsus$ channel||
 |https://t.me/mlcloud_hosting_news|ONLINE|mlcloud_hosting_news|Data breach MlCloud BPH|
-|https://t.me/mrhamzaofficiel|ONLINE|Mr Hamza|DDOS|
+|https://t.me/mrhamzaofficiel|OFFLINE|Mr Hamza|DDOS|
 |https://t.me/MysteriousTeam0|OFFLINE|Mysterious team bangladesh||
 |https://t.me/naosbase|ONLINE|DB / Data Leak Search Engine||
 |https://t.me/ndtgroup_kh|OFFLINE|||
@@ -785,7 +785,7 @@
 |https://t.me/ANONXF34RL3SS|OFFLINE| ANON X FEARLESS||
 |https://t.me/xServerKillers|ONLINE|Server Killers|DDoS|
 |https://t.me/threadsbreach|ONLINE|Threads Breachforum|Data Leaks|
-|https://t.me/GhilanLegion|ONLINE|Ghilan Legion||
+|https://t.me/GhilanLegion|OFFLINE|Ghilan Legion||
 |https://t.me/darkstormteamoff|ONLINE|Dark Storm|DDoS|
 |https://t.me/AKATSUKI4492|ONLINE|AKATSUKY CYBER TEAM|DDoS|
 |https://t.me/hezirash|ONLINE|Hezi Rash|DDoS|
@@ -809,10 +809,10 @@
 |https://t.me/+79uRVmeaXwJmZWNl|VALID|Scattered Lapsus$||
 |https://t.me/+xDpCtwPtlGBmYmU1|VALID|ShinyHunters $Lapsus||
 |https://t.me/sctt3rd|ONLINE|scattered $lapsus hunters 4.0||
-|https://t.me/leaksdatabreach|ONLINE|Data Breach (related to ShinyHunters)||
+|https://t.me/leaksdatabreach|OFFLINE|Data Breach (related to ShinyHunters)||
 |https://t.me/Ktama_Official|Online|Ktama Official|RATs|
 |https://t.me/hazardouscyberteam|ONLINE|Hazardous Cyber Team|Defacements|
-|https://t.me/shinobiraas|ONLINE|Sinobi RaaS|RaaS|
+|https://t.me/shinobiraas|OFFLINE|Sinobi RaaS|RaaS|
 |https://t.me/CyberToufan02|ONLINE|Cyber Toufan (evidences channel)||
 |https://t.me/CyberToufan00|ONLINE|Cyber Toufan (reference channel)||
 |https://t.me/dropleak|ONLINE|Database Catalog|Data leaks and Combo lists|

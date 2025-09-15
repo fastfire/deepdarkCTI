@@ -112,6 +112,7 @@
 |[CLOP](http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion)|ONLINE||||
 |[CLOP (torrents)](http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion)|ONLINE||||
 |[CLOP (Old)](http://ekbgzchl6x2ias37.onion)|OFFLINE||||
+|[COINBASE CARTEL](http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion)|ONLINE||1225DDE01980D7C7890A90E359EF4406D74DF7DB94F6C5F3B8378BB78444473022675C49FACB||
 |[CONTI/RYUK (Dark)](http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion)|OFFLINE||||
 |[CONTI/RYUK (Deep)](https://continews.click)|OFFLINE||||
 |[COOMINGPROJECT (Tor v2)](http://teo7aj5mfgzxyeme.onion)|OFFLINE||||

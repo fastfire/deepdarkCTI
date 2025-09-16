@@ -87,6 +87,7 @@
 |[BLACKOUT](http://black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion)|ONLINE||36A73D90C66948D9268BDC4174A40E0064C43F10A35AEAA9DD74B3A14EF5654872D5DC67FC14||
 |[BLACK SHADOW (Deep)](https://blackshadow.cc)|OFFLINE||https://t.me/Blackshadow_Team_official||
 |[BLACK SHADOW](http://544corkfh5hwhtn4.onion)|OFFLINE||||
+|[BLACKSHRANTAC](http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion)|ONLINE||||
 |[BLACK SUIT](http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion)|ONLINE||||
 |[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE||||
 |[BLUEBOX](http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion)|ONLINE||||

@@ -808,7 +808,7 @@
 |https://t.me/leavemealonemandiant|ONLINE|||
 |https://t.me/+79uRVmeaXwJmZWNl|EXPIRED|Scattered Lapsus$||
 |https://t.me/+xDpCtwPtlGBmYmU1|EXPIRED|ShinyHunters $Lapsus||
-|https://t.me/sctt3rd|ONLINE|scattered $lapsus hunters 4.0||
+|https://t.me/sctt3rd|OFFLINE|scattered $lapsus hunters 4.0||
 |https://t.me/leaksdatabreach|OFFLINE|Data Breach (related to ShinyHunters)||
 |https://t.me/Ktama_Official|Online|Ktama Official|RATs|
 |https://t.me/hazardouscyberteam|ONLINE|Hazardous Cyber Team|Defacements|
@@ -832,6 +832,6 @@
 |https://t.me/TorZireael1|ONLINE|Tor Zireael||
 |https://t.me/scatteredLapsus|OFFLINE|Scattered Lapsus$ Hunter 6.0||
 |https://t.me/biorkanisms|OFFLINE|Bjorkanism||
-|https://t.me/BF_files|ONLINE|BF Files|Data Leaks|
+|https://t.me/BF_files|OFFLINE|BF Files|Data Leaks|
 |https://t.me/networker_apt|ONLINE|NET-WORKER||
 |https://t.me/Z_ALLIANCE/|ONLINE|Z_ALLIANCE||

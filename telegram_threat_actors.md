@@ -136,7 +136,7 @@
 |https://t.me/APIddosMirai|ONLINE|Killnet API DDoS Mirai|DDoS|
 |https://t.me/apt404team|OFFLINE|ApT 404 Team|DDoS & Data Breach|
 |https://t.me/APTANALYSIS|OFFLINE|Exploits||
-|https://t.me/APTIRAN|ONLINE|APT Iran||
+|https://t.me/APTIRAN|OFFLINE|APT Iran||
 |https://t.me/Arab_Hackers_Union|OFFLINE|Arab Hackers Union||
 |https://t.me/ArabGhostHackers|OFFLINE|ArabGhost|DDoS|
 |https://t.me/arabghostschat|ONLINE|ArabGhost||
@@ -234,7 +234,7 @@
 |https://t.me/cyber_anarchy_squad|ONLINE|[ Cyber.Anarchy.Squad ]||
 |https://t.me/cyberactiveXXII|ONLINE|CA XXII Hacktivist Gang||
 |https://t.me/CyberArmyofRussia_Reborn|OFFLINE|Sandworm||
-|https://t.me/CyberAv3ngers|ONLINE|Cyber Av3ngers||
+|https://t.me/CyberAv3ngers|OFFLINE|Cyber Av3ngers||
 |https://t.me/CyberAveng3rs|OFFLINE|Cyber Aveng3rs||
 |https://t.me/CyberCatChat|OFFLINE|Cyber Cat chat||
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel||
@@ -479,8 +479,8 @@
 |https://t.me/lefousamples|ONLINE|Data Leaks|
 |https://t.me/Legion_Russia|OFFLINE|Legion Russia||
 |https://t.me/LEGIONLEAKER|OFFLINE|Legion Leaker||
-|https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data Leak|
-|https://t.me/LegionServiceNews|ONLINE|Legion Service News|News|
+|https://t.me/LegionServiceNewsGroup|OFFLINE|Legion Service News Group|Data Leak|
+|https://t.me/LegionServiceNews|OFFLINE|Legion Service News|News|
 |https://t.me/LionheartHACK|OFFLINE|Lionheart||
 |https://t.me/Liquid_Blood|ONLINE|Liquid Blood|DDoS|
 |https://t.me/LockBit_APT|ONLINE|LockBit APT||

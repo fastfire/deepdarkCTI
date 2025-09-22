@@ -11,6 +11,7 @@
 |https://x.com/RuskiNetGroup| RuskiNet | |
 |https://x.com/SkBoss484479| Akatsuki Cyber Team | |
 |https://x.com/DarkstormTeam1| Dark Storm | DDoS |
+https://x.com/Darkstormteamdd| Dark Storm | DDoS |
 |https://x.com/PsExec64| Conti | Ransomware |
 |https://x.com/reyxbf| Rey - HellCat | Ransomware |
 |https://x.com/Noname05716| NoName056 | DDoS |

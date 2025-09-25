@@ -843,3 +843,5 @@
 |https://t.me/+-ocgMgaZKi5lMDJl|ONLINE|CLOBELSECTEAM|Data Leaks|
 |https://t.me/+Uee76jMCr5UzMTVl|ONLINE|CLOBELSECTEAM|Data Leaks|
 |https://t.me/+oMBufAf0BBoyMTJl|ONLINE|CLOBELSECTEAM|Data Leaks|
+|https://t.me/rubiconh4ckss|ONLINE|Rubicon Hack||
+|https://t.me/GhilanLegion|ONLINE|Ghilan Legion||

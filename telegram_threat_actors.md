@@ -131,7 +131,7 @@
 |https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/AnonymousVNLBN9|ONLINE|VNLBN9|DDoS|
 |https://t.me/antiextchatt|ONLINE|AE Chat||
-|https://t.me/AntiPlumbers|ONLINE||
+|https://t.me/AntiPlumbers|OFFLINE||
 |https://t.me/anzu_team|ONLINE|Anzu Team||
 |https://t.me/APIddosMirai|ONLINE|Killnet API DDoS Mirai|DDoS|
 |https://t.me/apt404team|OFFLINE|ApT 404 Team|DDoS & Data Breach|
@@ -497,7 +497,7 @@
 |https://t.me/LummaReborn|OFFLINE|LummaC2 Stealer Channel|Infostealer|
 |https://t.me/LummaTeam_Reborn|OFFLINE|LummaC2 Stealer Chat|Infostealer|
 |https://t.me/M0roccan_Black_CyberArmy|ONLINE|Moroccan Black Cyber Army|DDoS & Data Breach|
-|https://t.me/MadCapZone|ONLINE|MadCap|DDoS & Data Breach|
+|https://t.me/MadCapZone|OFFLINE|MadCap|DDoS & Data Breach|
 |https://t.me/MAilAccessCracker|OFFLINE|Free Data Breaches Provider||
 |https://t.me/mailaccesscrack|OFFLINE|Combo Lists||
 |https://t.me/mailaccessmegacloud|OFFLINE|MailAccess Mega Cloud|combos|
@@ -827,7 +827,7 @@
 |https://t.me/+DdTJZYISZSs0MzRk|Hyder_N3x Buckup Channel|DDoS|
 |https://t.me/T34M_F34RL3SSS|ONLINE|Team Fearless|DDoS|
 |https://t.me/Himenisme666|ONLINE|Hime666||
-|https://t.me/KirovEliteGroupPublic|ONLINE|Kirov Elite Group||
+|https://t.me/KirovEliteGroupPublic|OFFLINE|Kirov Elite Group||
 |https://t.me/breachstars|ONLINE|BreachStars|Data Leak (related to Scattered Spider/$Lapsus)|
 |https://t.me/TorZireael1|ONLINE|Tor Zireael||
 |https://t.me/scatteredLapsus|OFFLINE|Scattered Lapsus$ Hunter 6.0||

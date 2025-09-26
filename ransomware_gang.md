@@ -369,8 +369,9 @@
 |[NOKOYAWA](http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion)|OFFLINE||||
 |[NOKOYAWA](http://nokoleakb76znymx443veg4n6fytx6spck6pc7nkr4dvfuygpub6jsid.onion)|ONLINE||||
 |[NONAME](http://noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion)|ONLINE||||
-|[NOVA](http://novav75eqkjoxct7xuhhwnjw5uaaxvznhtbykq6zal5x7tfevxzjyqyd.onion)|ONLINE||||
-|[NOVA](http://novavagygnhqyf7a5tgbuvmujve5a2jzgbrq2n4dvetkhvr2zjg27cad.onion)|ONLINE||||
+|[NOVA](http://novav75eqkjoxct7xuhhwnjw5uaaxvznhtbykq6zal5x7tfevxzjyqyd.onion)|OFFLINE||||
+|[NOVA](http://novavagygnhqyf7a5tgbuvmujve5a2jzgbrq2n4dvetkhvr2zjg27cad.onion)|OFFLINE||||
+|[NOVA](http://novaxtychr6ohlc4zr5its73p6i7unpuhpwoodtzrg2y4w4seytatlid.onion)|ONLINE||||
 |[NULLBULGE](https://nullbulge.co/blog.html)|ONLINE||||
 |[OBSCURA](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||||
 |[ONEPERCENT](http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion)|OFFLINE||||

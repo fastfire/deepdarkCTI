@@ -737,7 +737,7 @@
 |https://t.me/+4zDdD8MeZCI1MWQ6|EXPIRED|SECTOR16||
 |https://t.me/+i2FG331VOjA0ODE1|VALID|AKULAv2||
 |https://t.me/kittyforums|OFFLINE|KittyForums||
-|https://t.me/Team1956Official|ONLINE|TEAM1956||
+|https://t.me/Team1956Official|OFFLINE|TEAM1956||
 |https://t.me/APTIRGC|ONLINE|APT IRGC||
 |https://t.me/+Pdu3VJRGSuYzOTc0|EXPIRED|Keymous+||
 |https://t.me/CyberBabayoEror|ONLINE|Babayo eror system||

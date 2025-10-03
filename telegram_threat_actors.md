@@ -848,3 +848,5 @@
 |https://t.me/thecrimsoncollective|ONLINE|The Crimson Collective|Data Leaks|
 |https://t.me/jacuzzidf|ONLINE|The Jacuzzi||
 |https://t.me/unknowns_cyberteam|ONLINE|Unknowns Cyber Team||
+|https://t.me/specialagentadam|ONLINE|SLSH 6.0 part 3|related to Scattered Spider|
+|https://t.me/SLSH_kashpatel|ONLINE|SLSH BACKUP 2|related to Scattered Spider|

@@ -817,14 +817,14 @@
 |https://t.me/CyberToufan00|ONLINE|Cyber Toufan (reference channel)||
 |https://t.me/dropleak|ONLINE|Database Catalog|Data leaks and Combo lists|
 |https://t.me/noname05716_eng_vers|ONLINE|NoName057_eng_version|DDoS|
-|https://t.me/+WO3nKwBvJRM2NGMy|ONLINE|NoName057 RU|DDoS|
+|https://t.me/+WO3nKwBvJRM2NGMy|VALID|NoName057 RU|DDoS|
 |https://t.me/joinchat/mexyxU88FCswM2Yy|ONLINE|NoName057 DDoSia Project|DDoS|
 |https://t.me/Keymous_main|OFFLINE|Keymous+|DDoS|
 |https://t.me/+S_ajHerTbKUwYTA0|VALID|Keymous+ (backup)|DDoS|
 |https://t.me/FireWireMaroc|ONLINE|Fire Wire Maroc|DDoS & Data Leaks|
 |https://t.me/gangexposed_eng|ONLINE|Gang Exposed Chat||
 |https://t.me/Hyder_N3x|OFFLINE|Hyder_N3x|DDoS|
-|https://t.me/+DdTJZYISZSs0MzRk|Hyder_N3x Buckup Channel|DDoS|
+|https://t.me/+DdTJZYISZSs0MzRk|VALID|Hyder_N3x Buckup Channel|DDoS|
 |https://t.me/T34M_F34RL3SSS|ONLINE|Team Fearless|DDoS|
 |https://t.me/Himenisme666|ONLINE|Hime666||
 |https://t.me/KirovEliteGroupPublic|OFFLINE|Kirov Elite Group||
@@ -840,9 +840,9 @@
 |https://t.me/Almo7a9e9|ONLINE| Almo7a9e9||
 |https://t.me/Darkstormteamnewteam|ONLINE|Dark Storm Team||
 |https://t.me/bittenforumsofficial|ONLINE|Bitten Forums|Forum|
-|https://t.me/+-ocgMgaZKi5lMDJl|ONLINE|CLOBELSECTEAM|Data Leaks|
-|https://t.me/+Uee76jMCr5UzMTVl|ONLINE|CLOBELSECTEAM|Data Leaks|
-|https://t.me/+oMBufAf0BBoyMTJl|ONLINE|CLOBELSECTEAM|Data Leaks|
+|https://t.me/+-ocgMgaZKi5lMDJl|EXPIRED|CLOBELSECTEAM|Data Leaks|
+|https://t.me/+Uee76jMCr5UzMTVl|VALID|CLOBELSECTEAM|Data Leaks|
+|https://t.me/+oMBufAf0BBoyMTJl|VALID|CLOBELSECTEAM|Data Leaks|
 |https://t.me/rubiconh4ckss|ONLINE|Rubicon Hack||
 |https://t.me/GhilanLegion|ONLINE|Ghilan Legion||
 |https://t.me/thecrimsoncollective|ONLINE|The Crimson Collective|Data Leaks|

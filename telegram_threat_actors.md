@@ -850,4 +850,4 @@
 |https://t.me/unknowns_cyberteam|ONLINE|Unknowns Cyber Team||
 |https://t.me/specialagentadam|OFFLINE|SLSH 6.0 part 3|related to Scattered Spider|
 |https://t.me/SLSH_kashpatel|OFFLINE|SLSH BACKUP 2|related to Scattered Spider|
-|https://t.me/s/andrewfedman|ONLINE|SLSH 6.0 part 3 - lapsus$hiny$scatteredwizard|related to Scattered Spider|
+|https://t.me/andrewfedman|ONLINE|SLSH 6.0 part 3 - lapsus$hiny$scatteredwizard|related to Scattered Spider|

@@ -246,6 +246,7 @@
 |[Kill Security 3.0](http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/)|ONLINE||||
 |[KNIGHT (ex CYCLOPS)](http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion)|ONLINE||9096AD7062A4232F5AA31C2F7C4DF0AC1EAD10B78D40A6A3328AD142A42B555E635954D8B6C5||
 |[Kraken](http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion)|ONLINE||||
+|[KRYPTOS](http://kryptospnjzz7vfkr663bnqv3dxirmr3svo5zwq7cvu2wdfngujgknyd.onion)|ONLINE||5D16859E0BC70E8830DEB8DE294C7E5AF8BD4D30CB1CB01F3BE17D0F592B3264DB2B6BB15164 - 8AE76D106C7F34134CAB98E41C5EEEF15B238BC523EC2F09C7765214CB03822866E94D87B25F||
 |[KYBER](http://kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid.onion)|ONLINE||||
 |[LAMBDA (Victim Site)](http://nn5ua7gc7jkllpoztymtfcu64yjm7znlsriq3a6v5kw7l6jvirnczyyd.onion)|ONLINE||||
 |[LA PIOVRA](http://et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion)|OFFLINE||||

@@ -742,7 +742,7 @@
 |https://t.me/+Pdu3VJRGSuYzOTc0|EXPIRED|Keymous+||
 |https://t.me/CyberBabayoEror|ONLINE|Babayo eror system||
 |https://t.me/+diE7kOtAhOQwYTU1|EXPIRED|CLOBELSECTEAM||
-|https://t.me/Atlas_Flood|ONLINE|Atlas Flood||
+|https://t.me/Atlas_Flood|OFFLINE|Atlas Flood||
 |https://t.me/T34M_F34RL3SS|ONLINE|team fearless 🇵🇸||
 |https://t.me/Golden_falcon_team|ONLINE|Golden Falcon||
 |https://t.me/+nlZbu05n4aEwOGZl|EXPIRED|TwoNet||
@@ -755,7 +755,7 @@
 |https://t.me/unitninee|ONLINE|UNIT NINE||
 |https://t.me/+AZ5c6o5gtlU5MDM0|EXPIRED|Wraith C2/API||
 |https://t.me/blankc2|OFFLINE|BlankC2||
-|https://t.me/mrhamza_antiporn|ONLINE|Mr Hamza-Anti-Porn||
+|https://t.me/mrhamza_antiporn|OFFLINE|Mr Hamza-Anti-Porn||
 |https://t.me/xstuxnet|ONLINE|STUXNET - ستوكسنت||
 |https://t.me/OXO_News_HN|ONLINE|OXO News HN||
 |https://t.me/mrtanjirox|ONLINE|Tanjiro DDoS Botnet Service||

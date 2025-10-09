@@ -102,6 +102,7 @@
 |[BRAIN CIPHER (File Server)](http://4ldgw2wuidqu5ef3rzx4byonf3y7rdnh43jiw2z4sbtjiwic6gkov7yd.onion)|ONLINE||||
 |[BRAIN CIPHER (File Server)](http://zktnif5vckhmz5tyrukp5bamatbfhkxjnb23rspsanyzywcrx3bvtqad.onion)|ONLINE||||
 |[BRAIN CIPHER (Victims page)](http://mybmtbgd7aprdnw2ekxht5qap5daam2wch25coqerrq2zdioanob34ad.onion)|OFFLINE||||
+|[BROTHERHOOD](http://brohoodyaifh2ptccph5zfljyajjabwjjo4lg6gfp4xb6ynw5w7ml6id.onion)|ONLINE||138A7107FE83F6CBC03A43D484C17CCBF7E6ED5060792D6AFB1BE4358FB9482831B0033BACB0||
 |[CACTUS](https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion)|ONLINE||||
 |[CEPHALUS](http://cephalus6oiypuwumqlwurvbmwsfglg424zjdmywfgqm4iehkqivsjyd.onion)|ONLINE||||
 |[CHAOS](http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion)|ONLINE||BFC836EBAE06450FDD36B63170F121F44ADADFF2DAFAAFA41314B6778F6003501B0799F013FA - EC99BD5A36DE69144F5402C832B5413295323FC7C12259C53E4AA6D5BC2D4E6DA44C537F9FEC||

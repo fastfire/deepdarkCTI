@@ -853,3 +853,4 @@
 |https://t.me/andrewfedman|ONLINE|SLSH 6.0 part 3 - lapsus$hiny$scatteredwizard|related to Scattered Spider|
 |http://t.me/evilcrewteam|ONLINE|Evil Crew||
 |https://t.me/+zm60knt4YDRmMTll|ONLINE|RipperSec|DDoS|
+|https://t.me/disc_hack|ONLINE|Discord|related to Discord data breach|

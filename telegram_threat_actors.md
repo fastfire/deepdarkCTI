@@ -855,3 +855,5 @@
 |https://t.me/+zm60knt4YDRmMTll|ONLINE|RipperSec|DDoS|
 |https://t.me/disc_hack|ONLINE|Discord|related to Discord data breach|
 |https://t.me/H3yder_N3ex|ONLINE|Hyder_Nex||
+|https://t.me/Cyb3rBlitz|ONLINE|Cyber Blitz||
+|https://t.me/hezi_rash|ONLINE|Hezi Rash||

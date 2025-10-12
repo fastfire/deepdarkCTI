@@ -469,7 +469,8 @@
 |[SATAN LOCK](http://5g2e.l.time4vps.cloud)|ONLINE||CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D||
 |[SATAN LOCK](http://mgeegnexyhhn5dpqewihjy33qyhng3gy66h3fogiwefl5hljhtmfznad.onion)|ONLINE||CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D||
 |[SATAN LOCK V2](http://tzhwmgguyxrg6q3tu4q3gvopcjynrhw6ryx2bdl5ghisdkyunfua5xyd.onion)|ONLINE||CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D||
-|[SCATTERED SPIDER](http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion)|ONLINE||||
+|[SCATTERED SPIDER](http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion)|ONLINE||shinygroup@onionmail.com||
+|[SCATTERED SPIDER](https://shinyhunte.rs)|ONLINE||shinygroup@onionmail.com||
 |[SECUROTROP](http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion)|ONLINE||||
 |[SEKHMET](http://sekhmet.top)|OFFLINE||||
 |[SENSAYQ (deep](http://159.69.60.54)|ONLINE||||

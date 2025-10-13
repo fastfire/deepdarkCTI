@@ -788,7 +788,7 @@
 |https://t.me/GhilanLegion|OFFLINE|Ghilan Legion||
 |https://t.me/darkstormteamoff|ONLINE|Dark Storm|DDoS|
 |https://t.me/AKATSUKI4492|ONLINE|AKATSUKY CYBER TEAM|DDoS|
-|https://t.me/hezirash|ONLINE|Hezi Rash|DDoS|
+|https://t.me/hezirash|OFFLINE|Hezi Rash|DDoS|
 |https://t.me/cyberlami|OFFLINE|Cyber Lami||
 |https://t.me/databasecyberlami|OFFLINE|Database Cyber Lami|Data Leaks|
 |https://t.me/digitalsghost|ONLINE|Digital Ghost||
@@ -816,7 +816,7 @@
 |https://t.me/CyberToufan02|ONLINE|Cyber Toufan (evidences channel)||
 |https://t.me/CyberToufan00|ONLINE|Cyber Toufan (reference channel)||
 |https://t.me/dropleak|ONLINE|Database Catalog|Data leaks and Combo lists|
-|https://t.me/noname05716_eng_vers|ONLINE|NoName057_eng_version|DDoS|
+|https://t.me/noname05716_eng_vers|OFFLINE|NoName057_eng_version|DDoS|
 |https://t.me/+WO3nKwBvJRM2NGMy|EXPIRED|NoName057 RU|DDoS|
 |https://t.me/joinchat/mexyxU88FCswM2Yy|ONLINE|NoName057 DDoSia Project|DDoS|
 |https://t.me/Keymous_main|OFFLINE|Keymous+|DDoS|

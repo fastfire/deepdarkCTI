@@ -8,6 +8,7 @@
 |[BL4CKT0R](http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion)| ONLINE | |
 |[BREACHED DB](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion)| ONLINE | |
 |[BREACHED WIKI](https://breached.wiki)| ONLINE | |
+|[Breach House](https://Breach.house) | ONLINE | An Open Crawler about Ransomware leaks, traditional breaches, infostealer and leads into a dark/deep web and telegram channels |
 |[BLACKVAULT](https://blackvault.cc)| ONLINE| |
 |[CVE Trends - crowdsourced CVE intel](https://cvetrends.com/)| OFFLINE | Offline due changes in Twitter API |
 |[DARK LEAK MARKET](http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion)| OFFLINE | |
@@ -36,6 +37,7 @@
 |[PWNDB](http://pwndb2am4tzkvold.onion)| OFFLINE | |
 |[QUANTUM BLOG](http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion)| ONLINE | |
 |[RAASNET](http://hplqdv5fo3vw3fjyamyer7yuc7xtvtop2j3fipc7psf3pxvhoqjoqkid.onion)| ONLINE | |
+|[RANSOMNEWS](https://ransomnews.online)| ONLINE | |
 |[RANSOMWARE PAYMENTS TRACKER](https://ransomwhe.re)| ONLINE | |
 |[RANSOMWARE VICTIMS TRACKER](https://ransom.wiki)| ONLINE | |
 |[SAUDI ARAMCO LEAK](http://662m7dfcpfsmeetqucdekz3rn4a6dxsxbdjwd6iz3rwnogjsj7i3hxad.onion)| OFFLINE | |
@@ -51,4 +53,3 @@
 |[OFFSHORE.CAT - offshore hosting list](https://offshore.cat) | ONLINE | |
 |[Check-The-Sum - Malicious IP and domains](https://check-the-sum.fr) | ONLINE | |
 |[WITHA.NAME](http://withanamemwesdvodfhthjq25a5a3uas24cpgoa7qm6gchcerzpis6qd.onion) | ONLINE | |
-|[Breach House](http://withanamemwesdvodfhthjq25a5a3uas24cpgoa7qm6gchcerzpis6qd.onion) | ONLINE | An Open Crawler about Ransomware leaks, traditional breaches, infostealer and leads into a dark/deep web and telegram channels |

@@ -51,3 +51,4 @@
 |[OFFSHORE.CAT - offshore hosting list](https://offshore.cat) | ONLINE | |
 |[Check-The-Sum - Malicious IP and domains](https://check-the-sum.fr) | ONLINE | |
 |[WITHA.NAME](http://withanamemwesdvodfhthjq25a5a3uas24cpgoa7qm6gchcerzpis6qd.onion) | ONLINE | |
+|[Breach House](http://withanamemwesdvodfhthjq25a5a3uas24cpgoa7qm6gchcerzpis6qd.onion) | ONLINE | An Open Crawler about Ransomware leaks, traditional breaches, infostealer and leads into a dark/deep web and telegram channels |

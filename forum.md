@@ -112,6 +112,7 @@
 |[DUMPED](https://dumped.to)| ONLINE| |
 |[DUMPFORUMS (Dark)](http://cwtvplqgymm3kbzj7g2qijhpau4tcco52qwvkm66k357svomp5bw5eqd.onion/)| ONLINE | |
 |[DUMPFORUMS (Deep)](https://dumpforums.to/)| ONLINE | |
+|[Duty Free Forum (Deep)](https://forum.duty-free.cc/)| ONLINE | |
 |[DWF (Tor v2)](http://dwforumsmrcqdnt3.onion)| OFFLINE | |
 |[DWF (Tor v3)](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
 |[ELEAKS](https://eleaks.to)| ONLINE | |

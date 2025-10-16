@@ -857,5 +857,5 @@
 |https://t.me/H3yder_N3ex|ONLINE|Hyder_Nex||
 |https://t.me/Cyb3rBlitz|ONLINE|Cyber Blitz||
 |https://t.me/hezi_rash|ONLINE|Hezi Rash||
-|https://t.me/KALOSHA319|Kal Egy 319||
+|https://t.me/KALOSHA319|ONLINE|Kal Egy 319||
 |https://t.me/ripalldaguyz|ONLINE|scattered LAPSUS$ hunters 7.0|related to Scattered Spider|

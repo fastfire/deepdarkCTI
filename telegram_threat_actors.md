@@ -858,3 +858,4 @@
 |https://t.me/Cyb3rBlitz|ONLINE|Cyber Blitz||
 |https://t.me/hezi_rash|ONLINE|Hezi Rash||
 |https://t.me/KALOSHA319|Kal Egy 319||
+|https://t.me/ripalldaguyz|ONLINE|scattered LAPSUS$ hunters 7.0||

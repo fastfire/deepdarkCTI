@@ -98,7 +98,7 @@
 |https://t.me/FehuCloud|ONLINE|Fehu Cloud|
 |https://t.me/wingsdailyurl|ONLINE|Wings|
 |https://t.me/godeless_cloud|ONLINE|Godeless Cloud Reborn|
-|https://t.me/txtlogtop|ONLINE|https://t.me/txtlogtop|
+|https://t.me/txtlogtop|ONLINE|txtLogTop|
 |https://t.me/txtlogcloudd|ONLINE|TXTLOG url:login:pass CLOUD BASE|
 |https://t.me/txtbaseslog|ONLINE|lexaurl | url:login:pass|
 |https://t.me/anuriacloud|ONLINE|anuria cloud|

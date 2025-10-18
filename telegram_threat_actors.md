@@ -747,7 +747,6 @@
 |https://t.me/Golden_falcon_team|ONLINE|Golden Falcon||
 |https://t.me/+nlZbu05n4aEwOGZl|EXPIRED|TwoNet||
 |https://t.me/AnonymousVNLBN99|ONLINE|Lực Lượng Đặc Biệt Quân Đội Điện Tử||
-|https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error system||
 |https://t.me/AnonymousGuys0|ONLINE|Anonymous Guys||
 |https://t.me/bl4ck_cyb3r|OFFLINE|BL4CK CYB3R||
 |https://t.me/nxbbsec|ONLINE|NXBB SEC||

@@ -380,7 +380,7 @@
 |[NOVA](http://novavagygnhqyf7a5tgbuvmujve5a2jzgbrq2n4dvetkhvr2zjg27cad.onion)|OFFLINE||||
 |[NOVA](http://novaxtychr6ohlc4zr5its73p6i7unpuhpwoodtzrg2y4w4seytatlid.onion)|ONLINE||||
 |[NULLBULGE](https://nullbulge.co/blog.html)|ONLINE||||
-|[OBSCURA](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||||
+|[OBSCURA](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||AE55FC0EB1C25A5B081650108F9081E236DECE1CE08D2E185A6F15B9FB48E700210BED374643||
 |[ONEPERCENT](http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion)|OFFLINE||||
 |[ORCA](http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion)|ONLINE||||
 |[OX THIEF](http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||

@@ -406,7 +406,7 @@
 |https://t.me/intelx_io|OFFLINE|intelx - infosec||
 |https://t.me/ircodebreakers|OFFLINE|Codebreakers|Data Breach|
 |https://t.me/islamic_hacker_army0|ONLINE|Islamic Hacker Army Channel||
-|https://t.me/islamic_Hacker_Army|ONLINE|Islamic Hacker Army Group||
+|https://t.me/islamic_Hacker_Army|OFFLINE|Islamic Hacker Army Group||
 |https://t.me/itarmyofukraine2022|ONLINE|||
 |https://t.me/itsecalert|ONLINE|News||
 |https://t.me/jambicyberteam|OFFLINE|Jambi Cyber Team||

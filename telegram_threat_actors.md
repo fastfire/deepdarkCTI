@@ -394,7 +394,7 @@
 |https://t.me/illsvcleaks|OFFLINE|Illicit Service Leaks||
 |https://t.me/illsvc|ONLINE|Illicit Service||
 |https://t.me/INDIAN_CYBER_FORCE|ONLINE|||
-|https://t.me/INDOHAXSEC|ONLINE|INDOHAXSEC|DDoS, Defacement & Data Breach|
+|https://t.me/INDOHAXSEC|OFFLINE|INDOHAXSEC|DDoS, Defacement & Data Breach|
 |https://t.me/Industrial_Spy|ONLINE|Industrial Spy||
 |https://t.me/infinity_hackers_group|ONLINE|Infinity Hackers By||
 |https://t.me/INFINITY_HACKERSS|OFFLINE|Infinity Forum||

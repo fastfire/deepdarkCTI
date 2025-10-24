@@ -22,3 +22,4 @@ https://x.com/Darkstormteamdd| Dark Storm | DDoS |
 |https://x.com/ransomboris| Wazawka  (Mikhail Matvee) | Ransomware |
 |https://x.com/BLOODY48139604| BL🩸🩸DY | Ransomware |
 |https://x.com/RuskiNetGroup| RuskiNet Group Cyber Mujahid Of Allah | |
+|https://x.com/TenguRaaS| tengu | Ransomware |

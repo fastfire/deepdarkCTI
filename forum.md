@@ -6,6 +6,7 @@
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
 |[ALLIGATOR](https://alligator.cash/)|ONLINE||
 |[ALTENEN (Deep)](https://altenens.is)| ONLINE | |
+|[ALPHV Forum](https://alphv.pro) | ONLINE | |
 |[Antichat](https://forum.antichat.com) | ONLINE | |
 |[ANTIMIGALKI](https://antimigalki.space)| ONLINE | |
 |[ARBITRAJ](https://arbitraj-forum.ru)| ONLINE | |

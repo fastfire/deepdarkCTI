@@ -52,3 +52,4 @@
 |[OFFSHORE.CAT - offshore hosting list](https://offshore.cat) | ONLINE | |
 |[Check-The-Sum - Malicious IP and domains](https://check-the-sum.fr) | ONLINE | |
 |[WITHA.NAME](http://withanamemwesdvodfhthjq25a5a3uas24cpgoa7qm6gchcerzpis6qd.onion) | ONLINE | |
+|[LeakPeek - Leaked and breached data portal](http://pshoxn3ddxqamfkibizbzhfltixkl24es756sqklsnpfkvlclmsoeoyd.onion/loaded) | ONLINE | |

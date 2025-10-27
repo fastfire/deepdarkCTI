@@ -540,6 +540,8 @@
 |https://t.me/NNM05716_it_ver|OFFLINE|NoName057(16) ITA|DDoS|
 |https://t.me/nohidespace|OFFLINE|Combo List||
 |https://t.me/NoName05716_16|OFFLINE|NoName057(16) Eng_vers|DDoS|
+|https://t.me/nnm05716engvers|ONLINE|NoName057(16) Eng_vers|DDoS|
+|https://t.me/TwoNetchannel|ONLINE|TwoNet|DDoS|
 |https://t.me/NullLeak|OFFLINE|Data Leaks||
 |https://t.me/O1chat|OFFLINE|Market||
 |https://t.me/OBSERVERCLOUDCOMBO|OFFLINE|Combo List||

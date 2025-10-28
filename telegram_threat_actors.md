@@ -67,7 +67,7 @@
 |https://t.me/+QeVsxdEnla80NzY1|EXPIRED|DXPLOIT|Defacement|
 |https://t.me/+R1GELDqXo1dhMmYx|EXPIRED|Ziburate|Data Leak|
 |https://t.me/+r4F7KwP1x35hYTY1|EXPIRED|Jakarta Cyber Psychos|DDoS|
-|https://t.me/+rAlKkQoUSH0yMDVi|VALID|DDoSia Project|DDoS|
+|https://t.me/+rAlKkQoUSH0yMDVi|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+rlyGuPTMGuU5YjE6|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
 |https://t.me/+S_ajHerTbKUwYTA0|VALID|keymous team BackUp|DDoS|
@@ -823,7 +823,7 @@
 |https://t.me/dropleak|ONLINE|Database Catalog|Data leaks and Combo lists|
 |https://t.me/noname05716_eng_vers|OFFLINE|NoName057_eng_version|DDoS|
 |https://t.me/+WO3nKwBvJRM2NGMy|EXPIRED|NoName057 RU|DDoS|
-|https://t.me/joinchat/mexyxU88FCswM2Yy|ONLINE|NoName057 DDoSia Project|DDoS|
+|https://t.me/joinchat/mexyxU88FCswM2Yy|OFFLINE|NoName057 DDoSia Project|DDoS|
 |https://t.me/Keymous_main|OFFLINE|Keymous+|DDoS|
 |https://t.me/+S_ajHerTbKUwYTA0|VALID|Keymous+ (backup)|DDoS|
 |https://t.me/FireWireMaroc|OFFLINE|Fire Wire Maroc|DDoS & Data Leaks|

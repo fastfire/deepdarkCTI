@@ -119,3 +119,4 @@
 |https://t.me/lOGSMARKET_PRIVATEDATA77|ONLINE|LOGS MARKET|
 |https://t.me/+V-oTBDqBJSRkYTU0|ONLINE|LOGS|
 |https://t.me/+0IAf5VIrl_EzNWRi|ONLINE| BradMax Cloud Malware Data Logs |
+|https://t.me/cloudxlog|ONLINE|LOGS|

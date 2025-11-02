@@ -7,6 +7,7 @@
 |[ANONLEAKS.XYZ](https://anonymousleaks.xyz)| OFFLINE | |
 |[BL4CKT0R](http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion)| ONLINE | |
 |[BREACHED DB](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion)| ONLINE | |
+|[BREACH.VIP](https://breach.vip)| ONLINE | |
 |[BREACHED WIKI](https://breached.wiki)| ONLINE | |
 |[Breach House](https://Breach.house) | ONLINE | An Open Crawler about Ransomware leaks, traditional breaches, infostealer and leads into a dark/deep web and telegram channels |
 |[BLACKVAULT](https://blackvault.cc)| ONLINE| |

@@ -1,6 +1,6 @@
 |Telegram|Status|Name|
 | ------ | ------ | ------ |
-|https://t.me/+8DxOrHQdrzw1ZjUy|VALID| GODELESS CLOUD Botnet Logs|
+|https://t.me/+8DxOrHQdrzw1ZjUy|EXPIRED| GODELESS CLOUD Botnet Logs|
 |https://t.me/+fcxhFl9JSRE3YTdi|VALID| HUBHEAD Logs|
 |https://t.me/+lTv-USNAHHIwODE6|ONLINE|.boxed.pw|
 |https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
@@ -95,15 +95,15 @@
 |https://t.me/+uuz8-qLUNeU2ZmI0|ONLINE|Invite Link - DaisyCloud New|
 |https://t.me/MaisonMarjelaCloud|ONLINE|M.M Cloud|
 |https://t.me/cvv190_cloud|ONLINE|CVV190 Cloud|
-|https://t.me/miragelogscloud|ONLINE|Mirage Cloud|
-|https://t.me/FehuCloud|ONLINE|Fehu Cloud|
-|https://t.me/wingsdailyurl|ONLINE|Wings|
+|https://t.me/miragelogscloud|OFFLINE|Mirage Cloud|
+|https://t.me/FehuCloud|OFLINE|Fehu Cloud|
+|https://t.me/wingsdailyurl|OFFLINE|Wings|
 |https://t.me/godeless_cloud|ONLINE|Godeless Cloud Reborn|
-|https://t.me/txtlogtop|ONLINE|https://t.me/txtlogtop|
-|https://t.me/txtlogcloudd|ONLINE|TXTLOG url:login:pass CLOUD BASE|
-|https://t.me/txtbaseslog|ONLINE|lexaurl | url:login:pass|
-|https://t.me/anuriacloud|ONLINE|anuria cloud|
-|https://t.me/txtloggg|ONLINE|TXT LOG CLOUD URL:LOGIN:PASS|
+|https://t.me/txtlogtop|OFFLINE|https://t.me/txtlogtop|
+|https://t.me/txtlogcloudd|OFFLINE|TXTLOG url:login:pass CLOUD BASE|
+|https://t.me/txtbaseslog|OFFLINE|lexaurl | url:login:pass|
+|https://t.me/anuriacloud|OFFLINE|anuria cloud|
+|https://t.me/txtloggg|OFFLINE|TXT LOG CLOUD URL:LOGIN:PASS|
 |https://t.me/+kB8-KwFmfaQzZmUx|ONLINE|textbases|
 |https://t.me/+E9biBdpOv35iMmEy|ONLINE|SNATCH LOGS CLOUD|
 |https://t.me/DataLeaks24|ONLINE|DataLeaks2025|
@@ -112,7 +112,7 @@
 |https://t.me/+IqEnwfj7CLU1Yjcy|ONLINE|Ω 𝙾𝙼𝙴𝙶𝙰 𝙲𝙻𝙾𝚄𝙳 Ω|
 |https://t.me/richasscloud|ONLINE|Richass Combo Cloud|
 |https://t.me/MagicCloudLogs|ONLINE|Magic Cloud|
-|https://t.me/chatcloudcasper|ONLINE|Casper Cloud|
+|https://t.me/chatcloudcasper|OFFLINE|Casper Cloud|
 |https://t.me/universecloudtxt|ONLINE|Universe Cloud|
 |https://t.me/infocloudurl|ONLINE|INFO CLOUD|
 |https://t.me/+mBXM5tDc1II2YmU0|ONLINE|Darkside Reborn|

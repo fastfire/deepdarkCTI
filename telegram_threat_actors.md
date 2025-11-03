@@ -869,3 +869,4 @@
 |https://t.me/breachfiles|ONLINE|Breachforum CDN||
 |https://t.me/dropleak|ONLINE|DL Database catalog|Data Breach|
 |https://t.me/zagnet1|ONLINE|ZagNet|DDoS|
+|https://t.me/itarmyofrussianews|ONLINE|IT Army Of Russia||

@@ -861,7 +861,7 @@
 |https://t.me/disc_hack|ONLINE|Discord|related to Discord data breach|
 |https://t.me/H3yder_N3ex|OFFLINE|Hyder_Nex||
 |https://t.me/Cyb3rBlitz|ONLINE|Cyber Blitz||
-|https://t.me/hezi_rash|ONLINE|Hezi Rash||
+|https://t.me/hezi_rash|OFFLINE|Hezi Rash||
 |https://t.me/KALOSHA319|ONLINE|Kal Egy 319||
 |https://t.me/ripalldaguyz|OFFLINE|scattered LAPSUS$ hunters 7.0|related to Scattered Spider|
 |https://t.me/lunarisS3C/|ONLINE|LunarisSec|Data Leaks||

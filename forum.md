@@ -1,17 +1,17 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
-|[0x00sec](https://0x00sec.org/)|OFFLINE|
-|[4CHEAT](https://4cheat.ru/)|ONLINE||
-|[589forum](https://589forum.org/)|ONLINE|
+|[0x00sec](https://0x00sec.org/)| ONLINE|
+|[4CHEAT](https://4cheat.ru/)| ONLINE||
+|[589forum](https://589forum.org/)| OFFLINE|
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
-|[ALLIGATOR](https://alligator.cash/)|ONLINE||
+|[ALLIGATOR](https://alligator.cash/)| OFFLINE||
 |[ALTENEN (Deep)](https://altenens.is)| ONLINE | |
 |[ALPHV Forum](https://alphv.pro) | ONLINE | |
-|[Antichat](https://forum.antichat.com) | ONLINE | |
-|[ANTIMIGALKI](https://antimigalki.space)| ONLINE | |
-|[ARBITRAJ](https://arbitraj-forum.ru)| ONLINE | |
+|[Antichat](https://forum.antichat.com) | OFFLINE | |
+|[ANTIMIGALKI](https://antimigalki.space)| OFFLINE | |
+|[ARBITRAJ](https://arbitraj-forum.ru)| OFFLINE | |
 |[ASCARDING](https://ascarding.com)| ONLINE | |
-|[ASTROPID](https://astropid.net)| ONLINE ||
+|[ASTROPID](https://astropid.net)| OFFLINE ||
 |[BDF CLUB](https://bdfclub.com)| ONLINE | |
 |[BEST CARDING WORLD](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion) | ONLINE | |
 |[BHC Forums](https://bhcforums.cc) | ONLINE | |
@@ -23,12 +23,12 @@
 |[BHF](https://bhf.im)| ONLINE | |
 |[BITCOINFO.RU](http://bitcoinfor.ru)|ONLINE||
 |[BITS.MEDIA](https://forum.bits.media)|ONLINE||
-|[BLACKBIZ](https://blackbiz.top)|ONLINE||
+|[BLACKBIZ](https://blackbiz.top)|OFFLINE||
 |[BLACKBONES](https://blackbones.net)|ONLINE||
-|[BLACKFORUMS](https://blackforums.me)| ONLINE | |
-|[BLACKFORUMS](https://blackforums.net)| ONLINE | |
-|[BLACKFORUMS](https://blackforums.ru)| ONLINE | |
-|[BLACKHACKER](https://blackhacker.pw)|ONLINE||
+|[BLACKFORUMS](https://blackforums.me)| OFFLINE | |
+|[BLACKFORUMS](https://blackforums.net)| OFFLINE | |
+|[BLACKFORUMS](https://blackforums.ru)| OFFLINE | |
+|[BLACKHACKER](https://blackhacker.pw)|OFFLINE||
 |[blackhatpakistan](https://blackhatpakistan.net)| ONLINE | |
 |[blackhatprotools](https://www.blackhatprotools.info/)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |

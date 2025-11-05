@@ -459,7 +459,7 @@
 |https://t.me/leakbase_official|OFFLINE|LeakBase Official||
 |https://t.me/leakbaseforum|OFFLINE|LeakBaseForum||
 |https://t.me/leakdataprivate|OFFLINE|Data Leaks||
-|https://t.me/Leaked_BreachDBS|ONLINE|Leaks & Breaches||
+|https://t.me/Leaked_BreachDBS|OFFLINE|Leaks & Breaches||
 |https://t.me/Leaked_Breached_Hacked_Database|OFFLINE|Database of Data Breaches||
 |https://t.me/Leaked_DataBase_Breached|OFFLINE|Data Leaks||
 |https://t.me/leaked_databases|ONLINE|Data Leaks||

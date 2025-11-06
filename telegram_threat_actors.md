@@ -784,7 +784,7 @@
 |https://t.me/islamic_hacker_army1|ONLINE|Islamic Hacker Army|Data Leaks|
 |https://t.me/bl00dy_ransomware_Gang_channel|OFFLINE|bl🩸🩸dy Ransomware Gang ☠️|Ransomware gang|
 |https://t.me/+JgKWbM4Zn8I1ODRl|EXPIRED|CLOBESECTEAM BACKUP|Data Leaks|
-|https://t.me/raidf0rumss|ONLINE|Raidforums Office|Forum|
+|https://t.me/raidf0rumss|OFFLINE|Raidforums Office|Forum|
 |https://t.me/leakslist|OFFLINE|Leak List|Data Leaks|
 |https://t.me/JokeirR07x|OFFLINE|JoKeiR 07x||
 |https://t.me/ANONXF34RL3SS|ONLINE|ANON X FEARLESS||
@@ -850,7 +850,7 @@
 |https://t.me/+oMBufAf0BBoyMTJl|EXPIRED|CLOBELSECTEAM|Data Leaks|
 |https://t.me/rubiconh4ckss|OFFLINE|Rubicon Hack||
 |https://t.me/GhilanLegion|OFFLINE|Ghilan Legion||
-|https://t.me/thecrimsoncollective|ONLINE|The Crimson Collective|Data Leaks|
+|https://t.me/thecrimsoncollective|OFFLINE|The Crimson Collective|Data Leaks|
 |https://t.me/jacuzzidf|ONLINE|The Jacuzzi||
 |https://t.me/unknowns_cyberteam|ONLINE|Unknowns Cyber Team||
 |https://t.me/specialagentadam|OFFLINE|SLSH 6.0 part 3|related to Scattered Spider|

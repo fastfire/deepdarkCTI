@@ -245,7 +245,7 @@
 |[KARAKURT (Dark)](https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion)|ONLINE||||
 |[KARMA](http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion)|OFFLINE||||
 |[KAWA](http://kawasa2qo7345dt7ogxmx7qmn6z2hnwaoi3h5aeosupozkddqwp6lqqd.onion)|ONLINE||6A340207246B47E37F6D094D2236E5C6242B6E4461EEF8021FED2C9855240C3E11AEE886FAAF - kawa4096@onionmail.org||
-|[KAZU](http://6czlbd2jfiy6765fbnbnzuwuqocg57ebvp3tbm35kib425k4qnmiiiqd.onion)|ONLINE||||
+|[KAZU](http://6czlbd2jfiy6765fbnbnzuwuqocg57ebvp3tbm35kib425k4qnmiiiqd.onion)|ONLINE||Session: 054acad09eb2c78674f3371bc9fd24218bacff3326c3d259819bf6e78de3ac0e6a - @kazu_21 | @kazu_breach (Channel) - Signal: Signal : @kazu.517 - Exploit: forum.exploit.in/profile/203546-kazu/ - DF: darkforums.st/User-Kazu||
 |[KELVIN SECURITY](https://vipsuscription.org)|ONLINE||https://t.me/kelvinsecteam||
 |[KILLSEC](http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion)|ONLINE||https://t.me/k1llsec||
 |[Kill Security 3.0](http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/)|ONLINE||||

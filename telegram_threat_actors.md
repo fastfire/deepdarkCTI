@@ -839,7 +839,7 @@
 |https://t.me/biorkanisms|OFFLINE|Bjorkanism||
 |https://t.me/BF_files|OFFLINE|BF Files|Data Leaks|
 |https://t.me/networker_apt|ONLINE|NET-WORKER||
-|https://t.me/Z_ALLIANCE/|ONLINE|Z_ALLIANCE||
+|https://t.me/Z_ALLIANCE/|OFFLINE|Z_ALLIANCE||
 |https://t.me/+TdDrDmT9untmYWQ8|VALID|M3cr0byte||
 |https://t.me/hannibalmaaleaks|ONLINE|HannibalMAA LE4kS|Data Leaks|
 |https://t.me/Almo7a9e9|OFFLINE|Almo7a9e9||
@@ -857,7 +857,7 @@
 |https://t.me/SLSH_kashpatel|OFFLINE|SLSH BACKUP 2|related to Scattered Spider|
 |https://t.me/andrewfedman|OFFLINE|SLSH 6.0 part 3 - lapsus$hiny$scatteredwizard|related to Scattered Spider|
 |http://t.me/evilcrewteam|OFFLINE|Evil Crew||
-|https://t.me/+zm60knt4YDRmMTll|ONLINE|RipperSec|DDoS|
+|https://t.me/+zm60knt4YDRmMTll|OFFLINE|RipperSec|DDoS|
 |https://t.me/disc_hack|ONLINE|Discord|related to Discord data breach|
 |https://t.me/H3yder_N3ex|OFFLINE|Hyder_Nex||
 |https://t.me/Cyb3rBlitz|ONLINE|Cyber Blitz||

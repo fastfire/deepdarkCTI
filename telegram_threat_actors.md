@@ -868,6 +868,6 @@
 |https://t.me/Darkstormteamback|ONLINE|Dark Storm Team||
 |https://t.me/breachfiles|ONLINE|Breachforum CDN||
 |https://t.me/dropleak|ONLINE|DL Database catalog|Data Breach|
-|https://t.me/zagnet1|ONLINE|ZagNet|DDoS|
+|https://t.me/zagnet1|OFFLINE|ZagNet|DDoS|
 |https://t.me/itarmyofrussianews|ONLINE|IT Army Of Russia||
 |https://t.me/kazu_breach|ONLINE|Kazu Breach|Ransomware gang|

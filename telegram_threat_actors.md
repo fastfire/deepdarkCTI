@@ -156,7 +156,7 @@
 |https://t.me/azzasec|OFFLINE|AzzaSec||
 |https://t.me/BangladeshAnonymous|OFFLINE|BD Anonymous|DDoS|
 |https://t.me/baphchat|OFFLINE|The Jacuzzi||
-|https://t.me/base_brutesu|ONLINE|Combo List|
+|https://t.me/base_brutesu|OFFLINE|Combo List|
 |https://t.me/baseleak|OFFLINE|Data Leaks||
 |https://t.me/baseleeak|ONLINE|BaseLeak|Data Breach|
 |https://t.me/BAZU_BD|OFFLINE|Data Leaks||
@@ -818,8 +818,8 @@
 |https://t.me/Ktama_Official|ONLINE|Ktama Official|RATs|
 |https://t.me/hazardouscyberteam|ONLINE|Hazardous Cyber Team|Defacements|
 |https://t.me/shinobiraas|OFFLINE|Sinobi RaaS|RaaS|
-|https://t.me/CyberToufan02|ONLINE|Cyber Toufan (evidences channel)||
-|https://t.me/CyberToufan00|ONLINE|Cyber Toufan (reference channel)||
+|https://t.me/CyberToufan02|OFFLINE|Cyber Toufan (evidences channel)||
+|https://t.me/CyberToufan00|OFFLINE|Cyber Toufan (reference channel)||
 |https://t.me/dropleak|ONLINE|Database Catalog|Data leaks and Combo lists|
 |https://t.me/noname05716_eng_vers|OFFLINE|NoName057_eng_version|DDoS|
 |https://t.me/+WO3nKwBvJRM2NGMy|EXPIRED|NoName057 RU|DDoS|

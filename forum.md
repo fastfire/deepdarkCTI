@@ -277,3 +277,5 @@
 |[BITTEN FORUMS](http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion)| ONLINE | |
 |[EXILIO404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion)| ONLINE | |
 |[XSSF](https://xssf.net/)|ONLINE||
+|[DAMAGELIB](damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion)|ONLINE||
+

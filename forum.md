@@ -179,7 +179,8 @@
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
 |[NEFARIUM](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
 |[NEXTGEN FORUMS](https://NextGenForums.cc)| ONLINE | |
-|[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
+|[NIFLHEIM.TOP](https://niflheim.top)| OFFLINE | |
+|[NIFLHEIM.World](https://niflheim.world)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.me)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.net)| ONLINE | |
 |[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| OFFLINE | |

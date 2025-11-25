@@ -857,6 +857,7 @@
 |https://t.me/SLSH_kashpatel|OFFLINE|SLSH BACKUP 2|related to Scattered Spider|
 |https://t.me/andrewfedman|OFFLINE|SLSH 6.0 part 3 - lapsus$hiny$scatteredwizard|related to Scattered Spider|
 |https://t.me/smokinmandiant|ONLINE|scattered LAPSUS$ hunters part 7|related to Scattered Spider|
+|https://t.me/comefacediswood|ONLINE|scattered LAPSUS$ hunters part 7 Chat|related to Scattered Spider|
 |http://t.me/evilcrewteam|OFFLINE|Evil Crew||
 |https://t.me/+zm60knt4YDRmMTll|OFFLINE|RipperSec|DDoS|
 |https://t.me/disc_hack|ONLINE|Discord|related to Discord data breach|

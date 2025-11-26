@@ -870,6 +870,7 @@
 |https://t.me/Darkstormteamback|ONLINE|Dark Storm Team||
 |https://t.me/breachfiles|ONLINE|Breachforum CDN||
 |https://t.me/dropleak|ONLINE|DL Database catalog|Data Breach|
+|https://t.me/MR_X10_SY|ONLINE|Data leaks: Merged with HIDER_NIX|
 |https://t.me/zagnet1|OFFLINE|ZagNet|DDoS|
 |https://t.me/itarmyofrussianews|ONLINE|IT Army Of Russia||
 |https://t.me/kazu_breach|ONLINE|Kazu Breach|Ransomware gang|

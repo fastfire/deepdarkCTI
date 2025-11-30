@@ -279,4 +279,5 @@
 |[EXILIO404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion)| ONLINE | |
 |[XSSF](https://xssf.net/)|ONLINE||
 |[DAMAGELIB](damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion)|ONLINE||
+|[BFD Forum](http://bfdxjkv5e2z3ilrifzbnvxxvhbzsj67akjpj3zc6smzr4vv6oz565gyd.onion)|ONLINE||
 

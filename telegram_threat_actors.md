@@ -443,8 +443,8 @@
 |https://t.me/Kristina_Pass_RF|OFFLINE|Data Leaks, Passport Scans||
 |https://t.me/KryptonNetworks|OFFLINE|Krypton||
 |https://t.me/KryptonSolutions|OFFLINE|Krypton|DDoS|
-|https://t.me/Laneh_dark|ONLINE|Laneh Dark||
-|https://t.me/Laneh_news|ONLINE|Laneh News||
+|https://t.me/Laneh_dark|OFFLINE|Laneh Dark||
+|https://t.me/Laneh_news|OFFLINE|Laneh News||
 |https://t.me/lapsusfr|ONLINE|LAPSUS$ France||
 |https://t.me/Lapsussaudechat|OFFLINE|Lapsus$ channel (new)||
 |https://t.me/latest_leaks|OFFLINE|Data Leaks||

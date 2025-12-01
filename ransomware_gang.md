@@ -154,9 +154,10 @@
 |[DARK VAULT (blog)](http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion)|ONLINE||||
 |[DATA CARRY](http://dcarryhaih5oldidg3tbqwnde4lxljytnpvberrwgj2vlvunopd46dad.onion)|ONLINE||||
 |[DESOLATOR](http://po4tq2brx4rgwbdx4mac24fz34uuuf7oigosebp32n2462m2vxl6biqd.onion/wall_of_shame)|ONLINE||||
-|[DEVMAN](http://qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion)|ONLINE||||
-|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|ONLINE||||
-|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|ONLINE||||
+|[DEVMAN](http://qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion)|OFFLINE||||
+|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|OFFLINE||||
+|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|OFFLINE||||
+|[DevMan](http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion/)|ONLINE||||
 |[DIRE WOLF](http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion)|ONLINE||B344BECDC01A1282F69CB82979F40439E15E1FD1EF1FE9748EE467F5869E2148E6F1E55959E2||
 |[DISPOSSESSOR (Dark)](http://e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion/)|ONLINE||||
 |[DISPOSSESSOR (Deep)](https://radar.ltd/)|ONLINE||||

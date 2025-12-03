@@ -874,4 +874,6 @@
 |https://t.me/zagnet1|OFFLINE|ZagNet|DDoS|
 |https://t.me/itarmyofrussianews|ONLINE|IT Army Of Russia||
 |https://t.me/kazu_breach|ONLINE|Kazu Breach|Ransomware gang|
+|https://t.me/+4_csOQoIe5s4NDU1|ONLINE|NOTRASEC TEAM|Data Breach|
+|https://t.me/+VPk9npexOc4wYTg1|ONLINE|Team NotraSec Public|Data Breach|
 |https://t.me/weleaklabs|ONLINE|WeLeakLabs|Data Leaks|

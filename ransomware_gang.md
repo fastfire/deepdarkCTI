@@ -127,6 +127,7 @@
 |[CRAZY HUNTER TEAM](http://7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion)|ONLINE||||
 |[CRIMSON WALRUS](http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion)|OFFLINE||||
 |[CROSSLOCK](http://crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion)|OFFLINE||||
+|[CRY0](http://cryoblogedawivdcknyd4jsjxkrx3xrqqltxla6wwjjnzm3f3jaxjzqd.onion)|ONLINE||54E9450799AFBBA90992E3C40F552C8C05D5765144396C6A1A622FD9DABD01101F9DC0CF90F4||
 |[CRYLOCK (Victims request ID Page)](http://d57uremugxjrafyg.onion)|OFFLINE||||
 |[CRYPTBB](http://crypuglupv3bsqnbt5ruu5lgwrwoaojscwhuoccbmbzmcidft5kiccqd.onion)|ONLINE||||
 |[CRYPTNET](http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion)|ONLINE||||

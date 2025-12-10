@@ -857,7 +857,7 @@
 |https://t.me/SLSH_kashpatel|OFFLINE|SLSH BACKUP 2|related to Scattered Spider|
 |https://t.me/andrewfedman|OFFLINE|SLSH 6.0 part 3 - lapsus$hiny$scatteredwizard|related to Scattered Spider|
 |https://t.me/smokinmandiant|ONLINE|scattered LAPSUS$ hunters part 7|related to Scattered Spider|
-|https://t.me/comefacediswood|ONLINE|scattered LAPSUS$ hunters part 7 Chat|related to Scattered Spider|
+|https://t.me/comefacediswood|OFFLINE|scattered LAPSUS$ hunters part 7 Chat|related to Scattered Spider|
 |http://t.me/evilcrewteam|OFFLINE|Evil Crew||
 |https://t.me/+zm60knt4YDRmMTll|OFFLINE|RipperSec|DDoS|
 |https://t.me/disc_hack|ONLINE|Discord|related to Discord data breach|
@@ -874,7 +874,7 @@
 |https://t.me/zagnet1|OFFLINE|ZagNet|DDoS|
 |https://t.me/itarmyofrussianews|ONLINE|IT Army Of Russia||
 |https://t.me/kazu_breach|ONLINE|Kazu Breach|Ransomware gang|
-|https://t.me/+4_csOQoIe5s4NDU1|ONLINE|NOTRASEC TEAM|Data Breach|
+|https://t.me/+4_csOQoIe5s4NDU1|OFFLINE|NOTRASEC TEAM|Data Breach|
 |https://t.me/+VPk9npexOc4wYTg1|ONLINE|Team NotraSec Public|Data Breach|
 |https://t.me/weleaklabs|ONLINE|WeLeakLabs|Data Leaks|
 |https://t.me/darkilluhvx|ONLINE|Darkside beast||

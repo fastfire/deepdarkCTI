@@ -87,6 +87,7 @@
 |[DarkForum](https://darkforum.in)| ONLINE | |
 |[DARKFORUM](https://darkforum.net)| ONLINE | |
 |[DARKFORUMS](https://darkforums.me)| OFFLINE | |
+|[DARKFORUMS](https://darkforums.hn)| ONLINE | |
 |[DARKFORUMS (Deep)](https://darkforums.st)| ONLINE | |
 |[DARKFORUMS (Dark)](http://qeei4m7a2tve6ityewnezvcnf647onsqbmdbmlcw4y5pr6uwwfwa35yd.onion)| ONLINE | |
 |[DARKMARKET.AT](https://darkmarket.at)| OFFLINE | |

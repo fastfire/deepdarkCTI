@@ -880,3 +880,4 @@
 |https://t.me/darkilluhvx|ONLINE|Darkside beast||
 |https://t.me/shseller13|ONLINE|scattered LAPSUS$ hunters part 7 Chat|related to Scattered Spider|
 |https://t.me/statesponsored|ONLINE|scattered LAPSUS$ hunters Impending part 8 backup |related to Scattered Spider|
+|https://t.me/lapsusgrupo|ONLINE|$LAPSUS||

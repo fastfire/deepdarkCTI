@@ -150,6 +150,7 @@
 |[DARKRYPT](https://darkrypt.io)|OFFLINE||||
 |[DARKPOWER](http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/)|OFFLINE||||
 |[DARKRACE](http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/)|OFFLINE||||
+|[DARK SHINIGAMIS](http://darkshiz4d5ayumjvgbdhchwc7oeuc5jgbqkkgr2jj3ga5nvpjsswdad.onion)|ONLINE||||
 |[DARKSIDE](http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion)|OFFLINE||||
 |[DARK VAULT (mirror 1)](http://5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion)|ONLINE||||
 |[DARK VAULT (mirror 2)](http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion)|ONLINE||||

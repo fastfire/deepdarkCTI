@@ -883,3 +883,4 @@
 |https://t.me/lapsusgrupo|ONLINE|$LAPSUS||
 |https://t.me/ShinyCorporation|ONLINE|ShinyHunters||
 |https://t.me/bfsup|ONLINE|BreachForums|Forum|
+|https://t.me/BreachForumsNews|ONLINE|BreachForums|Forum|

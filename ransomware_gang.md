@@ -396,6 +396,8 @@
 |[OBSCURA 2.0](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||7521730C07CF45D363A627F32B3102F3F7FA72F36C2C5F9EAB0C7FBA4668527F62A90EF333E6||
 |[ONEPERCENT](http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion)|OFFLINE||||
 |[ORCA](http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion)|ONLINE||||
+|[OSIRIS PROJECT](https://osirisbm3357xrccnid23nlyuqwzbgqheaei6dxvyi34tbkqr3bmvfid.onion)|ONLINE||||
+|[OSIRIS PROJECT](https://ausare.net/app/news)|ONLINE||||
 |[OX THIEF](http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
 |[PANDORA](http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion)|OFFLINE||||
 |[PAY2KEY](http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion)|OFFLINE||||

@@ -90,6 +90,7 @@
 |[DARKFORUM](https://darkforum.net)| ONLINE | |
 |[DARKFORUMS](https://darkforums.me)| OFFLINE | |
 |[DARKFORUMS](https://darkforums.hn)| ONLINE | |
+|[DARKFORUMS](https://darkforums.io)| ONLINE | |
 |[DARKFORUMS (Deep)](https://darkforums.st)| ONLINE | |
 |[DARKFORUMS (Dark)](http://qeei4m7a2tve6ityewnezvcnf647onsqbmdbmlcw4y5pr6uwwfwa35yd.onion)| OFFLINE | |
 |[DARKFORUMS (Dark)](http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion)| ONLINE | |

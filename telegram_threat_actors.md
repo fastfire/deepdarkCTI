@@ -544,7 +544,7 @@
 |https://t.me/nnm05716english|ONLINE|NoName057(16) Eng_vers|DDoS|
 |https://t.me/+Ujf-93Ce5Lo5ZGE0|ONLINE|PE3EPBNNNM057|DDoS|
 |https://t.me/+JJWRiS8ab1FmZGI0|ONLINE|PE3EPBNNNM057|DDoS|
-|https://t.me/TwoNetchannel|ONLINE|TwoNet|DDoS|
+|https://t.me/TwoNetchannel|OFFLINE|TwoNet|DDoS|
 |https://t.me/NullLeak|OFFLINE|Data Leaks||
 |https://t.me/O1chat|OFFLINE|Market||
 |https://t.me/OBSERVERCLOUDCOMBO|OFFLINE|Combo List||

@@ -885,3 +885,4 @@
 |https://t.me/bfsup|ONLINE|BreachForums|Forum|
 |https://t.me/BreachForumsNews|ONLINE|BreachForums|Forum|
 |https://t.me/talkaboutclassifieddocuments|ONLINE|JRIntel Chat|Data Breach Group|
+\https://t.me/DarkForums_HN|ONLINE|Darkforums|Forum|

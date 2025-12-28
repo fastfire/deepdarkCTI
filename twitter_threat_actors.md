@@ -34,4 +34,4 @@
 |https://x.com/D1eNet| DieNet| DDoS | |
 |https://x.com/red_wolf_cyber| Red Wolf Cyber | DDoS | |
 |https://x.com/hezi_rash| Hezi Rash | DDoS | |
-
+|https://x.com/Handala_Red| Handala | | |

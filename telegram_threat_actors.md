@@ -887,5 +887,5 @@
 |https://t.me/talkaboutclassifieddocuments|ONLINE|JRIntel Chat|Data Breach Group|
 |https://t.me/DarkForums_HN|ONLINE|Darkforums|Forum|
 |https://t.me/DarkForumsNews|ONLINE|Darkforums|Forum|
-|
-https://t.me/Jacuzzihub|ONLINE|Jacuzzi 2.0||
+|https://t.me/Jacuzzihub|ONLINE|Jacuzzi 2.0||
+|https://t.me/handal_a|ONLINE|Handala||

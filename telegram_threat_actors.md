@@ -891,3 +891,4 @@
 |https://t.me/handal_a|ONLINE|Handala||
 |https://t.me/dropsumshi|ONLINE|data catalog|Data Breach| 
 |https://t.me/dropsleak|ONLINE|DBCollection||
+|https://t.me/group_LAPSUS|ONLINE|Lapsus$ Group||

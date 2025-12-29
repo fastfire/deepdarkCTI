@@ -9,7 +9,7 @@
 |https://t.me/+7VXL5Gy9NUc1YzFl|EXPIRED|Darknet chat||
 |https://t.me/+8UWtFO9H_9dhODVk|EXPIRED|0x_dump alternative channel||
 |https://t.me/+8yMjCnT06ytjNzQx|EXPIRED|||
-|https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
+|https://t.me/+9ETFYLy5Tc1lNzBh|EXPIRED|Ares private channel||
 |https://t.me/+9P5FQ85afTc4NGNl|EXPIRED|Goblin's Database||
 |https://t.me/+_d-aW--RLXszYmU0|VALID|Openbullet Config Service||
 |https://t.me/+AAAAAEedZM6cBNj764phgQ|EXPIRED|Large Hacking Group||

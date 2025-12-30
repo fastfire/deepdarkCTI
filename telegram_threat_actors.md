@@ -868,7 +868,7 @@
 |https://t.me/ripalldaguyz|OFFLINE|scattered LAPSUS$ hunters 7.0|related to Scattered Spider|
 |https://t.me/lunarisS3C/|ONLINE|LunarisSec|Data Leaks||
 |https://t.me/Darkstormteamback|ONLINE|Dark Storm Team||
-|https://t.me/breachfiles|ONLINE|Breachforum CDN||
+|https://t.me/breachfiles|OFFLINE|Breachforum CDN||
 |https://t.me/dropleak|ONLINE|DL Database catalog|Data Breach|
 |https://t.me/MR_X10_SY|ONLINE|Data leaks: Merged with HIDER_NIX|
 |https://t.me/zagnet1|OFFLINE|ZagNet|DDoS|

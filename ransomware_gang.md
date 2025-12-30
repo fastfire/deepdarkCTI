@@ -188,6 +188,8 @@
 |[FOG](http://xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion/)|ONLINE||||
 |[FRAG](http://34o4m3f26ucyeddzpf53bksy76wd737nf2fytslovwd3viac3by5chad.onion)|ONLINE||||
 |[FREE CIVILIAN (Attacks Ukrainian Government Agencies)](http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion)|OFFLINE||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
+|[FRESH GUNRA](http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion)|ONLINE||||
+|[FRESH GUNRA (chat)](http://nsnhzysbntsqdwpys6mhml33muccsvterxewh5rkbmcab7bg2ttevjqd.onion)|ONLINE||||
 |[FSOCIETY](http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion)|ONLINE||||
 |[FS-TEAM](http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion)|ONLINE||||
 |[FULCRUMSEC](http://gsgot6tua7ffammwdv6vpxkog32b4z7qivtqkxz55afq2hkt2o24w5yd.onion)|ONLINE||6A5E9ED3D7D26CAD5E6CA4E229CC80DA3C13AD002F73D4450078284E6C762F6DBDCF1FE9BF44 - threatspians@fulcrumsec.net - fulcrumsec@tuta.io - https://t.me/fulcrumsec||

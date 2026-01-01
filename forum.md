@@ -69,6 +69,7 @@
 |[CRACKING PRO](https://www.crackingpro.com)| ONLINE | |
 |[CRACKING X](https://crackingx.com)| ONLINE | |
 |[CRAX PRO](https://crax.pro)| OFFLINE | |
+|[CRAX PRO](https://craxpro.io)| ONLINE | |
 |[CRDCLUB (Dark)](http://crdclub4wraumez4.onion)| OFFLINE | |
 |[CRDCLUB](https://crdclub.su)| OFFLINE | |
 |[CRDPRO](https://crdpro.cc)| ONLINE | |
@@ -147,8 +148,10 @@
 |[hackonology](https://hackonology.com/forum/)| ONLINE | |
 |[hacksnation](https://hacksnation.com/)| ONLINE | |
 |[HACKTOWN](http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion/HackTown.html)| ONLINE | |
+|[HARD TM](https://hard-tm.su)| ONLINE | |
 |[HELIUM](http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/login)| ONLINE | |
 |[HOHEKAMMER](http://hohekammer.cc)| ONLINE | |
+|[HYDRA](https://hydraforums.io)| ONLINE | |
 |[IFUD](https://ifud.cx)| OFFLINE | |
 |[IN4BZ](https://in4.bz)| ONLINE | |
 |[INCIDIOUS](https://incidious.se) | ONLINE | |
@@ -171,6 +174,7 @@
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
 |[LEAKY.PRO](https://leaky.pro/)| ONLINE | |
 |[LEECH](https://leech.is)| ONLINE | |
+|[LEET FORUMS](https://leetforums.cc)| ONLINE | |
 |[LeVeL23HackTools](https://level23hacktools.com/hackers)| ONLINE | |
 |[LinkPass](https://linkpass.info)| ONLINE | |
 |[LOLZ](https://lolz.guru)| ONLINE | |

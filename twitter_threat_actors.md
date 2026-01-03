@@ -36,3 +36,4 @@
 |https://x.com/hezi_rash| Hezi Rash | DDoS | |OFFLINE|
 |https://x.com/Handala_Red| Handala | | |
 |https://x.com/LapsusGroup| Lapsus$ Group | | |
+|https://x.com/ShinyHuntCorp| ShinyHunters | | |

@@ -15,7 +15,7 @@
 |https://x.com/darkteam849423| Dark Storm | DDoS  | |
 |https://x.com/PsExec64| Conti | Ransomware | |
 |https://x.com/reyxbf| Rey - HellCat | Ransomware | |
-|https://x.com/Noname05716| NoName056 | DDoS | |
+|https://x.com/Noname05716| NoName056 | DDoS | |OFFLINE|
 |https://x.com/IMN_Crew| IMN Crew | Ransomware | |
 |https://x.com/holypryx| PRYX - HellCat | Ransomware | |
 |https://x.com/GonjeshkeDarand| Gonjeshke Darande | Data BReaches | |
@@ -24,7 +24,7 @@
 |https://x.com/BLOODY48139604| BL🩸🩸DY | Ransomware |
 |https://x.com/RuskiNetGroup| RuskiNet Group Cyber Mujahid Of Allah | |OFFLINE|
 |https://x.com/TenguRaaS| tengu | Ransomware | |
-|https://x.com/golden_falcon3| Golden Falcon | DDoS | |
+|https://x.com/golden_falcon3| Golden Falcon | DDoS | |OFFLINE|
 |https://x.com/PROTEAMFEARLESS| Team Fearless | DDoS | |
 |https://x.com/RooTDoS| RootDDoS | DDoS | |
 |https://x.com/SkBoss484479| Akatsuki cyber team | DDoS | |
@@ -33,6 +33,6 @@
 |https://x.com/MrHamza_Op| Mr Hamza | DDoS | |
 |https://x.com/D1eNet| DieNet| DDoS | |
 |https://x.com/red_wolf_cyber| Red Wolf Cyber | DDoS | |
-|https://x.com/hezi_rash| Hezi Rash | DDoS | |
+|https://x.com/hezi_rash| Hezi Rash | DDoS | |OFFLINE|
 |https://x.com/Handala_Red| Handala | | |
 |https://x.com/LapsusGroup| Lapsus$ Group | | |

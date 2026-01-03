@@ -893,6 +893,7 @@
 |https://t.me/dropsleak|ONLINE|DBCollection||
 |https://t.me/group_LAPSUS|ONLINE|Lapsus$ Group||
 |https://t.me/crewcyber|404 CREW CYBER TEAM||
-|https://t.me/noname05716_esp|NoName057(16)_Esp vers🇪🇸|DDoS|
-|https://t.me/nnm05716_itvers|NoName057(16) It vers|DDoS|
-|https://t.me/breachdetect|Data Leak Monitor||
+|https://t.me/noname05716_esp|ONLINE|NoName057(16)_Esp vers🇪🇸|DDoS|
+|https://t.me/nnm05716_itvers|ONLINE|NoName057(16) It vers|DDoS|
+|https://t.me/breachdetect|ONLINE|Data Leak Monitor||
+|https://t.me/+YvPQkF1nE1Q4ZDI1|VALID|umbra.by/telegram|Umbra Forum Chat|

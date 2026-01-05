@@ -897,3 +897,4 @@
 |https://t.me/nnm05716_itvers|ONLINE|NoName057(16) It vers|DDoS|
 |https://t.me/breachdetect|ONLINE|Data Leak Monitor||
 |https://t.me/+YvPQkF1nE1Q4ZDI1|VALID|umbra.by/telegram|Umbra Forum Chat|
+|https://t.me/+8PSmyJeBbwwyNTMy|VALID|NoName057(16)🇷🇺|DDoS|

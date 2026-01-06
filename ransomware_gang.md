@@ -558,6 +558,7 @@
 |[VANHELSING](http://vanhelwmbf2bwzw7gmseg36qqm4ekc5uuhqbsew4eihzcahyq7sukzad.onion/blog)|ONLINE||||
 |[VANHELSING](http://vanhelxjo52qr2ixcmtjayqqrcodkuh36n7uq7q7xj23ggotyr3y72yd.onion/blog)|ONLINE||||
 |[VANIR](http://6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion)|ONLINE||||
+|[VECT](http://bu7zr6fotni3qxxoxlcmpikwtp5mjzy7jkxt7akflnm2kwkbdtgtjuid.onion)|ONLINE||||
 |[VFOKX (1)](http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion)|OFFLINE||||
 |[VFOKX (2)](http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion)|OFFLINE||||
 |[VICE SOCIETY](http://4hzyuotli6maqa4u.onion)|OFFLINE||||

@@ -803,7 +803,7 @@
 |https://t.me/leavemealonefbi|OFFLINE|scattered lapsu$ hunters - Chat|Data Leaks|
 |https://t.me/+Urm9oSCMH9hmNTI1|EXPIRED|Breach Forums||
 |https://t.me/+xaAIZrkJgKkyZTM1|EXPIRED|Aegis Staff (related to Breach Forum)||
-|https://t.me/BQTlock_raas|ONLINE|BAQIYATLock RaaS|Ransomware Gang|
+|https://t.me/BQTlock_raas|OFFLINE|BAQIYATLock RaaS|Ransomware Gang|
 |https://t.me/nullsechackers|ONLINE|Nullsec Philippines|DDoS|
 |https://t.me/leavemealonecybernigger|OFFLINE|||
 |https://t.me/leavemealoneBL2C|OFFLINE|||

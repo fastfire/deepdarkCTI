@@ -896,6 +896,7 @@
 |https://t.me/noname05716_esp|ONLINE|NoName057(16)_Esp vers🇪🇸|DDoS|
 |https://t.me/nnm05716_itvers|ONLINE|NoName057(16) It vers|DDoS|
 |https://t.me/breachdetect|ONLINE|Data Leak Monitor||
-|https://t.me/+YvPQkF1nE1Q4ZDI1|VALID|umbra.by/telegram|Umbra Forum Chat|
-|https://t.me/+8PSmyJeBbwwyNTMy|VALID|NoName057(16)🇷🇺|DDoS|
+|https://t.me/+YvPQkF1nE1Q4ZDI1|ONLINE|umbra.by/telegram|Umbra Forum Chat|
+|https://t.me/+8PSmyJeBbwwyNTMy|ONLINE|NoName057(16)🇷🇺|DDoS|
 |https://t.me/the_seeker8|ONLINE|||
+|https://t.me/eightsixroot/|ONLINE|EIGHT-SIX ROOT|DataLeaks|

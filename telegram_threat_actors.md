@@ -900,3 +900,4 @@
 |https://t.me/+8PSmyJeBbwwyNTMy|ONLINE|NoName057(16)🇷🇺|DDoS|
 |https://t.me/the_seeker8|ONLINE|||
 |https://t.me/eightsixroot/|ONLINE|EIGHT-SIX ROOT|DataLeaks|
+|https://t.me/bjorkanismen|ONLINE|Bjorkanism|DataLeaks|

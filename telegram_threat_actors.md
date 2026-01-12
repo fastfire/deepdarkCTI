@@ -901,3 +901,5 @@
 |https://t.me/the_seeker8|ONLINE|||
 |https://t.me/eightsixroot/|ONLINE|EIGHT-SIX ROOT|DataLeaks|
 |https://t.me/bjorkanismen|ONLINE|Bjorkanism|DataLeaks|
+|https://t.me/+LkVFMdFgOjRjMTdk|VALID|APT IRAN||
+|https://t.me/+vhfp6KSzHZY3OWVh|VALID|Black Market Cartel||

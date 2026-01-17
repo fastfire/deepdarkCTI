@@ -903,3 +903,7 @@
 |https://t.me/bjorkanismen|ONLINE|Bjorkanism|DataLeaks|
 |https://t.me/+LkVFMdFgOjRjMTdk|VALID|APT IRAN||
 |https://t.me/+vhfp6KSzHZY3OWVh|VALID|Black Market Cartel||
+|https://t.me/httpstmeVl8Cr1np5kxhYjd0|VALID|BD Anonymous||
+|https://t.me/+vAPwONVSmasxNTI1|VALID|GHOSTNET-X||
+|https://t.me/+n0Z8jU9JpgEwOTY9|VALID|GARUDIANS INDO BLACK HAT||
+|https://t.me/+qXH1PraFI7YxNjg1|VALID|CyberOprationCulture||

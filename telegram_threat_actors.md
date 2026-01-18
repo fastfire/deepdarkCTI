@@ -907,3 +907,5 @@
 |https://t.me/+vAPwONVSmasxNTI1|VALID|GHOSTNET-X||
 |https://t.me/+n0Z8jU9JpgEwOTY9|VALID|GARUDIANS INDO BLACK HAT||
 |https://t.me/+qXH1PraFI7YxNjg1|VALID|CyberOprationCulture||
+|https://t.me/dienet3|DieNet|DDoS|
+|https://t.me/dienet1|DieNet|DDoS|

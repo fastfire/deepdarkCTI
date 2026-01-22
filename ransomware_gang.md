@@ -92,6 +92,7 @@
 |[BLACK SHADOW (Deep)](https://blackshadow.cc)|OFFLINE||https://t.me/Blackshadow_Team_official||
 |[BLACK SHADOW](http://544corkfh5hwhtn4.onion)|OFFLINE||||
 |[BLACKSHRANTAC](http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion)|ONLINE||||
+|[BLACKSHRANTAC](http://shrantacpxim7z6m6pnszi52bb2tp23sntby3hklt36rezdja7bdjsyd.onion/leaks)|ONLINE||||
 |[BLACK SUIT](http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion)|ONLINE||||
 |[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE||||
 |[BLUEBOX](http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion)|ONLINE||||

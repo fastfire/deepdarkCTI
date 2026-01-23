@@ -1,4 +1,3 @@
-<img width="1124" height="769" alt="image" src="https://github.com/user-attachments/assets/aee7cc94-adec-4c14-90bf-f0f6691023c6" />|Name|Status|User:Password|Tox ID or other channel|RSS Feed|
 | ------ | ------ | ------ | ------ | ------ |
 |[RansomChats](https://github.com/Casualtek/Ransomchats)|ONLINE||||
 |[Ransomfeed](https://ransom.insicurezzadigitale.com/index.php)|ONLINE||

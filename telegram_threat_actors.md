@@ -268,8 +268,9 @@
 |https://t.me/darkstormteam21|OFFLINE|Dark Storm Team||
 |https://t.me/darkstormteambackup2|OFFLINE|Dark Storm Team|DDoS|
 |https://t.me/darkstormteambackup3|OFFLINE|Dark Storm Team Backup|DDoS|
-|https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
+|https://t.me/DarkStormTeamd|OFFLINE|Dark Storm Team||
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
+|https://t.me/Darkstormre|ONLINE|Dark Storm Team||
 |https://t.me/darkvaultransom|OFFLINE|Dark Vault ransom|Ransomware|
 |https://t.me/darkwebdarknetmarketplace|OFFLINE|Illicit Service||
 |https://t.me/darxe_base|ONLINE|Data Leaks||

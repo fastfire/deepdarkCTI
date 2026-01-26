@@ -771,7 +771,7 @@
 |https://t.me/vassal_of_the_Joker|ONLINE|Вассал Джокера||
 |https://t.me/+hSH4gfaaAOA4YzY6|VALID|Sector16/S16 #Killnet||
 |https://t.me/CyberToufan01|OFFLINE|CyberToufan|Data Leaks|
-|https://t.me/+1R9pU3u-9ac0ZmZl|VALID|DataLeaky|Data Leaks|
+|https://t.me/+1R9pU3u-9ac0ZmZl|EXPIRED|DataLeaky|Data Leaks|
 |https://t.me/handala_team|OFFLINE|Handala|Ransomware gang|
 |https://t.me/T34M_CYB3R|OFFLINE|𝙏𝙀𝘼𝙈 𝘾𝙔𝘽𝙀𝙍 𝙕𝙐𝙇𝙁𝙄𝙌𝘼𝙍 🇵🇸|DDoS|
 |https://t.me/perunswaroga|ONLINE|Перун Сварога|Data Leaks|
@@ -874,7 +874,7 @@
 |https://t.me/MR_X10_SY|ONLINE|Data leaks: Merged with HIDER_NIX|
 |https://t.me/zagnet1|OFFLINE|ZagNet|DDoS|
 |https://t.me/itarmyofrussianews|ONLINE|IT Army Of Russia||
-|https://t.me/kazu_breach|ONLINE|Kazu Breach|Ransomware gang|
+|https://t.me/kazu_breach|OFFLINE|Kazu Breach|Ransomware gang|
 |https://t.me/+4_csOQoIe5s4NDU1|OFFLINE|NOTRASEC TEAM|Data Breach|
 |https://t.me/+VPk9npexOc4wYTg1|ONLINE|Team NotraSec Public|Data Breach|
 |https://t.me/weleaklabs|ONLINE|WeLeakLabs|Data Leaks|
@@ -900,10 +900,10 @@
 |https://t.me/+YvPQkF1nE1Q4ZDI1|ONLINE|umbra.by/telegram|Umbra Forum Chat|
 |https://t.me/+8PSmyJeBbwwyNTMy|ONLINE|NoName057(16)🇷🇺|DDoS|
 |https://t.me/the_seeker8|ONLINE|||
-|https://t.me/eightsixroot/|ONLINE|EIGHT-SIX ROOT|DataLeaks|
+|https://t.me/eightsixroot|OFFLINE|EIGHT-SIX ROOT|DataLeaks|
 |https://t.me/bjorkanismen|ONLINE|Bjorkanism|DataLeaks|
-|https://t.me/+LkVFMdFgOjRjMTdk|VALID|APT IRAN||
-|https://t.me/+vhfp6KSzHZY3OWVh|VALID|Black Market Cartel||
+|https://t.me/+LkVFMdFgOjRjMTdk|EXPIRED|APT IRAN||
+|https://t.me/+vhfp6KSzHZY3OWVh|EXPIRED|Black Market Cartel||
 |https://t.me/httpstmeVl8Cr1np5kxhYjd0|VALID|BD Anonymous||
 |https://t.me/+vAPwONVSmasxNTI1|VALID|GHOSTNET-X||
 |https://t.me/+n0Z8jU9JpgEwOTY9|VALID|GARUDIANS INDO BLACK HAT||

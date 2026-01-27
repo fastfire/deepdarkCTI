@@ -546,8 +546,8 @@
 |[TEAM UNDERGROUND (Victims page)](http://undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd[.]onion/auth/login)|ONLINE||https://t.me/UndergroundDataLeaks||
 |[TEAM UNDERGROUND](http://47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion)|ONLINE||||
 |[TEAM XXX](http://tp5cwh6d2b5hekcg6jlhoe6mawa7dlwiv47epvnfmzuaaur2dnaa3uid.onion)|ONLINE||||
-|[TENGU](http://longcc4fqrfcqt5lzceutylaxir6h66fp6df3oin6mvwvz6pfdbxc6qd.onion)|ONLINE||||
-|[TENGU](http://fuvodyoktsjdwu3mrbbrmdsmtblkxau6l7r5dygfwgzhf36mabjtcjad.onion)|ONLINE||||
+|[TENGU](http://longcc4fqrfcqt5lzceutylaxir6h66fp6df3oin6mvwvz6pfdbxc6qd.onion)|ONLINE||A458DAEFD26B207A65C2D0164B354DA25F7A77D7E52D1B16E577F3A143D8EC7C272B58F72FDD - https://t.me/TENGUleaks||
+|[TENGU](http://fuvodyoktsjdwu3mrbbrmdsmtblkxau6l7r5dygfwgzhf36mabjtcjad.onion)|OFFLINE||||
 |[TERMITE](http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion)|ONLINE||||
 |[THE GENTLEMEN](http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion)|ONLINE||F8E24C7F5B12CD69C44C73F438F65E9BF560ADF35EBBDF92CF9A9B84079F8F04060FF98D098E||
 |[ThreatLabz](http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion)|ONLINE||||

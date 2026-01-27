@@ -37,3 +37,4 @@
 |https://x.com/Handala_Red| Handala | | |
 |https://x.com/LapsusGroup| Lapsus$ Group | | |
 |https://x.com/ShinyHuntCorp| ShinyHunters | | |
+|https://x.com/TenguRaas| Tengu | Ransomware | |

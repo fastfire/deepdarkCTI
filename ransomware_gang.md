@@ -10,6 +10,7 @@
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomlook.io/)|ONLINE|||
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomware.live/)|ONLINE|||
 |[RANSOMNEWS](https://ransomnews.online)|ONLINE|||
+|[0APT](http://oaptxiyisljt2kv3we2we34kuudmqda7f2geffoylzpeo7ourhtz4dad.onion)|ONLINE||||
 |[0X Thief](https://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
 |[54bb47h (Victims page)](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion)|OFFLINE||||
 |[54bb47h](http://54bb47h.blog)|OFFLINE||||

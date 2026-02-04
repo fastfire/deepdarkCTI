@@ -42,14 +42,15 @@
 |[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| OFFLINE (seized) | |
 |[BREACH FORUMS (Dark)](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion)| OFFLINE | |
 |[BREACH FORUMS (Dark)](http://ncf7birtagvnoo73fnkxg2qayj5v76sijxlc65mvdewdruiwmkfofeyd.onion)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.bf)| ONLINE | |
-|[BREACH FORUMS](http://breachedmw4otc2lhx7nqe4wyxfhpvy32ooz26opvqkmmrbg73c7ooad.onion/)| ONLINE | |
-|[BREACH FORUMS](https://breachforums.cx)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.is)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.st)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.sx)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.vc)| OFFLINE | |
-|[BREACH FORUMS](https://breachforums.info/) | OFFLINE | |
+|[BREACH FORUMS (Dark)](http://breachedmw4otc2lhx7nqe4wyxfhpvy32ooz26opvqkmmrbg73c7ooad.onion/)| ONLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.bf)| OFFLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.cx)| OFFLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.is)| OFFLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.st)| OFFLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.sx)| OFFLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.vc)| OFFLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.info/) | OFFLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.jp/)| ONLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](http://breached.ws) | ONLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](http://breachy72uc3rgraqpvfnb6dglhbcy7niqpmjdlseewzgpq4vifmmuyd.onion/) | ONLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](https://breachforums.cz)| ONLINE | |

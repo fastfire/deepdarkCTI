@@ -91,10 +91,10 @@
 |[DARKCLUB](https://darkclub.pw)| ONLINE | |
 |[DarkForum](https://darkforum.in)| ONLINE | |
 |[DARKFORUM](https://darkforum.net)| ONLINE | |
-|[DARKFORUMS](https://darkforums.me)| OFFLINE | |
-|[DARKFORUMS](https://darkforums.hn)| ONLINE | |
-|[DARKFORUMS](https://darkforums.io)| ONLINE | |
-|[DARKFORUMS (Deep)](https://darkforums.st)| ONLINE | |
+|[DARKFORUMS (Deep](https://darkforums.me)| ONLINE | |
+|[DARKFORUMS (Deep](https://darkforums.hn)| OFFLINE | |
+|[DARKFORUMS (Deep)](https://darkforums.io)| OFFLINE | |
+|[DARKFORUMS (Deep)](https://darkforums.st)| OFFLINE | |
 |[DARKFORUMS (Dark)](http://qeei4m7a2tve6ityewnezvcnf647onsqbmdbmlcw4y5pr6uwwfwa35yd.onion)| OFFLINE | |
 |[DARKFORUMS (Dark)](http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion)| ONLINE | |
 |[DARKMARKET.AT](https://darkmarket.at)| OFFLINE | |

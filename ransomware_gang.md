@@ -244,6 +244,7 @@
 |[INC RANSOM (new - Deep)](http://inblog.su/blog/disclosures)|ONLINE||||
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion)|OFFLINE||||
 |[INSANE](http://nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion/Insane.html)|ONLINE||||
+|[INSOMNIA](http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion)|ONLINE||FA21E360945F602504728A05A39758C38B6A5B5DA1969717AF05838D14FDCD3DE17455833F11||
 |[INTERLOCK](http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion)|ONLINE||||
 |[J GROUP](http://twniiyed6mydtbe64i5mdl56nihl7atfaqtpww6gqyaiohgc75apzpad.onion)|ONLINE||||
 |[J GROUP](http://w4d5aqmdxkcsc2xwcz7w7jo6wdmvmakgy3y6mfmdtzmyvxe77cjkfbad.onion)|ONLINE||||

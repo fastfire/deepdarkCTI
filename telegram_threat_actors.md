@@ -924,3 +924,4 @@
 |https://t.me/FsckAroundFindOut|ONLINE|unc3944 unc5537 unc6040 unc6240 unc6395 unc6661|related to Scattered Spider|
 |https://t.me/+upI9h6D75I85YmEx|OFFLINE|DarkForums|DataLeaks|
 |https://t.me/Jacuzzidarkforums|ONLINE|Jacuzzi 2.0|DataLeaks|
+|https://t.me/+zQ-2bUGhoyY4YzA1|ONLINE|Z-SH4DOWSPEECH|DataLeaks|

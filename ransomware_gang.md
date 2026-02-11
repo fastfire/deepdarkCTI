@@ -215,6 +215,7 @@
 |[GUNRA](http://myeli53ogsryjg2kob4xqxtwkr5oc5zj7jr5fcfizpytwe566k5thxyd.onion)|ONLINE||||
 |[GUNRA](http://6oeuvb4fq65xlrft2ezxjmkeqnu7oafbsevrr3ocer27wft6ivvhstqd.onion)|ONLINE||||
 |[GUNRA](http://ryrw2ojab62yij4y33ssfgvm2d2vwt3tcqetu6qmpwznqhooqxz3wpqd.onion)|ONLINE||||
+|[GUNRA](https://raas.lgiil72vkmdtbc3qv4tyq6wedyjxqr2qd4ze7xl2cxgerdnymxj7soqd.onion)|ONLINE||||
 |[HADES](http://ixltdyumdlthrtgx.onion)|OFFLINE||||
 |[HANDALA](https://handala.to)|ONLINE||||
 |[HANDALA](https://handala-hack.to)|ONLINE||||
@@ -481,6 +482,7 @@
 |[REVIL (Old)](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)|OFFLINE||||
 |[REVIL (New)](http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/Blog)|OFFLINE||||
 |[REVIL (Victims page)](http://landxxeaf2hoyl2jvcwuazypt6imcsbmhb7kx3x33yhparvtmkatpaad.onion)|OFFLINE||||
+|[REYNOLDS](http://bs2tlg32pfjwmclm22cyngqmoo24cdlhfxzbruwrdaxumisfeory32qd.onion)|ONLINE||||
 |[RHYSIDA](http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion)|ONLINE||rhysidaeverywhere@onionmail.org - rhysidaofficial@onionmail.org||
 |[RHYSIDA (Mirror)](http://rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion/)|ONLINE||||
 |[RISEN](http://o6pi3u67zyag73ligtsupin5rjkxpfrbofwoxnhimpgpfttxqu7lsuyd.onion)|OFFLINE||https://t.me/risenservice||

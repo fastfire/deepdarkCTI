@@ -789,7 +789,7 @@
 |https://t.me/leakslist|OFFLINE|Leak List|Data Leaks|
 |https://t.me/JokeirR07x|OFFLINE|JoKeiR 07x||
 |https://t.me/ANONXF34RL3SS|ONLINE|ANON X FEARLESS||
-|https://t.me/xServerKillers|ONLINE|Server Killers|DDoS|
+|https://t.me/xServerKillers|OFFLINE|Server Killers|DDoS|
 |https://t.me/threadsbreach|OFFLINE|Threads Breachforum|Data Leaks|
 |https://t.me/GhilanLegion|OFFLINE|Ghilan Legion||
 |https://t.me/darkstormteamoff|OFFLINE|Dark Storm|DDoS|
@@ -845,7 +845,7 @@
 |https://t.me/hannibalmaaleaks|ONLINE|HannibalMAA LE4kS|Data Leaks|
 |https://t.me/Almo7a9e9|OFFLINE|Almo7a9e9||
 |https://t.me/Darkstormteamnewteam|OFFLINE|Dark Storm Team||
-|https://t.me/bittenforumsofficial|ONLINE|Bitten Forums|Forum|
+|https://t.me/bittenforumsofficial|OFFLINE|Bitten Forums|Forum|
 |https://t.me/+-ocgMgaZKi5lMDJl|EXPIRED|CLOBELSECTEAM|Data Leaks|
 |https://t.me/+Uee76jMCr5UzMTVl|EXPIRED|CLOBELSECTEAM|Data Leaks|
 |https://t.me/+oMBufAf0BBoyMTJl|EXPIRED|CLOBELSECTEAM|Data Leaks|

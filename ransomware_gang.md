@@ -362,6 +362,7 @@
 |[MEDUSA](http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion)|ONLINE||||
 |[MEDUSA](http://s7lmmhlt3iwnwirxvgjidl6omcblvw2rg75txjfduy73kx5brlmiulad.onion)|ONLINE||||
 |[MEDUSA](http://cx5u7zxbvrfyoj6ughw76oa264ucuuizmmzypwum6ear7pct4yc723qd.onion)|ONLINE||||
+|[MEDUZA LOCKER](https://5tqdhriujqb7tb3cw3i3ffwaamjtnph6wsijdbecscyqhii3jbjz2rqd.onion)|ONLINE||||
 |[MEOW](http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion)|ONLINE||||
 |[METAENCRYPTER](http://metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion)|ONLINE||||
 |[MIGA](http://q7gmt7pbo4rrt27ydkiv2kxd7cimhztq2x7hzd557jthhu5zp6ujieid.onion)|ONLINE||||
@@ -391,7 +392,8 @@
 |[NEVADA (DLS)](http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion)|OFFLINE||||
 |[NEVADA (BACKEND)](http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion)|OFFLINE||||
 |[NEVADA (AFFILIATES)](http://nevaffcwswjosddmw55qhn4u4secw42wlppzvf26k5onrlxjevm6avad.onion/)|OFFLINE||||
-|[NIGHT SPIRE](http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion)|ONLINE||||
+|[NIGHT SPIRE](http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion)|OFFLINE||||
+|[NIGHT SPIRE](http://nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion/database)|ONLINE||||
 |[NightSky](http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion)|OFFLINE||||
 |[NITROGEN](http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion)|ONLINE||https://x.com/NitrogenSupp/ - https://www.linkedin.com/in/nitrogen-support-0b748532a/ - 620C7A54EC212FB482A684BA74381C3623CCE4D0E27FAE348688F65E0F0F6B6A149790D1AE7D||
 |[NoEscape](http://noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion)|ONLINE||||

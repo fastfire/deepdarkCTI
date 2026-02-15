@@ -925,3 +925,4 @@
 |https://t.me/+upI9h6D75I85YmEx|OFFLINE|DarkForums|DataLeaks|
 |https://t.me/Jacuzzidarkforums|ONLINE|Jacuzzi 2.0|DataLeaks|
 |https://t.me/+zQ-2bUGhoyY4YzA1|OFFLINE|Z-SH4DOWSPEECH|DataLeaks|
+|https://t.me/ThreatMarket|ONLINE|Threat Market|DataLeaks|

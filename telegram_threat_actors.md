@@ -898,13 +898,13 @@
 |https://t.me/nnm05716_itvers|ONLINE|NoName057(16) It vers|DDoS|
 |https://t.me/breachdetect|ONLINE|Data Leak Monitor||
 |https://t.me/+YvPQkF1nE1Q4ZDI1|ONLINE|umbra.by/telegram|Umbra Forum Chat|
-|https://t.me/+8PSmyJeBbwwyNTMy|ONLINE|NoName057(16)🇷🇺|DDoS|
+|https://t.me/+8PSmyJeBbwwyNTMy|EXPIRED|NoName057(16)🇷🇺|DDoS|
 |https://t.me/the_seeker8|ONLINE|||
 |https://t.me/eightsixroot|OFFLINE|EIGHT-SIX ROOT|DataLeaks|
 |https://t.me/bjorkanismen|ONLINE|Bjorkanism|DataLeaks|
 |https://t.me/+LkVFMdFgOjRjMTdk|EXPIRED|APT IRAN||
 |https://t.me/+vhfp6KSzHZY3OWVh|EXPIRED|Black Market Cartel||
-|https://t.me/httpstmeVl8Cr1np5kxhYjd0|VALID|BD Anonymous||
+|https://t.me/httpstmeVl8Cr1np5kxhYjd0|OFFLINE|BD Anonymous||
 |https://t.me/+vAPwONVSmasxNTI1|EXPIRED|GHOSTNET-X||
 |https://t.me/+n0Z8jU9JpgEwOTY9|VALID|GARUDIANS INDO BLACK HAT||
 |https://t.me/+qXH1PraFI7YxNjg1|VALID|CyberOprationCulture||

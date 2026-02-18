@@ -120,3 +120,5 @@
 |https://t.me/+V-oTBDqBJSRkYTU0|OFFLINE|LOGS|
 |https://t.me/+0IAf5VIrl_EzNWRi|ONLINE|BradMax Cloud Malware Data Logs|
 |https://t.me/cloudxlog|ONLINE|LOGS|
+|https://t.me/+abRpT5eRHCplNzIy|ONLINE|darkside linklogs|
+\https://t.me/+p--PGff5qRUzZmIy|ONLINE|Fehu Cloud|

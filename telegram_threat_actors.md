@@ -926,4 +926,5 @@
 |https://t.me/Jacuzzidarkforums|ONLINE|Jacuzzi 2.0|DataLeaks|
 |https://t.me/+zQ-2bUGhoyY4YzA1|OFFLINE|Z-SH4DOWSPEECH|DataLeaks|
 |https://t.me/ThreatMarket|ONLINE|Threat Market|DataLeaks|
-|https://t.me/COMBOWORKON|ONLINE|Mail Access Combos|
+|https://t.me/COMBOWORKON|ONLINE|Mail Access Combos||
+|https://t.me/group_LAPSUS|ONLINE|LAPSUS$||

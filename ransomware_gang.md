@@ -265,7 +265,8 @@
 |[KAZU](http://6czlbd2jfiy6765fbnbnzuwuqocg57ebvp3tbm35kib425k4qnmiiiqd.onion)|ONLINE||Session: 054acad09eb2c78674f3371bc9fd24218bacff3326c3d259819bf6e78de3ac0e6a - @kazu_21 | @kazu_breach (Channel) - Signal: Signal : @kazu.517 - Exploit: forum.exploit.in/profile/203546-kazu/ - DF: darkforums.st/User-Kazu||
 |[KELVIN SECURITY](https://vipsuscription.org)|ONLINE||https://t.me/kelvinsecteam||
 |[KILLSEC](http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion)|ONLINE||https://t.me/k1llsec||
-|[Kill Security 3.0](http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/)|ONLINE||||
+|[Kill Security 3.0](http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion)|ONLINE||||
+|[KITTYKATKREW](https://vs6ccwled72hwmescxr2e32mmfrm6vbqbo7gbmmkxnu7g5fps7ndeeyd.onion)|ONLINE||||
 |[KNIGHT (ex CYCLOPS)](http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion)|ONLINE||9096AD7062A4232F5AA31C2F7C4DF0AC1EAD10B78D40A6A3328AD142A42B555E635954D8B6C5||
 |[Kraken](http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion)|ONLINE||||
 |[KRYPTOS](http://kryptospnjzz7vfkr663bnqv3dxirmr3svo5zwq7cvu2wdfngujgknyd.onion)|ONLINE||5D16859E0BC70E8830DEB8DE294C7E5AF8BD4D30CB1CB01F3BE17D0F592B3264DB2B6BB15164 - 8AE76D106C7F34134CAB98E41C5EEEF15B238BC523EC2F09C7765214CB03822866E94D87B25F||

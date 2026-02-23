@@ -932,3 +932,4 @@
 |https://t.me/Hider_Nex_Attacks|ONLINE|Hider Nex|DDoS|
 |https://t.me/+5UAb5KgYPChiMzhk|ONLINE|Hider Nex (Backup)|DDoS|
 |https://t.me/+6nmGy6pn1b03OTk0|ONLINE|Hider Nex (Shop)|DataLeaks|
+|https://t.me/kittykatkrew|ONLINE|Kittykatkrew|Ransomware|

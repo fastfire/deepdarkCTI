@@ -929,3 +929,6 @@
 |https://t.me/COMBOWORKON|ONLINE|Mail Access Combos||
 |https://t.me/group_LAPSUS|ONLINE|LAPSUS$||
 |https://t.me/Lun4risSec|ONLINE|LunarisSec|DDoS|
+|https://t.me/Hider_Nex_Attacks|ONLINE|Hider Nex|DDoS|
+|https://t.me/+5UAb5KgYPChiMzhk|ONLINE|Hider Nex (Backup)|DDoS|
+|https://t.me/+6nmGy6pn1b03OTk0|ONLINE|Hider Nex (Shop)|DataLeaks|

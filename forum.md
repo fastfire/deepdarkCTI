@@ -258,6 +258,8 @@
 |[SKYNETZONE.BIZ](https://skynetzone.biz)| ONLINE | |
 |[SKYNETZONE.PW](https://skynetzone.pw)| ONLINE | |
 |[SOFTXAKER](http://forum.softxaker.ru)| ONLINE | |
+|[SPEAR](https://spear.cx)| ONLINE | |
+|[SPEAR](http://spear4h2potiyk43oilufhuq2jqbioyaizcs7xttlyw75s5ykwxpxlid.onion)| ONLINE | |
 |[SPYHACKERZ](https://spyhackerz.org)| ONLINE | |
 |[SQLI](https://sqli.cloud)| ONLINE | |
 |[STRESSED FORUM](https://stressedforums.pw)| ONLINE | |

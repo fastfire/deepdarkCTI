@@ -52,6 +52,7 @@
 |[BREACH FORUMS (Deep)](https://breachforums.info/) | OFFLINE | |
 |[BREACH FORUMS (Deep)](https://breachforums.jp/)| OFFLINE | |
 |[BREACH FORUMS (Deep)](https://breachforums.as/)| ONLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.in/)| ONLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](http://breached.ws) | OFFLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](http://breachy72uc3rgraqpvfnb6dglhbcy7niqpmjdlseewzgpq4vifmmuyd.onion/) | ONLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](https://breachforums.cz)| ONLINE | |

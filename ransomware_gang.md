@@ -118,6 +118,7 @@
 |[CHORT](http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion)|ONLINE||||
 |[CICADA3301](http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion)|ONLINE||||
 |[CIPHBIT](http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion)|ONLINE||5B85F0F52F989C42FE18A08351D4B9F50D7A9832DBE4A068346DE35D5CF8F410BF89FA7A7AFF||
+|[CIPHERFORCE](http://o3ydbkayttkyg4iw2nc732jxmmex25bjeyqyvuuyngnxmpehdefjr3qd[.]onion)|ONLINE||||
 |[CLOAK](http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion)|ONLINE||||
 |[CLOP](http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion)|ONLINE||||
 |[CLOP (torrents)](http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion)|ONLINE||||

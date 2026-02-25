@@ -921,7 +921,7 @@
 |https://t.me/+mNBrxkuz6y4yOTYy|VALID|Cardinal||
 |https://t.me/ShadowClawZ404|ONLINE|Shadow ClawZ 404||
 |https://t.me/TorZireael1|ONLINE|Tor Zireael||
-|https://t.me/FsckAroundFindOut|ONLINE|unc3944 unc5537 unc6040 unc6240 unc6395 unc6661|related to Scattered Spider|
+|https://t.me/FsckAroundFindOut|OFFLINE|unc3944 unc5537 unc6040 unc6240 unc6395 unc6661|related to Scattered Spider|
 |https://t.me/+upI9h6D75I85YmEx|OFFLINE|DarkForums|DataLeaks|
 |https://t.me/Jacuzzidarkforums|ONLINE|Jacuzzi 2.0|DataLeaks|
 |https://t.me/+zQ-2bUGhoyY4YzA1|OFFLINE|Z-SH4DOWSPEECH|DataLeaks|

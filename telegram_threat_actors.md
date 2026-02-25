@@ -555,7 +555,7 @@
 |https://t.me/opendataleaks|OFFLINE|Data Leaks||
 |https://t.me/openleak|ONLINE|Data Leaks||
 |https://t.me/OPRATIONSALIGATOR|OFFLINE|Aligator Black Hat||
-|https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat||
+|https://t.me/Osintcorp_chat|OFFLINE|OsintCorp Group Chat||
 |https://t.me/Patriot_Black_Matrix|OFFLINE|Patriot Black Matrix||
 |https://t.me/Patriot_Black_x|ONLINE|Patriot Black Matrix||
 |https://t.me/peass|ONLINE|||

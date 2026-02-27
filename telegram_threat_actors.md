@@ -933,3 +933,11 @@
 |https://t.me/+6nmGy6pn1b03OTk0|ONLINE|Hider Nex (Shop)|DataLeaks|
 |https://t.me/kittykatkrew|ONLINE|Kittykatkrew|Ransomware|
 |https://t.me/+D2e-YSFvtAhhMWU1|ONLINE|BFRepoV4Files|DataLeaks|
+|https://t.me/+jHO-f5fXqZsyNWM1|ONLINE|WHALEHUNTERS||
+|https://t.me/+PUmtLabVTT9mODA1|ONLINE|WHALE FILES||
+|https://t.me/+6fWJgBgWDj5iYzRk|ONLINE|Leakss Data||
+|https://t.me/+vw4JXiA77LsyYzJl|ONLINE|Affiliate Association||
+|https://t.me/+6Ijjx9_a-vUzNGZl|ONLINE|Shiny Montana Exploit||
+|https://t.me/+9Z3fqWfISscxM2E1|ONLINE|Escanors Files||
+|https://t.me/+xKUeFc1nB89hNTM1|Escanors Marketplace||
+|https://t.me/+3ZYKShO-lpM2NTM1|Escanors Official||

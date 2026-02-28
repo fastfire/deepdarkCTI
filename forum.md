@@ -91,12 +91,13 @@
 |[DANGEROUSTHINGS](https://forum.dangerousthings.com)| ONLINE | |
 |[DARK2WEB](https://dark2web.net)| ONLINE | |
 |[DARKCLUB](https://darkclub.pw)| ONLINE | |
-|[DarkForum](https://darkforum.in)| ONLINE | |
-|[DARKFORUM](https://darkforum.net)| ONLINE | |
-|[DARKFORUMS (Deep](https://darkforums.me)| ONLINE | |
-|[DARKFORUMS (Deep](https://darkforums.hn)| OFFLINE | |
+|[DarkForum](https://darkforum.in)| OFFLINE | |
+|[DARKFORUM](https://darkforum.net)| OFFLINE | |
+|[DARKFORUMS (Deep)](https://darkforums.me)| OFFLINE | |
+|[DARKFORUMS (Deep)](https://darkforums.hn)| OFFLINE | |
 |[DARKFORUMS (Deep)](https://darkforums.io)| OFFLINE | |
 |[DARKFORUMS (Deep)](https://darkforums.st)| OFFLINE | |
+|[DARKFORUMS (Deep)](https://darkforums.ac)| ONLINE | |
 |[DARKFORUMS (Dark)](http://qeei4m7a2tve6ityewnezvcnf647onsqbmdbmlcw4y5pr6uwwfwa35yd.onion)| OFFLINE | |
 |[DARKFORUMS (Dark)](http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion)| ONLINE | |
 |[DARKMARKET.AT](https://darkmarket.at)| OFFLINE | |

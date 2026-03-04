@@ -946,3 +946,4 @@
 |https://t.me/joinchat/SRPYpvvgUPwyY2I0|ONLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|
 |https://t.me/+EMayLd_DiV43ZTM6|ONLINE|APT IRAN||
+|https://t.me/DarkForumsHub|ONLINE|DarkForums|Forum|

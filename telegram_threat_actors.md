@@ -947,3 +947,4 @@
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|
 |https://t.me/+EMayLd_DiV43ZTM6|ONLINE|APT IRAN||
 |https://t.me/DarkForumsHub|ONLINE|DarkForums|Forum|
+|https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|

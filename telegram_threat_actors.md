@@ -4,7 +4,7 @@
 |https://t.me/+02lgyxsgsyAwYmY0|EXPIRED|Ddarknot||
 |https://t.me/+2Rok4x62dzg1NjI6|EXPIRED|NoName057(16) Eng version|DDoS|
 |https://t.me/+4CffqtOZoZwxMTcx|EXPIRED|Handala|Ransomware gang|
-|https://t.me/+63wu1QC3KM04ZTJi|ONLINE|Cyber Cossacks||
+|https://t.me/+63wu1QC3KM04ZTJi|VALID|Cyber Cossacks||
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED|RED HACKERS ALLIANCE||
 |https://t.me/+7VXL5Gy9NUc1YzFl|EXPIRED|Darknet chat||
 |https://t.me/+8UWtFO9H_9dhODVk|EXPIRED|0x_dump alternative channel||
@@ -74,7 +74,7 @@
 |https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED|Data Leaks||
 |https://t.me/+tObrYXqGOetmODhl|EXPIRED|AKU LAV 2||
-|https://t.me/+uEqGqAnqdwQ5ZDg1|ONLINE|Agencyint|Data Breach|
+|https://t.me/+uEqGqAnqdwQ5ZDg1|VALID|Agencyint|Data Breach|
 |https://t.me/+uIojmLMIJz0yNzIy|VALID|Hunting for Data|Data Leak|
 |https://t.me/+uV_Lxf2uOHhkMjAy|VALID|Killnet Store Chat||
 |https://t.me/+Uxo9r92Ho5ZkYjdi|EXPIRED|KILLNET||
@@ -84,7 +84,7 @@
 |https://t.me/+WbDFfZ2OOvdjY2M0|EXPIRED|Deanon ClubV7||
 |https://t.me/+WCSE2vgon6IYGLgz|VALID|||
 |https://t.me/+wlf3z9fVHqgzYzk1|EXPIRED|Darks chat||
-|https://t.me/+wP33Q9NXAURlMzNk|ONLINE|AnonSec|DDoS|
+|https://t.me/+wP33Q9NXAURlMzNk|VALID|AnonSec|DDoS|
 |https://t.me/+Wr6WoTXzjk0zMWI0|EXPIRED|Hunt3r Kill3rs private group||
 |https://t.me/+x9tlrn-DoOw0NmNl|EXPIRED|Team BlackDragonSec||
 |https://t.me/+xQ7QAiDH5NMwZGY9|EXPIRED|Garuda Hacktivis|DDoS|
@@ -543,8 +543,8 @@
 |https://t.me/NoName05716_16|OFFLINE|NoName057(16) Eng_vers|DDoS|
 |https://t.me/nnm05716engvers|OFFLINE|NoName057(16) Eng_vers|DDoS|
 |https://t.me/nnm05716english|ONLINE|NoName057(16) Eng_vers|DDoS|
-|https://t.me/+Ujf-93Ce5Lo5ZGE0|ONLINE|PE3EPBNNNM057|DDoS|
-|https://t.me/+JJWRiS8ab1FmZGI0|ONLINE|PE3EPBNNNM057|DDoS|
+|https://t.me/+Ujf-93Ce5Lo5ZGE0|VALID|PE3EPBNNNM057|DDoS|
+|https://t.me/+JJWRiS8ab1FmZGI0|VALID|PE3EPBNNNM057|DDoS|
 |https://t.me/TwoNetchannel|OFFLINE|TwoNet|DDoS|
 |https://t.me/NullLeak|OFFLINE|Data Leaks||
 |https://t.me/O1chat|OFFLINE|Market||
@@ -712,7 +712,7 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|ONLINE|ZulikGroup||
-|https://t.me/+GeILA8S0Bk4wYmRi|ONLINE|INTEID|DDoS|
+|https://t.me/+GeILA8S0Bk4wYmRi|VALID|INTEID|DDoS|
 |https://t.me/xX313XxTeam|ONLINE|313TEAM|DDoS|
 |https://t.me/+Lj3K9WgZFrxkNDY1|VALID|OBSCURION||
 |https://t.me/+aC3mHL9kVhBhNzM1|EXPIRED|Okto Dark Cyber Squad|DDoS & Data Breach|
@@ -860,7 +860,7 @@
 |https://t.me/smokinmandiant|OFFLINE|scattered LAPSUS$ hunters part 7|related to Scattered Spider|
 |https://t.me/comefacediswood|OFFLINE|scattered LAPSUS$ hunters part 7 Chat|related to Scattered Spider|
 |http://t.me/evilcrewteam|OFFLINE|Evil Crew||
-|https://t.me/+zm60knt4YDRmMTll|OFFLINE|RipperSec|DDoS|
+|https://t.me/+zm60knt4YDRmMTll|EXPIRED|RipperSec|DDoS|
 |https://t.me/disc_hack|ONLINE|Discord|related to Discord data breach|
 |https://t.me/H3yder_N3ex|OFFLINE|Hyder_Nex||
 |https://t.me/Cyb3rBlitz|ONLINE|Cyber Blitz||
@@ -875,8 +875,8 @@
 |https://t.me/zagnet1|OFFLINE|ZagNet|DDoS|
 |https://t.me/itarmyofrussianews|ONLINE|IT Army Of Russia||
 |https://t.me/kazu_breach|OFFLINE|Kazu Breach|Ransomware gang|
-|https://t.me/+4_csOQoIe5s4NDU1|OFFLINE|NOTRASEC TEAM|Data Breach|
-|https://t.me/+VPk9npexOc4wYTg1|ONLINE|Team NotraSec Public|Data Breach|
+|https://t.me/+4_csOQoIe5s4NDU1|EXPIRED|NOTRASEC TEAM|Data Breach|
+|https://t.me/+VPk9npexOc4wYTg1|VALID|Team NotraSec Public|Data Breach|
 |https://t.me/weleaklabs|ONLINE|WeLeakLabs|Data Leaks|
 |https://t.me/darkilluhvx|OFFLINE|Darkside beast||
 |https://t.me/shseller13|ONLINE|scattered LAPSUS$ hunters part 7 Chat|related to Scattered Spider|
@@ -897,7 +897,7 @@
 |https://t.me/noname05716_esp|ONLINE|NoName057(16)_Esp vers🇪🇸|DDoS|
 |https://t.me/nnm05716_itvers|OFFLINE|NoName057(16) It vers|DDoS|
 |https://t.me/breachdetect|ONLINE|Data Leak Monitor||
-|https://t.me/+YvPQkF1nE1Q4ZDI1|ONLINE|umbra.by/telegram|Umbra Forum Chat|
+|https://t.me/+YvPQkF1nE1Q4ZDI1|VALID|umbra.by/telegram|Umbra Forum Chat|
 |https://t.me/+8PSmyJeBbwwyNTMy|EXPIRED|NoName057(16)🇷🇺|DDoS|
 |https://t.me/the_seeker8|ONLINE|||
 |https://t.me/eightsixroot|OFFLINE|EIGHT-SIX ROOT|DataLeaks|
@@ -922,29 +922,29 @@
 |https://t.me/ShadowClawZ404|ONLINE|Shadow ClawZ 404||
 |https://t.me/TorZireael1|ONLINE|Tor Zireael||
 |https://t.me/FsckAroundFindOut|OFFLINE|unc3944 unc5537 unc6040 unc6240 unc6395 unc6661|related to Scattered Spider|
-|https://t.me/+upI9h6D75I85YmEx|OFFLINE|DarkForums|DataLeaks|
+|https://t.me/+upI9h6D75I85YmEx|EXPIRED|DarkForums|DataLeaks|
 |https://t.me/Jacuzzidarkforums|ONLINE|Jacuzzi 2.0|DataLeaks|
-|https://t.me/+zQ-2bUGhoyY4YzA1|OFFLINE|Z-SH4DOWSPEECH|DataLeaks|
+|https://t.me/+zQ-2bUGhoyY4YzA1|EXPIRED|Z-SH4DOWSPEECH|DataLeaks|
 |https://t.me/ThreatMarket|ONLINE|Threat Market|DataLeaks|
 |https://t.me/COMBOWORKON|ONLINE|Mail Access Combos||
 |https://t.me/Lun4risSec|ONLINE|LunarisSec|DDoS|
 |https://t.me/Hider_Nex_Attacks|ONLINE|Hider Nex|DDoS|
-|https://t.me/+5UAb5KgYPChiMzhk|ONLINE|Hider Nex (Backup)|DDoS|
-|https://t.me/+6nmGy6pn1b03OTk0|ONLINE|Hider Nex (Shop)|DataLeaks|
+|https://t.me/+5UAb5KgYPChiMzhk|VALID|Hider Nex (Backup)|DDoS|
+|https://t.me/+6nmGy6pn1b03OTk0|VALID|Hider Nex (Shop)|DataLeaks|
 |https://t.me/kittykatkrew|ONLINE|Kittykatkrew|Ransomware|
-|https://t.me/+D2e-YSFvtAhhMWU1|ONLINE|BFRepoV4Files|DataLeaks|
-|https://t.me/+jHO-f5fXqZsyNWM1|ONLINE|WHALEHUNTERS||
-|https://t.me/+PUmtLabVTT9mODA1|ONLINE|WHALE FILES||
-|https://t.me/+6fWJgBgWDj5iYzRk|ONLINE|Leakss Data||
-|https://t.me/+vw4JXiA77LsyYzJl|ONLINE|Affiliate Association||
-|https://t.me/+6Ijjx9_a-vUzNGZl|ONLINE|Shiny Montana Exploit||
-|https://t.me/+9Z3fqWfISscxM2E1|ONLINE|Escanors Files||
-|https://t.me/+xKUeFc1nB89hNTM1|ONLINE|Escanors Marketplace||
-|https://t.me/+3ZYKShO-lpM2NTM1|ONLINE|Escanors Official||
-|https://t.me/+kGfKy9Zl4OsyYzVl|ONLINE|scattered LAPSUS$ hunters part 8||
+|https://t.me/+D2e-YSFvtAhhMWU1|VALID|BFRepoV4Files|DataLeaks|
+|https://t.me/+jHO-f5fXqZsyNWM1|VALID|WHALEHUNTERS||
+|https://t.me/+PUmtLabVTT9mODA1|EXPIRED|WHALE FILES||
+|https://t.me/+6fWJgBgWDj5iYzRk|VALID|Leakss Data||
+|https://t.me/+vw4JXiA77LsyYzJl|VALID|Affiliate Association||
+|https://t.me/+6Ijjx9_a-vUzNGZl|VALID|Shiny Montana Exploit||
+|https://t.me/+9Z3fqWfISscxM2E1|VALID|Escanors Files||
+|https://t.me/+xKUeFc1nB89hNTM1|VALID|Escanors Marketplace||
+|https://t.me/+3ZYKShO-lpM2NTM1|VALID|Escanors Official||
+|https://t.me/+kGfKy9Zl4OsyYzVl|VALID|scattered LAPSUS$ hunters part 8||
 |https://t.me/EvilNet3|ONLINE|EvilNet 3.0||
 |https://t.me/joinchat/SRPYpvvgUPwyY2I0|ONLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|
-|https://t.me/+EMayLd_DiV43ZTM6|ONLINE|APT IRAN||
+|https://t.me/+EMayLd_DiV43ZTM6|VALID|APT IRAN||
 |https://t.me/DarkForumsHub|ONLINE|DarkForums|Forum|
 |https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|

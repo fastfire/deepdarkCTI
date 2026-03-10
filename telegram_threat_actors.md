@@ -949,3 +949,4 @@
 |https://t.me/DarkForumsHub|ONLINE|DarkForums|Forum|
 |https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|
 |https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||
+|https://t.me/HANDALA_HPR2|ONLINE|HANDALA HACK||

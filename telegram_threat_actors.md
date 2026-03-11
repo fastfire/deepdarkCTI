@@ -4,7 +4,7 @@
 |https://t.me/+02lgyxsgsyAwYmY0|EXPIRED|Ddarknot||
 |https://t.me/+2Rok4x62dzg1NjI6|EXPIRED|NoName057(16) Eng version|DDoS|
 |https://t.me/+4CffqtOZoZwxMTcx|EXPIRED|Handala|Ransomware gang|
-|https://t.me/+63wu1QC3KM04ZTJi|VALID|Cyber Cossacks||
+|https://t.me/+63wu1QC3KM04ZTJi|EXPIRED|Cyber Cossacks||
 |https://t.me/+6OJjr1dDbQw1NDli|EXPIRED|RED HACKERS ALLIANCE||
 |https://t.me/+7VXL5Gy9NUc1YzFl|EXPIRED|Darknet chat||
 |https://t.me/+8UWtFO9H_9dhODVk|EXPIRED|0x_dump alternative channel||

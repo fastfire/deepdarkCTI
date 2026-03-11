@@ -175,6 +175,7 @@
 |[LEAKBASE](https://leakbase.io)| OFFLINE | |
 |[LEAKBASE](https://leakbase.la)| ONLINE | |
 |[LEAKBASE](https://leakbase.org)| OFFLINE | |
+|[LEAKBASE](https://leakbase.bz)| ONLINE | |
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |

@@ -948,6 +948,6 @@
 |https://t.me/+EMayLd_DiV43ZTM6|VALID|APT IRAN||
 |https://t.me/DarkForumsHub|ONLINE|DarkForums|Forum|
 |https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|
-|https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for Indra(Iranian APT) raiding|
+|https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
 |https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||
 |https://t.me/HANDALA_HPR2|ONLINE|HANDALA HACK||

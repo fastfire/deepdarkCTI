@@ -38,3 +38,4 @@
 |https://x.com/LapsusGroup| Lapsus$ Group | | |
 |https://x.com/ShinyHuntCorp| ShinyHunters | | |
 |https://x.com/TenguRaas| Tengu | Ransomware | |
+|https://x.com/HPRNEW| Handala | |

@@ -60,6 +60,7 @@
 |[Dark Matter](http://darkmmro6j5xekpe7jje74maidkkkkw265nngjqxrv4ik7v3aiwdbtad.onion)| ONLINE | |
 |[DOCSHOP](https://doc-shop.ws)| OFFLINE | |
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
+|[EXODUS LOGS MARKET](https://exodusmarket.io/)| ONLINE | [mirror list](https://exodusmirrors.com/), [mirror1](https://exodusmarket.io), [mirror2](https://exodusmarket.vc) |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
 |[EXODUS MARKET](https://exodusmarket.io)| ONLINE | |
 |[EXODUS MARKET](https://exodusmarket.vc)| ONLINE | |

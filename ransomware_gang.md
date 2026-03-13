@@ -200,7 +200,8 @@
 |[FRESH GUNRA (chat)](http://nsnhzysbntsqdwpys6mhml33muccsvterxewh5rkbmcab7bg2ttevjqd.onion)|ONLINE||||
 |[FSOCIETY](http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion)|ONLINE||||
 |[FS-TEAM](http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion)|ONLINE||||
-|[FULCRUMSEC](http://gsgot6tua7ffammwdv6vpxkog32b4z7qivtqkxz55afq2hkt2o24w5yd.onion)|ONLINE||6A5E9ED3D7D26CAD5E6CA4E229CC80DA3C13AD002F73D4450078284E6C762F6DBDCF1FE9BF44 - threatspians@fulcrumsec.net - fulcrumsec@tuta.io - https://t.me/fulcrumsec||
+|[FULCRUMSEC](http://gsgot6tua7ffammwdv6vpxkog32b4z7qivtqkxz55afq2hkt2o24w5yd.onion)|OFFLINE||6A5E9ED3D7D26CAD5E6CA4E229CC80DA3C13AD002F73D4450078284E6C762F6DBDCF1FE9BF44 - threatspians@fulcrumsec.net - fulcrumsec@tuta.io - https://t.me/fulcrumsec||
+|[FULCRUMSEC](http://4e3p3in2bl67hxchuwza7qvnpe7pyeloyztr5fnh257fxkovfhappjyd.onion)|ONLINE||threatspians@fulcrumsec.net - 969F8BE40B09537CD2A5038B9DA4BADE71C5F35DD666CC0D7632A6812D7AF72626D422D22540 (Tox)||
 |[FUNKSEC](http://pke2vht5jdeninupk7i2thcfvxegsue6oraswpka35breuj7xxz2erid.onion)|OFFLINE||||
 |[FUNKSEC](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)|OFFLINE||||
 |[FUNKSEC](http://ykqjcrptcai76ru5u7jhvspkeizfsvpgovton4jmreawj4zdwe4qnlid.onion)|OFFLINE||||
@@ -333,6 +334,7 @@
 |[LOCKBIT 5.0 (chat)](http://lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion/)|ONLINE||||
 |[LOCKBIT](http://lockbitkodidilol.onion)|OFFLINE||||
 |[LOCKFILE (Victims request ID page)](http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion)|OFFLINE||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB||
+|[LOKI](http://dzkxxcsbrg7bwnlwwer563yuxd5pesr42dx634w5xvofm5z6qjw72ayd.onion)|ONLINE||7290408F9A2C4D60FB77CB9CEE25E177F07C47BD22A437137CB4E60D3B1C692EBB1BA203A90F (Tox)||
 |[LORENZ](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion)|ONLINE||||
 |[LOST TRUST](http://hscr6cjzhgoybibuzn2xud7u4crehuoo4ykw3swut7m7irde74hdfzyd.onion)|ONLINE||||
 |[LV (1)](http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion)|OFFLINE||||

@@ -173,7 +173,7 @@
 |[LEAD LAB](https://leadlab.top)| ONLINE | |
 |[LEAKBASE](https://leakbase.cc)| OFFLINE | |
 |[LEAKBASE](https://leakbase.io)| OFFLINE | |
-|[LEAKBASE](https://leakbase.la)| ONLINE | |
+|[LEAKBASE](https://leakbase.la)| OFFLINE | |
 |[LEAKBASE](https://leakbase.org)| OFFLINE | |
 |[LEAKBASE](https://leakbase.bz)| ONLINE | |
 |[LEAK FORUMS](https://leakforums.su)| ONLINE | |

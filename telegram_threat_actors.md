@@ -892,7 +892,7 @@
 |https://t.me/handal_a|ONLINE|Handala||
 |https://t.me/dropsumshi|ONLINE|data catalog|Data Breach| 
 |https://t.me/dropsleak|ONLINE|DBCollection||
-|https://t.me/group_LAPSUS|ONLINE|Lapsus$ Group||
+|https://t.me/group_LAPSUS|OFFLINE|Lapsus$ Group||
 |https://t.me/crewcyber|OFFLINE|404 CREW CYBER TEAM||
 |https://t.me/noname05716_esp|ONLINE|NoName057(16)_Esp vers🇪🇸|DDoS|
 |https://t.me/nnm05716_itvers|OFFLINE|NoName057(16) It vers|DDoS|
@@ -951,3 +951,4 @@
 |https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
 |https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||
 |https://t.me/HANDALA_HPR2|ONLINE|HANDALA HACK||
+|https://t.me/lapsus_groupo|ONLINE|Lapsus$ Group||

@@ -933,7 +933,7 @@
 |https://t.me/+6nmGy6pn1b03OTk0|VALID|Hider Nex (Shop)|DataLeaks|
 |https://t.me/kittykatkrew|ONLINE|Kittykatkrew|Ransomware|
 |https://t.me/+D2e-YSFvtAhhMWU1|VALID|BFRepoV4Files|DataLeaks|
-|https://t.me/+jHO-f5fXqZsyNWM1|VALID|WHALEHUNTERS||
+|https://t.me/+jHO-f5fXqZsyNWM1|EXPIRED|WHALEHUNTERS||
 |https://t.me/+PUmtLabVTT9mODA1|EXPIRED|WHALE FILES||
 |https://t.me/+6fWJgBgWDj5iYzRk|VALID|Leakss Data||
 |https://t.me/+vw4JXiA77LsyYzJl|VALID|Affiliate Association||
@@ -941,7 +941,7 @@
 |https://t.me/+9Z3fqWfISscxM2E1|VALID|Escanors Files||
 |https://t.me/+xKUeFc1nB89hNTM1|VALID|Escanors Marketplace||
 |https://t.me/+3ZYKShO-lpM2NTM1|VALID|Escanors Official||
-|https://t.me/+kGfKy9Zl4OsyYzVl|VALID|scattered LAPSUS$ hunters part 8||
+|https://t.me/+kGfKy9Zl4OsyYzVl|EXPIRED|scattered LAPSUS$ hunters part 8||
 |https://t.me/EvilNet3|ONLINE|EvilNet 3.0||
 |https://t.me/joinchat/SRPYpvvgUPwyY2I0|ONLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|

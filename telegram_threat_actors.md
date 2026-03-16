@@ -907,7 +907,7 @@
 |https://t.me/httpstmeVl8Cr1np5kxhYjd0|OFFLINE|BD Anonymous||
 |https://t.me/+vAPwONVSmasxNTI1|EXPIRED|GHOSTNET-X||
 |https://t.me/+n0Z8jU9JpgEwOTY9|VALID|GARUDIANS INDO BLACK HAT||
-|https://t.me/+qXH1PraFI7YxNjg1|VALID|CyberOprationCulture||
+|https://t.me/+qXH1PraFI7YxNjg1|EXPIRED|CyberOprationCulture||
 |https://t.me/dienet3|ONLINE|DieNet|DDoS|
 |https://t.me/dienet1|ONLINE|DieNet|DDoS|
 |https://t.me/z_bl4cx_h4t_id|ONLINE|Z-BL4CX-H4T.ID||

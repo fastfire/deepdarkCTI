@@ -122,3 +122,5 @@
 |https://t.me/cloudxlog|ONLINE|LOGS|
 |https://t.me/+abRpT5eRHCplNzIy|ONLINE|darkside linklogs|
 |https://t.me/+p--PGff5qRUzZmIy|ONLINE|Fehu Cloud|
+|https://t.me/+eVzekG0gSCcyN2Y1|ONLINE|LeakBase Files 2.0|DataLeaks|
+|https://t.me/+WvAKkgzuGO1jNWVl|ONLINE|LeakBase 2.0|DataLeaks|

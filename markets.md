@@ -14,10 +14,17 @@
 |[AUTHORIZE CVV](https://authorizecvv.io)| ONLINE | |
 |[AUTHORIZE CVV](https://authorizecvv.cc)| ONLINE | |
 |[Abacus](http://abacusall6l52n5gp357vpv4yjjvh6ewg65pjbfvacyqcldux66btlqd.onion)| ONLINE | |
-|[BIDEN CASH (Dark Tor)](http://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion)| ONLINE | |
-|[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| ONLINE | |
-|[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| ONLINE | |
-|[BIDEN CASH](https://bidencash.cards)| OFFLINE | |
+|[BIDEN CASH (Dark Tor)](http://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion)| OFFLINE | |
+|[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| OFFLINE | |
+|[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| OFFLINE | |
+|[BIDEN CASH](https://bidencash.eu)| ONLINE | |
+|[BIDEN CASH](https://bidencash.icu)| ONLINE | |
+|[BIDEN CASH](https://bidencash.dog)| ONLINE | |
+|[BIDEN CASH](https://bidencash.news)| ONLINE | |
+|[BIDEN CASH](https://bidencash.fan)| ONLINE | |
+|[BIDEN CASH](https://bidencash.works)| ONLINE | |
+|[BIDEN CASH](https://bidencash.wtf)| ONLINE | |
+|[BIDEN CASH](https://bidencash.zone)| ONLINE | |
 |[B1ND.NET](https://b1nd.net)| ONLINE | |
 |[BLACKBONES](https://blackbones.net)| ONLINE | |
 |[BLACKPASS](http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion)| ONLINE | |

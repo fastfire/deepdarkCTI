@@ -954,3 +954,4 @@
 |https://t.me/lapsus_groupo|ONLINE|Lapsus$ Group||
 |https://t.me/EvilHook|ONLINE|E-Hook Forums|Forum|
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
+|https://t.me/ShinyHuntersOfficial|ONLINE|ShinyHunters||

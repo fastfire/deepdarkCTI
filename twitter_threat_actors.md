@@ -39,3 +39,4 @@
 |https://x.com/ShinyHuntCorp| ShinyHunters | | |
 |https://x.com/TenguRaas| Tengu | Ransomware | |
 |https://x.com/HPRNEW| Handala | |
+|https://x.com/TheGentlemen26| TheGentlemen | Ransomware | |

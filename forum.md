@@ -60,6 +60,7 @@
 |[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](https://breachforums.hn) | OFFLINE (seized) | |
 |[BREACH FORUMS](https://breachforums.ac/)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.ai/)| ONLINE | |
+|[BREACH FORUMS](https://breachforums.fi/)| ONLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |

@@ -289,7 +289,7 @@
 |https://t.me/DBleak|ONLINE|Data Leaks||
 |https://t.me/ddos_separ|ONLINE|DDoS Services|DDoS|
 |https://t.me/ddosiamonitor|OFFLINE|DDoSia Target Monitor|DDoS|
-|https://t.me/ddossatmak|ONLINE|DDoS Services|DDoS|
+|https://t.me/ddossatmak|OFFLINE|DDoS Services|DDoS|
 |https://t.me/ddostm1|OFFLINE|BlackObServers Channel (ddos team)|DDoS|
 |https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
 |https://t.me/dforumscdn|OFFLINE|DarkForums Threads Updates||

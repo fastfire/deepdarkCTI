@@ -882,14 +882,14 @@
 |https://t.me/shseller13|ONLINE|scattered LAPSUS$ hunters part 7 Chat|related to Scattered Spider|
 |https://t.me/statesponsored|ONLINE|scattered LAPSUS$ hunters Impending part 8 backup |related to Scattered Spider|
 |https://t.me/lapsusgrupo|OFFLINE|$LAPSUS||
-|https://t.me/ShinyCorporation|ONLINE|ShinyHunters||
+|https://t.me/ShinyCorporation|OFFLINE|ShinyHunters||
 |https://t.me/bfsup|ONLINE|BreachForums|Forum|
 |https://t.me/BreachForumsNews|ONLINE|BreachForums|Forum|
 |https://t.me/talkaboutclassifieddocuments|ONLINE|JRIntel Chat|Data Breach Group|
 |https://t.me/DarkForums_HN|ONLINE|Darkforums|Forum|
 |https://t.me/DarkForumsNews|ONLINE|Darkforums|Forum|
 |https://t.me/Jacuzzihub|ONLINE|Jacuzzi 2.0||
-|https://t.me/handal_a|ONLINE|Handala||
+|https://t.me/handal_a|OFFLINE|Handala||
 |https://t.me/dropsumshi|ONLINE|data catalog|Data Breach| 
 |https://t.me/dropsleak|ONLINE|DBCollection||
 |https://t.me/group_LAPSUS|OFFLINE|Lapsus$ Group||
@@ -916,7 +916,7 @@
 |https://t.me/Venari_By_BetterCyber|ONLINE|VenariX||
 |https://t.me/order403|OFFLINE|Order403|DataLeaks|
 |https://t.me/CyaberGhost|OFFLINE|AN0M949_GHOST_TRACK|DataLeaks|
-|https://t.me/maul1337anon|ONLINE|𝘮𝘢𝘶𝘭𝘯𝘪𝘴𝘮1337|DataLeaks|
+|https://t.me/maul1337anon|OFFLINE|𝘮𝘢𝘶𝘭𝘯𝘪𝘴𝘮1337|DataLeaks|
 |https://t.me/HaxChipper|ONLINE|HaxChipper||
 |https://t.me/+mNBrxkuz6y4yOTYy|EXPIRED|Cardinal||
 |https://t.me/ShadowClawZ404|ONLINE|Shadow ClawZ 404||
@@ -942,7 +942,7 @@
 |https://t.me/+xKUeFc1nB89hNTM1|VALID|Escanors Marketplace||
 |https://t.me/+3ZYKShO-lpM2NTM1|VALID|Escanors Official||
 |https://t.me/+kGfKy9Zl4OsyYzVl|EXPIRED|scattered LAPSUS$ hunters part 8||
-|https://t.me/EvilNet3|ONLINE|EvilNet 3.0||
+|https://t.me/EvilNet3|OFFLINE|EvilNet 3.0||
 |https://t.me/joinchat/SRPYpvvgUPwyY2I0|ONLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|
 |https://t.me/+EMayLd_DiV43ZTM6|VALID|APT IRAN||
@@ -952,7 +952,7 @@
 |https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||
 |https://t.me/HANDALA_HPR2|ONLINE|HANDALA HACK||
 |https://t.me/lapsus_groupo|ONLINE|Lapsus$ Group||
-|https://t.me/EvilHook|ONLINE|E-Hook Forums|Forum|
+|https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
-|https://t.me/ShinyHuntersOfficial|ONLINE|ShinyHunters||
+|https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|ONLINE|scattered LAPSUS$ hunters part 9||

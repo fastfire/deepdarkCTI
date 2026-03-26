@@ -958,3 +958,4 @@
 |https://t.me/+uIDt6PiHin4wMjY1|ONLINE|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|VALID|ShellForce||
 |https://t.me/team_pcp|ONLINE|TeamPCP||
+|https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|

@@ -223,10 +223,11 @@
 |[GUNRA](http://ryrw2ojab62yij4y33ssfgvm2d2vwt3tcqetu6qmpwznqhooqxz3wpqd.onion)|ONLINE||||
 |[GUNRA](https://raas.lgiil72vkmdtbc3qv4tyq6wedyjxqr2qd4ze7xl2cxgerdnymxj7soqd.onion)|ONLINE||||
 |[HADES](http://ixltdyumdlthrtgx.onion)|OFFLINE||||
-|[HANDALA](https://handala.to)|ONLINE||||
+|[HANDALA](https://handala.to)|ONLINE (Parked)||||
 |[HANDALA](https://handala-hack.to)|OFFLINE (Siezed)||||
 |[HANDALA](http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion)|ONLINE||||
-|[HANDALA](http://handala-team.to)|ONLINE||||
+|[HANDALA](http://handala-alert.to)|ONLINE||||
+|[HANDALA](http://www.handala-team.to)|ONLINE||||
 |[HARON](http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php)|OFFLINE|Chaddadgroup:Chaddadgroup|||
 |[HELLDOWN](http://onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion)|OFFLINE||19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E||
 |[HELLDOWN](http://onyxcym4mjilrsptk5uo2dhesbwntuban55mvww2olk5ygqafhu3i3yd.onion/)|ONLINE||19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E||
@@ -282,6 +283,7 @@
 |[LA PIOVRA](http://et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion)|OFFLINE||||
 |[LAPSUS$ GROUP](http://lapsus.sh)|OFFLINE||||
 |[LAPSUS$ GROUP](https://lapsus.by)|ONLINE||||
+|[LAPSUS$ GROUP (Data)](http://mwojud552brg7rl3obqjvv2funhwpg6acdsuuoeytq7365kmaeoi4gqd.onion)|ONLINE||||
 |[LEAKED DATA](http://business-data-leaks.com)|ONLINE||||
 |[LEAKNET](http://nleakk6sejx45jxtk7x6iyt65hwvfrkifc5v7ertdlwm3gttbpvlvxqd.onion)|ONLINE||||
 |[LILITH](http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion)|OFFLINE||BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC||

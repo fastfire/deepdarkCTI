@@ -959,3 +959,4 @@
 |https://t.me/+fQrXQuy77Ng2YzBh|VALID|ShellForce||
 |https://t.me/team_pcp|ONLINE|TeamPCP||
 |https://t.me/DBHunterX|DB HunterX|ONLINE|Data Leaks|
+|https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|

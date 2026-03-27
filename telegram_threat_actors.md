@@ -943,14 +943,14 @@
 |https://t.me/+3ZYKShO-lpM2NTM1|VALID|Escanors Official||
 |https://t.me/+kGfKy9Zl4OsyYzVl|EXPIRED|scattered LAPSUS$ hunters part 8||
 |https://t.me/EvilNet3|OFFLINE|EvilNet 3.0||
-|https://t.me/joinchat/SRPYpvvgUPwyY2I0|ONLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
+|https://t.me/joinchat/SRPYpvvgUPwyY2I0|OFFLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|
 |https://t.me/+EMayLd_DiV43ZTM6|VALID|APT IRAN||
 |https://t.me/DarkForumsHub|ONLINE|DarkForums|Forum|
 |https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|
 |https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
 |https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||
-|https://t.me/HANDALA_HPR2|ONLINE|HANDALA HACK||
+|https://t.me/HANDALA_HPR2|OFFLINE|HANDALA HACK||
 |https://t.me/lapsus_groupo|ONLINE|Lapsus$ Group||
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|

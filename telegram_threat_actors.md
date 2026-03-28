@@ -960,3 +960,4 @@
 |https://t.me/team_pcp|ONLINE|TeamPCP||
 |https://t.me/DBHunterX|ONLINE|DB HunterX|Data Leaks|
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|
+|https://t.me/HANDALA_INTEL|ONLINE|Handala||

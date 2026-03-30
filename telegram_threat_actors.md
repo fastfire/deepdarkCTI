@@ -74,7 +74,7 @@
 |https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED|Data Leaks||
 |https://t.me/+tObrYXqGOetmODhl|EXPIRED|AKU LAV 2||
-|https://t.me/+uEqGqAnqdwQ5ZDg1|VALID|Agencyint|Data Breach|
+|https://t.me/+uEqGqAnqdwQ5ZDg1|EXPIRED|Agencyint|Data Breach|
 |https://t.me/+uIojmLMIJz0yNzIy|VALID|Hunting for Data|Data Leak|
 |https://t.me/+uV_Lxf2uOHhkMjAy|VALID|Killnet Store Chat||
 |https://t.me/+Uxo9r92Ho5ZkYjdi|EXPIRED|KILLNET||
@@ -957,7 +957,7 @@
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|ONLINE|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|VALID|ShellForce||
-|https://t.me/team_pcp|ONLINE|TeamPCP||
+|https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|ONLINE|DB HunterX|Data Leaks|
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|
 |https://t.me/HANDALA_INTEL|ONLINE|Handala||

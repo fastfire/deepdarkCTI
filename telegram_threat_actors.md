@@ -962,3 +962,4 @@
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|
 |https://t.me/HANDALA_INTEL|ONLINE|Handala||
 |https://t.me/+X6Y8t-0tT1VmODI1|ONLINE|ShinyHunters||
+|https://t.me/nightspire_breach|Nightspire breach||

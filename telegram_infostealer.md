@@ -124,3 +124,5 @@
 |https://t.me/+p--PGff5qRUzZmIy|ONLINE|Fehu Cloud|
 |https://t.me/+eVzekG0gSCcyN2Y1|ONLINE|LeakBase Files 2.0|DataLeaks|
 |https://t.me/+WvAKkgzuGO1jNWVl|ONLINE|LeakBase 2.0|DataLeaks|
+|https://t.me/anonymous_algeria_chat|ONLINE|Anonymous Algeria Group|Activists|
+|https://t.me/Developer_Astra/|ONLINE|Anonymous Algeria Channel|Activists|

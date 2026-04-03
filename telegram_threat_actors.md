@@ -718,7 +718,7 @@
 |https://t.me/+aC3mHL9kVhBhNzM1|EXPIRED|Okto Dark Cyber Squad|DDoS & Data Breach|
 |https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|
 |https://t.me/R3V0XAn0nymou|OFFLINE|Sons of Anarchy|DDoS|
-|https://t.me/CyberforceTn|ONLINE|Tunisian Maskers Cyber Force||
+|https://t.me/CyberforceTn|OFFLINE|Tunisian Maskers Cyber Force||
 |https://t.me/+XPHrAwdh_n00MjZk|EXPIRED|Z-ALLIANCE||
 |https://t.me/Z_alliance_ru|OFFLINE|Z-ALLIANCE||
 |https://t.me/Official_EvilBYTE|OFFLINE|Evil Byte||

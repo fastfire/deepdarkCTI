@@ -300,6 +300,9 @@
 |[KittyForums](https://kittyforums.st/)| ONLINE | |
 |[ReHubCom (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
 |[ReHubCom (Deep)](https://rehubcom.pro)| ONLINE | |
+|[ReHubCom (Deep)](https://rehubcom.ag)| ONLINE | |
+|[ReHubCom (Deep)](https://rehubcom.io)| ONLINE | |
+|[ReHubCom (Deep)](https://Damagelab.in)| ONLINE | |
 |[BITTEN FORUMS](http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion)| ONLINE | |
 |[EXILIO404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion)| ONLINE | |
 |[XSSF](https://xssf.net/)|ONLINE||

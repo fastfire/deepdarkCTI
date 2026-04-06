@@ -278,6 +278,10 @@
 |[KITTYKATKREW](https://vs6ccwled72hwmescxr2e32mmfrm6vbqbo7gbmmkxnu7g5fps7ndeeyd.onion)|ONLINE||||
 |[KNIGHT (ex CYCLOPS)](http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion)|ONLINE||9096AD7062A4232F5AA31C2F7C4DF0AC1EAD10B78D40A6A3328AD142A42B555E635954D8B6C5||
 |[Kraken](http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion)|ONLINE||||
+|[KRYBIT](http://krybitxdpxohsmjooeb3gbgpmdddreh6mnflzac6bnezz74b7yje67yd.onion)|ONLINE||||
+|[KRYBIT](http://krybitx3fh5krdnhegyp2ob3lhizsaiadturtio3ginf7it5gsdgu2yd.onion)|ONLINE||||
+|[KRYBIT](http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion)|ONLINE||||
+|[KRYBIT](http://krybieodq754vlwufrsuxaswxb5zpxyibaawmed2jaduoz2e5m56hmid.onion)|ONLINE||||
 |[KRYPTOS](http://kryptospnjzz7vfkr663bnqv3dxirmr3svo5zwq7cvu2wdfngujgknyd.onion)|ONLINE||5D16859E0BC70E8830DEB8DE294C7E5AF8BD4D30CB1CB01F3BE17D0F592B3264DB2B6BB15164 - 8AE76D106C7F34134CAB98E41C5EEEF15B238BC523EC2F09C7765214CB03822866E94D87B25F||
 |[KYBER](http://kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid.onion)|ONLINE||||
 |[LAMBDA (Victim Site)](http://nn5ua7gc7jkllpoztymtfcu64yjm7znlsriq3a6v5kw7l6jvirnczyyd.onion)|ONLINE||||
@@ -527,8 +531,11 @@
 |[SENSAYQ (dark)](http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion)|ONLINE||||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE||||
 |[SHADOWBYT3$](https://shadowsblog.cloud-ip.cc/leaks.php)|ONLINE||ShadowByt3S@proton.me||
+|[SHADOWBYT3$](https://mfbbt65kir2drc7tuoukwibikgvxquauscnzgbeltkmidjtgqlzm2qad.onion)|ONLINE||ShadowByt3S@proton.me||
+|[SHADOWBYT3$](https://sdwbytqeb664krp2wz2qs3lxxah2rhneuotot5hy7g4jpn2pindigcad.onion)|ONLINE||ShadowByt3S@proton.me||
 |[SHADOWBYT3$](https://shadowbyt3s.8bit.ca/leaks.php)|ONLINE||ShadowByt3S@proton.me||
 |[SHINYHUNTERS](http://toolatedhs5dtr2pv6h5kdraneak5gs3sxrecqhoufc5e45edior7mqd.onion)|ONLINE||||
+|[SHINYHUNTERS](http://shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion)|ONLINE||||
 |[SICARI KNIFE](http://sicariifoucvhyqg54smi3esg5sfcyw5z65t6yigqu4loyuoz62bb2id.onion)|ONLINE||2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E||
 |[SICARI KNIFE](http://sicarinb4ktqcdpubjifzw3vixvzgtwacjmc5ks56kev52gxitegigad.onion)|ONLINE||2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E||
 |[SICARI KNIFE](http://sicariktdbhjtrk6f2pwdh6wlequw7pcjva25skkzz4m3zz3opyox3qd.onion)|ONLINE||2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E||

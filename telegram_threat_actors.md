@@ -74,7 +74,7 @@
 |https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED|Data Leaks||
 |https://t.me/+tObrYXqGOetmODhl|EXPIRED|AKU LAV 2||
-|https://t.me/+uEqGqAnqdwQ5ZDg1|VALID|Agencyint|Data Breach|
+|https://t.me/+uEqGqAnqdwQ5ZDg1|EXPIRED|Agencyint|Data Breach|
 |https://t.me/+uIojmLMIJz0yNzIy|VALID|Hunting for Data|Data Leak|
 |https://t.me/+uV_Lxf2uOHhkMjAy|VALID|Killnet Store Chat||
 |https://t.me/+Uxo9r92Ho5ZkYjdi|EXPIRED|KILLNET||
@@ -718,7 +718,7 @@
 |https://t.me/+aC3mHL9kVhBhNzM1|EXPIRED|Okto Dark Cyber Squad|DDoS & Data Breach|
 |https://t.me/CyberJihadMovement|ONLINE|Cyber Jihad Movement|DDoS|
 |https://t.me/R3V0XAn0nymou|OFFLINE|Sons of Anarchy|DDoS|
-|https://t.me/CyberforceTn|ONLINE|Tunisian Maskers Cyber Force||
+|https://t.me/CyberforceTn|OFFLINE|Tunisian Maskers Cyber Force||
 |https://t.me/+XPHrAwdh_n00MjZk|EXPIRED|Z-ALLIANCE||
 |https://t.me/Z_alliance_ru|OFFLINE|Z-ALLIANCE||
 |https://t.me/Official_EvilBYTE|OFFLINE|Evil Byte||
@@ -951,14 +951,17 @@
 |https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
 |https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||
 |https://t.me/HANDALA_HPR2|OFFLINE|HANDALA HACK||
-|https://t.me/lapsus_groupo|ONLINE|Lapsus$ Group||
+|https://t.me/lapsus_groupo|OFFLINE|Lapsus$ Group||
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|ONLINE|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|VALID|ShellForce||
-|https://t.me/team_pcp|ONLINE|TeamPCP||
+|https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|ONLINE|DB HunterX|Data Leaks|
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|
 |https://t.me/HANDALA_INTEL|ONLINE|Handala||
 |https://t.me/+X6Y8t-0tT1VmODI1|ONLINE|ShinyHunters||
+|https://t.me/nightspire_breach|Nightspire breach||
+|https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
+|https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|

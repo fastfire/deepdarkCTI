@@ -38,6 +38,7 @@
 |[BREACHED (Deep)](https://breached.vc)| OFFLINE | |
 |[BREACHED (Deep)](breached.fi)| OFFLINE | |
 |[BREACHED](https://breached.ws)| ONLINE | |
+|[BREACH FORUMS (Dark)](https://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion/)| ONLINE | |
 |[BREACH FORUMS (Dark)](https://breachddyfwvcp4kzccos5oxtdbssmfbpv2kong6nxswlcge3u7zjgi.onion/)| ONLINE | |
 |[BreachForums (Dark)](http://breached4w3qphorxg2fwqkhpfnsyf65je72d2shli3fcfgorwdeymad.onion)| OFFLINE | |
 |[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| OFFLINE (seized) | |
@@ -62,6 +63,7 @@
 |[BREACH FORUMS](https://breachforums.ac/)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.ai/)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.sb/)| ONLINE | |
+|[BREACH FORUMS](https://pwnforums.lst/)| ONLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
@@ -289,8 +291,10 @@
 |[WWHCLUB](https://wwh-club.io)| ONLINE | |
 |[XFORUMS](https://xforums.st) | ONLINE | |
 |[XREACTOR](https://xreactor.org)| ONLINE | |
+|[XSS (Dark)](http://xssac4uqtauxumkktnp3knz2ag7qcb3efmb66mokjg5fcqhzvilgwfid.onion)| ONLINE | |
 |[XSS (Dark)](http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion)| ONLINE | |
 |[XSS (Dark)](http://xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion)| ONLINE | |
+|[XSS (Deep)](https://xss.ac)| ONLINE | |
 |[XSS (Deep)](https://xss.is)| OFFLINE Seized | |
 |[XSS (Deep)](https://xss.pro)| ONLINE | |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
@@ -298,6 +302,9 @@
 |[KittyForums](https://kittyforums.st/)| ONLINE | |
 |[ReHubCom (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
 |[ReHubCom (Deep)](https://rehubcom.pro)| ONLINE | |
+|[ReHubCom (Deep)](https://rehubcom.ag)| ONLINE | |
+|[ReHubCom (Deep)](https://rehubcom.io)| ONLINE | |
+|[ReHubCom (Deep)](https://Damagelab.in)| ONLINE | |
 |[BITTEN FORUMS](http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion)| ONLINE | |
 |[EXILIO404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion)| ONLINE | |
 |[XSSF](https://xssf.net/)|ONLINE||

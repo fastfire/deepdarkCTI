@@ -963,3 +963,5 @@
 |https://t.me/HANDALA_INTEL|ONLINE|Handala||
 |https://t.me/+X6Y8t-0tT1VmODI1|ONLINE|ShinyHunters||
 |https://t.me/nightspire_breach|Nightspire breach||
+|https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
+|https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|

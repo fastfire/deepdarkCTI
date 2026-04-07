@@ -876,7 +876,7 @@
 |https://t.me/itarmyofrussianews|ONLINE|IT Army Of Russia||
 |https://t.me/kazu_breach|OFFLINE|Kazu Breach|Ransomware gang|
 |https://t.me/+4_csOQoIe5s4NDU1|EXPIRED|NOTRASEC TEAM|Data Breach|
-|https://t.me/+VPk9npexOc4wYTg1|VALID|Team NotraSec Public|Data Breach|
+|https://t.me/+VPk9npexOc4wYTg1|EXPIRED|Team NotraSec Public|Data Breach|
 |https://t.me/weleaklabs|ONLINE|WeLeakLabs|Data Leaks|
 |https://t.me/darkilluhvx|OFFLINE|Darkside beast||
 |https://t.me/shseller13|ONLINE|scattered LAPSUS$ hunters part 7 Chat|related to Scattered Spider|
@@ -923,7 +923,7 @@
 |https://t.me/TorZireael1|ONLINE|Tor Zireael||
 |https://t.me/FsckAroundFindOut|OFFLINE|unc3944 unc5537 unc6040 unc6240 unc6395 unc6661|related to Scattered Spider|
 |https://t.me/+upI9h6D75I85YmEx|EXPIRED|DarkForums|DataLeaks|
-|https://t.me/Jacuzzidarkforums|ONLINE|Jacuzzi 2.0|DataLeaks|
+|https://t.me/Jacuzzidarkforums|OFFLINE|Jacuzzi 2.0|DataLeaks|
 |https://t.me/+zQ-2bUGhoyY4YzA1|EXPIRED|Z-SH4DOWSPEECH|DataLeaks|
 |https://t.me/ThreatMarket|ONLINE|Threat Market|DataLeaks|
 |https://t.me/COMBOWORKON|ONLINE|Mail Access Combos||
@@ -945,8 +945,8 @@
 |https://t.me/EvilNet3|OFFLINE|EvilNet 3.0||
 |https://t.me/joinchat/SRPYpvvgUPwyY2I0|OFFLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|
-|https://t.me/+EMayLd_DiV43ZTM6|VALID|APT IRAN||
-|https://t.me/DarkForumsHub|ONLINE|DarkForums|Forum|
+|https://t.me/+EMayLd_DiV43ZTM6|EXPIRED|APT IRAN||
+|https://t.me/DarkForumsHub|OFFLINE|DarkForums|Forum|
 |https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|
 |https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
 |https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||

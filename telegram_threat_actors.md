@@ -965,3 +965,4 @@
 |https://t.me/nightspire_breach|Nightspire breach||
 |https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
 |https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|
+|https://t.me/INTEL_HANDALA|ONLINE|HANDALA HACK (backup)||

@@ -966,3 +966,4 @@
 |https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
 |https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|
 |https://t.me/INTEL_HANDALA|ONLINE|HANDALA HACK (backup)||
+|https://t.me/handala_redwanted|ONLINE|Handala RedWanted||

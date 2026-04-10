@@ -756,7 +756,7 @@
 |https://t.me/+ZMoidrbayTgyMzQ9|VALID|Garuda Error system||
 |https://t.me/AnonymousGuys0|ONLINE|Anonymous Guys||
 |https://t.me/bl4ck_cyb3r|ONLINE|BL4CK CYB3R||
-|https://t.me/nxbbsec|ONLINE|NXBB SEC||
+|https://t.me/nxbbsec|OFFLINE|NXBB SEC||
 |https://t.me/D3X73RMa|OFFLINE|D3X73R||
 |https://t.me/unitninee|ONLINE|UNIT NINE||
 |https://t.me/+AZ5c6o5gtlU5MDM0|EXPIRED|Wraith C2/API||

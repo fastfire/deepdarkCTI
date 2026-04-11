@@ -11,14 +11,14 @@
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomware.live/)|ONLINE|||
 |[RANSOMNEWS](https://ransomnews.online)|ONLINE|||
 |[0APT](http://oaptxiyisljt2kv3we2we34kuudmqda7f2geffoylzpeo7ourhtz4dad.onion)|ONLINE||||
-|[0X Thief](https://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
+|[0X Thief](https://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|OFFLINE||||
 |[54bb47h (Victims page)](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion)|OFFLINE||||
 |[54bb47h](http://54bb47h.blog)|OFFLINE||||
 |[54bb47h](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog)|OFFLINE||||
-|[0mega (Dark)](http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion)|ONLINE||||
-|[0mega (Deep)](https://0mega.cc)|OFFLINE||||
-|[54bb47h](http://54bb47h.blog)|OFFLINE|||
-|[ThreeAM](http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion)|ONLINE||||
+|[0mega (Dark)](http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion)|OFFLINE||||
+|[0mega (Deep)](https://0mega.cc)|ONLINE||||
+|[54bb47h](http://54bb47h.blog)|ONLINE|||
+|[ThreeAM](http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion)|OFFLINE||||
 |[54bb47h (Victims page)](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion)|OFFLINE|||
 |[8BASE](http://92.118.36.204)|ONLINE||https://t.me/eightbase - https://twitter.com/8BASEHOME||
 |[8BASE](http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion)|ONLINE||https://t.me/eightbase - https://twitter.com/8BASEHOME||
@@ -34,14 +34,14 @@
 |[ALP-001](http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion)|ONLINE||||
 |[ALPHV (aka BlackCat 1)](http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion)|OFFLINE||3488458145EB62D7D3947E3811234F4663D9B5AEEF6584AB08A2099A7F946664BBA2B0D30BFC||
 |[ALPHV (aka BlackCat 2)](http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion)|OFFLINE||||
-|[ALPHV (aka BlackCat 2)](http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion)|ONLINE||||
-|[ALPHV (collection data leaks)](http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion)|ONLINE||||
+|[ALPHV (aka BlackCat 2)](http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion)|OFFLINE||||
+|[ALPHV (collection data leaks)](http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion)|OFFLINE||||
 |[ANUBIS](http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion)|ONLINE||||
 |[Apos Security](https://apos.blog)|ONLINE||E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572|
 |[Apos Security](http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion)|ONLINE||E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572|
-|[APT73 (ERALEIG - Dark)](http://apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion/)|ONLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group||
-|[APT73 (ERALEIG - Dark)](http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion)|ONLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group||
-|[APT73 (ERALEIG - Dark)](http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion)|ONLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group|| 
+|[APT73 (ERALEIG - Dark)](http://apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion/)|OFFLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group||
+|[APT73 (ERALEIG - Dark)](http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion)|OFFLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group||
+|[APT73 (ERALEIG - Dark)](http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion)|OFFLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group|| 
 |[APT73 (ERALEIG - Dark)](http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion/)|ONLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group||
 |[APT73 (BASHEE)](http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion)|ONLINE|9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team|
 |[APT73 (BASHEE)](http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion)|ONLINE|9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team|
@@ -49,46 +49,46 @@
 |[APT73 (BASHEE)](http://bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion)|ONLINE|9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team|
 |[APT73 (BASHEE)](http://bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion)|ONLINE|9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team|
 |[ARACHNA LEAK](http://ptyctpveqfevlukjw4hpdh6nb5oiemq6ek6tuuvxbtrfghvuutvscsid.onion)|ONLINE||||
-|[ARCUS MEDIA](https://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion)|ONLINE||||
-|[ARGONAUTS](http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion)|ONLINE||||
-|[ARKANA](http://arkanabb66ee4nsdji6la2bu6bwqe3dbtsyf3rxrv6vhiehod7utagad.onion)|ONLINE||||
+|[ARCUS MEDIA](https://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion)|OFFLINE||||
+|[ARGONAUTS](http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion)|OFFLINE||||
+|[ARKANA](http://arkanabb66ee4nsdji6la2bu6bwqe3dbtsyf3rxrv6vhiehod7utagad.onion)|OFFLINE||||
 |[ARVIN](http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion)|OFFLINE||http://t.me/arvin_club||
 |[ARVIN](http://xxz6hl6wwoa25er62tbjdxda4nxyt5iqziavb73mhda6q6zujsgfoxqd.onion)|OFFLINE||||
-|[ARVIN](http://arvinc7prj6ln5wpd6yydfqulsyepoc7aowngpznbn3lrap2aib6teid.onion)|ONLINE||||
+|[ARVIN](http://arvinc7prj6ln5wpd6yydfqulsyepoc7aowngpznbn3lrap2aib6teid.onion)|OFFLINE||||
 |[ASTROTEAM](http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion)|OFFLINE||||
 |[ATOMSILO](http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion)|OFFLINE||||
 |[ATOMSILO](http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion)|OFFLINE||||
 |[AUDIT](https://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion)|ONLINE||||
 |[AVADDON](http://avaddongun7rngel.onion)|OFFLINE||||
-|[AVOS](http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion)|ONLINE|||YES|
+|[AVOS](http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion)|OFFLINE|||YES|
 |[AVOS (Victims request ID page)](http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion)|ONLINE||||
 |[BABUK (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion)|OFFLINE||||
-|[BABUK](http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion)|ONLINE||||
-|[BABUK v2](http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion)|ONLINE||||
+|[BABUK](http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion)|OFFLINE||||
+|[BABUK v2](http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion)|OFFLINE||||
 |[BABYDUCK (Victims request ID page)](http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion)|OFFLINE||||
 |[BASHE](http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion)|ONLINE||||
 |[BEAST](http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion)|ONLINE||||
 |[BENZONA](http://benzona6x5ggng3hx52h4mak5sgx5vukrdlrrd3of54g2uppqog2joyd.onion)|ONLINE||7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0 - Twitter: @InfinityLeak||
-|[BENZONA (File Server)](http://cpjhb63lxycwbyus2n35ddyhdzxhf756l4rtwdttojzhzgppt3vpmsqd.onion)|ONLINE||7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0 - Twitter: @InfinityLeak||
-|[BERT](http://bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion)|ONLINE||||
+|[BENZONA (File Server)](http://cpjhb63lxycwbyus2n35ddyhdzxhf756l4rtwdttojzhzgppt3vpmsqd.onion)|OFFLINE||7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0 - Twitter: @InfinityLeak||
+|[BERT](http://bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion)|OFFLINE||||
 |[BIANLIAN](http://bianliaoxoeriowgqohcly4a6sbkpc3se2yvxgidxomxlpuhx5ehrpad.onion)|ONLINE||A8AD0FD4C931CDAA1408D5A60CBF38CEDF46B41E19A8A55E4EF1F1848AF3416AE52D278D37DF||
-|[BIANLIAN](http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion)|ONLINE||A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC||
-|[BIANLIAN](http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion)|ONLINE||||
+|[BIANLIAN](http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion)|OFFLINE||A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC||
+|[BIANLIAN](http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion)|OFFLINE||||
 |[BIANLIAN (I2P mirror)](http://epovhlzpj3grgld7vxr2mnk33dz5rdb4kdcp44f5r527rvhwhxna.b32.i2p)|ONLINE||A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC||
 |[BIT/LOLKEK/GLOBEIMPOSTER (Support page)](http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion)|OFFLINE||||
 |[BIT/LOLKEK/GLOBEIMPOSTER (SMTP Server)](http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion)|OFFLINE||||
 |[BIT/LOLKEK/GLOBEIMPOSTER (Support page)](http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion)|OFFLINE||||
-|[BIT/LOLKEK/GLOBEIMPOSTER (Support page)](mmcbkgua72og66w4jz3qcxkkhefax754pg6iknmtfujvkt2j65ffraad[.]onion)|ONLINE||||
-|[BLACKBASTA](http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion)|ONLINE||||
+|[BIT/LOLKEK/GLOBEIMPOSTER (Support page)](mmcbkgua72og66w4jz3qcxkkhefax754pg6iknmtfujvkt2j65ffraad.onion)|OFFLINE||||
+|[BLACKBASTA](http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion)|OFFLINE||||
 |[BLACKBASTA](https://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion)|OFFLINE||||
-|[BLACKBASTA (Victims request ID Page)](https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion)|ONLINE||||
+|[BLACKBASTA (Victims request ID Page)](https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion)|OFFLINE||||
 |[BLACKBYTE](http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion)|OFFLINE||||
 |[BLACKBYTE (1)](http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion)|OFFLINE||||
 |[BLACKBYTE (2)](http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion)|OFFLINE||||
 |[BLACKBYTE (3)](http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion)|OFFLINE||||
 |[BLACKBYTE (4)](http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion)|OFFLINE||||
-|[BLACKBYTE (5)](http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion)|ONLINE||||
-|[BLACKBYTE (6)](http://53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion)|ONLINE||||
+|[BLACKBYTE (5)](http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion)|OFFLINE||||
+|[BLACKBYTE (6)](http://53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion)|OFFLINE||||
 |[BLACKBYTE (7)](http://dounczge5jhw4iztnnpzp54kd4ot3tikhjsimurtcewqssgye6vvrhqd.onion)|ONLINE||||
 |[BLACKMATTER](http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion)|OFFLINE||||
 |[BLACKMATTER Support](http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2)|OFFLINE||||

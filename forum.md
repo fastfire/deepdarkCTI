@@ -60,10 +60,10 @@
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](https://breachforums.cz)| ONLINE | |
 |[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/index.php) | ONLINE | |
 |[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](https://breachforums.hn) | OFFLINE (seized) | |
-|[BREACH FORUMS](https://breachforums.ac/)| ONLINE | |
+|[BREACH FORUMS](https://breachforums.ac/)| OFFLINE | |
 |[BREACH FORUMS](https://breachforums.ai/)| ONLINE | |
-|[BREACH FORUMS](https://breachforums.sb/)| ONLINE | |
-|[BREACH FORUMS](https://pwnforums.lst/)| ONLINE | |
+|[BREACH FORUMS](https://breachforums.sb/)| OFFLINE | |
+|[BREACH FORUMS](https://pwnforums.lst/)| OFFLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |

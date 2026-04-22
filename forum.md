@@ -47,6 +47,7 @@
 |[BREACH FORUMS (Dark)](http://breachedmw4otc2lhx7nqe4wyxfhpvy32ooz26opvqkmmrbg73c7ooad.onion/)| ONLINE | |
 |[BREACH FORUMS (Deep)](https://breachforums.bf)| OFFLINE | |
 |[BREACH FORUMS (Deep)](https://breachforums.cx)| OFFLINE | |
+|[BREACH FORUMS (Deep)](https://breachforums.ai/)| ONLİNE | |
 |[BREACH FORUMS (Deep)](https://breachforums.is)| OFFLINE | |
 |[BREACH FORUMS (Deep)](https://breachforums.st)| OFFLINE | |
 |[BREACH FORUMS (Deep)](https://breachforums.sx)| OFFLINE | |

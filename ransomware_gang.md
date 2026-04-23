@@ -362,6 +362,7 @@
 |[LYNX](http://lynxblog.net/leaks)|ONLINE||||
 |[Lamashtu](http://lamashtux5j74mcm7lwwgn5yrvuwtrpxjoyendif3v3hrztjesfoyayd.onion/)|ONLINE||||
 |[LUNALOCK](http://lunalockcccxzkpfovwzifwxcytqkiuak6wzybnniqwxcmpsetpbetid.onion)|ONLINE||||
+|[M3RX](http://pippahtohg6qgioqu3ixrsueefuw7thythmmeanyrgwn3eixcuu6jvqd.onion)|ONLINE||||
 |[MAD LIBERATOR](http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion)|ONLINE||||
 |[MADCAT RANSOM](http://i2gc52bwm2vu2wnohwi3cli7t7hj3y2q7qj3th2bs64h2eej7z5jcgqd.onion) |OFFLINE||@MadCatRansom||
 |[Mamona RANSOMWARE](http://owt3kwkxod2pvxlv3uljzskfhebhrhoedrh5gqrxyyd6rrco4frzj5ad.onion)|ONLINE||||

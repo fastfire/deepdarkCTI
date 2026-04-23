@@ -173,6 +173,7 @@
 |[ITALIAN DARKNET COMMUNITY 3.0 (Dark)](http://dhri7ogvfpnflpkj3sc5x7umjl4gd26bkukzotbwdy76yjp5qvhjzmqd.onion)| OFFLINE | |
 |[KCC](http://kcc.cat)| ONLINE | |
 |[KICKASS](http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion)| ONLINE | |
+|[KittyForums](https://kittyforums.st/)| OFFLINE | |
 |[KKKSecForum](https://forum.kkksec.com)| ONLINE | |
 |[KOROVKA](http://korovka.cc)| ONLINE | |
 |[Korovka](https://korovka.cc) | ONLINE | |
@@ -300,7 +301,6 @@
 |[XSS (Deep)](https://xss.pro)| ONLINE | |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |
-|[KittyForums](https://kittyforums.st/)| ONLINE | |
 |[ReHubCom (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
 |[ReHubCom (Deep)](https://rehubcom.pro)| ONLINE | |
 |[ReHubCom (Deep)](https://rehubcom.ag)| ONLINE | |
@@ -315,4 +315,5 @@
 |[leakforumcc](https://leakforums.cc)|ONLINE ||
 |[BreachStars](https://breachstars.io/)|ONLINE||
 |[BreachForums(by hasan 16/1/2026)](http://breach5yz2b5lepmq4gaqwcon3jippw3bislhvvdavem5git55sy2nid.onion)|ONLINE||
-|[PwnForums](https://pwnforums.st/)|ONLINE||
+|[PwnForums (Deep)](https://pwnforums.st/)|ONLINE||
+|[PwnForums (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)|ONLINE||

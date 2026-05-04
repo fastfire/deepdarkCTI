@@ -966,4 +966,6 @@
 |https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
 |https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|
 |https://t.me/INTEL_HANDALA|OFFLINE|HANDALA HACK (backup)||
-|https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||
+|https://t.me/handala_redwanted|ONLINE|Handala RedWanted||
+|https://t.me/+Lv3LYdpVyJc5ZTM0|ONLINE|xorcat files||
+|https://t.me/+wuOFH81f2us1YmQ0|ONLINE|xorcat vouch||

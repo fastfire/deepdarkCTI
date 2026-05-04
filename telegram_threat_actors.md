@@ -841,7 +841,7 @@
 |https://t.me/BF_files|OFFLINE|BF Files|Data Leaks|
 |https://t.me/networker_apt|ONLINE|NET-WORKER||
 |https://t.me/Z_ALLIANCE/|OFFLINE|Z_ALLIANCE||
-|https://t.me/+TdDrDmT9untmYWQ8|VALID|M3cr0byte||
+|https://t.me/+TdDrDmT9untmYWQ8|EXPIRED|M3cr0byte||
 |https://t.me/hannibalmaaleaks|ONLINE|HannibalMAA LE4kS|Data Leaks|
 |https://t.me/Almo7a9e9|OFFLINE|Almo7a9e9||
 |https://t.me/Darkstormteamnewteam|OFFLINE|Dark Storm Team||
@@ -966,4 +966,4 @@
 |https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
 |https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|
 |https://t.me/INTEL_HANDALA|OFFLINE|HANDALA HACK (backup)||
-|https://t.me/handala_redwanted|ONLINE|Handala RedWanted||
+|https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||

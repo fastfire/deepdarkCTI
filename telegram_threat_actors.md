@@ -956,7 +956,7 @@
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|ONLINE|scattered LAPSUS$ hunters part 9||
-|https://t.me/+fQrXQuy77Ng2YzBh|VALID|ShellForce||
+|https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|ONLINE|DB HunterX|Data Leaks|
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|

@@ -969,3 +969,5 @@
 |https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||
 |https://t.me/+Lv3LYdpVyJc5ZTM0|ONLINE|xorcat files||
 |https://t.me/+wuOFH81f2us1YmQ0|ONLINE|xorcat vouch||
+|https://t.me/+32bOCuk6FctmNzll|ONLINE|The Jacuzzi||
+|https://t.me/+pvrT-JIgj4g2MDZh|ONLINE|ShinyHunters||

@@ -251,6 +251,7 @@
 |[HUNTERS INTERNATIONAL (Victim Site)](https://hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion)|ONLINE||||
 |[HUNTERS INTERNATIONAL](http://huntersinternational.net)|OFFLINE||||
 |[HUNTERS INTERNATIONAL](http://huntersinternational.su)|OFFLINE||||
+|[ICARUS](http://http://e6ujsppajgb756x7x5ykdryvlcjynltb52eiwi6pd4bfwo6hddd6neid.onion)|ONLINE||0530cecee355f7d0723f3990c6bfb562e29829687f16b5840ad85e18ebc80c6d6b||
 |[ICEFIRE](http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list)|OFFLINE||||
 |[ICEFIRE](http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list)|OFFLINE||||
 |[IMN CREW](http://imncrewwfkbjkhr2oylerfm5qtbzfphhmpcfag43xc2kfgvluqtlgoid.onion)|ONLINE||||

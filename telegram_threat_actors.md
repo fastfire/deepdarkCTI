@@ -841,7 +841,7 @@
 |https://t.me/BF_files|OFFLINE|BF Files|Data Leaks|
 |https://t.me/networker_apt|ONLINE|NET-WORKER||
 |https://t.me/Z_ALLIANCE/|OFFLINE|Z_ALLIANCE||
-|https://t.me/+TdDrDmT9untmYWQ8|VALID|M3cr0byte||
+|https://t.me/+TdDrDmT9untmYWQ8|EXPIRED|M3cr0byte||
 |https://t.me/hannibalmaaleaks|ONLINE|HannibalMAA LE4kS|Data Leaks|
 |https://t.me/Almo7a9e9|OFFLINE|Almo7a9e9||
 |https://t.me/Darkstormteamnewteam|OFFLINE|Dark Storm Team||
@@ -956,7 +956,7 @@
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|ONLINE|scattered LAPSUS$ hunters part 9||
-|https://t.me/+fQrXQuy77Ng2YzBh|VALID|ShellForce||
+|https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|ONLINE|DB HunterX|Data Leaks|
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|
@@ -966,4 +966,9 @@
 |https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
 |https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|
 |https://t.me/INTEL_HANDALA|OFFLINE|HANDALA HACK (backup)||
-|https://t.me/handala_redwanted|ONLINE|Handala RedWanted||
+|https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||
+|https://t.me/+Lv3LYdpVyJc5ZTM0|ONLINE|xorcat files||
+|https://t.me/+wuOFH81f2us1YmQ0|ONLINE|xorcat vouch||
+|https://t.me/+32bOCuk6FctmNzll|ONLINE|The Jacuzzi||
+|https://t.me/+pvrT-JIgj4g2MDZh|ONLINE|ShinyHunters||
+|https://t.me/p3Nt3st3rsTAr|ONLINE|||

@@ -59,6 +59,7 @@
 |[ATOMSILO](http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion)|OFFLINE||||
 |[ATOMSILO](http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion)|OFFLINE||||
 |[AUDIT](https://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion)|ONLINE||||
+|[AUR0RA](http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion)|ONLINE||||
 |[AVADDON](http://avaddongun7rngel.onion)|OFFLINE||||
 |[AVOS](http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion)|ONLINE|||YES|
 |[AVOS (Victims request ID page)](http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion)|ONLINE||||
@@ -129,6 +130,7 @@
 |[CLOP (torrents)](http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion)|ONLINE||||
 |[CLOP (Old)](http://ekbgzchl6x2ias37.onion)|OFFLINE||||
 |[COINBASE CARTEL](http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion)|ONLINE||1225DDE01980D7C7890A90E359EF4406D74DF7DB94F6C5F3B8378BB78444473022675C49FACB||
+|[CMD ORGANIZATION](http://cmdnkiqjije2tllr3biee2sjgj3i4robg2cbtilbnytdhh2wy3syrlyd.onion)|ONLINE||||
 |[CONTI/RYUK (Dark)](http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion)|OFFLINE||||
 |[CONTI/RYUK (Deep)](https://continews.click)|OFFLINE||||
 |[COOMINGPROJECT (Tor v2)](http://teo7aj5mfgzxyeme.onion)|OFFLINE||||
@@ -249,6 +251,7 @@
 |[HUNTERS INTERNATIONAL (Victim Site)](https://hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion)|ONLINE||||
 |[HUNTERS INTERNATIONAL](http://huntersinternational.net)|OFFLINE||||
 |[HUNTERS INTERNATIONAL](http://huntersinternational.su)|OFFLINE||||
+|[ICARUS](http://http://e6ujsppajgb756x7x5ykdryvlcjynltb52eiwi6pd4bfwo6hddd6neid.onion)|ONLINE||0530cecee355f7d0723f3990c6bfb562e29829687f16b5840ad85e18ebc80c6d6b||
 |[ICEFIRE](http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list)|OFFLINE||||
 |[ICEFIRE](http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list)|OFFLINE||||
 |[IMN CREW](http://imncrewwfkbjkhr2oylerfm5qtbzfphhmpcfag43xc2kfgvluqtlgoid.onion)|ONLINE||||
@@ -363,6 +366,7 @@
 |[Lamashtu](http://lamashtux5j74mcm7lwwgn5yrvuwtrpxjoyendif3v3hrztjesfoyayd.onion/)|ONLINE||||
 |[LUNALOCK](http://lunalockcccxzkpfovwzifwxcytqkiuak6wzybnniqwxcmpsetpbetid.onion)|ONLINE||||
 |[M3RX](http://pippahtohg6qgioqu3ixrsueefuw7thythmmeanyrgwn3eixcuu6jvqd.onion)|ONLINE||||
+|[M3RX](http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion)|ONLINE||||
 |[MAD LIBERATOR](http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion)|ONLINE||||
 |[MADCAT RANSOM](http://i2gc52bwm2vu2wnohwi3cli7t7hj3y2q7qj3th2bs64h2eej7z5jcgqd.onion) |OFFLINE||@MadCatRansom||
 |[Mamona RANSOMWARE](http://owt3kwkxod2pvxlv3uljzskfhebhrhoedrh5gqrxyyd6rrco4frzj5ad.onion)|ONLINE||||
@@ -389,6 +393,7 @@
 |[MEOW](http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion)|ONLINE||||
 |[METAENCRYPTER](http://metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion)|ONLINE||||
 |[MIGA](http://q7gmt7pbo4rrt27ydkiv2kxd7cimhztq2x7hzd557jthhu5zp6ujieid.onion)|ONLINE||||
+|[MNT6](http://ttvbuilv5mf2wggfjgmvin22ndzghpukhsyy6coz3p4wt5nqnxah7tyd.onion)|ONLINE||||
 |[MOGILEVICH](http://dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion)|ONLINE||||
 |[MONEYMESSAGE](http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion)|ONLINE||||
 |[MONTI](http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion)|ONLINE||||

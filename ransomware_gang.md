@@ -382,6 +382,7 @@
 |[MAZE](https://newsmaze.net)|OFFLINE||||
 |[MBC](http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion)|OFFLINE||||
 |[MEDUSA LOCKER (Victims page)](http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion)|ONLINE||||
+|[MEDUSA LOCKER](http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion)|ONLINE||||
 |[MEDUSA](http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion)|ONLINE||||
 |[MEDUSA](http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion)|ONLINE||||
 |[MEDUSA](http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion)|ONLINE||||

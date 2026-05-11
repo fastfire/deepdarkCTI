@@ -949,7 +949,7 @@
 |https://t.me/DarkForumsHub|OFFLINE|DarkForums|Forum|
 |https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|
 |https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
-|https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||
+|https://t.me/TheBlackMaskers|OFFLINE|BlackMaskers Army||
 |https://t.me/HANDALA_HPR2|OFFLINE|HANDALA HACK||
 |https://t.me/lapsus_groupo|OFFLINE|Lapsus$ Group||
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|

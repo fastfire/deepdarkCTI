@@ -295,6 +295,7 @@
 |[LAPSUS$ GROUP](http://lapsus.sh)|OFFLINE||||
 |[LAPSUS$ GROUP](https://lapsus.by)|ONLINE||||
 |[LAPSUS$ GROUP (Data)](http://mwojud552brg7rl3obqjvv2funhwpg6acdsuuoeytq7365kmaeoi4gqd.onion)|ONLINE||||
+|[LEAK BAZAR](https://mes4qo4rd6t3biyrm6q4twkquspzd7r4kg7va765nbdfxqgnc2w3pead.onion)|ONLINE||||
 |[LEAKED DATA](http://business-data-leaks.com)|ONLINE||||
 |[LEAKNET](http://nleakk6sejx45jxtk7x6iyt65hwvfrkifc5v7ertdlwm3gttbpvlvxqd.onion)|ONLINE||||
 |[LILITH](http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion)|OFFLINE||BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC||
@@ -382,7 +383,7 @@
 |[MAZE](https://newsmaze.net)|OFFLINE||||
 |[MBC](http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion)|OFFLINE||||
 |[MEDUSA LOCKER (Victims page)](http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion)|ONLINE||||
-|[MEDUSA LOCKER](http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion)|ONLINE||||
+|[MEDUSA LOCKER (aka BAVACAI](http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion)|ONLINE||||
 |[MEDUSA](http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion)|ONLINE||||
 |[MEDUSA](http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion)|ONLINE||||
 |[MEDUSA](http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion)|ONLINE||||

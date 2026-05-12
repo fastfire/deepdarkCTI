@@ -943,11 +943,11 @@
 |https://t.me/+3ZYKShO-lpM2NTM1|VALID|Escanors Official||
 |https://t.me/+kGfKy9Zl4OsyYzVl|EXPIRED|scattered LAPSUS$ hunters part 8||
 |https://t.me/EvilNet3|OFFLINE|EvilNet 3.0||
-|https://t.me/joinchat/SRPYpvvgUPwyY2I0|OFFLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
+|https://t.me/+SRPYpvvgUPwyY2I0|EXPIRED|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|
 |https://t.me/+EMayLd_DiV43ZTM6|EXPIRED|APT IRAN||
 |https://t.me/DarkForumsHub|OFFLINE|DarkForums|Forum|
-|https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|
+|https://t.me/DedaleOffice|OFFLINE|Dedale Office|Data Leaks|
 |https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
 |https://t.me/TheBlackMaskers|OFFLINE|BlackMaskers Army||
 |https://t.me/HANDALA_HPR2|OFFLINE|HANDALA HACK||
@@ -955,20 +955,20 @@
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
-|https://t.me/+uIDt6PiHin4wMjY1|ONLINE|scattered LAPSUS$ hunters part 9||
+|https://t.me/+uIDt6PiHin4wMjY1|VALID|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|ONLINE|DB HunterX|Data Leaks|
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|
 |https://t.me/HANDALA_INTEL|ONLINE|Handala||
-|https://t.me/+X6Y8t-0tT1VmODI1|OFFLINE|ShinyHunters||
+|https://t.me/+X6Y8t-0tT1VmODI1|EXPIRED|ShinyHunters||
 |https://t.me/nightspire_breach|Nightspire breach||
 |https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
 |https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|
 |https://t.me/INTEL_HANDALA|OFFLINE|HANDALA HACK (backup)||
 |https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||
-|https://t.me/+Lv3LYdpVyJc5ZTM0|ONLINE|xorcat files||
-|https://t.me/+wuOFH81f2us1YmQ0|ONLINE|xorcat vouch||
-|https://t.me/+32bOCuk6FctmNzll|ONLINE|The Jacuzzi||
-|https://t.me/+pvrT-JIgj4g2MDZh|ONLINE|ShinyHunters||
+|https://t.me/+Lv3LYdpVyJc5ZTM0|EXPIRED|xorcat files||
+|https://t.me/+wuOFH81f2us1YmQ0|VALID|xorcat vouch||
+|https://t.me/+32bOCuk6FctmNzll|VALID|The Jacuzzi||
+|https://t.me/+pvrT-JIgj4g2MDZh|VALID|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||

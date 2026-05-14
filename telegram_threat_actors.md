@@ -958,7 +958,7 @@
 |https://t.me/+uIDt6PiHin4wMjY1|VALID|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
-|https://t.me/DBHunterX|ONLINE|DB HunterX|Data Leaks|
+|https://t.me/DBHunterX|OFFLINE|DB HunterX|Data Leaks|
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|
 |https://t.me/HANDALA_INTEL|ONLINE|Handala||
 |https://t.me/+X6Y8t-0tT1VmODI1|EXPIRED|ShinyHunters||

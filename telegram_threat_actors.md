@@ -973,3 +973,4 @@
 |https://t.me/+pvrT-JIgj4g2MDZh|VALID|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||
 |https://t.me/n2LP_wVf79c2YzM0|ONLINE|Infrastructure Destruction Squad||
+|https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||

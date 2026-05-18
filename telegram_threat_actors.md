@@ -969,8 +969,8 @@
 |https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||
 |https://t.me/+Lv3LYdpVyJc5ZTM0|EXPIRED|xorcat files||
 |https://t.me/+wuOFH81f2us1YmQ0|VALID|xorcat vouch||
-|https://t.me/+32bOCuk6FctmNzll|VALID|The Jacuzzi||
-|https://t.me/+pvrT-JIgj4g2MDZh|VALID|ShinyHunters||
+|https://t.me/+32bOCuk6FctmNzll|EXPIRED|The Jacuzzi||
+|https://t.me/+pvrT-JIgj4g2MDZh|EXPIRED|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||
 |https://t.me/n2LP_wVf79c2YzM0|ONLINE|Infrastructure Destruction Squad||
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||

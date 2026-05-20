@@ -948,7 +948,7 @@
 |https://t.me/+EMayLd_DiV43ZTM6|EXPIRED|APT IRAN||
 |https://t.me/DarkForumsHub|OFFLINE|DarkForums|Forum|
 |https://t.me/DedaleOffice|OFFLINE|Dedale Office|Data Leaks|
-|https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
+|https://t.me/oplebensraum|OFFLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
 |https://t.me/TheBlackMaskers|OFFLINE|BlackMaskers Army||
 |https://t.me/HANDALA_HPR2|OFFLINE|HANDALA HACK||
 |https://t.me/lapsus_groupo|OFFLINE|Lapsus$ Group||

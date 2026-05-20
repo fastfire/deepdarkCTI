@@ -975,3 +975,4 @@
 |https://t.me/n2LP_wVf79c2YzM0|ONLINE|Infrastructure Destruction Squad||
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
+|https://t.me/breached_su|ONLINE|breached (breached.su forum)||

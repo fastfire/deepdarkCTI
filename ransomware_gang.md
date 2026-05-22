@@ -543,10 +543,11 @@
 |[SENSAYQ (deep](http://159.69.60.54)|ONLINE||||
 |[SENSAYQ (dark)](http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion)|ONLINE||||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE||||
-|[SHADOWBYT3$](https://shadowsblog.cloud-ip.cc/leaks.php)|ONLINE||ShadowByt3S@proton.me||
-|[SHADOWBYT3$](https://mfbbt65kir2drc7tuoukwibikgvxquauscnzgbeltkmidjtgqlzm2qad.onion)|ONLINE||ShadowByt3S@proton.me||
-|[SHADOWBYT3$](https://sdwbytqeb664krp2wz2qs3lxxah2rhneuotot5hy7g4jpn2pindigcad.onion)|ONLINE||ShadowByt3S@proton.me||
-|[SHADOWBYT3$](https://shadowbyt3s.8bit.ca/leaks.php)|ONLINE||ShadowByt3S@proton.me||
+|[SHADOWBYT3$](http://shadowsblog.cloud-ip.cc/leaks.php)|OFFLINE (404)||ShadowByt3S@proton.me||
+|[SHADOWBYT3$](http://mfbbt65kir2drc7tuoukwibikgvxquauscnzgbeltkmidjtgqlzm2qad.onion)|OFFLINE||ShadowByt3S@proton.me||
+|[SHADOWBYT3$](http://sdwbytqeb664krp2wz2qs3lxxah2rhneuotot5hy7g4jpn2pindigcad.onion)|ONLINE||ShadowByt3S@proton.me||
+|[SHADOWBYT3$](http://shadowbyt3s.8bit.ca/leaks.php)|OFFLINE (404)||ShadowByt3S@proton.me||
+|[SHADOWBYT3$](http://shdwbt3ja2ptjt6poluegas44i35727lgmoqqquoww642x3zyocyhuqd.onion)|ONLINE||||
 |[SHINYHUNTERS](http://toolatedhs5dtr2pv6h5kdraneak5gs3sxrecqhoufc5e45edior7mqd.onion)|ONLINE||||
 |[SHINYHUNTERS](http://shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion)|ONLINE||||
 |[SICARI KNIFE](http://sicariifoucvhyqg54smi3esg5sfcyw5z65t6yigqu4loyuoz62bb2id.onion)|ONLINE||2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E||

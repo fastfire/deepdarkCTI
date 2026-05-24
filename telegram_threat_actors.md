@@ -977,3 +977,10 @@
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
 |https://t.me/breached_su|ONLINE|breached (breached.su forum)||
 |https://t.me/+eT1mVGSR-AxmNDlk|ONLINE|FEMBOYSec Intelligence (FEMBOY forum)||
+|https://t.me/ironatlas_organization|ONLINE|ɪʀᴏɴ ᴀᴛʟᴀꜱ ɴᴇᴡ ɢᴇɴᴇʀᴀᴛɪᴏɴ||
+|https://t.me/r3_6j|ONLINE|FAD Team||
+|https://t.me/BabayoErorSytem1|ONLINE|BABAYO EROR SYSTEM||
+|https://t.me/byjax7|ONLINE|JAX7||
+|https://t.me/DefacerIndonesia1337|ONLINE|Defacer Indonesia||
+|https://t.me/PhiserXman|ONLINE|PhiserXman||
+https://t.me/KAR4WANG_ERROR_SYSTEM

@@ -983,4 +983,4 @@
 |https://t.me/byjax7|ONLINE|JAX7||
 |https://t.me/DefacerIndonesia1337|ONLINE|Defacer Indonesia||
 |https://t.me/PhiserXman|ONLINE|PhiserXman||
-https://t.me/KAR4WANG_ERROR_SYSTEM
+|https://t.me/KAR4WANG_ERROR_SYSTEM|ONLINE|KARAWANG ERROR SYSTEM||

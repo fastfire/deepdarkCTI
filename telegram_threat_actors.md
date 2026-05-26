@@ -691,7 +691,7 @@
 |https://t.me/weleakdatabase|OFFLINE|Data Leaks||
 |https://t.me/whoisAlixan|OFFLINE|AlixSec|Leaks & Breaches|
 |https://t.me/win_def|ONLINE|Windef||
-|https://t.me/windmarketo|ONLINE|Data Leaks||
+|https://t.me/windmarketo|OFFLINE|Data Leaks||
 |https://t.me/WLDBackup|OFFLINE|Data Leaks||
 |https://t.me/wwhsmi|ONLINE|WWH Forum||
 |https://t.me/www_paypal|ONLINE|Pro Team Channe|combos|

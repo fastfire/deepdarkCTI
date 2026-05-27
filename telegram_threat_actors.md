@@ -723,7 +723,7 @@
 |https://t.me/Z_alliance_ru|OFFLINE|Z-ALLIANCE||
 |https://t.me/Official_EvilBYTE|OFFLINE|Evil Byte||
 |https://t.me/DarkfireDragon7|ONLINE|DarkNess7||
-|https://t.me/HiddenEyesTeam|ONLINE|HiddenEyesTeam||
+|https://t.me/HiddenEyesTeam|OFFLINE|HiddenEyesTeam||
 |https://t.me/+ZMoidrbayTgyMzQ9|EXPIRED|Garuda Error System||
 |https://t.me/CoupTeam|ONLINE|Coup Team||
 |https://t.me/+XhceuAZW9QJkOWJl|VALID|Garuna Ops||

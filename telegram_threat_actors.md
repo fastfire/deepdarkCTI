@@ -991,3 +991,6 @@
 |https://t.me/Cyber_Dark_Echo|ONLINE|CYBER DARK ECHO||
 |https://t.me/brotheroodbci|ONLINE|BROTHEROOD CAPUNG INDONESIA||
 |https://t.me/ShadowClawZ404|ONLINE|Shadow ClawZ 404||
+|https://t.me/zpentest_fucknato|ONLINE|Z-Pentest Alliance||
+|https://t.me/EarthImpact_hack|ONLINE|EarthImpact Team||
+|https://t.me/AFN_RU|ONLINE|АльфаНет||

@@ -994,3 +994,5 @@
 |https://t.me/zpentest_fucknato|ONLINE|Z-Pentest Alliance||
 |https://t.me/EarthImpact_hack|ONLINE|EarthImpact Team||
 |https://t.me/AFN_RU|ONLINE|АльфаНет||
+|https://t.me/+66S2AL_OrU43MmE8|ONLINE|BreachForums||
+|https://t.me/+EH3p6VmhR_44ODQ0|ONLINE|The Jaccuzi||

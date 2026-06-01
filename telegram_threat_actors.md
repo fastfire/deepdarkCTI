@@ -935,10 +935,10 @@
 |https://t.me/+D2e-YSFvtAhhMWU1|VALID|BFRepoV4Files|DataLeaks|
 |https://t.me/+jHO-f5fXqZsyNWM1|EXPIRED|WHALEHUNTERS||
 |https://t.me/+PUmtLabVTT9mODA1|EXPIRED|WHALE FILES||
-|https://t.me/+6fWJgBgWDj5iYzRk|VALID|Leakss Data||
-|https://t.me/+vw4JXiA77LsyYzJl|VALID|Affiliate Association||
-|https://t.me/+6Ijjx9_a-vUzNGZl|VALID|Shiny Montana Exploit||
-|https://t.me/+9Z3fqWfISscxM2E1|VALID|Escanors Files||
+|https://t.me/+6fWJgBgWDj5iYzRk|EXPIRED|Leakss Data||
+|https://t.me/+vw4JXiA77LsyYzJl|EXPIRED|Affiliate Association||
+|https://t.me/+6Ijjx9_a-vUzNGZl|EXPIRED|Shiny Montana Exploit||
+|https://t.me/+9Z3fqWfISscxM2E1|EXPIRED|Escanors Files||
 |https://t.me/+xKUeFc1nB89hNTM1|VALID|Escanors Marketplace||
 |https://t.me/+3ZYKShO-lpM2NTM1|VALID|Escanors Official||
 |https://t.me/+kGfKy9Zl4OsyYzVl|EXPIRED|scattered LAPSUS$ hunters part 8||

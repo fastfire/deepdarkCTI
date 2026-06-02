@@ -129,6 +129,7 @@
 |[DOXBYTE](https://doxbyte.com)| ONLINE | |
 |[DOXBYTE](https://doxbyte.org)| ONLINE | |
 |[DOXBYTE](https://doxbyte.net)| ONLINE | |
+|[DOXBYTE](http://doxbyte3hunj2pi5euqhowpohjeh36mpbw5nflag4td7sd7bcrgxn6id.onion)| ONLINE | |
 |[DRDARK](https://drdark.ru)| ONLINE | |
 |[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| OFFLINE | |
 |[DREAD](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion)| ONLINE | |

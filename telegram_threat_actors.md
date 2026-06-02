@@ -972,7 +972,8 @@
 |https://t.me/+32bOCuk6FctmNzll|EXPIRED|The Jacuzzi||
 |https://t.me/+pvrT-JIgj4g2MDZh|EXPIRED|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||
-|https://t.me/n2LP_wVf79c2YzM0|ONLINE|Infrastructure Destruction Squad||
+|https://t.me/n2LP_wVf79c2YzM0|OFFLINE|Infrastructure Destruction Squad||
+|https://t.me/+Z2ENGFMlQjdkNmU8|ONLINE|Infrastructure Destruction Squad||
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
 |https://t.me/breached_su|ONLINE|breached (breached.su forum)||

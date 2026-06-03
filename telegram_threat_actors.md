@@ -1009,3 +1009,4 @@
 |https://t.me/ZxS3xx|ONLINE|ZxS3C🪬||
 |https://t.me/zaher_infinity01|ONLINE|𝐙𝐀𝐇𝐄𝐑 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘||
 |https://t.me/blueshadow67|ONLINE|Blue Shadow||
+|https://t.me/infrastructureg|ONLINE|infrastructure destruction squad||

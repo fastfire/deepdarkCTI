@@ -973,7 +973,7 @@
 |https://t.me/+pvrT-JIgj4g2MDZh|EXPIRED|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||
 |https://t.me/n2LP_wVf79c2YzM0|OFFLINE|Infrastructure Destruction Squad||
-|https://t.me/+Z2ENGFMlQjdkNmU8|ONLINE|Infrastructure Destruction Squad||
+|https://t.me/+Z2ENGFMlQjdkNmU8|EXPIRED|Infrastructure Destruction Squad||
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
 |https://t.me/breached_su|ONLINE|breached (breached.su forum)||
@@ -997,7 +997,7 @@
 |https://t.me/AFN_RU|ONLINE|АльфаНет||
 |https://t.me/+66S2AL_OrU43MmE8|ONLINE|BreachForums||
 |https://t.me/+EH3p6VmhR_44ODQ0|ONLINE|The Jaccuzi||
-|https://t.me/Anonnigeria|ONLINE|Nullsec Nigeria||
+|https://t.me/Anonnigeria|OFFLINE|Nullsec Nigeria||
 |https://t.me/infernaliis|ONLINE|𝐼𝑁𝐹𝐸𝑅𝑁𝐴𝐿𝐼𝑆 #INF||
 |https://t.me/nullseckh|ONLINE|Nullsec KH||
 |https://t.me/Ghostnet_x|ONLINE|GHOSTNET-X||
@@ -1009,4 +1009,4 @@
 |https://t.me/ZxS3xx|ONLINE|ZxS3C🪬||
 |https://t.me/zaher_infinity01|ONLINE|𝐙𝐀𝐇𝐄𝐑 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘||
 |https://t.me/blueshadow67|ONLINE|Blue Shadow||
-|https://t.me/infrastructureg|ONLINE|infrastructure destruction squad||
+|https://t.me/infrastructureg|OFFLINE|infrastructure destruction squad||

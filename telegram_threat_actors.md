@@ -1012,3 +1012,4 @@
 |https://t.me/infrastructureg|OFFLINE|infrastructure destruction squad||
 |https://t.me/instruktori|OFFLINE|byte (DoxByte)||
 |https://t.me/MR_X10_SY|ONLINE|MR-X910-SY||
+|https://t.me/infrastructurek|ONLINE|infrastructure destruction squad||

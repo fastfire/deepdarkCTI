@@ -955,7 +955,7 @@
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
-|https://t.me/+uIDt6PiHin4wMjY1|VALID|scattered LAPSUS$ hunters part 9||
+|https://t.me/+uIDt6PiHin4wMjY1|EXPIRED|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|OFFLINE|DB HunterX|Data Leaks|

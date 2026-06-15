@@ -912,7 +912,7 @@
 |https://t.me/dienet1|ONLINE|DieNet|DDoS|
 |https://t.me/z_bl4cx_h4t_id|ONLINE|Z-BL4CX-H4T.ID||
 |https://t.me/bfsup|ONLINE|BF|Forum|
-|https://t.me/Breach_VIP|ONLINE|Breach.VIP|DataLeaks|
+|https://t.me/Breach_VIP|OFFLINE|Breach.VIP|DataLeaks|
 |https://t.me/Venari_By_BetterCyber|ONLINE|VenariX||
 |https://t.me/order403|OFFLINE|Order403|DataLeaks|
 |https://t.me/CyaberGhost|OFFLINE|AN0M949_GHOST_TRACK|DataLeaks|

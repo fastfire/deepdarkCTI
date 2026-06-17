@@ -12,6 +12,7 @@
 |[ARBITRAJ](https://arbitraj-forum.ru)| OFFLINE | |
 |[ASCARDING](https://ascarding.com)| ONLINE | |
 |[ASTROPID](https://astropid.net)| OFFLINE ||
+|[BFD Forum](http://bfdxjkv5e2z3ilrifzbnvxxvhbzsj67akjpj3zc6smzr4vv6oz565gyd.onion)|ONLINE||
 |[BDF CLUB](https://bdfclub.com)| ONLINE | |
 |[BEST CARDING WORLD](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion) | ONLINE | |
 |[BHC Forums](https://bhcforums.cc) | ONLINE | |
@@ -23,14 +24,15 @@
 |[BHF](https://bhf.im)| ONLINE | |
 |[BITCOINFO.RU](http://bitcoinfor.ru)|ONLINE||
 |[BITS.MEDIA](https://forum.bits.media)|ONLINE||
+|[BITTEN FORUMS](http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion)| ONLINE | |
 |[BLACKBIZ](https://blackbiz.top)|OFFLINE||
 |[BLACKBONES](https://blackbones.net)|ONLINE||
 |[BLACKFORUMS](https://blackforums.me)| OFFLINE | |
 |[BLACKFORUMS](https://blackforums.net)| OFFLINE | |
 |[BLACKFORUMS](https://blackforums.ru)| OFFLINE | |
 |[BLACKHACKER](https://blackhacker.pw)|OFFLINE||
-|[blackhatpakistan](https://blackhatpakistan.net)| ONLINE | |
-|[blackhatprotools](https://www.blackhatprotools.info/)| ONLINE | |
+|[BLACKHATPAKISTAN](https://blackhatpakistan.net)| ONLINE | |
+|[BLACKHATPROTOOLS](https://www.blackhatprotools.info/)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
 |[BREACHED (Dark)](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion)| OFFLINE | |
 |[BREACHED (Deep)](https://breached.co)| OFFLINE | |
@@ -38,6 +40,7 @@
 |[BREACHED (Deep)](https://breached.vc)| OFFLINE | |
 |[BREACHED (Deep)](breached.fi)| OFFLINE | |
 |[BREACHED](https://breached.ws)| ONLINE | |
+|[BREACH BOARD](https://breachboard.zip/)|ONLINE|
 |[BREACH FORUMS (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)| OFFLINE | |
 |[BREACH FORUMS (Dark)](http://breachddyfwvcp4kzccos5oxtdbssmfbpv2kong6nxswlcge3u7zjgid.onion)| OFFLINE | |
 |[BREACH FORUMS (Dark)](http://breached4w3qphorxg2fwqkhpfnsyf65je72d2shli3fcfgorwdeymad.onion)| OFFLINE | |
@@ -61,6 +64,7 @@
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](http://breached.ws) | OFFLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](http://breachy72uc3rgraqpvfnb6dglhbcy7niqpmjdlseewzgpq4vifmmuyd.onion) | OFFLINE | |
 |[BREACH FORUMS starting from 01/07/25 - by Hasan](https://breachforums.cz)| OFFLINE | |
+|[BREACH FORUMS starting from 16/01/26 - by Hasan](http://breach5yz2b5lepmq4gaqwcon3jippw3bislhvvdavem5git55sy2nid.onion)|ONLINE||
 |[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion) | OFFLINE | |
 |[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](https://breachforums.hn) | OFFLINE (seized) | |
 |[BREACH FORUMS](https://breachforums.ac/)| OFFLINE | |
@@ -68,6 +72,7 @@
 |[BREACH FORUMS](https://breachforums.sb/)| OFFLINE | |
 |[BREACH FORUMS](https://pwnforums.lst/)| OFFLINE | |
 |[BREACH FORUMS](https://pwnforums.ms/)| ONLINE | |
+|[BREACHSTARS](https://breachstars.io/)|ONLINE||
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
@@ -97,11 +102,12 @@
 |[CRYPTOGID](http://cryptogid.org)| ONLINE | |
 |[CVV_BOARD](https://cvvbrd.info)| ONLINE | |
 |[CYBHACK](https://cybhack.net)| ONLINE | |
-|[D4rkForums](https://d4rkforums.net)| ONLINE | |
+|[D4RKFORUMS](https://d4rkforums.net)| ONLINE | |
+|[DAMAGELIB](http://damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion)|ONLINE||
 |[DANGEROUSTHINGS](https://forum.dangerousthings.com)| ONLINE | |
 |[DARK2WEB](https://dark2web.net)| ONLINE | |
 |[DARKCLUB](https://darkclub.pw)| ONLINE | |
-|[DarkForum](https://darkforum.in)| OFFLINE | |
+|[DARKFORUM](https://darkforum.in)| OFFLINE | |
 |[DARKFORUM](https://darkforum.net)| OFFLINE | |
 |[DARKFORUMS (Deep)](https://darkforums.me)| OFFLINE | |
 |[DARKFORUMS (Deep)](https://darkforums.hn)| OFFLINE | |
@@ -117,13 +123,13 @@
 |[DARKNET ARMY](http://dna777ucpo4unwxrzw5mzs4iqm5qz3uepw3k5mvwbt7tnufryvsgy5yd.onion)| ONLINE | |
 |[DARKNET](https://darknet.ug)| ONLINE | |
 |[DARKNETWORLD](https://www.darknetworld.com)| OFFLINE | |
-|[Darkpid](https://darkpid.com) | ONLINE | |
-|[darkpro](https://darkpro.net/)| ONLINE | |
+|[DARKPID](https://darkpid.com) | ONLINE | |
+|[DARKPRO](https://darkpro.net/)| ONLINE | |
 |[DARKSIDE](https://www.dark-side.black)| OFFLINE | |
 |[DARKWEB](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
 |[DARKZONE](https://darkzone.uk)| ONLINE | |
 |[DATACLOUD](https://datacloud.space)| ONLINE | |
-|[DataForums](https://dataforums.co)| ONLINE | |
+|[DATAFORUMS](https://dataforums.co)| ONLINE | |
 |[DEDICATET](https://dedicatet.com)| ONLINE | |
 |[DEFCON](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion)| OFFLINE | |
 |[DEMONFORUMS](https://demonforums.net)| ONLINE | |
@@ -148,25 +154,27 @@
 |[ETERNIA](https://eternia.to)| ONLINE | |
 |[EVILARMY](https://evilarmy.in)| ONLINE | |
 |[EVILZONE](https://evil-zone.org)| ONLINE | |
-|[evilx](https://evilx.su/forum/)| ONLINE | |
+|[EVILX](https://evilx.su/forum/)| ONLINE | |
+|[EXILIO404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion)| ONLINE | |
 |[EXODUS](https://forum.exodusmarket.io)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.biz)| ONLINE | |
 |[EXPLOIT FORUMS](https://exploitforums.net)| ONLINE | |
 |[EXPLOITS.WS](https://exploits.ws)| ONLINE | |
-|[ezcarder](https://ezcarder.is/)| ONLINE | |
+|[EZCARDER](https://ezcarder.is/)| ONLINE | |
+|[FEMBOYFORUM](https://femboyforum.com/)|ONLINE|
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |
 |[FORUMTEAM.TOP](https://forumteam.top)| ONLINE | |
 |[FSSQUAD](https://fssquad.com)| ONLINE | |
-|[Funksec Ransomware](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)| ONLINE | |
+|[FUNKSEC RANSOMWARE](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)| ONLINE | |
 |[G0D.ONE MARKET](https://www.g0d.one)| OFFLINE | |
 |[GERKI](http://gerkipwhfuqeeizl.onion)| OFFLINE | |
 |[GETREKT](https://getrekt.io)| ONLINE | https://t.me/getrektio |
 |[HACKFORUMS](https://hackforums.net/index.php)| ONLINE | |
-|[hackingfather](https://hackingfather.com/)| ONLINE | |
-|[hackonology](https://hackonology.com/forum/)| ONLINE | |
-|[hacksnation](https://hacksnation.com/)| ONLINE | |
+|[HACKINGFATHER](https://hackingfather.com/)| ONLINE | |
+|[HACKONOLOGY](https://hackonology.com/forum/)| ONLINE | |
+|[HACKSNATION](https://hacksnation.com/)| ONLINE | |
 |[HACKTOWN](http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion/HackTown.html)| ONLINE | |
 |[HARD TM](https://hard-tm.su)| ONLINE | |
 |[HELIUM](http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/login)| ONLINE | |
@@ -180,29 +188,31 @@
 |[ITALIAN DARKNET COMMUNITY 3.0 (Dark)](http://dhri7ogvfpnflpkj3sc5x7umjl4gd26bkukzotbwdy76yjp5qvhjzmqd.onion)| OFFLINE | |
 |[KCC](http://kcc.cat)| ONLINE | |
 |[KICKASS](http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion)| ONLINE | |
-|[KittyForums](https://kittyforums.st/)| OFFLINE | |
-|[KKKSecForum](https://forum.kkksec.com)| ONLINE | |
+|[KITTYFORUMS](https://kittyforums.st/)| OFFLINE | |
+|[KKKSECFORUM](https://forum.kkksec.com)| ONLINE | |
 |[KOROVKA](http://korovka.cc)| ONLINE | |
-|[Korovka](https://korovka.cc) | ONLINE | |
-|[Lampeduza](https://lampeduza.la) | ONLINE | |
+|[KOROVKA](https://korovka.cc) | ONLINE | |
+|[LAMPEDUZA](https://lampeduza.la) | ONLINE | |
 |[LEAD LAB](https://leadlab.top)| ONLINE | |
 |[LEAKBASE](https://leakbase.cc)| OFFLINE | |
 |[LEAKBASE](https://leakbase.io)| OFFLINE | |
 |[LEAKBASE](https://leakbase.la)| ONLINE | |
 |[LEAKBASE](https://leakbase.org)| OFFLINE | |
 |[LEAKBASE](https://leakbase.bz)| ONLINE | |
-|[LEAK FORUMS](https://leakforums.su)| ONLINE | |
+|[LEAK FORUM](https://leakforum.io)|ONLINE ||
+|[LEAK FORUMS](https://leakforums.su)| OFFLINE | |
+|[LEAK FORUMS](https://leakforums.cc)|OFFLINE ||
 |[LEAKS.SO](https://leaks.so)| ONLINE | |
 |[LEAKS.SX](https://leak.sx)| ONLINE | |
 |[LEAKY.PRO](https://leaky.pro/)| ONLINE | |
 |[LEECH](https://leech.is)| ONLINE | |
 |[LEET FORUMS](https://leetforums.cc)| ONLINE | |
-|[LeVeL23HackTools](https://level23hacktools.com/hackers)| ONLINE | |
-|[LinkPass](https://linkpass.info)| ONLINE | |
+|[LEVEL23HACKTOOLS](https://level23hacktools.com/hackers)| ONLINE | |
+|[LINKPASS](https://linkpass.info)| ONLINE | |
 |[LOLZ](https://lolz.guru)| ONLINE | |
 |[LOWENDTALK](http://lowendtalk.com)| ONLINE | |
 |[MAILPASS](https://mailpass.club)| OFFLINE | |
-|[MasterBin](http://rfetmd5tcg2frv5tx6v3sdbuhkfhafad67d5gutzghmgzpmwpjeihlqd.onion) ONLINE | |
+|[MASTERBIN](http://rfetmd5tcg2frv5tx6v3sdbuhkfhafad67d5gutzghmgzpmwpjeihlqd.onion) ONLINE | |
 |[MASTODON](https://masthead.social/auth/sign_in)| ONLINE | |
 |[MEGATOP](https://megatop.biz)| ONLINE | |
 |[MIPPED](https://mipped.com)| ONLINE | |
@@ -226,7 +236,7 @@
 |[OMERTA](https://omerta.cx)| ONLINE | |
 |[OMERTA](https://omerta.wf)| OFFLINE | |
 |[OMERTA](https://omert.cc)| ONLINE | |
-|[OnniForums](https://onniforums.com) | ONLINE | |
+|[OMNIFORUMS](https://onniforums.com) | ONLINE | |
 |[OPENSSOURCE](https://openssource.org)| ONLINE | |
 |[PATCHED.TO](https://patched.to)| ONLINE | |
 |[PAYLOAD.SH](https://payload.sh)| ONLINE | |
@@ -239,6 +249,8 @@
 |[PROLOGIC](https://prologic.su)| ONLINE | |
 |[PROTON](https://proton.sc)| ONLINE | |
 |[PSHACK](https://pshack.org)| ONLINE | |
+|[PWNFORUMS (Deep)](https://pwnforums.st/)|ONLINE||
+|[PWNFORUMS (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)|ONLINE||
 |[RAID FORUMS 2](https://raidforums2.com)| OFFLINE | |
 |[RAID FORUMS](https://raidforums.com)| OFFLINE | |
 |[RAID FORUMS (Mirror 1)](https://rf.ws)| OFFLINE | |
@@ -252,6 +264,11 @@
 |[RAMP (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion) | OFFLINE | |
 |[RANSOMED](http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion) | ONLINE | |
 |[REBREACHED](https://rebreached.vc) | ONLINE | |
+|[REHUBCOM (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
+|[REHUBCOM (Deep)](https://rehubcom.pro)| ONLINE | |
+|[REHUBCOM (Deep)](https://rehubcom.ag)| ONLINE | |
+|[REHUBCOM (Deep)](https://rehubcom.io)| ONLINE | |
+|[REHUBCOM (Deep)](https://Damagelab.in)| ONLINE | |
 |[REVERSING](https://reversing.center) | ONLINE | |
 |[RF-CHEAT](https://www.rf-cheats.ru) | ONLINE | |
 |[ROOTSPLOIT](https://rootsploit.org)| ONLINE | |
@@ -308,23 +325,10 @@
 |[XSS (Deep)](https://xss.ac)| ONLINE | |
 |[XSS (Deep)](https://xss.is)| OFFLINE Seized | |
 |[XSS (Deep)](https://xss.pro)| ONLINE | |
+|[XSSF (Deep)](https://xssf.net/)|ONLINE||
+|[XSSF (Deep)](https://xssf.is/)|ONLINE||
+|[XSSF (Deep)](https://xssf.ru/)|ONLINE||
+|[XSSF (Dark)](https://xssfnet2env25nv16wnqn3vik4igq3igq3igq767igdik6jsad.onion)|OFFLINE| |
+|[XSSF (Dark)](http://xssfnet2env65wnrlixkn4io3gzukirz7w767gdilk64iq6dg33jwsad.onion/)|ONLINE| |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |
-|[ReHubCom (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
-|[ReHubCom (Deep)](https://rehubcom.pro)| ONLINE | |
-|[ReHubCom (Deep)](https://rehubcom.ag)| ONLINE | |
-|[ReHubCom (Deep)](https://rehubcom.io)| ONLINE | |
-|[ReHubCom (Deep)](https://Damagelab.in)| ONLINE | |
-|[BITTEN FORUMS](http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion)| ONLINE | |
-|[EXILIO404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion)| ONLINE | |
-|[XSSF](https://xssf.net/)|ONLINE||
-|[DAMAGELIB](http://damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion)|ONLINE||
-|[BFD Forum](http://bfdxjkv5e2z3ilrifzbnvxxvhbzsj67akjpj3zc6smzr4vv6oz565gyd.onion)|ONLINE||
-|[leakforumio](https://leakforum.io)|ONLINE ||
-|[leakforumcc](https://leakforums.cc)|ONLINE ||
-|[BreachStars](https://breachstars.io/)|ONLINE||
-|[BreachForums(by hasan 16/1/2026)](http://breach5yz2b5lepmq4gaqwcon3jippw3bislhvvdavem5git55sy2nid.onion)|ONLINE||
-|[PwnForums (Deep)](https://pwnforums.st/)|ONLINE||
-|[PwnForums (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)|ONLINE||
-|[BreachBoard](https://breachboard.zip/)|ONLINE|
-|[FemboyForum](https://femboyforum.com/)|ONLINE|

@@ -996,7 +996,7 @@
 |https://t.me/EarthImpact_hack|ONLINE|EarthImpact Team||
 |https://t.me/AFN_RU|ONLINE|АльфаНет||
 |https://t.me/+66S2AL_OrU43MmE8|EXPIRED|BreachForums||
-|https://t.me/+EH3p6VmhR_44ODQ0|ONLINE|The Jaccuzi||
+|https://t.me/+EH3p6VmhR_44ODQ0|EXPIRED|The Jaccuzi||
 |https://t.me/Anonnigeria|OFFLINE|Nullsec Nigeria||
 |https://t.me/infernaliis|ONLINE|𝐼𝑁𝐹𝐸𝑅𝑁𝐴𝐿𝐼𝑆 #INF||
 |https://t.me/nullseckh|ONLINE|Nullsec KH||

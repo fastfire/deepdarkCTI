@@ -70,7 +70,7 @@
 |https://t.me/+rAlKkQoUSH0yMDVi|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+rlyGuPTMGuU5YjE6|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
-|https://t.me/+S_ajHerTbKUwYTA0|VALID|keymous team BackUp|DDoS|
+|https://t.me/+S_ajHerTbKUwYTA0|EXPIRED|keymous team BackUp|DDoS|
 |https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED|Data Leaks||
 |https://t.me/+tObrYXqGOetmODhl|EXPIRED|AKU LAV 2||
@@ -826,7 +826,6 @@
 |https://t.me/+WO3nKwBvJRM2NGMy|EXPIRED|NoName057 RU|DDoS|
 |https://t.me/joinchat/mexyxU88FCswM2Yy|EXPIRED|NoName057 DDoSia Project|DDoS|
 |https://t.me/Keymous_main|OFFLINE|Keymous+|DDoS|
-|https://t.me/+S_ajHerTbKUwYTA0|VALID|Keymous+ (backup)|DDoS|
 |https://t.me/FireWireMaroc|OFFLINE|Fire Wire Maroc|DDoS & Data Leaks|
 |https://t.me/gangexposed_eng|ONLINE|Gang Exposed Chat||
 |https://t.me/Hyder_N3x|OFFLINE|Hyder_N3x|DDoS|

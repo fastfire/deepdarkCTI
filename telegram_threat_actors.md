@@ -70,7 +70,7 @@
 |https://t.me/+rAlKkQoUSH0yMDVi|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+rlyGuPTMGuU5YjE6|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
-|https://t.me/+S_ajHerTbKUwYTA0|VALID|keymous team BackUp|DDoS|
+|https://t.me/+S_ajHerTbKUwYTA0|EXPIRED|keymous team BackUp|DDoS|
 |https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED|Data Leaks||
 |https://t.me/+tObrYXqGOetmODhl|EXPIRED|AKU LAV 2||
@@ -782,7 +782,7 @@
 |https://t.me/AnonymousVNLBN99|ONLINE|Electronic Army Special Forces||
 |https://t.me/BabayoScteam|OFFLINE|Babayo Eror System|DDoS|
 |https://t.me/+yMqboej1CikxNGZl|EXPIRED|Team Bd Hyp3r 71|DDoS|
-|https://t.me/islamic_hacker_army1|ONLINE|Islamic Hacker Army|Data Leaks|
+|https://t.me/islamic_hacker_army1|OFFLINE|Islamic Hacker Army|Data Leaks|
 |https://t.me/bl00dy_ransomware_Gang_channel|OFFLINE|bl🩸🩸dy Ransomware Gang ☠️|Ransomware gang|
 |https://t.me/+JgKWbM4Zn8I1ODRl|EXPIRED|CLOBESECTEAM BACKUP|Data Leaks|
 |https://t.me/raidf0rumss|OFFLINE|Raidforums Office|Forum|
@@ -826,7 +826,6 @@
 |https://t.me/+WO3nKwBvJRM2NGMy|EXPIRED|NoName057 RU|DDoS|
 |https://t.me/joinchat/mexyxU88FCswM2Yy|EXPIRED|NoName057 DDoSia Project|DDoS|
 |https://t.me/Keymous_main|OFFLINE|Keymous+|DDoS|
-|https://t.me/+S_ajHerTbKUwYTA0|VALID|Keymous+ (backup)|DDoS|
 |https://t.me/FireWireMaroc|OFFLINE|Fire Wire Maroc|DDoS & Data Leaks|
 |https://t.me/gangexposed_eng|ONLINE|Gang Exposed Chat||
 |https://t.me/Hyder_N3x|OFFLINE|Hyder_N3x|DDoS|
@@ -912,7 +911,7 @@
 |https://t.me/dienet1|ONLINE|DieNet|DDoS|
 |https://t.me/z_bl4cx_h4t_id|ONLINE|Z-BL4CX-H4T.ID||
 |https://t.me/bfsup|ONLINE|BF|Forum|
-|https://t.me/Breach_VIP|ONLINE|Breach.VIP|DataLeaks|
+|https://t.me/Breach_VIP|OFFLINE|Breach.VIP|DataLeaks|
 |https://t.me/Venari_By_BetterCyber|ONLINE|VenariX||
 |https://t.me/order403|OFFLINE|Order403|DataLeaks|
 |https://t.me/CyaberGhost|OFFLINE|AN0M949_GHOST_TRACK|DataLeaks|
@@ -955,7 +954,7 @@
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
-|https://t.me/+uIDt6PiHin4wMjY1|VALID|scattered LAPSUS$ hunters part 9||
+|https://t.me/+uIDt6PiHin4wMjY1|EXPIRED|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|OFFLINE|DB HunterX|Data Leaks|
@@ -972,7 +971,8 @@
 |https://t.me/+32bOCuk6FctmNzll|EXPIRED|The Jacuzzi||
 |https://t.me/+pvrT-JIgj4g2MDZh|EXPIRED|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||
-|https://t.me/n2LP_wVf79c2YzM0|ONLINE|Infrastructure Destruction Squad||
+|https://t.me/n2LP_wVf79c2YzM0|OFFLINE|Infrastructure Destruction Squad||
+|https://t.me/+Z2ENGFMlQjdkNmU8|EXPIRED|Infrastructure Destruction Squad||
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
 |https://t.me/breached_su|ONLINE|breached (breached.su forum)||
@@ -994,3 +994,23 @@
 |https://t.me/zpentest_fucknato|ONLINE|Z-Pentest Alliance||
 |https://t.me/EarthImpact_hack|ONLINE|EarthImpact Team||
 |https://t.me/AFN_RU|ONLINE|АльфаНет||
+|https://t.me/+66S2AL_OrU43MmE8|EXPIRED|BreachForums||
+|https://t.me/+EH3p6VmhR_44ODQ0|EXPIRED|The Jaccuzi||
+|https://t.me/Anonnigeria|OFFLINE|Nullsec Nigeria||
+|https://t.me/infernaliis|ONLINE|𝐼𝑁𝐹𝐸𝑅𝑁𝐴𝐿𝐼𝑆 #INF||
+|https://t.me/nullseckh|ONLINE|Nullsec KH||
+|https://t.me/Ghostnet_x|ONLINE|GHOSTNET-X||
+|https://t.me/DeepCoreNetwork|ONLINE|DeepCore Network||
+|https://t.me/Jax702|ONLINE|JAX7||
+|https://t.me/Xyph0rix|ONLINE|N赛弗里克斯 私密||
+|https://t.me/Pharaoh_e|ONLINE|Pharaohs_Team channel||
+|https://t.me/who0is0whoare|ONLINE|whoare||
+|https://t.me/ZxS3xx|ONLINE|ZxS3C🪬||
+|https://t.me/zaher_infinity01|ONLINE|𝐙𝐀𝐇𝐄𝐑 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘||
+|https://t.me/blueshadow67|ONLINE|Blue Shadow||
+|https://t.me/infrastructureg|OFFLINE|infrastructure destruction squad||
+|https://t.me/instruktori|OFFLINE|byte (DoxByte)||
+|https://t.me/MR_X10_SY|ONLINE|MR-X910-SY||
+|https://t.me/infrastructurek|ONLINE|infrastructure destruction squad||
+|https://t.me/+BhZxEGBzvPYwYTY1|ONLINE|The Underground _ Uwu 😻||
+|https://t.me/HANDALA_SEC|ONLINE|Handala Hack||

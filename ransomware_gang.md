@@ -37,7 +37,8 @@
 |[ALPHV (aka BlackCat 2)](http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion)|OFFLINE||||
 |[ALPHV (aka BlackCat 2)](http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion)|ONLINE||||
 |[ALPHV (collection data leaks)](http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion)|ONLINE||||
-|[ANUBIS](http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion)|ONLINE||||
+|[ANUBIS](http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion)|ONLINE|| Session:05d2edf73f36e59991a118f2529b57ea12422b155e48e37e2f2b21d2b6a5f8041a - qTox:35421788C5D0A82C32B450BEC5CB8A02F7B1385A3E722A91988AA8A2D424F47B672A5A2F948F - https://x.com/Anubis__media - E-mail:anubisit@onionmail.org ||
+|[ANUBIS - New](http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion)|ONLINE||||
 |[Apos Security](https://apos.blog)|ONLINE||E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572|
 |[Apos Security](http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion)|ONLINE||E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572|
 |[APT73 (ERALEIG - Dark)](http://apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion/)|ONLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group||
@@ -101,9 +102,11 @@
 |[BLACKSHRANTAC](http://shrantacpxim7z6m6pnszi52bb2tp23sntby3hklt36rezdja7bdjsyd.onion/leaks)|ONLINE||||
 |[BLACK SUIT](http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion)|ONLINE||||
 |[BLACK WATER](http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion)|ONLINE||||
+|[BLACKX](https://blackxppq2jvqyg4slyg3sbszv7ib2avaaycvhff5qipgdoepqi57xyd.onion)|ONLINE||||
 |[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE||||
 |[BLUEBOX](http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion)|ONLINE||||
 |[BONACI GROUP](http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion)|OFFLINE||||
+|[BOOBA](http://7t3zi3e7ki6iseun77ofqtr6wmbpgnpc2ada6gstcxp54lw6q2zb7jad.onion)|ONLINE||||
 |[BQTLOCK](http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion)|ONLINE||https://t.me/BQTLock - https://t.me/liwaamohammad - https://t.me/Fuch0u||
 |[BRAIN CIPHER](http://77nrxelcwh47yikvpaz2rvtsten4sen2elybo5r5st6wlxsbitv255qd.onion)|ONLINE||||
 |[BRAIN CIPHER](http://p6wmotxzvg34tdmpwm4beqgrcyp5iys43snkccsahnw74la3k3xx6pad.onion)|ONLINE||||
@@ -252,7 +255,7 @@
 |[HUNTERS INTERNATIONAL (Victim Site)](https://hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion)|ONLINE||||
 |[HUNTERS INTERNATIONAL](http://huntersinternational.net)|OFFLINE||||
 |[HUNTERS INTERNATIONAL](http://huntersinternational.su)|OFFLINE||||
-|[ICARUS](http://http://e6ujsppajgb756x7x5ykdryvlcjynltb52eiwi6pd4bfwo6hddd6neid.onion)|ONLINE||0530cecee355f7d0723f3990c6bfb562e29829687f16b5840ad85e18ebc80c6d6b||
+|[ICARUS](http://e6ujsppajgb756x7x5ykdryvlcjynltb52eiwi6pd4bfwo6hddd6neid.onion)|ONLINE||0530cecee355f7d0723f3990c6bfb562e29829687f16b5840ad85e18ebc80c6d6b||
 |[ICEFIRE](http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list)|OFFLINE||||
 |[ICEFIRE](http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list)|OFFLINE||||
 |[IMN CREW](http://imncrewwfkbjkhr2oylerfm5qtbzfphhmpcfag43xc2kfgvluqtlgoid.onion)|ONLINE||||
@@ -458,7 +461,9 @@
 |[PLAY](http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion)|ONLINE||||
 |[PLAY](http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion)|ONLINE||||
 |[PLAYBOY](http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion)|ONLINE||||
-|[PRINZ EUGEN](http://6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion)|ONLINE||||
+|[PRINZ EUGEN](http://6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion)|OFFLINE||||
+|[PRINZ EUGEN](http://prinzfkbjiazbrur4mjje6mntjc4vydx3iatkkzycufoylqcoo4y7pqd.onion)|ONLINE||||
+|[PRINZ EUGEN](http://prinzkpn6d3itrgcytmsmlcpt5mgwn3ihpck2hsed5cezlbtbi3wklid.onion)|ONLINE||||
 |[PROLOCK](http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion)|OFFLINE||||
 |[PROMETHEUS](http://promethw27cbrcot.onion/blog)|OFFLINE||||
 |[PRYX (deep web)](http://pryx.cc)|ONLINE||141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C||
@@ -544,6 +549,7 @@
 |[SEKHMET](http://sekhmet.top)|OFFLINE||||
 |[SENSAYQ (deep](http://159.69.60.54)|ONLINE||||
 |[SENSAYQ (dark)](http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion)|ONLINE||||
+|[Settra](http://settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion)|ONLINE||||
 |[SEVYWARE](http://sevykkkuzbxjpkb7gtfxnltn73bm6vaxglxh5xsd55trqqew3xpowwid.onion)|ONLINE||||
 |[SHADOW](http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion)|ONLINE||||
 |[SHADOWBYT3$](http://shadowsblog.cloud-ip.cc/leaks.php)|OFFLINE (404)||ShadowByt3S@proton.me||
@@ -631,6 +637,7 @@
 |[VICE SOCIETY](http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion)|ONLINE||||
 |[VICE SOCIETY](http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion)|ONLINE||||
 |[VSOP (ex ONIX)](http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion)|OFFLINE||||
+|[WALLSTREET](http://4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion)|ONLINE||||
 |[WALocker](http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion/)|ONLINE||||
 |[WARLOCK](http://elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion)|ONLINE||||
 |[WARLOCK](http://zfytizegsze6uiswodhbaalyy5rawaytv2nzyzdkt3susbewviqqh7yd.onion)|ONLINE||||
@@ -647,3 +654,4 @@
 |[YUREI](http://fewcriet5rhoy66k6c4cyvb2pqrblxtx4mekj3s5l4jjt4t4kn4vheyd.onion)|ONLINE||||
 |[ZEON (Victims page)](http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion)|OFFLINE||||
 |[Zero Tolerance](http://zhuobnfsddn2myfxxdqtpxk367dqnntjf3kq7mrzdgienfxjyllq4rqd.onion)|ONLINE||||
+|[DeadLock](https://deadlock.liveblog365.com/)|ONLINE||||

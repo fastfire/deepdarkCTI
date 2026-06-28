@@ -511,6 +511,7 @@
 |[RANSOMEDVC or REBORNVC](https://ransomed.biz)|ONLINE||FF59E28C08A4D0D9BA95EC6D72A15F7677D58E48EC5EE0D7CADEE0E7A1B3E37BFBD4996B41DD||
 |[RANSOM CORP](http://sewo2yliwvgca3abz565nsnnx3khi6x7t5ccpbvvg6wgce4bk2jagiad.onion)|OFFILINE||||
 |[RANZY/AKO](http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion)|OFFLINE||||
+|[REDACT](http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion)|ONLINE||||
 |[REDALERT](http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion)|OFFLINE||||
 |[REDALERT (Victims page)](http://je2yizds7r4uidk6uixfxwjj5w7or2agit4aj66l4lrhdbrvr3lsymid.onion)|OFFLINE||||
 |[RED RANSOMWARE GROUP](http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion)|ONLINE||||

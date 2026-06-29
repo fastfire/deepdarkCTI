@@ -998,7 +998,7 @@
 |https://t.me/+EH3p6VmhR_44ODQ0|EXPIRED|The Jaccuzi||
 |https://t.me/Anonnigeria|OFFLINE|Nullsec Nigeria||
 |https://t.me/infernaliis|ONLINE|𝐼𝑁𝐹𝐸𝑅𝑁𝐴𝐿𝐼𝑆 #INF||
-|https://t.me/nullseckh|ONLINE|Nullsec KH||
+|https://t.me/nullseckh|OFFLINE|Nullsec KH||
 |https://t.me/Ghostnet_x|ONLINE|GHOSTNET-X||
 |https://t.me/DeepCoreNetwork|ONLINE|DeepCore Network||
 |https://t.me/Jax702|ONLINE|JAX7||

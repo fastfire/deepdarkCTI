@@ -989,7 +989,7 @@
 |https://t.me/nyxeravx1|ONLINE|N y x e r a . v x||
 |https://t.me/Aero4Sec|ONLINE|Aero4Sec||
 |https://t.me/Cyber_Dark_Echo|ONLINE|CYBER DARK ECHO||
-|https://t.me/brotheroodbci|ONLINE|BROTHEROOD CAPUNG INDONESIA||
+|https://t.me/brotheroodbci|OFFLINE|BROTHEROOD CAPUNG INDONESIA||
 |https://t.me/ShadowClawZ404|ONLINE|Shadow ClawZ 404||
 |https://t.me/zpentest_fucknato|ONLINE|Z-Pentest Alliance||
 |https://t.me/EarthImpact_hack|ONLINE|EarthImpact Team||

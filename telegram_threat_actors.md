@@ -986,7 +986,7 @@
 |https://t.me/KAR4WANG_ERROR_SYSTEM|ONLINE|KARAWANG ERROR SYSTEM||
 |https://t.me/Darkstormteam22|ONLINE|Dark Storm Team|DDoS|
 |https://t.me/silenterrorsystem|OFFLINE|DEWATA BLACKHAT||
-|https://t.me/nyxeravx1|ONLINE|N y x e r a . v x||
+|https://t.me/nyxeravx1|OFFLINE|N y x e r a . v x||
 |https://t.me/Aero4Sec|ONLINE|Aero4Sec||
 |https://t.me/Cyber_Dark_Echo|ONLINE|CYBER DARK ECHO||
 |https://t.me/brotheroodbci|OFFLINE|BROTHEROOD CAPUNG INDONESIA||

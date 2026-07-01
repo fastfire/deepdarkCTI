@@ -988,7 +988,7 @@
 |https://t.me/silenterrorsystem|OFFLINE|DEWATA BLACKHAT||
 |https://t.me/nyxeravx1|OFFLINE|N y x e r a . v x||
 |https://t.me/Aero4Sec|ONLINE|Aero4Sec||
-|https://t.me/Cyber_Dark_Echo|ONLINE|CYBER DARK ECHO||
+|https://t.me/Cyber_Dark_Echo|OFFLINE|CYBER DARK ECHO||
 |https://t.me/brotheroodbci|OFFLINE|BROTHEROOD CAPUNG INDONESIA||
 |https://t.me/ShadowClawZ404|ONLINE|Shadow ClawZ 404||
 |https://t.me/zpentest_fucknato|ONLINE|Z-Pentest Alliance||
@@ -1015,3 +1015,4 @@
 |https://t.me/+BhZxEGBzvPYwYTY1|ONLINE|The Underground _ Uwu 😻||
 |https://t.me/HANDALA_SEC|ONLINE|Handala Hack||
 |https://t.me/+CHpDapnyVEc1ODBl|ONLINE|Shiny Hunters V3||
+|https://t.me/CTIUpdates|ONLINE|CTI Updates||

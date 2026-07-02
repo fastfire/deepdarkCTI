@@ -40,6 +40,7 @@
 |[BREACHED (Deep)](https://breached.vc)| OFFLINE | |
 |[BREACHED (Deep)](breached.fi)| OFFLINE | |
 |[BREACHED](https://breached.ws)| ONLINE | |
+|[BREACHED (Deep)](https://breached.su)| ONLINE | |
 |[BREACH BOARD](https://breachboard.zip/)|ONLINE|
 |[BREACH FORUMS (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)| OFFLINE | |
 |[BREACH FORUMS (Dark)](http://breachddyfwvcp4kzccos5oxtdbssmfbpv2kong6nxswlcge3u7zjgid.onion)| OFFLINE | |
@@ -72,9 +73,10 @@
 |[BREACH FORUMS](https://breachforums.sb/)| OFFLINE | |
 |[BREACH FORUMS](https://pwnforums.lst/)| OFFLINE | |
 |[BREACH FORUMS](https://pwnforums.ms/)| ONLINE | |
-|[BREACHSTARS](https://breachstars.io/)|ONLINE||
+|[BREACHSTARS](https://breachstars.io/)|OFFLINE||
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
+|[CARDMAFIA](https://cardmafia.cc)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
 |[CENTER CLUB](https://center-club.io)| ONLINE | |
 |[CHITACHOK](https://chitachok.ru)| ONLINE | |
@@ -166,7 +168,7 @@
 |[FEMBOYFORUM](https://femboyforum.com/)|ONLINE|
 |[FORUMTEAM.ONLINE](https://forumteam.online)| ONLINE | |
 |[FORUMTEAM.TOP](https://forumteam.top)| ONLINE | |
-|[FSSQUAD](https://fssquad.com)| ONLINE | |
+|[FSSQUAD](https://fssquad.com)| OFFLINE | |
 |[FUNKSEC RANSOMWARE](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)| ONLINE | |
 |[G0D.ONE MARKET](https://www.g0d.one)| OFFLINE | |
 |[GERKI](http://gerkipwhfuqeeizl.onion)| OFFLINE | |
@@ -232,7 +234,7 @@
 |[NULLEDX](https://nulledx.to)| ONLINE | |
 |[OGUSERS](https://www.oguser.com)| ONLINE | |
 |[OLVX](https://olvx.cc)| ONLINE | |
-|[OMERTA](https://omerta.cc)| ONLINE | |
+|[OMERTA](https://omerta.cc)| OFFLINE | |
 |[OMERTA](https://omerta.cx)| ONLINE | |
 |[OMERTA](https://omerta.wf)| OFFLINE | |
 |[OMERTA](https://omert.cc)| ONLINE | |
@@ -263,7 +265,7 @@
 |[RAMP (Old)](http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion) | OFFLINE | |
 |[RAMP (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion) | OFFLINE | |
 |[RANSOMED](http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion) | ONLINE | |
-|[REBREACHED](https://rebreached.vc) | ONLINE | |
+|[REBREACHED](https://rebreached.vc) | OFFLINE | |
 |[REHUBCOM (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
 |[REHUBCOM (Deep)](https://rehubcom.pro)| ONLINE | |
 |[REHUBCOM (Deep)](https://rehubcom.ag)| ONLINE | |
@@ -296,14 +298,18 @@
 |[SPEAR](https://spear.cx)| ONLINE | |
 |[SPEAR](http://spear4h2potiyk43oilufhuq2jqbioyaizcs7xttlyw75s5ykwxpxlid.onion)| ONLINE | |
 |[SPYHACKERZ](https://spyhackerz.org)| ONLINE | |
+|[ST MARKET](https://st-market.link)| ONLINE | |
+|[STYX MARKET](https://styxmarket.vg)| ONLINE | |
 |[SQLI](https://sqli.cloud)| ONLINE | |
-|[STRESSED FORUM](https://stressedforums.pw)| ONLINE | |
+|[STRESSED FORUM](https://stressedforums.pw)| OFFLINE | |
 |[SUPERBAY](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)| ONLINE | |
 |[T1ER0NE](http://jprrin6bqe3flvtpyxkt4zsmzc3u6vvn7ahgtcbul224w3xn4h3gawid.onion)| OFFLINE | |
 |[T1ER0NE](http://tieronemkfevyizxcnt355agysp2iemvhon6iyclwrc7yuc7oszgzrid.onion)| ONLINE | |
 |[THE GOOD LIFE](https://thegoodlife.to)| ONLINE | |
 |[THE HUB](http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion)| ONLINE | |
 |[THE JAVA SEA](https://thejavasea.com)| ONLINE | |
+|[THE MATRIX STORE](https://thematrixstore.at)| ONLINE | |
+|[THE MATRIX STORE](https://thematrixstore.org)| ONLINE | |
 |[TOOLBASE](https://toolba.se)| ONLINE | |
 |[TRAFA NET](https://trafa.net)| ONLINE | |
 |[TURKHACKTEAM](https://www.turkhackteam.org) | ONLINE | |
@@ -312,7 +318,7 @@
 |[VEDENET](https://vedenet.online) | ONLINE | |
 |[VERIFIED (Dark)](http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php)| ONLINE | |
 |[VERIFIED (Deep)](https://ver.sc/index.php)| OFFLINE | |
-|[VERYLEAKS](https://veryleaks.cz)| ONLINE | |
+|[VERYLEAKS](https://veryleaks.cz)| OFFLINE | |
 |[V-H.GURU](https://v-h.guru)| ONLINE | |
 |[VLMI](https://vlmi.ws)| ONLINE | |
 |[VSEMMONEY](https://vsemmoney.com)| ONLINE | |
@@ -331,4 +337,5 @@
 |[XSSF (Dark)](https://xssfnet2env25nv16wnqn3vik4igq3igq3igq767igdik6jsad.onion)|OFFLINE| |
 |[XSSF (Dark)](http://xssfnet2env65wnrlixkn4io3gzukirz7w767gdilk64iq6dg33jwsad.onion/)|ONLINE| |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
-|[ZDL](https://zdl.pw)| ONLINE | |
+|[ZISMO](https://zismo.biz)| ONLINE | |
+|[ZDL](https://zdl.pw)| OFFLINE | |

@@ -983,7 +983,7 @@
 |https://t.me/byjax7|ONLINE|JAX7||
 |https://t.me/DefacerIndonesia1337|ONLINE|Defacer Indonesia||
 |https://t.me/PhiserXman|ONLINE|PhiserXman||
-|https://t.me/KAR4WANG_ERROR_SYSTEM|ONLINE|KARAWANG ERROR SYSTEM||
+|https://t.me/KAR4WANG_ERROR_SYSTEM|OFFLINE|KARAWANG ERROR SYSTEM||
 |https://t.me/Darkstormteam22|ONLINE|Dark Storm Team|DDoS|
 |https://t.me/silenterrorsystem|OFFLINE|DEWATA BLACKHAT||
 |https://t.me/nyxeravx1|OFFLINE|N y x e r a . v x||
@@ -999,7 +999,7 @@
 |https://t.me/Anonnigeria|OFFLINE|Nullsec Nigeria||
 |https://t.me/infernaliis|ONLINE|𝐼𝑁𝐹𝐸𝑅𝑁𝐴𝐿𝐼𝑆 #INF||
 |https://t.me/nullseckh|OFFLINE|Nullsec KH||
-|https://t.me/Ghostnet_x|ONLINE|GHOSTNET-X||
+|https://t.me/Ghostnet_x|OFFLINE|GHOSTNET-X||
 |https://t.me/DeepCoreNetwork|ONLINE|DeepCore Network||
 |https://t.me/Jax702|ONLINE|JAX7||
 |https://t.me/Xyph0rix|ONLINE|N赛弗里克斯 私密||

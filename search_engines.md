@@ -23,6 +23,7 @@
 |[Hoodle](http://nr2dvqdot7yw6b5poyjb7tzot7fjrrweb2fhugvytbbio7ijkrvicuid.onion/)|ONLINE|
 |[I2P Search](http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion)|ONLINE|
 |[ICEBERG](http://iceberget6r64etudtzkyh5nanpdsqnkgav5fh72xtvry3jyu5u2r5qd.onion/)|ONLINE|
+|[Jaru](http://jaru27ouaaq262tfbi247a5d7iw57qy2wprts7kroiir2uv7zuznh7yd.onion/)|ONLINE|
 |[Kilos](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion)|OFFLINE|
 |[Kraken](http://krakenai2gmgwwqyo7bcklv2lzcvhe7cxzzva2xpygyax5f33oqnxpad.onion/)|ONLINE|
 |[Light Search](http://light3232dmbbnigk34aeg2ef3j3uvnwkqsymunadh3to3vg4gpyeyid.onion/)|ONLINE|

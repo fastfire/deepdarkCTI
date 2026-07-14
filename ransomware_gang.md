@@ -144,6 +144,7 @@
 |[CRAZY HUNTER TEAM](http://7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion)|ONLINE||||
 |[CRIMSON WALRUS](http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion)|OFFLINE||||
 |[CRPX0](https://crpx0.su)|ONLINE||||
+|[CRPX0](http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion)|ONLINE||||
 |[CROSSLOCK](http://crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion)|OFFLINE||||
 |[CRY0](http://cryoblogedawivdcknyd4jsjxkrx3xrqqltxla6wwjjnzm3f3jaxjzqd.onion)|ONLINE||54E9450799AFBBA90992E3C40F552C8C05D5765144396C6A1A622FD9DABD01101F9DC0CF90F4||
 |[CRYLOCK (Victims request ID Page)](http://d57uremugxjrafyg.onion)|OFFLINE||||

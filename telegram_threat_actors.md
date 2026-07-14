@@ -1018,3 +1018,4 @@
 |https://t.me/spider_cybers|ONLINE|Scattered Spider||
 |https://t.me/CyberToothless|ONLINE|Cyber Toothless||
 |https://t.me/CRPX0|ONLINE|CRPx0 Official||
+|https://telegram.me/Defacement|ONLINE|Telkom Zone H||

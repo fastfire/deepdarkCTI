@@ -31,7 +31,7 @@
 |https://t.me/+fl1bRIDYGAM2MGVl|EXPIRED|GARUDA ERROR SYSTEM|DDoS|
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED|Data Leaks||
 |https://t.me/+fsuxaCDs36owYTM6|EXPIRED|||
-|https://t.me/+FuLjnRtP3BhiZDNl|VALID|Goblin's Hub (private)||
+|https://t.me/+FuLjnRtP3BhiZDNl|EXPIRED|Goblin's Hub (private)||
 |https://t.me/+GA-V8dMoaRUxNWVl|EXPIRED|Rabbit Cyber Team|DDos|
 |https://t.me/+GeILA8S0Bk4wYmRi|VALID|Inteid|DDoS|
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED|voidy - database storage||

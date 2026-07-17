@@ -201,6 +201,7 @@
 |[LEAKBASE](https://leakbase.la)| ONLINE | |
 |[LEAKBASE](https://leakbase.org)| OFFLINE | |
 |[LEAKBASE](https://leakbase.bz)| ONLINE | |
+|[LEAKED](https://leaked.at)| ONLINE | |
 |[LEAK FORUM](https://leakforum.io)|ONLINE ||
 |[LEAK FORUMS](https://leakforums.su)| OFFLINE | |
 |[LEAK FORUMS](https://leakforums.cc)|OFFLINE ||

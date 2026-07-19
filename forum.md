@@ -324,6 +324,7 @@
 | [V-H.GURU](https://v-h.guru)                                                                                                               | ONLINE           |                                  |
 | [VLMI](https://vlmi.ws)                                                                                                                    | ONLINE           |                                  |
 | [VSEMMONEY](https://vsemmoney.com)                                                                                                         | ONLINE           |                                  |
+| [Voided](https://voided.to/)                                                                                                               | ONLINE           |                                  |
 | [Warriors](https://warriors.to/)                                                                                                           | ONLINE           |                                  |
 | [WWHCLUB](https://wwh-club.io)                                                                                                             | ONLINE           |                                  |
 | [XFORUMS](https://xforums.st)                                                                                                              | ONLINE           | https://t.me/+LV-lyCog6r42OWM0   |

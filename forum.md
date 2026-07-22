@@ -106,6 +106,7 @@
 |[CYBHACK](https://cybhack.net)| ONLINE | |
 |[D4RKFORUMS](https://d4rkforums.net)| ONLINE | |
 |[DAMAGELIB](http://damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion)|ONLINE||
+|[DAMAGELIB](https://damagelib.com)| ONLINE ||
 |[DANGEROUSTHINGS](https://forum.dangerousthings.com)| ONLINE | |
 |[DARK2WEB](https://dark2web.net)| ONLINE | |
 |[DARKCLUB](https://darkclub.pw)| ONLINE | |

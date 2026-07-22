@@ -1,0 +1,23 @@
+| Name         | Description                           | Link                                                                                                                                             |
+| ------------ | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Baltex       | Cryptocurrency exchange service       | [https://baltex.io/](https://baltex.io/)                                                                                                         |
+| BitcoinVN    | Vietnam-based cryptocurrency exchange | [https://bitcoinvn.io/ru](https://bitcoinvn.io/ru)                                                                                               |
+| CCE Cash     | Cryptocurrency exchange               | [https://cce.cash/exchange](https://cce.cash/exchange)                                                                                           |
+| ChangeHero   | Cryptocurrency exchange platform      | [https://changehero.io/](https://changehero.io/)                                                                                                 |
+| ETZ          | ETZ-Swap                              | [https://etz-swap.com/](https://etz-swap.com/)                                                                                                   |
+| Exolix       | Instant cryptocurrency exchange       | [https://exolix.com/](https://exolix.com/)                                                                                                       |
+| GhostSwap    | Cryptocurrency swap service           | [https://ghostswap.io/](https://ghostswap.io/)                                                                                                   |
+| Godex.io     | Anonymous cryptocurrency exchange     | [https://godex.io/](https://godex.io/)                                                                                                           |
+| InstaSwap    | Instant cryptocurrency swap platform  | [https://app.instaswap.com/](https://app.instaswap.com/)                                                                                         |
+| LetsExchange | Cryptocurrency exchange aggregator    | [https://letsexchange.io/](https://letsexchange.io/)                                                                                             |
+| Lizex.io     | Cryptocurrency exchange service       | [https://lizex.io/](https://lizex.io/)                                                                                                           |
+| Mistex       | Cryptocurrency swap service           | [https://mistex.io/](https://mistex.io/)                                                                                                         |
+| OctoSwap     | Cryptocurrency swap service           | [https://octoswap.io/](https://octoswap.io/)                                                                                                     |
+| PegasusSwap  | Cryptocurrency swap service           | [https://pegasusswap.com/](https://pegasusswap.com/)                                                                                             |
+| Quickex.io   | Instant cryptocurrency exchange       | [https://quickex.io/](https://quickex.io/)                                                                                                       |
+| SideShift    | Instant crypto asset exchange         | [https://sideshift.ai/](https://sideshift.ai/)                                                                                                   |
+| StealthEX    | Instant cryptocurrency exchange       | [https://stealthex.io/about/](https://stealthex.io/about/)                                                                                       |
+| Swaponix.io  | Cryptocurrency exchange service       | [https://swaponix.io/en/about/](https://swaponix.io/en/about/)                                                                                   |
+| Swapuz       | Cryptocurrency exchange service       | [https://swapuz.com/](https://swapuz.com/)                                                                                                       |
+| xmr2cex      | 24/7 Zero-KYC Monero Offramp          | [https://xmr2cex.com/](https://xmr2cex.com/)                                                                                                     |
+| XMRS         | Monero swap service                   | [https://xmrs.io/about](https://xmrs.io/about)                                                                                                   |

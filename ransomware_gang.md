@@ -167,6 +167,7 @@
 |[DARK ANGELS](http://nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion)|ONLINE||||
 |[DARKBIT01(Victims request ID Page)](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion/support)|OFFLINE||||
 |[DARKBIT01](http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion)|OFFLINE||||
+|[DARKMATTER](http://2el6bpoz2ely34iqcmxsiicpdmzp37jjtsggxwukbk5jx6x6bdxbh3ad.onion)|ONLINE||||
 |[DARKRYPT](https://darkrypt.io)|OFFLINE||||
 |[DARKPOWER](http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion/)|OFFLINE||||
 |[DARKRACE](http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion/)|OFFLINE||||

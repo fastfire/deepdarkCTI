@@ -115,7 +115,6 @@
 |[RONDA STORE (Tor v3)](http://r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion)| ONLINE | |
 |[Royal Market (Tor v3)](http://royalyygxzq5fadtlgzftq3dwpdycq4gvddmvhrk3l2gjzsfqqwpvwad.onion)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.gs)| OFFLINE | |
-|[Russian Market (Deep)](https://russianmarket.to)| OFFLINE | |
 |[Russian Market (Deep)](https://russianmarket.io)| REDIRECT TO TOR | |
 |[Russian Market (Deep)](https://russianmarket.vc)| ONLINE | |
 |[Russian Market (Deep)](https://rm1.to)| ONLINE | |
@@ -127,7 +126,11 @@
 |[SOLOMON](http://si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion)| ONLINE | |
 |[SOLOMON](http://solozr5dlwosdsfwtem4yfmpfh6orhzee7dbpv4dsjdsthnlur4cguqd.onion)| ONLINE | |
 |[STEALSEEK](https://stealseek.io)| ONLINE | |
-|[STYX](https://styxmarket.com)| ONLINE | |
+|[STYX](https://styxmarket.com)| OFFLINE | |
+|[STYX](https://styxmarket.to)| ONLINE | |
+|[STYX](http://styxmark3zy6wt3v3wdz34vrppxu35gkqp7vmuhiovykmbevibqkvtyd.onion)| ONLINE | TOR |
+|[STYX](https://styxmarket.vg)| ONLINE | Access Links List (1) |
+|[STYX](https://st-market.link)| ONLINE | Access Links List (2) |
 |[SWIPESTORE](https://swipestore.cc)| ONLINE | |
 |[THEMAJESTIC](http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion)| ONLINE | |
 |[TOOREZ](http://lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion)| OFFLINE | |
@@ -163,3 +166,4 @@
 |[THE MATRIX](https://thematrixstore.at)|ONLINE|Card Market|
 |[THE MATRIX](https://thematrixstore.org)|ONLINE|Card Market|
 |[THE MATRIX](http://thematrixskwaxyerq6zjv3jtklxj7lumztuavofiwtkrcyagh4jk3id.onion)|ONLINE|Card Market|
+|[BreachForums](https://breached.su)|ONLUNE||

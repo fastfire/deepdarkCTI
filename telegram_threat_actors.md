@@ -31,7 +31,7 @@
 |https://t.me/+fl1bRIDYGAM2MGVl|EXPIRED|GARUDA ERROR SYSTEM|DDoS|
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED|Data Leaks||
 |https://t.me/+fsuxaCDs36owYTM6|EXPIRED|||
-|https://t.me/+FuLjnRtP3BhiZDNl|VALID|Goblin's Hub (private)||
+|https://t.me/+FuLjnRtP3BhiZDNl|EXPIRED|Goblin's Hub (private)||
 |https://t.me/+GA-V8dMoaRUxNWVl|EXPIRED|Rabbit Cyber Team|DDos|
 |https://t.me/+GeILA8S0Bk4wYmRi|VALID|Inteid|DDoS|
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED|voidy - database storage||
@@ -70,7 +70,7 @@
 |https://t.me/+rAlKkQoUSH0yMDVi|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+rlyGuPTMGuU5YjE6|EXPIRED|DDoSia Project|DDoS|
 |https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
-|https://t.me/+S_ajHerTbKUwYTA0|VALID|keymous team BackUp|DDoS|
+|https://t.me/+S_ajHerTbKUwYTA0|EXPIRED|keymous team BackUp|DDoS|
 |https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED|Data Leaks||
 |https://t.me/+tObrYXqGOetmODhl|EXPIRED|AKU LAV 2||
@@ -691,7 +691,7 @@
 |https://t.me/weleakdatabase|OFFLINE|Data Leaks||
 |https://t.me/whoisAlixan|OFFLINE|AlixSec|Leaks & Breaches|
 |https://t.me/win_def|ONLINE|Windef||
-|https://t.me/windmarketo|ONLINE|Data Leaks||
+|https://t.me/windmarketo|OFFLINE|Data Leaks||
 |https://t.me/WLDBackup|OFFLINE|Data Leaks||
 |https://t.me/wwhsmi|ONLINE|WWH Forum||
 |https://t.me/www_paypal|ONLINE|Pro Team Channe|combos|
@@ -723,7 +723,7 @@
 |https://t.me/Z_alliance_ru|OFFLINE|Z-ALLIANCE||
 |https://t.me/Official_EvilBYTE|OFFLINE|Evil Byte||
 |https://t.me/DarkfireDragon7|ONLINE|DarkNess7||
-|https://t.me/HiddenEyesTeam|ONLINE|HiddenEyesTeam||
+|https://t.me/HiddenEyesTeam|OFFLINE|HiddenEyesTeam||
 |https://t.me/+ZMoidrbayTgyMzQ9|EXPIRED|Garuda Error System||
 |https://t.me/CoupTeam|ONLINE|Coup Team||
 |https://t.me/+XhceuAZW9QJkOWJl|VALID|Garuna Ops||
@@ -782,7 +782,7 @@
 |https://t.me/AnonymousVNLBN99|ONLINE|Electronic Army Special Forces||
 |https://t.me/BabayoScteam|OFFLINE|Babayo Eror System|DDoS|
 |https://t.me/+yMqboej1CikxNGZl|EXPIRED|Team Bd Hyp3r 71|DDoS|
-|https://t.me/islamic_hacker_army1|ONLINE|Islamic Hacker Army|Data Leaks|
+|https://t.me/islamic_hacker_army1|OFFLINE|Islamic Hacker Army|Data Leaks|
 |https://t.me/bl00dy_ransomware_Gang_channel|OFFLINE|bl🩸🩸dy Ransomware Gang ☠️|Ransomware gang|
 |https://t.me/+JgKWbM4Zn8I1ODRl|EXPIRED|CLOBESECTEAM BACKUP|Data Leaks|
 |https://t.me/raidf0rumss|OFFLINE|Raidforums Office|Forum|
@@ -826,7 +826,6 @@
 |https://t.me/+WO3nKwBvJRM2NGMy|EXPIRED|NoName057 RU|DDoS|
 |https://t.me/joinchat/mexyxU88FCswM2Yy|EXPIRED|NoName057 DDoSia Project|DDoS|
 |https://t.me/Keymous_main|OFFLINE|Keymous+|DDoS|
-|https://t.me/+S_ajHerTbKUwYTA0|VALID|Keymous+ (backup)|DDoS|
 |https://t.me/FireWireMaroc|OFFLINE|Fire Wire Maroc|DDoS & Data Leaks|
 |https://t.me/gangexposed_eng|ONLINE|Gang Exposed Chat||
 |https://t.me/Hyder_N3x|OFFLINE|Hyder_N3x|DDoS|
@@ -894,7 +893,7 @@
 |https://t.me/dropsleak|ONLINE|DBCollection||
 |https://t.me/group_LAPSUS|OFFLINE|Lapsus$ Group||
 |https://t.me/crewcyber|OFFLINE|404 CREW CYBER TEAM||
-|https://t.me/noname05716_esp|ONLINE|NoName057(16)_Esp vers🇪🇸|DDoS|
+|https://t.me/noname05716_esp|OFFLINE|NoName057(16)_Esp vers🇪🇸|DDoS|
 |https://t.me/nnm05716_itvers|OFFLINE|NoName057(16) It vers|DDoS|
 |https://t.me/breachdetect|ONLINE|Data Leak Monitor||
 |https://t.me/+YvPQkF1nE1Q4ZDI1|EXPIRED|umbra.by/telegram|Umbra Forum Chat|
@@ -912,7 +911,7 @@
 |https://t.me/dienet1|ONLINE|DieNet|DDoS|
 |https://t.me/z_bl4cx_h4t_id|ONLINE|Z-BL4CX-H4T.ID||
 |https://t.me/bfsup|ONLINE|BF|Forum|
-|https://t.me/Breach_VIP|ONLINE|Breach.VIP|DataLeaks|
+|https://t.me/Breach_VIP|OFFLINE|Breach.VIP|DataLeaks|
 |https://t.me/Venari_By_BetterCyber|ONLINE|VenariX||
 |https://t.me/order403|OFFLINE|Order403|DataLeaks|
 |https://t.me/CyaberGhost|OFFLINE|AN0M949_GHOST_TRACK|DataLeaks|
@@ -935,40 +934,88 @@
 |https://t.me/+D2e-YSFvtAhhMWU1|VALID|BFRepoV4Files|DataLeaks|
 |https://t.me/+jHO-f5fXqZsyNWM1|EXPIRED|WHALEHUNTERS||
 |https://t.me/+PUmtLabVTT9mODA1|EXPIRED|WHALE FILES||
-|https://t.me/+6fWJgBgWDj5iYzRk|VALID|Leakss Data||
-|https://t.me/+vw4JXiA77LsyYzJl|VALID|Affiliate Association||
-|https://t.me/+6Ijjx9_a-vUzNGZl|VALID|Shiny Montana Exploit||
-|https://t.me/+9Z3fqWfISscxM2E1|VALID|Escanors Files||
+|https://t.me/+6fWJgBgWDj5iYzRk|EXPIRED|Leakss Data||
+|https://t.me/+vw4JXiA77LsyYzJl|EXPIRED|Affiliate Association||
+|https://t.me/+6Ijjx9_a-vUzNGZl|EXPIRED|Shiny Montana Exploit||
+|https://t.me/+9Z3fqWfISscxM2E1|EXPIRED|Escanors Files||
 |https://t.me/+xKUeFc1nB89hNTM1|VALID|Escanors Marketplace||
 |https://t.me/+3ZYKShO-lpM2NTM1|VALID|Escanors Official||
 |https://t.me/+kGfKy9Zl4OsyYzVl|EXPIRED|scattered LAPSUS$ hunters part 8||
 |https://t.me/EvilNet3|OFFLINE|EvilNet 3.0||
-|https://t.me/joinchat/SRPYpvvgUPwyY2I0|OFFLINE|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
+|https://t.me/+SRPYpvvgUPwyY2I0|EXPIRED|Evil Markhors -Dark Side of Pakistan Alliance|DDoS|
 |https://t.me/ddoswfree|ONLINE|Meows alive|DDoS|
 |https://t.me/+EMayLd_DiV43ZTM6|EXPIRED|APT IRAN||
 |https://t.me/DarkForumsHub|OFFLINE|DarkForums|Forum|
-|https://t.me/DedaleOffice|ONLINE|Dedale Office|Data Leaks|
-|https://t.me/oplebensraum|ONLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
-|https://t.me/TheBlackMaskers|ONLINE|BlackMaskers Army||
+|https://t.me/DedaleOffice|OFFLINE|Dedale Office|Data Leaks|
+|https://t.me/oplebensraum|OFFLINE| LAPSUS$ Related operations channel for operations against Indra(Alleged Israeli APT) aka: Predatory Sparrow, Indra, MeteorExpress, or Adalat Ali|
+|https://t.me/TheBlackMaskers|OFFLINE|BlackMaskers Army||
 |https://t.me/HANDALA_HPR2|OFFLINE|HANDALA HACK||
 |https://t.me/lapsus_groupo|OFFLINE|Lapsus$ Group||
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
 |https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
-|https://t.me/+uIDt6PiHin4wMjY1|ONLINE|scattered LAPSUS$ hunters part 9||
+|https://t.me/+uIDt6PiHin4wMjY1|EXPIRED|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
-|https://t.me/DBHunterX|ONLINE|DB HunterX|Data Leaks|
+|https://t.me/DBHunterX|OFFLINE|DB HunterX|Data Leaks|
 |https://t.me/SolonikChannels|ONLINE|Solonik Files|DataLeaks|
 |https://t.me/HANDALA_INTEL|ONLINE|Handala||
-|https://t.me/+X6Y8t-0tT1VmODI1|OFFLINE|ShinyHunters||
-|https://t.me/nightspire_breach|Nightspire breach||
+|https://t.me/+X6Y8t-0tT1VmODI1|EXPIRED|ShinyHunters||
+|https://t.me/nightspire_breach|ONLINE|Nightspire breach||
 |https://t.me/PwnShoutbox|ONLINE|PwnForums|Forum|
 |https://t.me/PwnUpdates|ONLINE|PwnForums|Forum|
 |https://t.me/INTEL_HANDALA|OFFLINE|HANDALA HACK (backup)||
 |https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||
-|https://t.me/+Lv3LYdpVyJc5ZTM0|ONLINE|xorcat files||
-|https://t.me/+wuOFH81f2us1YmQ0|ONLINE|xorcat vouch||
-|https://t.me/+32bOCuk6FctmNzll|ONLINE|The Jacuzzi||
-|https://t.me/+pvrT-JIgj4g2MDZh|ONLINE|ShinyHunters||
+|https://t.me/+Lv3LYdpVyJc5ZTM0|EXPIRED|xorcat files||
+|https://t.me/+wuOFH81f2us1YmQ0|VALID|xorcat vouch||
+|https://t.me/+32bOCuk6FctmNzll|EXPIRED|The Jacuzzi||
+|https://t.me/+pvrT-JIgj4g2MDZh|EXPIRED|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||
+|https://t.me/n2LP_wVf79c2YzM0|OFFLINE|Infrastructure Destruction Squad||
+|https://t.me/+Z2ENGFMlQjdkNmU8|EXPIRED|Infrastructure Destruction Squad||
+|https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
+|https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
+|https://t.me/breached_su|ONLINE|breached (breached.su forum)||
+|https://t.me/+eT1mVGSR-AxmNDlk|ONLINE|FEMBOYSec Intelligence (FEMBOY forum)||
+|https://t.me/ironatlas_organization|ONLINE|ɪʀᴏɴ ᴀᴛʟᴀꜱ ɴᴇᴡ ɢᴇɴᴇʀᴀᴛɪᴏɴ||
+|https://t.me/r3_6j|ONLINE|FAD Team||
+|https://t.me/BabayoErorSytem1|ONLINE|BABAYO EROR SYSTEM||
+|https://t.me/byjax7|ONLINE|JAX7||
+|https://t.me/DefacerIndonesia1337|ONLINE|Defacer Indonesia||
+|https://t.me/PhiserXman|ONLINE|PhiserXman||
+|https://t.me/KAR4WANG_ERROR_SYSTEM|OFFLINE|KARAWANG ERROR SYSTEM||
+|https://t.me/Darkstormteam22|ONLINE|Dark Storm Team|DDoS|
+|https://t.me/silenterrorsystem|OFFLINE|DEWATA BLACKHAT||
+|https://t.me/nyxeravx1|OFFLINE|N y x e r a . v x||
+|https://t.me/Aero4Sec|ONLINE|Aero4Sec||
+|https://t.me/Cyber_Dark_Echo|ONLINE|CYBER DARK ECHO||
+|https://t.me/brotheroodbci|OFFLINE|BROTHEROOD CAPUNG INDONESIA||
+|https://t.me/ShadowClawZ404|ONLINE|Shadow ClawZ 404||
+|https://t.me/zpentest_fucknato|ONLINE|Z-Pentest Alliance||
+|https://t.me/EarthImpact_hack|ONLINE|EarthImpact Team||
+|https://t.me/AFN_RU|ONLINE|АльфаНет||
+|https://t.me/+66S2AL_OrU43MmE8|EXPIRED|BreachForums||
+|https://t.me/+EH3p6VmhR_44ODQ0|EXPIRED|The Jaccuzi||
+|https://t.me/Anonnigeria|OFFLINE|Nullsec Nigeria||
+|https://t.me/infernaliis|ONLINE|𝐼𝑁𝐹𝐸𝑅𝑁𝐴𝐿𝐼𝑆 #INF||
+|https://t.me/nullseckh|OFFLINE|Nullsec KH||
+|https://t.me/Ghostnet_x|OFFLINE|GHOSTNET-X||
+|https://t.me/DeepCoreNetwork|ONLINE|DeepCore Network||
+|https://t.me/Jax702|ONLINE|JAX7||
+|https://t.me/Xyph0rix|ONLINE|N赛弗里克斯 私密||
+|https://t.me/Pharaoh_e|ONLINE|Pharaohs_Team channel||
+|https://t.me/who0is0whoare|ONLINE|whoare||
+|https://t.me/ZxS3xx|ONLINE|ZxS3C🪬||
+|https://t.me/zaher_infinity01|ONLINE|𝐙𝐀𝐇𝐄𝐑 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘||
+|https://t.me/blueshadow67|ONLINE|Blue Shadow||
+|https://t.me/infrastructureg|OFFLINE|infrastructure destruction squad||
+|https://t.me/instruktori|OFFLINE|byte (DoxByte)||
+|https://t.me/MR_X10_SY|ONLINE|MR-X910-SY||
+|https://t.me/infrastructurek|ONLINE|infrastructure destruction squad||
+|https://t.me/+BhZxEGBzvPYwYTY1|OFFLINE|The Underground _ Uwu 😻||
+|https://t.me/HANDALA_SEC|ONLINE|Handala Hack||
+|https://t.me/+CHpDapnyVEc1ODBl|OFFLINE|Shiny Hunters V3||
+|https://t.me/spider_cybers|ONLINE|Scattered Spider||
+|https://t.me/CyberToothless|ONLINE|Cyber Toothless||
+|https://t.me/CRPX0|ONLINE|CRPx0 Official||
+|https://telegram.me/Defacement|ONLINE|Telkom Zone H||

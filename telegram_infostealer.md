@@ -126,4 +126,12 @@
 |https://t.me/+WvAKkgzuGO1jNWVl|ONLINE|LeakBase 2.0|DataLeaks|
 |https://t.me/anonymous_algeria_chat|ONLINE|Anonymous Algeria Group|Activists|
 |https://t.me/Developer_Astra/|ONLINE|Anonymous Algeria Channel|Activists|
+<<<<<<< patch-2
+|https://t.me/+Ur4QkkziwJI0ZDQx|OFFLINE|EVIL CLOUD|
+|https://t.me/+V-WBM4RrCkVkMWFl|OFFLINE|EVIL CLOUD|
+=======
 |https://t.me/+Ur4QkkziwJI0ZDQx|ONLINE|EVIL CLOUD|
+|https://t.me/darkside_hubb|ONLINE|Darkside Hub|
+>>>>>>> main
+|https://t.me/Redline_Cl0ud4|ONLINE|Redline_Cl0ud4|
+|https://t.me/+M1WRRV5fJMk3NmE1|ONLINE|EVIL CLOUD|

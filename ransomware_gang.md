@@ -206,6 +206,7 @@
 |[EVEREST](http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion)|ONLINE||||
 |[EVEREST](http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion)|ONLINE||||
 |[EVILCORP](http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion)|OFFLINE||||
+|[EXFILSQUAD](http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion)|ONLINE||||
 |[EXITIUM](http://m3ksukzn2glzfdvlusohril7n3iyk4z4fudf6mm22lwhpbpt5aiee5qd.onion)|ONLINE||||
 |[EXORCIST](http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion)|OFFLINE||||
 |[FOG](http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/)|ONLINE||||
@@ -228,6 +229,7 @@
 |[GD LOCKERSEC](http://igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd.onion)|ONLINE||||
 |[GENESIS](http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion)|ONLINE||||
 |[GLOBAL](http://vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion)|ONLINE||0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c||
+|[GLOBAL SECRET](http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion)|ONLINE||||
 |[GOODWILL (Dashboard)](http://9855-13-235-50-147.ngrok.io)|OFFLINE||||
 |[GRIEF](http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion)|OFFLINE||||
 |[GROOVE](http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion)|OFFLINE||||
@@ -552,6 +554,7 @@
 |[SATAN LOCK V2](http://tzhwmgguyxrg6q3tu4q3gvopcjynrhw6ryx2bdl5ghisdkyunfua5xyd.onion)|ONLINE||CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D||
 |[SCATTERED SPIDER](http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion)|OFFLINE (Seized)||shinygroup@onionmail.com||
 |[SCATTERED SPIDER](https://shinyhunte.rs)|ONLINE||shinygroup@onionmail.com||
+|[SECTION9](http://v76bdil3v7hczufr7kwk75eq6oks27d3qwj6v5ajj6v6rubbvwhcq2qd.onion)|ONLINE||||
 |[SECUROTROP](http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion)|ONLINE||||
 |[SEKHMET](http://sekhmet.top)|OFFLINE||||
 |[SENSAYQ (deep](http://159.69.60.54)|ONLINE||||

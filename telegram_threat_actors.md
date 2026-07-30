@@ -1003,7 +1003,7 @@
 |https://t.me/DeepCoreNetwork|ONLINE|DeepCore Network||
 |https://t.me/Jax702|ONLINE|JAX7||
 |https://t.me/Xyph0rix|ONLINE|N赛弗里克斯 私密||
-|https://t.me/Pharaoh_e|ONLINE|Pharaohs_Team channel||
+|https://t.me/Pharaoh_e|OFFLINE|Pharaohs_Team channel||
 |https://t.me/who0is0whoare|ONLINE|whoare||
 |https://t.me/ZxS3xx|ONLINE|ZxS3C🪬||
 |https://t.me/zaher_infinity01|ONLINE|𝐙𝐀𝐇𝐄𝐑 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘||

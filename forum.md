@@ -123,6 +123,7 @@
 | [DARKMARKET.CX](https://darkmarket.cx)                                                                                                     | OFFLINE          |                                  |
 | [DARKMONEY](https://darkmoney.lc)                                                                                                          | ONLINE           |                                  |
 | [DARKNET ARMY](http://dna777ucpo4unwxrzw5mzs4iqm5qz3uepw3k5mvwbt7tnufryvsgy5yd.onion)                                                      | ONLINE           |                                  |
+| [DARKNET ARMY](http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion)                                                      | ONLINE           |                                  |
 | [DARKNET](https://darknet.ug)                                                                                                              | ONLINE           |                                  |
 | [DARKNETWORLD](https://www.darknetworld.com)                                                                                               | OFFLINE          |                                  |
 | [DARKPID](https://darkpid.com)                                                                                                             | ONLINE           |                                  |

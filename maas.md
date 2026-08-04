@@ -10,3 +10,4 @@
 |[RANION](http://dozrkm62j2uysnqg57q35cangl2lpgdirhxbcc2yzpcgvfyowy7syxqd.onion)| ONLINE | |
 |[RANION](http://ni3kiymt4jc32baea356vhwurba44jabfklitpoqbrtgrhr5skyrixyd.onion)| ONLINE | |
 |[STEALER VIRUS](https://t.me/erna_channel)| ONLINE | |
+|[RATO Platform](https://t.me/rato_backup)| ONLINE | |

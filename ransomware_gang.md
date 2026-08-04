@@ -460,6 +460,7 @@
 |[ONEPERCENT](http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion)|OFFLINE||||
 |[ORCA](http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion)|ONLINE||||
 |[ORION](http://cjfntkj5qeizxowuy3srceg7zo6namc3kfeor7pfn6bpdkl3w265ooid.onion)|ONLINE||||
+|[OROVA](http://mll5ddmdzgiq2siv3qnocmmqyiigfpajtc663xtf32qtp6weycyx2hyd.onion)|ONLINE||||
 |[OSIRIS PROJECT](https://osirisbm3357xrccnid23nlyuqwzbgqheaei6dxvyi34tbkqr3bmvfid.onion)|ONLINE||||
 |[OSIRIS PROJECT](https://ausare.net/app/news)|ONLINE||||
 |[OX THIEF](http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||

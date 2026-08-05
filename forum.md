@@ -292,6 +292,7 @@
 | [RUTOR (Surface)](http://rutor.live)                                                                                                       | OFFLINE          |                                  |
 | [SECRET FORUM PROPAGANDA](http://qvwje7edtrfby6pfnm3q7o3lju22mfx3xsjyl3y33l66sbq3qcnlmvad.onion)                                           | ONLINE           |                                  |
 | [SEOPIRAT](https://seopirat.club)                                                                                                          | ONLINE           |                                  |
+| [SHADOW FORUM](http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion)                                                      | ONLINE           |                                  |
 | [SINFUL](https://sinfulsite.com)                                                                                                           | ONLINE           |                                  |
 | [SINISTER](https://sinister.ly)                                                                                                            | ONLINE           |                                  |
 | [SKYFRAUD](http://bcbm4y7yusdxthg3.onion)                                                                                                  | OFFLINE          |                                  |

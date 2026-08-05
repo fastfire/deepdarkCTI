@@ -465,6 +465,7 @@
 |[OSIRIS PROJECT](https://ausare.net/app/news)|ONLINE||||
 |[OX THIEF](http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
 |[PANDORA](http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion)|OFFLINE||||
+|[PANZER](http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion)|ONLINE||||
 |[PAY2KEY](http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion)|OFFLINE||||
 |[PAYLOAD.BIN (Ex BABUK LOCKER)](http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion)|OFFLINE||||
 |[PAYLOAD](http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion)|ONLINE||||

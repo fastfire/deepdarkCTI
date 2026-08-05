@@ -78,6 +78,7 @@
 | [CARDERS.BIZ](https://carders.biz)                                                                                                         | ONLINE           |                                  |
 | [CARDMAFIA](https://cardmafia.cc)                                                                                                          | ONLINE           |                                  |
 | [CARDING FORUM (Deep)](https://cardingforum.cx)                                                                                            | OFFLINE          |                                  |
+| [CEBULKA](http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion)                                                           | ONLINE           |                                  |
 | [CENTER CLUB](https://center-club.io)                                                                                                      | ONLINE           |                                  |
 | [CHITACHOK](https://chitachok.ru)                                                                                                          | ONLINE           |                                  |
 | [COMFYBOX](https://comfybox.floofey.dog)                                                                                                   | ONLINE           |                                  |
@@ -109,6 +110,7 @@
 | [DANGEROUSTHINGS](https://forum.dangerousthings.com)                                                                                       | ONLINE           |                                  |
 | [DARK2WEB](https://dark2web.net)                                                                                                           | ONLINE           |                                  |
 | [DARKCLUB](https://darkclub.pw)                                                                                                            | ONLINE           |                                  |
+| [DARKFOREST](http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion)                                                        | ONLINE           |                                  |
 | [DARKFORUM](https://darkforum.in)                                                                                                          | OFFLINE          |                                  |
 | [DARKFORUM](https://darkforum.net)                                                                                                         | OFFLINE          |                                  |
 | [DARKFORUMS (Deep)](https://darkforums.me)                                                                                                 | OFFLINE          |                                  |
@@ -173,6 +175,7 @@
 | [FUNKSEC RANSOMWARE](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)                                               | ONLINE           |                                  |
 | [G0D.ONE MARKET](https://www.g0d.one)                                                                                                      | OFFLINE          |                                  |
 | [GERKI](http://gerkipwhfuqeeizl.onion)                                                                                                     | OFFLINE          |                                  |
+| [GERMANIA](http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion)                                                          | ONLINE           |                                  |
 | [GETREKT](https://getrekt.io)                                                                                                              | ONLINE           | https://t.me/getrektio           |
 | [HACKFORUMS](https://hackforums.net/index.php)                                                                                             | ONLINE           |                                  |
 | [HACKINGFATHER](https://hackingfather.com/)                                                                                                | ONLINE           |                                  |

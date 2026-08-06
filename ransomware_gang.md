@@ -317,6 +317,7 @@
 |[LEAK BAZAR](https://mes4qo4rd6t3biyrm6q4twkquspzd7r4kg7va765nbdfxqgnc2w3pead.onion)|ONLINE||||
 |[LEAKED DATA](http://business-data-leaks.com)|ONLINE||||
 |[LEAKNET](http://nleakk6sejx45jxtk7x6iyt65hwvfrkifc5v7ertdlwm3gttbpvlvxqd.onion)|ONLINE||||
+|[LGROUP](http://4zrjdyuq4sjogm2epwwoleegquavhwo3o7fakstnlgox6guqt3qpe4qd.onion)|ONLINE||js677832@onionmail.org||
 |[LILITH](http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion)|OFFLINE||BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC||
 |[LINKC](http://iywqjjaf2zioehzzauys3sktbcdmuzm2fsjkqsblnm7dt6axjfpoxwid.onion/article)|ONLINE||||
 |[LOCKBIT 2.0 (Dark mirror 1)](http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion)|"REBRANDED" TO "THIS SITE IS NOW UNDER THE CONTROL OF THE UK, THE US AND THE CRONOS TASK FORCE"||3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7||

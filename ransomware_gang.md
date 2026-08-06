@@ -254,6 +254,7 @@
 |[HANDALA](http://handala-hack.ps)|ONLINE||||
 |[HANDALA REDWANTED](http://handala-redwanted.ps)|ONLINE||||
 |[HARON](http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php)|OFFLINE|Chaddadgroup:Chaddadgroup|||
+|[HELIX](http://helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion/leaks)|ONLINE||||
 |[HELLDOWN](http://onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion)|OFFLINE||19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E||
 |[HELLDOWN](http://onyxcym4mjilrsptk5uo2dhesbwntuban55mvww2olk5ygqafhu3i3yd.onion/)|ONLINE||19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E||
 |[HELLCAT](http://hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion)|ONLINE||898923FE0699CFE1EFD17773425DECB080840877C29F883D389D6880B2B961737FACE98E82E4 - Telegram: @HCSupp - hcsupp@firemail.cc -  XMPP: hellcat@5222.de||

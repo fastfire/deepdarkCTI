@@ -1015,7 +1015,7 @@
 |https://t.me/+BhZxEGBzvPYwYTY1|EXPIRED|The Underground _ Uwu 😻||
 |https://t.me/HANDALA_SEC|ONLINE|Handala Hack||
 |https://t.me/+CHpDapnyVEc1ODBl|EXPIRED|Shiny Hunters V3||
-|https://t.me/spider_cybers|ONLINE|Scattered Spider||
+|https://t.me/spider_cybers|OFFLINE|Scattered Spider||
 |https://t.me/CyberToothless|ONLINE|Cyber Toothless||
 |https://t.me/CRPX0|ONLINE|CRPx0 Official||
 |https://telegram.me/Defacement|ONLINE|Telkom Zone H||

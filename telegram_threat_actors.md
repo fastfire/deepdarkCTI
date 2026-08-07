@@ -1021,4 +1021,5 @@
 |https://telegram.me/Defacement|ONLINE|Telkom Zone H||
 |https://t.me/+HrZbMsIRlIQ3NTU1|VALID|Scattered hunters Back Up||
 |https://t.me/Hexvior_breach|ONLINE|Hexvior OSINT||
-•https://t.me/+z5qwJtIQtW5mYzY9|ONLINE|Scattered Hunters V2||
+|https://t.me/+z5qwJtIQtW5mYzY9|ONLINE|Scattered Hunters V2||
+|https://t.me/+HrZbMsIRlIQ3NTU1|ONLINE|ScatteredHunters Back Up||

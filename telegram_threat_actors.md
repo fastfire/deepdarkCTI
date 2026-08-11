@@ -33,7 +33,7 @@
 |https://t.me/+fsuxaCDs36owYTM6|EXPIRED|||
 |https://t.me/+FuLjnRtP3BhiZDNl|EXPIRED|Goblin's Hub (private)||
 |https://t.me/+GA-V8dMoaRUxNWVl|EXPIRED|Rabbit Cyber Team|DDos|
-|https://t.me/+GeILA8S0Bk4wYmRi|VALID|Inteid|DDoS|
+|https://t.me/+GeILA8S0Bk4wYmRi|EXPIRED|Inteid|DDoS|
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED|voidy - database storage||
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/+GxHjaDP0bOphZjNh|EXPIRED|8BASE Chat Group||
@@ -712,7 +712,6 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|ONLINE|ZulikGroup||
-|https://t.me/+GeILA8S0Bk4wYmRi|VALID|INTEID|DDoS|
 |https://t.me/xX313XxTeam|ONLINE|313TEAM|DDoS|
 |https://t.me/+Lj3K9WgZFrxkNDY1|VALID|OBSCURION||
 |https://t.me/+aC3mHL9kVhBhNzM1|EXPIRED|Okto Dark Cyber Squad|DDoS & Data Breach|

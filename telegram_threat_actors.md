@@ -1015,7 +1015,7 @@
 |https://t.me/HANDALA_SEC|ONLINE|Handala Hack||
 |https://t.me/+CHpDapnyVEc1ODBl|EXPIRED|Shiny Hunters V3||
 |https://t.me/spider_cybers|OFFLINE|Scattered Spider||
-|https://t.me/CyberToothless|ONLINE|Cyber Toothless||
+|https://t.me/CyberToothless|OFFLINE|Cyber Toothless||
 |https://t.me/CRPX0|ONLINE|CRPx0 Official||
 |https://telegram.me/Defacement|ONLINE|Telkom Zone H||
 |https://t.me/+HrZbMsIRlIQ3NTU1|EXPIRED|Scattered hunters Back Up||

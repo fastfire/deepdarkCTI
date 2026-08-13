@@ -51,4 +51,4 @@ In addition, within the **methods** file, various techniques for searching and a
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=fastfire/deepdarkCTI&type=Date)](https://star-history.com/#fastfire/deepdarkCTI&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=fastfire/deepdarkCTI&type=Date)](https://star-history.dera.page/#fastfire/deepdarkCTI&Date)

@@ -108,6 +108,7 @@
 |[BLACKX](https://blackxppq2jvqyg4slyg3sbszv7ib2avaaycvhff5qipgdoepqi57xyd.onion)|ONLINE||||
 |[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE||||
 |[BLUEBOX](http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion)|ONLINE||||
+|[BLUE WHALE](http://bluewh6bk2qt6wjib7qxdtplhgbwbi3p7cgofwnshfl5xo3xgwgstrid.onion)|ONLINE||samueladamsn344@proton.me||
 |[BOLT](http://3pxt6o2ipwnfbgqvknydkizry5fysq4jmktxmrnfdgiii4fdkwfsliqd.onion)|ONLINE||||
 |[BONACI GROUP](http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion)|OFFLINE||||
 |[BOOBA](http://7t3zi3e7ki6iseun77ofqtr6wmbpgnpc2ada6gstcxp54lw6q2zb7jad.onion)|ONLINE||||

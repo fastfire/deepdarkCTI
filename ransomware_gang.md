@@ -679,6 +679,7 @@
 |[XING LOCKER](http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion)|OFFLINE||||
 |[XINOF](http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion)|OFFLINE||||
 |[XP95](http://37lfmtakhknzx5t6k57ieijkiqrc4c3kpimfvrmafva25ut2tknvw3yd.onion)|ONLINE||session: 05d3d75e8370cfc72c7a563c9880995eaf4c33f1bd42a5d4e9cd65e713b190c934 - https://keybase.io/XP95 - https://breachforums.as/User-XP95||
+|[XPL0ITRS](http://2kieaq6jnwgrru62wwtxaafg35q6rzweg7y2xjfnbhvq5wd4eojqv6yd.onion)|ONLINE||Tox: FD714A3E7C0059EF70825AF78ED544880DC9990EBF9859B798CC8F2B03 - Session:05c8ae06e40a63cfd94d3307a3461ca668aa88bb18686083d6927e969249501075||
 |[YANLUOWANG](http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion)|OFFLINE||||
 |[YUREI](http://fewcriet5rhoy66k6c4cyvb2pqrblxtx4mekj3s5l4jjt4t4kn4vheyd.onion)|ONLINE||||
 |[ZEON (Victims page)](http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion)|OFFLINE||||

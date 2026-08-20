@@ -974,7 +974,7 @@
 |https://t.me/+Z2ENGFMlQjdkNmU8|EXPIRED|Infrastructure Destruction Squad||
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
-|https://t.me/breached_su|ONLINE|breached (breached.su forum)||
+|https://t.me/breached_su|OFFLINE|breached (breached.su forum)||
 |https://t.me/+eT1mVGSR-AxmNDlk|ONLINE|FEMBOYSec Intelligence (FEMBOY forum)||
 |https://t.me/ironatlas_organization|ONLINE|ɪʀᴏɴ ᴀᴛʟᴀꜱ ɴᴇᴡ ɢᴇɴᴇʀᴀᴛɪᴏɴ||
 |https://t.me/r3_6j|ONLINE|FAD Team||

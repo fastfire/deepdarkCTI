@@ -641,7 +641,7 @@
 |https://t.me/SumatraUtaraCyberTeam|ONLINE|SumatraUtara|DDoS|
 |https://t.me/SylhetGangSgOfficial|OFFLINE|Sylhet Gang-SG||
 |https://t.me/sysadminbd|OFFLINE|Sysadmin||
-|https://t.me/t_darknet|ONLINE|Illicit Service||
+|https://t.me/t_darknet|OFFLINE|Illicit Service||
 |https://t.me/tbotlist|ONLINE|Bots||
 |https://t.me/TE1915|ONLINE|1915 team||
 |https://t.me/Team1722|OFFLINE|Team1722||

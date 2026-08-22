@@ -1024,3 +1024,4 @@
 |https://t.me/RFShoutbox|ONLINE|Raid Forums||
 |https://t.me/breaches|ONLINE|Breaches||
 |https://t.me/TripleXTriple|ONLINE|TripleX||
+|https://t.me/normalhuntercrime|ONLINE|Normal Hunters||

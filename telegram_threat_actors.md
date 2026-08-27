@@ -417,8 +417,8 @@
 |https://t.me/jokmajd|ONLINE|TEAM1910||
 |https://t.me/jsonc2|OFFLINE|jsonC2||
 |https://t.me/JustAn0x|OFFLINE|Data Leaks||
-|https://t.me/justice_homeland_original|ONLINE|HomeLand Justice||
-|https://t.me/justice_homeland|ONLINE|Homeland Justice||
+|https://t.me/justice_homeland_original|OFFLINE|HomeLand Justice||
+|https://t.me/justice_homeland|OFFLINE|Homeland Justice||
 |https://t.me/JusticeHomeland1|ONLINE|HomeLand Justice||
 |https://t.me/karakurt_news|OFFLINE|Karakurt||
 |https://t.me/kedirisecteam|ONLINE|KEDIRISECTEAM|DDoS|

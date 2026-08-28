@@ -951,7 +951,7 @@
 |https://t.me/HANDALA_HPR2|OFFLINE|HANDALA HACK||
 |https://t.me/lapsus_groupo|OFFLINE|Lapsus$ Group||
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
-|https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
+|https://t.me/BidenCashEU|OFFLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|EXPIRED|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
@@ -983,7 +983,7 @@
 |https://t.me/DefacerIndonesia1337|ONLINE|Defacer Indonesia||
 |https://t.me/PhiserXman|ONLINE|PhiserXman||
 |https://t.me/KAR4WANG_ERROR_SYSTEM|OFFLINE|KARAWANG ERROR SYSTEM||
-|https://t.me/Darkstormteam22|ONLINE|Dark Storm Team|DDoS|
+|https://t.me/Darkstormteam22|OFFLINE|Dark Storm Team|DDoS|
 |https://t.me/silenterrorsystem|OFFLINE|DEWATA BLACKHAT||
 |https://t.me/nyxeravx1|OFFLINE|N y x e r a . v x||
 |https://t.me/Aero4Sec|ONLINE|Aero4Sec||

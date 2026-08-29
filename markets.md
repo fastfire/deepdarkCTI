@@ -1,7 +1,7 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
 |[0-DAY](https://0-day.shop)| ONLINE | |
-|[Stealer credential leaks](https://whiteintel.io)| ONLINE | |
+|[WhiteIntel Stealer Credential Leaks](https://whiteintel.io)| ONLINE | Search engine for detecting leaked credentials via infostealers |
 |[Darth maul shop](https://1977.ws/)| ONLINE | |
 |[2EASY](https://2easy.shop)| OFFLINE | |
 |[2EASY](https://2easy.cc)| ONLINE | |

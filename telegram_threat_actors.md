@@ -195,7 +195,7 @@
 |https://t.me/canyoupwnme|ONLINE|News||
 |https://t.me/cas_files|ONLINE|Data Leaks||
 |https://t.me/cbanke_market|OFFLINE|Data Leaks||
-|https://t.me/cbanke|ONLINE|Data Leaks||
+|https://t.me/cbanke|OFFLINE|Data Leaks||
 |https://t.me/CHO1CHO1|ONLINE|CH01 group||
 |https://t.me/cityofleaker|OFFLINE|Leaks||
 |https://t.me/cIub1337|ONLINE|club1337||

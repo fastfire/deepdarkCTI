@@ -73,11 +73,13 @@
 | [BREACH FORUMS](https://breachforums.sb/)                                                                                                  | OFFLINE          |                                  |
 | [BREACH FORUMS](https://pwnforums.lst/)                                                                                                    | OFFLINE          |                                  |
 | [BREACH FORUMS](https://pwnforums.ms/)                                                                                                     | ONLINE           |                                  |
+| [BREACH FORUMS](https://bf.st)                                                                                                             | ONLINE           |                                  |
 | [BREACHSTARS](https://breachstars.io/)                                                                                                     | OFFLINE          |                                  |
 | [BTTFORUM](https://btt-club.top)                                                                                                           | OFFLINE          |                                  |
 | [CARDERS.BIZ](https://carders.biz)                                                                                                         | ONLINE           |                                  |
 | [CARDMAFIA](https://cardmafia.cc)                                                                                                          | ONLINE           |                                  |
 | [CARDING FORUM (Deep)](https://cardingforum.cx)                                                                                            | OFFLINE          |                                  |
+| [CEBULKA](http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion)                                                           | ONLINE           |                                  |
 | [CENTER CLUB](https://center-club.io)                                                                                                      | ONLINE           |                                  |
 | [CHITACHOK](https://chitachok.ru)                                                                                                          | ONLINE           |                                  |
 | [COMFYBOX](https://comfybox.floofey.dog)                                                                                                   | ONLINE           |                                  |
@@ -109,6 +111,7 @@
 | [DANGEROUSTHINGS](https://forum.dangerousthings.com)                                                                                       | ONLINE           |                                  |
 | [DARK2WEB](https://dark2web.net)                                                                                                           | ONLINE           |                                  |
 | [DARKCLUB](https://darkclub.pw)                                                                                                            | ONLINE           |                                  |
+| [DARKFOREST](http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion)                                                        | ONLINE           |                                  |
 | [DARKFORUM](https://darkforum.in)                                                                                                          | OFFLINE          |                                  |
 | [DARKFORUM](https://darkforum.net)                                                                                                         | OFFLINE          |                                  |
 | [DARKFORUMS (Deep)](https://darkforums.me)                                                                                                 | OFFLINE          |                                  |
@@ -116,13 +119,15 @@
 | [DARKFORUMS (Deep)](https://darkforums.io)                                                                                                 | OFFLINE          |                                  |
 | [DARKFORUMS (Deep)](https://darkforums.st)                                                                                                 | OFFLINE          |                                  |
 | [DARKFORUMS (Deep)](https://darkforums.ac)                                                                                                 | OFFLINE          |                                  |
-| [DARKFORUMS (Deep)](https://darkforums.su/)                                                                                                | ONLINE           | https://t.me/DarkForumsss        |
+| [DARKFORUMS (Deep)](https://darkforums.su/)                                                                                                | OFFLINE           | https://t.me/DarkForumsss        |
+| [DARKFORUMS (Deep)](https://darkforums.as/)                                                                                                | ONLINE           |                                   |
 | [DARKFORUMS (Dark)](http://qeei4m7a2tve6ityewnezvcnf647onsqbmdbmlcw4y5pr6uwwfwa35yd.onion)                                                 | OFFLINE          |                                  |
 | [DARKFORUMS (Dark)](http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion)                                                 | ONLINE           |                                  |
 | [DARKMARKET.AT](https://darkmarket.at)                                                                                                     | OFFLINE          |                                  |
 | [DARKMARKET.CX](https://darkmarket.cx)                                                                                                     | OFFLINE          |                                  |
 | [DARKMONEY](https://darkmoney.lc)                                                                                                          | ONLINE           |                                  |
 | [DARKNET ARMY](http://dna777ucpo4unwxrzw5mzs4iqm5qz3uepw3k5mvwbt7tnufryvsgy5yd.onion)                                                      | ONLINE           |                                  |
+| [DARKNET ARMY](http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion)                                                      | ONLINE           |                                  |
 | [DARKNET](https://darknet.ug)                                                                                                              | ONLINE           |                                  |
 | [DARKNETWORLD](https://www.darknetworld.com)                                                                                               | OFFLINE          |                                  |
 | [DARKPID](https://darkpid.com)                                                                                                             | ONLINE           |                                  |
@@ -172,6 +177,7 @@
 | [FUNKSEC RANSOMWARE](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)                                               | ONLINE           |                                  |
 | [G0D.ONE MARKET](https://www.g0d.one)                                                                                                      | OFFLINE          |                                  |
 | [GERKI](http://gerkipwhfuqeeizl.onion)                                                                                                     | OFFLINE          |                                  |
+| [GERMANIA](http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion)                                                          | ONLINE           |                                  |
 | [GETREKT](https://getrekt.io)                                                                                                              | ONLINE           | https://t.me/getrektio           |
 | [HACKFORUMS](https://hackforums.net/index.php)                                                                                             | ONLINE           |                                  |
 | [HACKINGFATHER](https://hackingfather.com/)                                                                                                | ONLINE           |                                  |
@@ -291,6 +297,7 @@
 | [RUTOR (Surface)](http://rutor.live)                                                                                                       | OFFLINE          |                                  |
 | [SECRET FORUM PROPAGANDA](http://qvwje7edtrfby6pfnm3q7o3lju22mfx3xsjyl3y33l66sbq3qcnlmvad.onion)                                           | ONLINE           |                                  |
 | [SEOPIRAT](https://seopirat.club)                                                                                                          | ONLINE           |                                  |
+| [SHADOW FORUM](http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion)                                                      | ONLINE           |                                  |
 | [SINFUL](https://sinfulsite.com)                                                                                                           | ONLINE           |                                  |
 | [SINISTER](https://sinister.ly)                                                                                                            | ONLINE           |                                  |
 | [SKYFRAUD](http://bcbm4y7yusdxthg3.onion)                                                                                                  | OFFLINE          |                                  |

@@ -33,7 +33,7 @@
 |https://t.me/+fsuxaCDs36owYTM6|EXPIRED|||
 |https://t.me/+FuLjnRtP3BhiZDNl|EXPIRED|Goblin's Hub (private)||
 |https://t.me/+GA-V8dMoaRUxNWVl|EXPIRED|Rabbit Cyber Team|DDos|
-|https://t.me/+GeILA8S0Bk4wYmRi|VALID|Inteid|DDoS|
+|https://t.me/+GeILA8S0Bk4wYmRi|EXPIRED|Inteid|DDoS|
 |https://t.me/+ghq2ayK6ybIwYmJi|EXPIRED|voidy - database storage||
 |https://t.me/+gNZDbhQtGw9mNDNi|EXPIRED|TwoNet|DDoS|
 |https://t.me/+GxHjaDP0bOphZjNh|EXPIRED|8BASE Chat Group||
@@ -195,7 +195,7 @@
 |https://t.me/canyoupwnme|ONLINE|News||
 |https://t.me/cas_files|ONLINE|Data Leaks||
 |https://t.me/cbanke_market|OFFLINE|Data Leaks||
-|https://t.me/cbanke|ONLINE|Data Leaks||
+|https://t.me/cbanke|OFFLINE|Data Leaks||
 |https://t.me/CHO1CHO1|ONLINE|CH01 group||
 |https://t.me/cityofleaker|OFFLINE|Leaks||
 |https://t.me/cIub1337|ONLINE|club1337||
@@ -417,8 +417,8 @@
 |https://t.me/jokmajd|ONLINE|TEAM1910||
 |https://t.me/jsonc2|OFFLINE|jsonC2||
 |https://t.me/JustAn0x|OFFLINE|Data Leaks||
-|https://t.me/justice_homeland_original|ONLINE|HomeLand Justice||
-|https://t.me/justice_homeland|ONLINE|Homeland Justice||
+|https://t.me/justice_homeland_original|OFFLINE|HomeLand Justice||
+|https://t.me/justice_homeland|OFFLINE|Homeland Justice||
 |https://t.me/JusticeHomeland1|ONLINE|HomeLand Justice||
 |https://t.me/karakurt_news|OFFLINE|Karakurt||
 |https://t.me/kedirisecteam|ONLINE|KEDIRISECTEAM|DDoS|
@@ -641,7 +641,7 @@
 |https://t.me/SumatraUtaraCyberTeam|ONLINE|SumatraUtara|DDoS|
 |https://t.me/SylhetGangSgOfficial|OFFLINE|Sylhet Gang-SG||
 |https://t.me/sysadminbd|OFFLINE|Sysadmin||
-|https://t.me/t_darknet|ONLINE|Illicit Service||
+|https://t.me/t_darknet|OFFLINE|Illicit Service||
 |https://t.me/tbotlist|ONLINE|Bots||
 |https://t.me/TE1915|ONLINE|1915 team||
 |https://t.me/Team1722|OFFLINE|Team1722||
@@ -712,7 +712,6 @@
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
 |https://t.me/ZulikGroupTG|ONLINE|ZulikGroup||
-|https://t.me/+GeILA8S0Bk4wYmRi|VALID|INTEID|DDoS|
 |https://t.me/xX313XxTeam|ONLINE|313TEAM|DDoS|
 |https://t.me/+Lj3K9WgZFrxkNDY1|VALID|OBSCURION||
 |https://t.me/+aC3mHL9kVhBhNzM1|EXPIRED|Okto Dark Cyber Squad|DDoS & Data Breach|
@@ -952,7 +951,7 @@
 |https://t.me/HANDALA_HPR2|OFFLINE|HANDALA HACK||
 |https://t.me/lapsus_groupo|OFFLINE|Lapsus$ Group||
 |https://t.me/EvilHook|OFFLINE|E-Hook Forums|Forum|
-|https://t.me/BidenCashEU|ONLINE|BidenCash - News & Updates|Market|
+|https://t.me/BidenCashEU|OFFLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|EXPIRED|scattered LAPSUS$ hunters part 9||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
@@ -975,7 +974,7 @@
 |https://t.me/+Z2ENGFMlQjdkNmU8|EXPIRED|Infrastructure Destruction Squad||
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
-|https://t.me/breached_su|ONLINE|breached (breached.su forum)||
+|https://t.me/breached_su|OFFLINE|breached (breached.su forum)||
 |https://t.me/+eT1mVGSR-AxmNDlk|ONLINE|FEMBOYSec Intelligence (FEMBOY forum)||
 |https://t.me/ironatlas_organization|ONLINE|ɪʀᴏɴ ᴀᴛʟᴀꜱ ɴᴇᴡ ɢᴇɴᴇʀᴀᴛɪᴏɴ||
 |https://t.me/r3_6j|ONLINE|FAD Team||
@@ -984,7 +983,7 @@
 |https://t.me/DefacerIndonesia1337|ONLINE|Defacer Indonesia||
 |https://t.me/PhiserXman|ONLINE|PhiserXman||
 |https://t.me/KAR4WANG_ERROR_SYSTEM|OFFLINE|KARAWANG ERROR SYSTEM||
-|https://t.me/Darkstormteam22|ONLINE|Dark Storm Team|DDoS|
+|https://t.me/Darkstormteam22|OFFLINE|Dark Storm Team|DDoS|
 |https://t.me/silenterrorsystem|OFFLINE|DEWATA BLACKHAT||
 |https://t.me/nyxeravx1|OFFLINE|N y x e r a . v x||
 |https://t.me/Aero4Sec|ONLINE|Aero4Sec||
@@ -1003,7 +1002,7 @@
 |https://t.me/DeepCoreNetwork|ONLINE|DeepCore Network||
 |https://t.me/Jax702|ONLINE|JAX7||
 |https://t.me/Xyph0rix|ONLINE|N赛弗里克斯 私密||
-|https://t.me/Pharaoh_e|ONLINE|Pharaohs_Team channel||
+|https://t.me/Pharaoh_e|OFFLINE|Pharaohs_Team channel||
 |https://t.me/who0is0whoare|ONLINE|whoare||
 |https://t.me/ZxS3xx|ONLINE|ZxS3C🪬||
 |https://t.me/zaher_infinity01|ONLINE|𝐙𝐀𝐇𝐄𝐑 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘||
@@ -1012,10 +1011,20 @@
 |https://t.me/instruktori|OFFLINE|byte (DoxByte)||
 |https://t.me/MR_X10_SY|ONLINE|MR-X910-SY||
 |https://t.me/infrastructurek|ONLINE|infrastructure destruction squad||
-|https://t.me/+BhZxEGBzvPYwYTY1|OFFLINE|The Underground _ Uwu 😻||
+|https://t.me/+BhZxEGBzvPYwYTY1|EXPIRED|The Underground _ Uwu 😻||
 |https://t.me/HANDALA_SEC|ONLINE|Handala Hack||
-|https://t.me/+CHpDapnyVEc1ODBl|OFFLINE|Shiny Hunters V3||
-|https://t.me/spider_cybers|ONLINE|Scattered Spider||
-|https://t.me/CyberToothless|ONLINE|Cyber Toothless||
+|https://t.me/+CHpDapnyVEc1ODBl|EXPIRED|Shiny Hunters V3||
+|https://t.me/spider_cybers|OFFLINE|Scattered Spider||
+|https://t.me/CyberToothless|OFFLINE|Cyber Toothless||
 |https://t.me/CRPX0|ONLINE|CRPx0 Official||
 |https://telegram.me/Defacement|ONLINE|Telkom Zone H||
+|https://t.me/+HrZbMsIRlIQ3NTU1|EXPIRED|Scattered hunters Back Up||
+|https://t.me/Hexvior_breach|ONLINE|Hexvior OSINT||
+|https://t.me/+z5qwJtIQtW5mYzY9|ONLINE|Scattered Hunters V2||
+|https://t.me/RFShoutbox|ONLINE|Raid Forums||
+|https://t.me/breaches|ONLINE|Breaches||
+|https://t.me/TripleXTriple|ONLINE|TripleX||
+|https://t.me/normalhuntercrime|ONLINE|Normal Hunters||
+|https://t.me/DarkLancer_news|ONLINE|DarkLancer_news||
+|https://t.me/neko500|ONLINE|Nekoneko200||
+|https://t.me/MrhexStore|ONLINE|Mrhex Store||

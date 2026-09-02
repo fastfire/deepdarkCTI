@@ -260,12 +260,13 @@
 | [PSHACK](https://pshack.org)                                                                                                               | ONLINE           |                                  |
 | [PWNFORUMS (Deep)](https://pwnforums.st/)                                                                                                  | ONLINE           | https://t.me/PwnForums           |
 | [PWNFORUMS (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)                                                  | ONLINE           | https://t.me/PwnForums           |
-| [RAID FORUMS] (https://raidforums.ru/)                                                                                                     | ONLINE           | https://t.me/RaidForumsHub       |
-| [RAID FORUMS 2](https://raidforums2.com)                                                                                                   | OFFLINE          |                                  |
+| [RAID FORUMS](https://raidforums.ru/)                                                                                                     | OFFLINE           | https://t.me/RaidForumsHub       |
 | [RAID FORUMS](https://raidforums.com)                                                                                                      | OFFLINE          |                                  |
+| [RAID FORUMS](https://raidforums.as/)                                                                                                      | ONLINE          |                                  |
 | [RAID FORUMS (Mirror 1)](https://rf.ws)                                                                                                    | OFFLINE          |                                  |
 | [RAID FORUMS (Mirror 2)](https://raid.lol)                                                                                                 | OFFLINE          |                                  |
 | [RAID FORUMS (Mirror 3)](https://rfmirror.com)                                                                                             | OFFLINE          |                                  |
+| [RAID FORUMS 2](https://raidforums2.com)                                                                                                   | OFFLINE          |                                  |
 | [RAID FORUMS TWO](https://raidforumstwo.com)                                                                                               | OFFLINE          |                                  |
 | [RAMBLE](http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion)                                                            | ONLINE           |                                  |
 | [RAMP (Dark)](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion)                                                       | ONLINE           |                                  |

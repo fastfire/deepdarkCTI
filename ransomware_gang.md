@@ -425,7 +425,8 @@
 |[MEDUSA](http://cx5u7zxbvrfyoj6ughw76oa264ucuuizmmzypwum6ear7pct4yc723qd.onion)|ONLINE||||
 |[MEDUZA LOCKER](https://5tqdhriujqb7tb3cw3i3ffwaamjtnph6wsijdbecscyqhii3jbjz2rqd.onion)|ONLINE||||
 |[MEOW](http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion)|ONLINE||||
-|[METAENCRYPTER](http://metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion)|ONLINE||||
+|[METAENCRYPTER](http://metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion)|OFFLINE||||
+|[METAENCRYPTER](http://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion)|ONLINE||||
 |[MIGA](http://q7gmt7pbo4rrt27ydkiv2kxd7cimhztq2x7hzd557jthhu5zp6ujieid.onion)|ONLINE||||
 |[MNT6](http://ttvbuilv5mf2wggfjgmvin22ndzghpukhsyy6coz3p4wt5nqnxah7tyd.onion)|ONLINE||||
 |[MOGILEVICH](http://dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion)|ONLINE||||

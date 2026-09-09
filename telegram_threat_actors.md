@@ -560,7 +560,7 @@
 |https://t.me/Patriot_Black_x|ONLINE|Patriot Black Matrix||
 |https://t.me/peass|ONLINE|||
 |https://t.me/phantom_tg|ONLINE|PHANTOM DEV||
-|https://t.me/PhantomAtlasOfficial|ONLINE|Phantom Atlas|DDoS & Data Breach|
+|https://t.me/PhantomAtlasOfficial|OFFLINE|Phantom Atlas|DDoS & Data Breach|
 |https://t.me/phoenix_inform|ONLINE|PHOENIX||
 |https://t.me/phoenixinform|ONLINE|Phoenix group||
 |https://t.me/Phorcy|ONLINE|Phorcy Stealer|Infostealer|
@@ -976,7 +976,7 @@
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
 |https://t.me/breached_su|OFFLINE|breached (breached.su forum)||
-|https://t.me/+eT1mVGSR-AxmNDlk|ONLINE|FEMBOYSec Intelligence (FEMBOY forum)||
+|https://t.me/+eT1mVGSR-AxmNDlk|OFFLINE|FEMBOYSec Intelligence (FEMBOY forum)||
 |https://t.me/ironatlas_organization|ONLINE|ɪʀᴏɴ ᴀᴛʟᴀꜱ ɴᴇᴡ ɢᴇɴᴇʀᴀᴛɪᴏɴ||
 |https://t.me/r3_6j|ONLINE|FAD Team||
 |https://t.me/BabayoErorSytem1|ONLINE|BABAYO EROR SYSTEM||
@@ -1029,4 +1029,4 @@
 |https://t.me/DarkLancer_news|ONLINE|DarkLancer_news||
 |https://t.me/neko500|ONLINE|Nekoneko200||
 |https://t.me/MrhexStore|ONLINE|Mrhex Store||
-|https://t.me/ServerKillersRussia|ONLINE|Server Killers||
+|https://t.me/ServerKillersRussia|OFFLINE|Server Killers||

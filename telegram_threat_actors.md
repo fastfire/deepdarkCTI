@@ -1031,3 +1031,4 @@
 |https://t.me/ServerKillersRussia|OFFLINE|Server Killers||
 |https://t.me/+SaW6kM8EKIA4NmFh|VALID|NNM057(16) eng vers||
 |https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|Dados|
+|https://t.me/jacuzszi|ONLINE|The Jacuzzi New Era||

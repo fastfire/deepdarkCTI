@@ -1029,3 +1029,4 @@
 |https://t.me/neko500|ONLINE|Nekoneko200||
 |https://t.me/MrhexStore|ONLINE|Mrhex Store||
 |https://t.me/ServerKillersRussia|OFFLINE|Server Killers||
+|https://t.me/+SaW6kM8EKIA4NmFh|VALID|NNM057(16) eng vers||

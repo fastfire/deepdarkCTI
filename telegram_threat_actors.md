@@ -954,7 +954,7 @@
 |https://t.me/BidenCashEU|OFFLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|EXPIRED|scattered LAPSUS$ hunters part 9||
-|https://t.me/+z5qwJtIQtW5mYzY9|ONLINE|scattered LAPSUS$ hunters part 9 chat||
+|https://t.me/+z5qwJtIQtW5mYzY9|EXPIRED|scattered LAPSUS$ hunters part 9 chat||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|OFFLINE|DB HunterX|Data Leaks|
@@ -1021,7 +1021,6 @@
 |https://telegram.me/Defacement|ONLINE|Telkom Zone H||
 |https://t.me/+HrZbMsIRlIQ3NTU1|EXPIRED|Scattered hunters Back Up||
 |https://t.me/Hexvior_breach|ONLINE|Hexvior OSINT||
-|https://t.me/+z5qwJtIQtW5mYzY9|ONLINE|Scattered Hunters V2||
 |https://t.me/RFShoutbox|ONLINE|Raid Forums||
 |https://t.me/breaches|ONLINE|Breaches||
 |https://t.me/TripleXTriple|ONLINE|TripleX||

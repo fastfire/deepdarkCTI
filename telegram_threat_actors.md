@@ -740,7 +740,7 @@
 |https://t.me/tapandegan_official|OFFLINE|Tapandegan||
 |https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel||
 |https://t.me/+4zDdD8MeZCI1MWQ6|EXPIRED|SECTOR16||
-|https://t.me/+i2FG331VOjA0ODE1|VALID|AKULAv2||
+|https://t.me/+i2FG331VOjA0ODE1|EXPIRED|AKULAv2||
 |https://t.me/kittyforums|OFFLINE|KittyForums||
 |https://t.me/Team1956Official|OFFLINE|TEAM1956||
 |https://t.me/APTIRGC|ONLINE|APT IRGC||
@@ -1029,6 +1029,6 @@
 |https://t.me/neko500|ONLINE|Nekoneko200||
 |https://t.me/MrhexStore|ONLINE|Mrhex Store||
 |https://t.me/ServerKillersRussia|OFFLINE|Server Killers||
-|https://t.me/+SaW6kM8EKIA4NmFh|VALID|NNM057(16) eng vers||
+|https://t.me/+SaW6kM8EKIA4NmFh|EXPIRED|NNM057(16) eng vers||
 |https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|Dados|
 |https://t.me/jacuzszi|ONLINE|The Jacuzzi New Era||

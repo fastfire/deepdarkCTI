@@ -1030,5 +1030,8 @@
 |https://t.me/MrhexStore|ONLINE|Mrhex Store||
 |https://t.me/ServerKillersRussia|OFFLINE|Server Killers||
 |https://t.me/+SaW6kM8EKIA4NmFh|EXPIRED|NNM057(16) eng vers||
-|https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|Dados|
+|https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|DDoS|
 |https://t.me/jacuzszi|ONLINE|The Jacuzzi New Era||
+|https://t.me/team1914_backup|ONLINE|Team1914_backup|DDoS|
+|https://t.me/+y58X1DJL5DdmZTNi|ONLINE|Team1914_official_Chat|DDoS|
+|https://t.me/+5Q-AbruRPvs1ODg1|VALID|Team1914_official|DDoS|

@@ -1036,3 +1036,4 @@
 |https://t.me/+y58X1DJL5DdmZTNi|ONLINE|Team1914_official_Chat|DDoS|
 |https://t.me/+5Q-AbruRPvs1ODg1|VALID|Team1914_official|DDoS|
 |https://t.me/xServerKillersx|ONLINE|Server Killers||
+|https://t.me/raidbinchat|ONLINE|RaidBin||

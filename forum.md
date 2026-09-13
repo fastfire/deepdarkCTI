@@ -138,6 +138,7 @@
 | [DATACLOUD](https://datacloud.space)                                                                                                       | ONLINE           |                                  |
 | [DATAFORUMS](https://dataforums.co)                                                                                                        | ONLINE           |                                  |
 | [DEDICATET](https://dedicatet.com)                                                                                                         | ONLINE           |                                  |
+| [DEEP ANSWERS](http://deeptyspkdq3nfvqvyzbkgwhtok4qoyhypsyiuo24wux4jnb6e3nyiqd.onion)                                                      | ONLINE           |                                  |
 | [DEFCON](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion)                                                            | OFFLINE          |                                  |
 | [DEMONFORUMS](https://demonforums.net)                                                                                                     | ONLINE           |                                  |
 | [DOXBYTE](https://doxbyte.com)                                                                                                             | ONLINE           |                                  |

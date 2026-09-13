@@ -284,6 +284,7 @@
 | [REVERSING](https://reversing.center)                                                                                                      | ONLINE           |                                  |
 | [RF-CHEAT](https://www.rf-cheats.ru)                                                                                                       | ONLINE           |                                  |
 | [ROOTSPLOIT](https://rootsploit.org)                                                                                                       | ONLINE           |                                  |
+| [RUNION](http://runionv3do7jdylpx7ufc6qkmygehsiuichjcstpj4hb2ycqrnmp67ad.onion)                                                            | ONLINE           |                                  |
 | [RUTOR (Dark)](http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion)                                                      | OFFLINE          |                                  |
 | [RUTOR (Dark)](http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion)                                                      | ONLINE           |                                  |
 | [RUTOR (Dark)](http://rutorclubwiypaf63caqzlqwtcxqu5w6req6h7bjnvdlm4m7tddiwoyd.onion)                                                      | ONLINE           |                                  |

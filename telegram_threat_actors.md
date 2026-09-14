@@ -967,7 +967,7 @@
 |https://t.me/INTEL_HANDALA|OFFLINE|HANDALA HACK (backup)||
 |https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||
 |https://t.me/+Lv3LYdpVyJc5ZTM0|EXPIRED|xorcat files||
-|https://t.me/+wuOFH81f2us1YmQ0|VALID|xorcat vouch||
+|https://t.me/+wuOFH81f2us1YmQ0|EXPIRED|xorcat vouch||
 |https://t.me/+32bOCuk6FctmNzll|EXPIRED|The Jacuzzi||
 |https://t.me/+pvrT-JIgj4g2MDZh|EXPIRED|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||
@@ -1025,13 +1025,13 @@
 |https://t.me/breaches|ONLINE|Breaches||
 |https://t.me/TripleXTriple|ONLINE|TripleX||
 |https://t.me/normalhuntercrime|ONLINE|Normal Hunters||
-|https://t.me/DarkLancer_news|ONLINE|DarkLancer_news||
+|https://t.me/DarkLancer_news|OFFLINE|DarkLancer_news||
 |https://t.me/neko500|ONLINE|Nekoneko200||
 |https://t.me/MrhexStore|ONLINE|Mrhex Store||
 |https://t.me/ServerKillersRussia|OFFLINE|Server Killers||
 |https://t.me/+SaW6kM8EKIA4NmFh|EXPIRED|NNM057(16) eng vers||
 |https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|DDoS|
-|https://t.me/jacuzszi|ONLINE|The Jacuzzi New Era||
+|https://t.me/jacuzszi|OFFLINE|The Jacuzzi New Era||
 |https://t.me/team1914_backup|ONLINE|Team1914_backup|DDoS|
 |https://t.me/+y58X1DJL5DdmZTNi|ONLINE|Team1914_official_Chat|DDoS|
 |https://t.me/+5Q-AbruRPvs1ODg1|VALID|Team1914_official|DDoS|

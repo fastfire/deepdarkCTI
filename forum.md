@@ -12,6 +12,7 @@
 | [ARBITRAJ](https://arbitraj-forum.ru)                                                                                                      | OFFLINE          |                                  |
 | [ASCARDING](https://ascarding.com)                                                                                                         | ONLINE           |                                  |
 | [ASTROPID](https://astropid.net)                                                                                                           | OFFLINE          |                                  |
+| [BATCHFORUMS](https://batchforums.site)                                                                                                           | ONLINE          |                                  |
 | [BFD Forum](http://bfdxjkv5e2z3ilrifzbnvxxvhbzsj67akjpj3zc6smzr4vv6oz565gyd.onion)                                                         | ONLINE           |                                  |
 | [BDF CLUB](https://bdfclub.com)                                                                                                            | ONLINE           |                                  |
 | [BEST CARDING WORLD](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion)                                                | ONLINE           |                                  |

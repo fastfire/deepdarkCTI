@@ -1038,3 +1038,4 @@
 |https://t.me/xServerKillersx|ONLINE|Server Killers||
 |https://t.me/raidbinchat|ONLINE|RaidBin||
 |https://t.me/+gchoNXafnZRiMzg0|VALID|I Am Not A villain||
+|https://t.me/+bcLw92YXGD9kZWNk|VALID|Tor Zireael||

@@ -132,6 +132,7 @@
 |[CHILE LOCKER (Victim request ID Page)](http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion/login)|OFFLINE||||
 |[CHORT](http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion)|ONLINE||||
 |[CICADA3301](http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion)|ONLINE||||
+|[CINDER](http://iah6477wcvisc45wl54u524fbrh4dnmtcctpg2fpe5epf3jbpkiwu4qd.onion)|ONLINE||||
 |[CIPHBIT](http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion)|ONLINE||5B85F0F52F989C42FE18A08351D4B9F50D7A9832DBE4A068346DE35D5CF8F410BF89FA7A7AFF||
 |[CIPHERFORCE](http://o3ydbkayttkyg4iw2nc732jxmmex25bjeyqyvuuyngnxmpehdefjr3qd.onion)|ONLINE||||
 |[CIPHERFORCE](http://22evxpggnkyrxpluewqsrv5j4jtde6hut2peq3w44d6ase676qlkoead.onion)|ONLINE||||

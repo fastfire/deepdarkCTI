@@ -40,3 +40,4 @@
 |https://x.com/HPRNEW| Handala | | OFFLINE |
 |https://x.com/TheGentlemen26| TheGentlemen | Ransomware | ONLINE |
 |https://x.com/HiderNex36505|Hider Nex| | ONLINE |
+|https://x.com/virinmadison| YOSCRYPT | DDoS/Ransomware/Data BReaches | ONLINE |

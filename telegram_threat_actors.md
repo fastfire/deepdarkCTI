@@ -1013,7 +1013,7 @@
 |https://t.me/MR_X10_SY|ONLINE|MR-X910-SY||
 |https://t.me/infrastructurek|ONLINE|infrastructure destruction squad||
 |https://t.me/+BhZxEGBzvPYwYTY1|EXPIRED|The Underground _ Uwu 😻||
-|https://t.me/HANDALA_SEC|ONLINE|Handala Hack||
+|https://t.me/HANDALA_SEC|OFFLINE|Handala Hack||
 |https://t.me/+CHpDapnyVEc1ODBl|EXPIRED|Shiny Hunters V3||
 |https://t.me/spider_cybers|OFFLINE|Scattered Spider||
 |https://t.me/CyberToothless|OFFLINE|Cyber Toothless||

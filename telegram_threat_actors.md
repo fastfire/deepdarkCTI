@@ -1039,4 +1039,6 @@
 |https://t.me/raidbinchat|ONLINE|RaidBin||
 |https://t.me/+gchoNXafnZRiMzg0|EXPIRED|I Am Not A villain||
 |https://t.me/+bcLw92YXGD9kZWNk|VALID|Tor Zireael||
-|hxxps://t.me/dr4k7h|ONLINE|DR4K7H CYBER TEAM ( D C T )||
+|https://t.me/dr4k7h|ONLINE|DR4K7H CYBER TEAM ( D C T )||
+|https://t.me/+SixmeKWogKY1NTk0|VALID|For Close System - F.C.S||
+|https://t.me/ForCloseSystem|ONLINE|For Close System - F.C.S||

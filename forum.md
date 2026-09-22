@@ -12,6 +12,7 @@
 | [ARBITRAJ](https://arbitraj-forum.ru)                                                                                                      | OFFLINE          |                                  |
 | [ASCARDING](https://ascarding.com)                                                                                                         | ONLINE           |                                  |
 | [ASTROPID](https://astropid.net)                                                                                                           | OFFLINE          |                                  |
+| [BATCHFORUMS](https://batchforums.site)                                                                                                           | ONLINE          |                                  |
 | [BFD Forum](http://bfdxjkv5e2z3ilrifzbnvxxvhbzsj67akjpj3zc6smzr4vv6oz565gyd.onion)                                                         | ONLINE           |                                  |
 | [BDF CLUB](https://bdfclub.com)                                                                                                            | ONLINE           |                                  |
 | [BEST CARDING WORLD](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion)                                                | ONLINE           |                                  |
@@ -138,6 +139,7 @@
 | [DATACLOUD](https://datacloud.space)                                                                                                       | ONLINE           |                                  |
 | [DATAFORUMS](https://dataforums.co)                                                                                                        | ONLINE           |                                  |
 | [DEDICATET](https://dedicatet.com)                                                                                                         | ONLINE           |                                  |
+| [DEEP ANSWERS](http://deeptyspkdq3nfvqvyzbkgwhtok4qoyhypsyiuo24wux4jnb6e3nyiqd.onion)                                                      | ONLINE           |                                  |
 | [DEFCON](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion)                                                            | OFFLINE          |                                  |
 | [DEMONFORUMS](https://demonforums.net)                                                                                                     | ONLINE           |                                  |
 | [DOXBYTE](https://doxbyte.com)                                                                                                             | ONLINE           |                                  |
@@ -209,6 +211,7 @@
 | [LEAKBASE](https://leakbase.bz)                                                                                                            | ONLINE           |                                  |
 | [LEAKED](https://leaked.at)                                                                                                                | ONLINE           |                                  |
 | [LEAK FORUM](https://leakforum.io)                                                                                                         | ONLINE           | https://t.me/leakforumio         |
+| [LEAK FORUM](https://leakforum.st)                                                                                                         | ONLINE           |                                  |
 | [LEAK FORUMS](https://leakforums.su)                                                                                                       | OFFLINE          |                                  |
 | [LEAK FORUMS](https://leakforums.cc)                                                                                                       | OFFLINE          |                                  |
 | [LEAKS.SO](https://leaks.so)                                                                                                               | ONLINE           |                                  |
@@ -261,11 +264,12 @@
 | [PWNFORUMS (Deep)](https://pwnforums.st/)                                                                                                  | ONLINE           | https://t.me/PwnForums           |
 | [PWNFORUMS (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)                                                  | ONLINE           | https://t.me/PwnForums           |
 | [RAID FORUMS] (https://raidforums.ru/)                                                                                                     | ONLINE           | https://t.me/RaidForumsHub       |
-| [RAID FORUMS 2](https://raidforums2.com)                                                                                                   | OFFLINE          |                                  |
 | [RAID FORUMS](https://raidforums.com)                                                                                                      | OFFLINE          |                                  |
+| [RAID FORUMS](RaidForums.im)                                                                                                               | OFFLINE          |                                  |
 | [RAID FORUMS (Mirror 1)](https://rf.ws)                                                                                                    | OFFLINE          |                                  |
 | [RAID FORUMS (Mirror 2)](https://raid.lol)                                                                                                 | OFFLINE          |                                  |
 | [RAID FORUMS (Mirror 3)](https://rfmirror.com)                                                                                             | OFFLINE          |                                  |
+| [RAID FORUMS 2](https://raidforums2.com)                                                                                                   | OFFLINE          |                                  |
 | [RAID FORUMS TWO](https://raidforumstwo.com)                                                                                               | OFFLINE          |                                  |
 | [RAMBLE](http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion)                                                            | ONLINE           |                                  |
 | [RAMP (Dark)](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion)                                                       | ONLINE           |                                  |
@@ -282,6 +286,7 @@
 | [REVERSING](https://reversing.center)                                                                                                      | ONLINE           |                                  |
 | [RF-CHEAT](https://www.rf-cheats.ru)                                                                                                       | ONLINE           |                                  |
 | [ROOTSPLOIT](https://rootsploit.org)                                                                                                       | ONLINE           |                                  |
+| [RUNION](http://runionv3do7jdylpx7ufc6qkmygehsiuichjcstpj4hb2ycqrnmp67ad.onion)                                                            | ONLINE           |                                  |
 | [RUTOR (Dark)](http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion)                                                      | OFFLINE          |                                  |
 | [RUTOR (Dark)](http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion)                                                      | ONLINE           |                                  |
 | [RUTOR (Dark)](http://rutorclubwiypaf63caqzlqwtcxqu5w6req6h7bjnvdlm4m7tddiwoyd.onion)                                                      | ONLINE           |                                  |

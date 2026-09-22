@@ -15,6 +15,7 @@
 |[DARK LEAK MARKET](http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion)| OFFLINE | |
 |[DARK ARMY](http://darkarmy5dhdw5jbml2mitgpaorzdiubxxiq5tdzsqidz55kygsrz7id.onion)| ONLINE | |
 |[DARK FAIL](https://dark.fail)| ONLINE | |
+|[DARK FAIL](http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion)| ONLINE | |
 |[DARKFEED LIVE RANSOMWARE MONITOR](https://darkfeed.io/indexransomware)| OFFLINE | |
 |[DARKFEED RANSOMWIKI](https://darkfeed.io/ransomwiki)| OFFLINE | |
 |[DARKTOR](http://darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion)| OFFLINE | |

@@ -560,7 +560,7 @@
 |https://t.me/Patriot_Black_x|ONLINE|Patriot Black Matrix||
 |https://t.me/peass|ONLINE|||
 |https://t.me/phantom_tg|ONLINE|PHANTOM DEV||
-|https://t.me/PhantomAtlasOfficial|ONLINE|Phantom Atlas|DDoS & Data Breach|
+|https://t.me/PhantomAtlasOfficial|OFFLINE|Phantom Atlas|DDoS & Data Breach|
 |https://t.me/phoenix_inform|ONLINE|PHOENIX||
 |https://t.me/phoenixinform|ONLINE|Phoenix group||
 |https://t.me/Phorcy|ONLINE|Phorcy Stealer|Infostealer|
@@ -740,7 +740,7 @@
 |https://t.me/tapandegan_official|OFFLINE|Tapandegan||
 |https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel||
 |https://t.me/+4zDdD8MeZCI1MWQ6|EXPIRED|SECTOR16||
-|https://t.me/+i2FG331VOjA0ODE1|VALID|AKULAv2||
+|https://t.me/+i2FG331VOjA0ODE1|EXPIRED|AKULAv2||
 |https://t.me/kittyforums|OFFLINE|KittyForums||
 |https://t.me/Team1956Official|OFFLINE|TEAM1956||
 |https://t.me/APTIRGC|ONLINE|APT IRGC||
@@ -954,6 +954,7 @@
 |https://t.me/BidenCashEU|OFFLINE|BidenCash - News & Updates|Market|
 |https://t.me/ShinyHuntersOfficial|OFFLINE|ShinyHunters||
 |https://t.me/+uIDt6PiHin4wMjY1|EXPIRED|scattered LAPSUS$ hunters part 9||
+|https://t.me/+z5qwJtIQtW5mYzY9|EXPIRED|scattered LAPSUS$ hunters part 9 chat||
 |https://t.me/+fQrXQuy77Ng2YzBh|EXPIRED|ShellForce||
 |https://t.me/team_pcp|OFFLINE|TeamPCP||
 |https://t.me/DBHunterX|OFFLINE|DB HunterX|Data Leaks|
@@ -966,7 +967,7 @@
 |https://t.me/INTEL_HANDALA|OFFLINE|HANDALA HACK (backup)||
 |https://t.me/handala_redwanted|OFFLINE|Handala RedWanted||
 |https://t.me/+Lv3LYdpVyJc5ZTM0|EXPIRED|xorcat files||
-|https://t.me/+wuOFH81f2us1YmQ0|VALID|xorcat vouch||
+|https://t.me/+wuOFH81f2us1YmQ0|EXPIRED|xorcat vouch||
 |https://t.me/+32bOCuk6FctmNzll|EXPIRED|The Jacuzzi||
 |https://t.me/+pvrT-JIgj4g2MDZh|EXPIRED|ShinyHunters||
 |https://t.me/p3Nt3st3rsTAr|ONLINE|||
@@ -975,7 +976,7 @@
 |https://t.me/jacuzzi|ONLINE|life of the party (breached.st forum)||
 |https://t.me/breaches|ONLINE|Breaches (breached.st forum)||
 |https://t.me/breached_su|OFFLINE|breached (breached.su forum)||
-|https://t.me/+eT1mVGSR-AxmNDlk|ONLINE|FEMBOYSec Intelligence (FEMBOY forum)||
+|https://t.me/+eT1mVGSR-AxmNDlk|OFFLINE|FEMBOYSec Intelligence (FEMBOY forum)||
 |https://t.me/ironatlas_organization|ONLINE|ɪʀᴏɴ ᴀᴛʟᴀꜱ ɴᴇᴡ ɢᴇɴᴇʀᴀᴛɪᴏɴ||
 |https://t.me/r3_6j|ONLINE|FAD Team||
 |https://t.me/BabayoErorSytem1|ONLINE|BABAYO EROR SYSTEM||
@@ -1012,19 +1013,32 @@
 |https://t.me/MR_X10_SY|ONLINE|MR-X910-SY||
 |https://t.me/infrastructurek|ONLINE|infrastructure destruction squad||
 |https://t.me/+BhZxEGBzvPYwYTY1|EXPIRED|The Underground _ Uwu 😻||
-|https://t.me/HANDALA_SEC|ONLINE|Handala Hack||
+|https://t.me/HANDALA_SEC|OFFLINE|Handala Hack||
 |https://t.me/+CHpDapnyVEc1ODBl|EXPIRED|Shiny Hunters V3||
 |https://t.me/spider_cybers|OFFLINE|Scattered Spider||
 |https://t.me/CyberToothless|OFFLINE|Cyber Toothless||
-|https://t.me/CRPX0|ONLINE|CRPx0 Official||
+|https://t.me/CRPX0|OFFLINE|CRPx0 Official||
 |https://telegram.me/Defacement|ONLINE|Telkom Zone H||
 |https://t.me/+HrZbMsIRlIQ3NTU1|EXPIRED|Scattered hunters Back Up||
 |https://t.me/Hexvior_breach|ONLINE|Hexvior OSINT||
-|https://t.me/+z5qwJtIQtW5mYzY9|ONLINE|Scattered Hunters V2||
 |https://t.me/RFShoutbox|ONLINE|Raid Forums||
 |https://t.me/breaches|ONLINE|Breaches||
 |https://t.me/TripleXTriple|ONLINE|TripleX||
 |https://t.me/normalhuntercrime|ONLINE|Normal Hunters||
-|https://t.me/DarkLancer_news|ONLINE|DarkLancer_news||
+|https://t.me/DarkLancer_news|OFFLINE|DarkLancer_news||
 |https://t.me/neko500|ONLINE|Nekoneko200||
 |https://t.me/MrhexStore|ONLINE|Mrhex Store||
+|https://t.me/ServerKillersRussia|OFFLINE|Server Killers||
+|https://t.me/+SaW6kM8EKIA4NmFh|EXPIRED|NNM057(16) eng vers||
+|https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|DDoS|
+|https://t.me/jacuzszi|OFFLINE|The Jacuzzi New Era||
+|https://t.me/team1914_backup|ONLINE|Team1914_backup|DDoS|
+|https://t.me/+y58X1DJL5DdmZTNi|ONLINE|Team1914_official_Chat|DDoS|
+|https://t.me/+5Q-AbruRPvs1ODg1|VALID|Team1914_official|DDoS|
+|https://t.me/xServerKillersx|ONLINE|Server Killers||
+|https://t.me/raidbinchat|ONLINE|RaidBin||
+|https://t.me/+gchoNXafnZRiMzg0|EXPIRED|I Am Not A villain||
+|https://t.me/+bcLw92YXGD9kZWNk|VALID|Tor Zireael||
+|https://t.me/dr4k7h|ONLINE|DR4K7H CYBER TEAM ( D C T )||
+|https://t.me/+SixmeKWogKY1NTk0|VALID|For Close System - F.C.S||
+|https://t.me/ForCloseSystem|ONLINE|For Close System - F.C.S||

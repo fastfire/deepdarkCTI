@@ -1042,3 +1042,6 @@
 |https://t.me/dr4k7h|ONLINE|DR4K7H CYBER TEAM ( D C T )||
 |https://t.me/+SixmeKWogKY1NTk0|VALID|For Close System - F.C.S||
 |https://t.me/ForCloseSystem|ONLINE|For Close System - F.C.S||
+|https://t.me/alnaaze757|ONLINE|Elite Squad||
+|https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel - Leaks||
+|https://t.me/+yHbZsasiHkE0MWYy|ONLINE|Elite Squad Chat||

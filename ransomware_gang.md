@@ -9,6 +9,7 @@
 |[RANSOMWARE GROUP SITES (list)](http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion)|ONLINE|||
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomlook.io/)|ONLINE|||
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomware.live/)|ONLINE|||
+|[THREATCLUSTER RANSOMWARE TRACKER](https://threatcluster.io/dark-web)|ONLINE|||https://threatcluster.io/dark-web/feed.xml|
 |[RANSOMNEWS](https://ransomnews.online)|ONLINE|||
 |[0APT](http://oaptxiyisljt2kv3we2we34kuudmqda7f2geffoylzpeo7ourhtz4dad.onion)|ONLINE||||
 |[0DAY](http://odaygplp3zhyx7zl45egetl6dzc4reduisnoyym34rjdmaryfaz5doqd.onion)|ONLINE||||

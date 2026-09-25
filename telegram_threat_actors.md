@@ -1027,7 +1027,7 @@
 |https://t.me/normalhuntercrime|ONLINE|Normal Hunters||
 |https://t.me/DarkLancer_news|OFFLINE|DarkLancer_news||
 |https://t.me/neko500|ONLINE|Nekoneko200||
-|https://t.me/MrhexStore|ONLINE|Mrhex Store||
+|https://t.me/MrhexStore|OFFLINE|Mrhex Store||
 |https://t.me/ServerKillersRussia|OFFLINE|Server Killers||
 |https://t.me/+SaW6kM8EKIA4NmFh|EXPIRED|NNM057(16) eng vers||
 |https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|DDoS|

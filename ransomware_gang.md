@@ -248,6 +248,7 @@
 |[GD LOCKERSEC](http://igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd.onion)|ONLINE||||
 |[GENESIS](http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion)|ONLINE||||
 |[GLOBAL](http://vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion)|ONLINE||0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c||
+|[GLOBAL CYBERNETIC COLLECTIVE](http://globalrbweyhxxa5b65bjjsm5bfuqfs5ydizefupqcminoedzn6o2sqd.onion)|ONLINE||||
 |[GLOBAL SECRET](http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion)|ONLINE||||
 |[GOODWILL (Dashboard)](http://9855-13-235-50-147.ngrok.io)|OFFLINE||||
 |[GRIEF](http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion)|OFFLINE||||

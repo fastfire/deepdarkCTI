@@ -684,6 +684,7 @@
 |[VICE SOCIETY](http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion)|ONLINE||||
 |[VLADIVOSTOK](http://dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion)|ONLINE||||
 |[VSOP (ex ONIX)](http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion)|OFFLINE||||
+|[ULOSE](http://egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion)|ONLINE||||
 |[WALLSTREET](http://4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion)|ONLINE||||
 |[WALocker](http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion/)|ONLINE||||
 |[WARLOCK](http://elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion)|ONLINE||||

@@ -1045,3 +1045,4 @@
 |https://t.me/alnaaze757|ONLINE|Elite Squad||
 |https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel - Leaks||
 |https://t.me/+yHbZsasiHkE0MWYy|ONLINE|Elite Squad Chat||
+|https://t.me/UNC6040prt2|ONLINE|ShinyKingHuntersprt2||

@@ -687,6 +687,7 @@
 |[VLADIVOSTOK](http://dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion)|ONLINE||||
 |[VSOP (ex ONIX)](http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion)|OFFLINE||||
 |[ULOSE](http://egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion)|ONLINE||||
+|[UMBRA](http://umbra7isogjsgdcndz3uu6qvl5zftjptt6s3iiuecjlwbt4yqyvrhcid.onion)|ONLINE||05e968dec429b5136fd94eccbec67ce1c56c7ba10014e35a70cc60dba3d58f2836||
 |[WALLSTREET](http://4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion)|ONLINE||||
 |[WALocker](http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion/)|ONLINE||||
 |[WARLOCK](http://elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion)|ONLINE||||

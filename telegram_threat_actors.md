@@ -929,7 +929,7 @@
 |https://t.me/Hider_Nex_Attacks|ONLINE|Hider Nex|DDoS|
 |https://t.me/+5UAb5KgYPChiMzhk|VALID|Hider Nex (Backup)|DDoS|
 |https://t.me/+6nmGy6pn1b03OTk0|VALID|Hider Nex (Shop)|DataLeaks|
-|https://t.me/kittykatkrew|ONLINE|Kittykatkrew|Ransomware|
+|https://t.me/kittykatkrew|OFFLINE|Kittykatkrew|Ransomware|
 |https://t.me/+D2e-YSFvtAhhMWU1|VALID|BFRepoV4Files|DataLeaks|
 |https://t.me/+jHO-f5fXqZsyNWM1|EXPIRED|WHALEHUNTERS||
 |https://t.me/+PUmtLabVTT9mODA1|EXPIRED|WHALE FILES||

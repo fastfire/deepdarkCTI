@@ -1048,3 +1048,4 @@
 |https://t.me/UNC6040prt2|ONLINE|ShinyKingHuntersprt2||
 |https://t.me/+S2ElF-QqbdA4MGU1|VALID|SH||
 |https://t.me/SHdatacenter|ONLINE|ShinyHunters Leaks||
+|https://t.me/LoungePF|ONLINE|LougnPF (Pwnforums)|Forum|

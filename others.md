@@ -43,6 +43,7 @@
 |[RANSOMWARE VICTIMS TRACKER](https://ransom.wiki)| ONLINE | |
 |[SAUDI ARAMCO LEAK](http://662m7dfcpfsmeetqucdekz3rn4a6dxsxbdjwd6iz3rwnogjsj7i3hxad.onion)| OFFLINE | |
 |[StrangerealIntel](https://github.com/StrangerealIntel)| ONLINE |GitHub Repo|
+|[TGSCOPE](https://tgscope.io)| ONLINE | Telegram channel search engine (3M+ public channels); estimates a channel's creation date from its ID: https://tgscope.io/tools/telegram-channel-creation-date |
 |[THE DIGEST CRYPTO-RANSOMWARE](https://id-ransomware.blogspot.com)| ONLINE | |
 |[TWEETFEED](https://github.com/0xDanielLopez/TweetFeed)| ONLINE | GitHub Repo|
 |[TOR INDEX TAXI](http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion)| ONLINE | |

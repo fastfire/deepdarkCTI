@@ -63,4 +63,5 @@ Thanks to [IntelligenceX](https://intelx.io/dorks)
 - Zoom: https://www.google.com/search?q=%22zoom.us%2Fj%2F%22
 - Google Hangouts: https://www.google.com/search?q=%22hangouts.google.com%2Fgroup%2F%22%20-site:google.com
 - Telegram: https://www.google.com/search?q=%22t.me%2Fjoinchat%22
+- Telegram public channels by keyword: https://tgscope.io/search?q=ransomware (check how old a channel is with https://tgscope.io/tools/telegram-channel-creation-date: freshly created channels often belong to rebranded or banned actors)
 - Whatsapp: https://www.bing.com/search?q=site%3Achat.whatsapp.com

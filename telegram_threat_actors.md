@@ -1054,3 +1054,4 @@
 |https://t.me/+knSjTUFyz2k5N2U1|VALID|SH - PART 4||
 |https://t.me/+DrRnoicKhmM2NjBl|VALID|SH - PART 5||
 |https://t.me/syndnet|ONLINE|fuck society||
+|https://t.me/cybertroll2|ONLINE|CyberTroll Team Main||

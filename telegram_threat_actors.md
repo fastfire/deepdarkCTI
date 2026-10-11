@@ -1055,3 +1055,5 @@
 |https://t.me/+DrRnoicKhmM2NjBl|VALID|SH - PART 5||
 |https://t.me/syndnet|ONLINE|fuck society||
 |https://t.me/cybertroll2|ONLINE|CyberTroll Team Main||
+|https://t.me/ShinyEquationCartel|ONLINE|ShinyEquationCartel||
+|https://t.me/Breachforumsh|ONLINE|Breachforums Official||

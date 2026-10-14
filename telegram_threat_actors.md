@@ -1046,7 +1046,7 @@
 |https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel - Leaks||
 |https://t.me/+yHbZsasiHkE0MWYy|ONLINE|Elite Squad Chat||
 |https://t.me/UNC6040prt2|ONLINE|ShinyKingHuntersprt2||
-|https://t.me/+S2ElF-QqbdA4MGU1|VALID|SH||
+|https://t.me/+S2ElF-QqbdA4MGU1|EXPIRED|SH||
 |https://t.me/SHdatacenter|ONLINE|ShinyHunters Leaks||
 |https://t.me/LoungePF|ONLINE|LougnPF (Pwnforums)|Forum|
 |https://t.me/+is1gFZnRfK40YmY1|VALID|SH - PART 2||
@@ -1054,6 +1054,6 @@
 |https://t.me/+knSjTUFyz2k5N2U1|VALID|SH - PART 4||
 |https://t.me/+DrRnoicKhmM2NjBl|VALID|SH - PART 5||
 |https://t.me/syndnet|ONLINE|fuck society||
-|https://t.me/cybertroll2|ONLINE|CyberTroll Team Main||
+|https://t.me/cybertroll2|OFFLINE|CyberTroll Team Main||
 |https://t.me/ShinyEquationCartel|ONLINE|ShinyEquationCartel||
 |https://t.me/Breachforumsh|ONLINE|Breachforums Official||

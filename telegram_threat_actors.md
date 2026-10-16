@@ -733,7 +733,7 @@
 |https://t.me/ru_62IX|ONLINE|62IX Group||
 |https://t.me/Assasins_Official|ONLINE|Assassins||
 |https://t.me/+bgICy4GovA0yMWU1|EXPIRED|R-9X||
-|https://t.me/revolusihime666|ONLINE|HIME666||
+|https://t.me/revolusihime666|OFFLINE|HIME666||
 |https://t.me/fredenscombos|ONLINE|Fredens of Security|combos|
 |https://t.me/+HG32VQZ93-4zMjE1|VALID|Sumatra Utara Cyber Team||
 |https://t.me/ckeArsenal|ONLINE|ckeArsenal||
@@ -908,7 +908,7 @@
 |https://t.me/+qXH1PraFI7YxNjg1|EXPIRED|CyberOprationCulture||
 |https://t.me/dienet3|ONLINE|DieNet|DDoS|
 |https://t.me/dienet1|ONLINE|DieNet|DDoS|
-|https://t.me/z_bl4cx_h4t_id|ONLINE|Z-BL4CX-H4T.ID||
+|https://t.me/z_bl4cx_h4t_id|OFFLINE|Z-BL4CX-H4T.ID||
 |https://t.me/bfsup|ONLINE|BF|Forum|
 |https://t.me/Breach_VIP|OFFLINE|Breach.VIP|DataLeaks|
 |https://t.me/Venari_By_BetterCyber|ONLINE|VenariX||
@@ -929,7 +929,7 @@
 |https://t.me/Hider_Nex_Attacks|ONLINE|Hider Nex|DDoS|
 |https://t.me/+5UAb5KgYPChiMzhk|VALID|Hider Nex (Backup)|DDoS|
 |https://t.me/+6nmGy6pn1b03OTk0|VALID|Hider Nex (Shop)|DataLeaks|
-|https://t.me/kittykatkrew|ONLINE|Kittykatkrew|Ransomware|
+|https://t.me/kittykatkrew|OFFLINE|Kittykatkrew|Ransomware|
 |https://t.me/+D2e-YSFvtAhhMWU1|VALID|BFRepoV4Files|DataLeaks|
 |https://t.me/+jHO-f5fXqZsyNWM1|EXPIRED|WHALEHUNTERS||
 |https://t.me/+PUmtLabVTT9mODA1|EXPIRED|WHALE FILES||
@@ -1027,7 +1027,7 @@
 |https://t.me/normalhuntercrime|ONLINE|Normal Hunters||
 |https://t.me/DarkLancer_news|OFFLINE|DarkLancer_news||
 |https://t.me/neko500|ONLINE|Nekoneko200||
-|https://t.me/MrhexStore|ONLINE|Mrhex Store||
+|https://t.me/MrhexStore|OFFLINE|Mrhex Store||
 |https://t.me/ServerKillersRussia|OFFLINE|Server Killers||
 |https://t.me/+SaW6kM8EKIA4NmFh|EXPIRED|NNM057(16) eng vers||
 |https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|DDoS|
@@ -1042,3 +1042,18 @@
 |https://t.me/dr4k7h|ONLINE|DR4K7H CYBER TEAM ( D C T )||
 |https://t.me/+SixmeKWogKY1NTk0|VALID|For Close System - F.C.S||
 |https://t.me/ForCloseSystem|ONLINE|For Close System - F.C.S||
+|https://t.me/alnaaze757|ONLINE|Elite Squad||
+|https://t.me/X8ZZX|ONLINE|National Security - To Destroy Israel - Leaks||
+|https://t.me/+yHbZsasiHkE0MWYy|ONLINE|Elite Squad Chat||
+|https://t.me/UNC6040prt2|ONLINE|ShinyKingHuntersprt2||
+|https://t.me/+S2ElF-QqbdA4MGU1|EXPIRED|SH||
+|https://t.me/SHdatacenter|ONLINE|ShinyHunters Leaks||
+|https://t.me/LoungePF|ONLINE|LougnPF (Pwnforums)|Forum|
+|https://t.me/+is1gFZnRfK40YmY1|VALID|SH - PART 2||
+|https://t.me/+QtwXY6nRr_8wODI1|VALID|SH - PART 3||
+|https://t.me/+knSjTUFyz2k5N2U1|VALID|SH - PART 4||
+|https://t.me/+DrRnoicKhmM2NjBl|VALID|SH - PART 5||
+|https://t.me/syndnet|ONLINE|fuck society||
+|https://t.me/cybertroll2|OFFLINE|CyberTroll Team Main||
+|https://t.me/ShinyEquationCartel|ONLINE|ShinyEquationCartel||
+|https://t.me/Breachforumsh|ONLINE|Breachforums Official||

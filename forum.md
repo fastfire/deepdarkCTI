@@ -261,8 +261,9 @@
 | [PROLOGIC](https://prologic.su)                                                                                                            | ONLINE           |                                  |
 | [PROTON](https://proton.sc)                                                                                                                | ONLINE           |                                  |
 | [PSHACK](https://pshack.org)                                                                                                               | ONLINE           |                                  |
-| [PWNFORUMS (Deep)](https://pwnforums.st/)                                                                                                  | ONLINE           | https://t.me/PwnForums           |
-| [PWNFORUMS (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)                                                  | ONLINE           | https://t.me/PwnForums           |
+| [PWNFORUMS (Deep)](https://pwnforums.st)                                                                                                   | OFFLINE          | https://t.me/PwnForums           |
+| [PWNFORUMS (Deep)](https://pwnforums.pw)                                                                                                   | ONLINE           | https://t.me/PwnForums           |
+| [PWNFORUMS (Dark)](http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion)                                                  | ONLINE           | https://t.me/LoungePF            |
 | [RAID FORUMS] (https://raidforums.ru/)                                                                                                     | ONLINE           | https://t.me/RaidForumsHub       |
 | [RAID FORUMS](https://raidforums.com)                                                                                                      | OFFLINE          |                                  |
 | [RAID FORUMS](RaidForums.im)                                                                                                               | OFFLINE          |                                  |

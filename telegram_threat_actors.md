@@ -1058,3 +1058,4 @@
 |https://t.me/ShinyEquationCartel|ONLINE|ShinyEquationCartel||
 |https://t.me/Breachforumsh|ONLINE|Breachforums Official||
 |https://t.me/+rA5BG6LgMEEyYzJk|VALID|Houthi Hacker 711||
+|https://t.me/shinyequationcartelbackup|ONLINE|S.E.C||

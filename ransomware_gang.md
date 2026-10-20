@@ -697,6 +697,7 @@
 |[WARLOCK](http://zfytizegsze6uiswodhbaalyy5rawaytv2nzyzdkt3susbewviqqh7yd.onion)|ONLINE||||
 |[WEREWOLVES GROUP](https://werewolves.pro/en/)|ONLINE||||
 |[WEYHRO](http://xtxtpqpyaaek4p4525ksepyyy75gfvi47fptm2gftw7cn656rnfhzdqd.onion/leaks)|ONLINE||||
+|[WHITEARMOR W.A](http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion)|ONLINE||05e7d90e446b823946dc3dfd8210ce14835cad13b28edadc798b51c186a29f5f7b||
 |[WIPER LEAK (only on Discord)](https://discord.com/invite/jjZQdDNnGh)|ONLINE||||
 |[WORLDLEAKS](http://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion)|ONLINE||||
 |[WORLDLEAKS (Early Access)](https://3jguvp6xhyypdjgxhxweu4zklse66v3awjj2zljpftcjyeoimepnwtyd.onion)|ONLINE||||

@@ -542,7 +542,7 @@
 |https://t.me/nohidespace|OFFLINE|Combo List||
 |https://t.me/NoName05716_16|OFFLINE|NoName057(16) Eng_vers|DDoS|
 |https://t.me/nnm05716engvers|OFFLINE|NoName057(16) Eng_vers|DDoS|
-|https://t.me/nnm05716english|ONLINE|NoName057(16) Eng_vers|DDoS|
+|https://t.me/nnm05716english|OFFLINE|NoName057(16) Eng_vers|DDoS|
 |https://t.me/+Ujf-93Ce5Lo5ZGE0|EXPIRED|PE3EPBNNNM057|DDoS|
 |https://t.me/+JJWRiS8ab1FmZGI0|EXPIRED|PE3EPBNNNM057|DDoS|
 |https://t.me/TwoNetchannel|OFFLINE|TwoNet|DDoS|

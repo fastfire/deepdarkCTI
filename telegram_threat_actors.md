@@ -1060,3 +1060,6 @@
 |https://t.me/+rA5BG6LgMEEyYzJk|VALID|Houthi Hacker 711||
 |https://t.me/shinyequationcartelbackup|ONLINE|S.E.C||
 |https://t.me/+c6YjupW8zIVkOTQ1|VALID|Official SH contact||
+|https://t.me/espeonsh|ONLINE|ShinyHunters/Lapsus$/UNC6783||
+|https://t.me/outsidenovember|ONLINE|OutSideNovember||
+|https://t.me/NewUNC6783|ONLINE|UNC6783||

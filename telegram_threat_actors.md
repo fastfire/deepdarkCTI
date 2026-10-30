@@ -1063,3 +1063,7 @@
 |https://t.me/espeonsh|ONLINE|ShinyHunters/Lapsus$/UNC6783||
 |https://t.me/outsidenovember|ONLINE|OutSideNovember||
 |https://t.me/NewUNC6783|ONLINE|UNC6783||
+|https://t.me/infrastructuredestruction|ONLINE|Infrastructure Destruction Squad||
+|https://t.me/zzzszzsd|ONLINE|infrastructure destruction squad 聊天||
+|https://t.me/waykuratdistrc|ONLINE|WAY-KURAP OPERATION||
+|https://t.me/Ransomwareg|ONLINE|BLACKNET-00 Ransomware||

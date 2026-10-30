@@ -1069,3 +1069,12 @@
 |https://t.me/Ransomwareg|ONLINE|BLACKNET-00 Ransomware||
 |https://t.me/darkstormteam9|ONLINE|Dark Storm Team||
 |https://t.me/darkstormteamchats|ONLINE|Dark Storm Team chat||
+|https://t.me/+yM1NGYGCKQk3MGIx|ONLINE|NoName057(16)||
+|https://t.me/+y5wwDVXk9Yg0NWQx|ONLINE|NoName057(16) eng vers||
+|https://t.me/httpstmeVI8Cr1np5kxhy4|ONLINE|BD Anonymous||
+|https://t.me/+mkenB9QfhQliMDZk|ONLINE|DDoSia Project||
+|https://t.me/+mwIXV9Zifx45NTEx|ONLINE|NoName057(16)||
+|https://t.me/+q3YVsglIc-c0ZTQx|ONLINE|NoName057(16)||
+|https://t.me/nnm05716fra|ONLINE|NoName057(16)||
+|https://t.me/+VCbIg0TBi4BjY2Nh|ONLINE|NoName057(16)||
+|https://t.me/+s4lixGcPk_hlOTMx|ONLINE|NoName057(16)||

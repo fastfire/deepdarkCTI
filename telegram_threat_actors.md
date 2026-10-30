@@ -1067,3 +1067,5 @@
 |https://t.me/zzzszzsd|ONLINE|infrastructure destruction squad 聊天||
 |https://t.me/waykuratdistrc|ONLINE|WAY-KURAP OPERATION||
 |https://t.me/Ransomwareg|ONLINE|BLACKNET-00 Ransomware||
+|https://t.me/darkstormteam9|ONLINE|Dark Storm Team||
+|https://t.me/darkstormteamchats|ONLINE|Dark Storm Team chat||

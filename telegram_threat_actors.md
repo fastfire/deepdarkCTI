@@ -1078,3 +1078,6 @@
 |https://t.me/nnm05716fra|ONLINE|NoName057(16)||
 |https://t.me/+VCbIg0TBi4BjY2Nh|ONLINE|NoName057(16)||
 |https://t.me/+s4lixGcPk_hlOTMx|ONLINE|NoName057(16)||
+|https://t.me/+35h5P-WxO6MyMTJh|VALID|SH Groups 2||
+|https://t.me/+c6YjupW8zIVkOTQ1|VALID|SHINY CORP 2||
+|https://t.me/SWORDINTEL|ONLINE|The Silicon Inspector||

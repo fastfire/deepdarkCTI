@@ -486,6 +486,7 @@
 |[NULLBULGE](https://nullbulge.co/blog.html)|ONLINE||||
 |[OBSCURA](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||AE55FC0EB1C25A5B081650108F9081E236DECE1CE08D2E185A6F15B9FB48E700210BED374643||
 |[OBSCURA 2.0](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||7521730C07CF45D363A627F32B3102F3F7FA72F36C2C5F9EAB0C7FBA4668527F62A90EF333E6||
+|[OBSOFT](http://6hzpdc5pxt57jmjxyegwjyhcinr2z3ajucizndehykz7zfrtaptln5qd.onion)|ONLINE||||
 |[ONEPERCENT](http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion)|OFFLINE||||
 |[ORCA](http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion)|ONLINE||||
 |[ORION](http://cjfntkj5qeizxowuy3srceg7zo6namc3kfeor7pfn6bpdkl3w265ooid.onion)|ONLINE||||

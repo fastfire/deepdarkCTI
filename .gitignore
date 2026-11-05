@@ -1,0 +1,16 @@
+# OS & System Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary / Log files
+*.log
+*.tmp
+.cache/

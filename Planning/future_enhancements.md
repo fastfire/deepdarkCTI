@@ -27,3 +27,4 @@ This document outlines planned improvements to evolve this CTI repository from a
   - Tag entries with associated threat actors (e.g., LockBit, BlackCat/ALPHV, Play) and suspected nation-state affiliations or cybercrime motives.
 - [ ] **Searchable Web Directory**:
   - Build a lightweight Static Site (GitHub Pages) with full-text search, category filtering, and copyable links.
+

@@ -486,7 +486,7 @@
 |[NULLBULGE](https://nullbulge.co/blog.html)|ONLINE||||
 |[OBSCURA](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||AE55FC0EB1C25A5B081650108F9081E236DECE1CE08D2E185A6F15B9FB48E700210BED374643||
 |[OBSCURA 2.0](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||7521730C07CF45D363A627F32B3102F3F7FA72F36C2C5F9EAB0C7FBA4668527F62A90EF333E6||
-|[OBSOFT](http://6hzpdc5pxt57jmjxyegwjyhcinr2z3ajucizndehykz7zfrtaptln5qd.onion)|ONLINE||||
+|[OBSOFT](http://6hzpdc5pxt57jmjxyegwjyhcinr2z3ajucizndehykz7zfrtaptln5qd.onion)|ONLINE||546E7020A4555378F824BA528E4845CD549A31CC7EA148F10174921FACAFBB640B5F5934DF5D||
 |[ONEPERCENT](http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion)|OFFLINE||||
 |[ORCA](http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion)|ONLINE||||
 |[ORION](http://cjfntkj5qeizxowuy3srceg7zo6namc3kfeor7pfn6bpdkl3w265ooid.onion)|ONLINE||||
@@ -501,6 +501,8 @@
 |[PAYLOAD](http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion)|ONLINE||||
 |[Payouts King](https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion)|ONLINE||535F403A2EA2DC71A392E18D7DB77FEF70845C0B7E5B9114CD30D301870304379C3547E324E2||
 |[PEAR](http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion)|ONLINE|pear@onionmail.org|457BB4E5DF0E650509322CA894758D925A568828090A3449D5AEEED30E9B8E18DDDFF71909ED||
+|[PIXELLEAKS](http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion)|ONLINE||||
+|[PIXELLEAKS](http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion)|ONLINE||546E7020A4555378F824BA528E4845CD549A31CC7EA148F10174921FACAFBB640B5F5934DF5D|http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion/feed|
 |[PLAY](http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion)|OFFLINE||||
 |[PLAY](http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion)|OFFLINE||||
 |[PLAY](http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion)|ONLINE||||

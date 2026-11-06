@@ -191,6 +191,7 @@
 |[DARK VAULT (blog)](http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion)|ONLINE||||
 |[DATA CARRY](http://dcarryhaih5oldidg3tbqwnde4lxljytnpvberrwgj2vlvunopd46dad.onion)|ONLINE||||
 |[DESOLATOR](http://po4tq2brx4rgwbdx4mac24fz34uuuf7oigosebp32n2462m2vxl6biqd.onion/wall_of_shame)|ONLINE||||
+|[DESTELLO](http://destell6tk2la7w4d7d4apfzsywbt2lsdpui7i2rsfyrike7pxolrbyd.onion)|ONLINE||||
 |[DEVMAN](http://qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion)|OFFLINE||||
 |[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|OFFLINE||||
 |[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|OFFLINE||||

@@ -1081,3 +1081,4 @@
 |https://t.me/+35h5P-WxO6MyMTJh|VALID|SH Groups 2||
 |https://t.me/+c6YjupW8zIVkOTQ1|VALID|SHINY CORP 2||
 |https://t.me/SWORDINTEL|ONLINE|The Silicon Inspector||
+|https://t.me/+iK7ypBGWTUJlOGI0|VALID|Z-Pentest||

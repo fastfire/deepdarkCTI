@@ -1082,3 +1082,5 @@
 |https://t.me/+c6YjupW8zIVkOTQ1|VALID|SHINY CORP 2||
 |https://t.me/SWORDINTEL|ONLINE|The Silicon Inspector||
 |https://t.me/+iK7ypBGWTUJlOGI0|VALID|Z-Pentest||
+|https://t.me/MrS0ul_Official|ONLINE|Mr. Soul Official||
+|https://t.me/Cyb3rAvengers|ONLINE|CyberAv3ngers||

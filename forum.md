@@ -241,6 +241,7 @@
 | [NOHIDESPACE](https://nohide.space)                                                                                                        | ONLINE           |                                  |
 | [NULLEDBB](https://nulledbb.com)                                                                                                           | ONLINE           |                                  |
 | [NULLED](https://www.nulled.to)                                                                                                            | SEIZED           |                                  |
+| [NULLED](https://www.nulled.SH)                                                                                                            | ONLINE           |                                  |
 | [NULLEDX](https://nulledx.to)                                                                                                              | ONLINE           |                                  |
 | [OGUSERS](https://www.oguser.com)                                                                                                          | ONLINE           |                                  |
 | [OLVX](https://olvx.cc)                                                                                                                    | ONLINE           |                                  |

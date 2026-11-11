@@ -139,7 +139,7 @@
 |[CIPHBIT](http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion)|ONLINE||5B85F0F52F989C42FE18A08351D4B9F50D7A9832DBE4A068346DE35D5CF8F410BF89FA7A7AFF||
 |[CIPHERFORCE](http://o3ydbkayttkyg4iw2nc732jxmmex25bjeyqyvuuyngnxmpehdefjr3qd.onion)|ONLINE||||
 |[CIPHERFORCE](http://22evxpggnkyrxpluewqsrv5j4jtde6hut2peq3w44d6ase676qlkoead.onion)|ONLINE||||
-|[CLIMAX](http://climaxf4srk4qzr5g7smfodx6q5ocpiwmls5qujfl7g3j33us4cksdad.onion)|ONLINE||||
+|[CLIMAX INC](http://climaxf4srk4qzr5g7smfodx6q5ocpiwmls5qujfl7g3j33us4cksdad.onion)|ONLINE||91413065BA546646E2FA334556978F4F76E8D4CD228656B4B9A695ADAB7F283692C3012E9FE9||
 |[CLOAK](http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion)|ONLINE||||
 |[CLOP](http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion)|ONLINE||||
 |[CLOP](http://clopofffr7tth6hsvxx3cys4qkshrbbiitnxfwts6hj64mtnaovjieyd.onion)|ONLINE
@@ -697,6 +697,7 @@
 |[VICE SOCIETY](http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion)|ONLINE||||
 |[VICE SOCIETY](http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion)|ONLINE||||
 |[VLADIVOSTOK](http://dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion)|ONLINE||||
+|[VORTEX](http://zyz6phauvraxghujxmecpwzlg34gtogybb4wzcmw6pvps5m2nzvsriid.onion)|ONLINE||||
 |[VSOP (ex ONIX)](http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion)|OFFLINE||||
 |[ULOSE](http://egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion)|ONLINE||||
 |[UMBRA](http://umbra7isogjsgdcndz3uu6qvl5zftjptt6s3iiuecjlwbt4yqyvrhcid.onion)|ONLINE||05e968dec429b5136fd94eccbec67ce1c56c7ba10014e35a70cc60dba3d58f2836||

@@ -1084,3 +1084,4 @@
 |https://t.me/+iK7ypBGWTUJlOGI0|VALID|Z-Pentest||
 |https://t.me/MrS0ul_Official|ONLINE|Mr. Soul Official||
 |https://t.me/Cyb3rAvengers|ONLINE|CyberAv3ngers||
+|https://t.me/wiped404|ONLINE|Wiped|DDoS|

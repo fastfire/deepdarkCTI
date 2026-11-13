@@ -1075,7 +1075,7 @@
 |https://t.me/+mkenB9QfhQliMDZk|ONLINE|DDoSia Project||
 |https://t.me/+mwIXV9Zifx45NTEx|ONLINE|NoName057(16)||
 |https://t.me/+q3YVsglIc-c0ZTQx|ONLINE|NoName057(16)||
-|https://t.me/nnm05716fra|ONLINE|NoName057(16)||
+|https://t.me/nnm05716fra|ONLINE|NoName057(16) - FR||
 |https://t.me/+VCbIg0TBi4BjY2Nh|ONLINE|NoName057(16)||
 |https://t.me/+s4lixGcPk_hlOTMx|ONLINE|NoName057(16)||
 |https://t.me/+35h5P-WxO6MyMTJh|VALID|SH Groups 2||
@@ -1085,3 +1085,9 @@
 |https://t.me/MrS0ul_Official|ONLINE|Mr. Soul Official||
 |https://t.me/Cyb3rAvengers|ONLINE|CyberAv3ngers||
 |https://t.me/wiped404|ONLINE|Wiped|DDoS|
+|https://t.me/+jwNpFQT7WMw5Mjg0|VALID|DDoSia Project||
+|https://t.me/+1QpgQXid7A85NWRh|VALID|NoName057(16) eng vers||
+|https://t.me/+tFkAL9_LZYRjZTNh|VALID|NoName057(16) - DE||
+|https://t.me/+-ojdpM4FCPA1MzAx|VALID|NoName057(16) - ES||
+|https://t.me/+IXLNLLsXEg83OGUx|VALID|NoName057(16) - IT||
+|https://t.me/+EAXSh4Lu20cwMzRh|VALID|NoName057(16) - RU||

@@ -122,6 +122,14 @@
 |[Russian Market (Tor v2)](http://rusmarkethgwhfbn.onion)| OFFLINE | |
 |[Russian Market (Tor v3)](http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion)| ONLINE | |
 |[Russian Market (Tor v3)](http://rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion)| ONLINE | |
+|[SeverVault](https://sever.to)| ONLINE | |
+|[SeverVault](https://sever.ws)| ONLINE | |
+|[SeverVault](https://sever.cx)| ONLINE | |
+|[SeverVault](https://sever.st)| ONLINE | |
+|[SeverVault](https://severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion)| ONLINE | |
+|[SeverVault](https://sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion)| ONLINE | |
+|[SeverVault](https://severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion)| ONLINE | |
+|[SeverVault](https://severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion)| ONLINE | |
 |[SHADOWCARDERS](https://shadowcarders.com)| ONLINE | |
 |[SIBERIANSHELVES](http://roiuzftqij2buyxgsfxdk4rcjl2dujoe5wcgwscr7cshc5hl6ulqgkyd.onion)| ONLINE | |
 |[SOLOMON](http://si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion)| ONLINE | |

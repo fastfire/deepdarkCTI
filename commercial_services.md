@@ -7,3 +7,5 @@
 |VENARI INTEL FEED|Intel Feed|https://t.me/venarix|
 |0xSI_f33d|Feed for Phishing and malware campaigns targeting Portuguese citizens|https://feed.seguranca-informatica.pt/|
 |HaveIbeenRansom (HIBR)| Like HaveIbeenPwned but focus on ransomware leaks, you can check if your PII or your company have been leaked by ransomgang |https://haveibeenransom.com|
+|THREATCLUSTER|API for ransomware/extortion leak-site victims (free key, filters by sector, country and group)|https://threatcluster.io/about/dark-web-api|
+|FALCONFEEDS|Dark web and Telegram threat feed, free tier with Telegram bot alerts|https://falconfeeds.io|

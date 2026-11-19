@@ -273,6 +273,7 @@
 |[HANDALA](http://www.handala-team.to)|ONLINE||||
 |[HANDALA](http://handala-hack.ps)|ONLINE||||
 |[HANDALA REDWANTED](http://handala-redwanted.ps)|ONLINE||||
+|[HANDSOME BOY HACKING CLUB](http://copqdofcqjngdtugmxpannsh277t4pyngqkrcja636tnyhqbhucxnmid.onion)|ONLINE||contacthbhc@protonmail.com||
 |[HARON](http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/blog.php)|OFFLINE|Chaddadgroup:Chaddadgroup|||
 |[HELIX](http://helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion/leaks)|ONLINE||||
 |[HELLDOWN](http://onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion)|OFFLINE||19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E||

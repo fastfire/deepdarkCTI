@@ -197,6 +197,7 @@
 | [INCIDIOUS](https://incidious.se)                                                                                                          | ONLINE           |                                  |
 | [INFECTED ZONE](https://infected-zone.com)                                                                                                 | ONLINE           |                                  |
 | [INFINITY](https://infinity.ink)                                                                                                           | ONLINE           |                                  |
+| [INTELFORUMS](https://intelforums.cc)                                                                                                      | ONLINE           |                                  |
 | [ITALIAN DARKNET COMMUNITY 3.0 (Dark)](http://dhri7ogvfpnflpkj3sc5x7umjl4gd26bkukzotbwdy76yjp5qvhjzmqd.onion)                              | OFFLINE          |                                  |
 | [KCC](http://kcc.cat)                                                                                                                      | ONLINE           |                                  |
 | [KICKASS](http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion)                                                           | ONLINE           |                                  |

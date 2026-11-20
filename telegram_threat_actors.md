@@ -1092,3 +1092,5 @@
 |https://t.me/+IXLNLLsXEg83OGUx|VALID|NoName057(16) - IT||
 |https://t.me/+EAXSh4Lu20cwMzRh|VALID|NoName057(16) - RU||
 |https://t.me/V3lV3tTeam|ONLINE|Velvet Team||
+|https://t.me/forumnoxcommunity|ONLINE|Forum Nox commmunity||
+|https://t.me/forumnoxannouncements|ONLINE|Forum Nox announcements||

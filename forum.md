@@ -173,6 +173,8 @@
 | [EXPLOITS.WS](https://exploits.ws)                                                                                                         | ONLINE           |                                  |
 | [EZCARDER](https://ezcarder.is/)                                                                                                           | ONLINE           |                                  |
 | [FEMBOYFORUM](https://femboyforum.com/)                                                                                                    | ONLINE           |                                  |
+| [FORUMNOX (Deep)](https://forumnox.com)                                                                                                    | ONLINE           | [Telegram community](https://t.me/forumnoxcommunity), [Telegram announcements](https://t.me/forumnoxannouncements), [X](https://x.com/forumnox) |
+| [FORUMNOX (Dark)](http://tyoeevaqn6alon623bfm7r4e7z3so54ky6uvbqkza3fyun7g4cm24hyd.onion/)                                                  | ONLINE           |                                  |
 | [FORUMTEAM.ONLINE](https://forumteam.online)                                                                                               | ONLINE           |                                  |
 | [FORUMTEAM.TOP](https://forumteam.top)                                                                                                     | ONLINE           |                                  |
 | [FSSQUAD](https://fssquad.com)                                                                                                             | OFFLINE          |                                  |

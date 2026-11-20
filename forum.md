@@ -274,8 +274,8 @@
 | [RAID FORUMS 2](https://raidforums2.com)                                                                                                   | OFFLINE          |                                  |
 | [RAID FORUMS TWO](https://raidforumstwo.com)                                                                                               | OFFLINE          |                                  |
 | [RAMBLE](http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion)                                                            | ONLINE           |                                  |
-| [RAMP (Dark)](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion)                                                       | ONLINE           |                                  |
-| [RAMP (Deep)](https://ramp4u.io)                                                                                                           | ONLINE           |                                  |
+| [RAMP (Dark)](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion)                                                       | OFFLINE           |                                  |
+| [RAMP (Deep)](https://ramp4u.io)                                                                                                           | OFFLINE           |                                  |
 | [RAMP (Old)](http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion)                                                        | OFFLINE          |                                  |
 | [RAMP (Old)](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion)                                                        | OFFLINE          |                                  |
 | [RANSOMED](http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion)                                                          | ONLINE           |                                  |

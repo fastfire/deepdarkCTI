@@ -259,6 +259,7 @@
 |[GOODWILL (Dashboard)](http://9855-13-235-50-147.ngrok.io)|OFFLINE||||
 |[GRIEF](http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion)|OFFLINE||||
 |[GROOVE](http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion)|OFFLINE||||
+|[GPT LOCK](http://agznlsyqig44nihyodfjay3fnk33ktjduynv2kwcbsm5nbyarc42q4ad.onion)|ONLINE||||
 |[GUNRA](http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion)|ONLINE||||
 |[GUNRA](http://tgsst34i6z4mwdj2kpigixxb3k3xfz7xhuqnsowvfvyu3snm6nv4s5ad.onion)|ONLINE||||
 |[GUNRA](http://myeli53ogsryjg2kob4xqxtwkr5oc5zj7jr5fcfizpytwe566k5thxyd.onion)|ONLINE||||

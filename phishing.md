@@ -19,3 +19,4 @@
 |[urlDNA.io](https://urldna.io/)| ONLINE | |
 |[StalkPhish.io](https://www.stalkphish.io/)| ONLINE | |
 |[DomainHunter](https://domainhunter.pro/)| ONLINE | |
+|[NetAPI Compromised Domains](https://netapi.com/compromised-urls/)| ONLINE | Free list of phishing and malware domains, found by NetAPI's detection over all zone files (CC BY 4.0) |

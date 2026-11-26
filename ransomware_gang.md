@@ -500,6 +500,7 @@
 |[OROVA](http://mll5ddmdzgiq2siv3qnocmmqyiigfpajtc663xtf32qtp6weycyx2hyd.onion)|ONLINE||||
 |[OSIRIS PROJECT](https://osirisbm3357xrccnid23nlyuqwzbgqheaei6dxvyi34tbkqr3bmvfid.onion)|ONLINE||||
 |[OSIRIS PROJECT](https://ausare.net/app/news)|ONLINE||||
+|[OSIRIS](http://osiris3cis6yty3tv3itsqw5ks6ovhqursfezkogmtian47synembtad.onion|ONLINE||Tox 0C0DA11B968A62B5C51D509A863F9D7CC3E93E849B68DA0D6B293F6317C39545FFEB2D816F43 - Session 05a3822ca6625750b845f2c19ba41f0a2dc18017a41e4c258f199063f50e67c919||
 |[OX THIEF](http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
 |[PANDORA](http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion)|OFFLINE||||
 |[PANZER](https://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion)|ONLINE||||

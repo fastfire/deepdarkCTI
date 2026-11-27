@@ -1033,7 +1033,7 @@
 |https://t.me/ShadowClawz404v2|ONLINE|Shadow Clawz 404 - v.2|DDoS|
 |https://t.me/jacuzszi|OFFLINE|The Jacuzzi New Era||
 |https://t.me/team1914_backup|ONLINE|Team1914_backup|DDoS|
-|https://t.me/+y58X1DJL5DdmZTNi|ONLINE|Team1914_official_Chat|DDoS|
+|https://t.me/team1914_official|ONLINE|Team1914_official_Chat|DDoS|
 |https://t.me/+5Q-AbruRPvs1ODg1|VALID|Team1914_official|DDoS|
 |https://t.me/xServerKillersx|ONLINE|Server Killers||
 |https://t.me/raidbinchat|ONLINE|RaidBin||
@@ -1094,3 +1094,4 @@
 |https://t.me/V3lV3tTeam|ONLINE|Velvet Team||
 |https://t.me/forumnoxcommunity|ONLINE|Forum Nox commmunity||
 |https://t.me/forumnoxannouncements|ONLINE|Forum Nox announcements||
+|https://t.me/+49cZBMi4e605ZmJi|VALID|team1914_ru|DDoS|

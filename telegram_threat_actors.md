@@ -1086,12 +1086,18 @@
 |https://t.me/Cyb3rAvengers|ONLINE|CyberAv3ngers||
 |https://t.me/wiped404|ONLINE|Wiped|DDoS|
 |https://t.me/+jwNpFQT7WMw5Mjg0|VALID|DDoSia Project||
-|https://t.me/+1QpgQXid7A85NWRh|VALID|NoName057(16) eng vers||
-|https://t.me/+tFkAL9_LZYRjZTNh|VALID|NoName057(16) - DE||
-|https://t.me/+-ojdpM4FCPA1MzAx|VALID|NoName057(16) - ES||
-|https://t.me/+IXLNLLsXEg83OGUx|VALID|NoName057(16) - IT||
-|https://t.me/+EAXSh4Lu20cwMzRh|VALID|NoName057(16) - RU||
+|https://t.me/+1QpgQXid7A85NWRh|NOT VALID|NoName057(16) eng vers||
+|https://t.me/+tFkAL9_LZYRjZTNh|NOT VALID|NoName057(16) - DE||
+|https://t.me/+-ojdpM4FCPA1MzAx|NOT VALID|NoName057(16) - ES||
+|https://t.me/+IXLNLLsXEg83OGUx|NOT VALID|NoName057(16) - IT||
+|https://t.me/+EAXSh4Lu20cwMzRh|NOT VALID|NoName057(16) - RU||
 |https://t.me/V3lV3tTeam|ONLINE|Velvet Team||
 |https://t.me/forumnoxcommunity|ONLINE|Forum Nox commmunity||
 |https://t.me/forumnoxannouncements|ONLINE|Forum Nox announcements||
 |https://t.me/+49cZBMi4e605ZmJi|VALID|team1914_ru|DDoS|
+|https://t.me/+ye4j_c5d3WNiMjky|VALID|NoName057(16) eng vers||
+|https://t.me/+L6MrKnau6XoyY2Q1|VALID|NoName057(16) - DE||
+|https://t.me/+-LnbBPs3xMo0ZWQ0|VALID|NoName057(16) - ES||
+|https://t.me/+lmmAJ5BGCn9lMWJl|VALID|NoName057(16) - IT||
+|https://t.me/+eb5QyBumgG4xOGU9|VALID|NoName057(16) - RU||
+|https://t.me/+dfsmbbuDp4s5YzJk|VALID|NoName057(16) - FR||

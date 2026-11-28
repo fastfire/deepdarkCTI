@@ -96,6 +96,7 @@
 |[BLACKBYTE (5)](http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion)|ONLINE||||
 |[BLACKBYTE (6)](http://53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion)|ONLINE||||
 |[BLACKBYTE (7)](http://dounczge5jhw4iztnnpzp54kd4ot3tikhjsimurtcewqssgye6vvrhqd.onion)|ONLINE||||
+|[BLACK-ERIS](http://erisnstxe5jcprkygyznvvftzoqi2cz6dk2sibjxwz4jia6cafzfn3ad.onion)|ONLINE||03EC77AC7B84488DAF24A10441CBEC37D0632CB3D0CAA16B495CA4619CBF3F6730FA3ABE2D45||
 |[BLACKLOCKS](http://ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion)|ONLINE||||
 |[BLACKMATTER](http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion)|OFFLINE||||
 |[BLACKMATTER Support](http://supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion/EWX33VYY3IGOXSG5ZZ2)|OFFLINE||||
